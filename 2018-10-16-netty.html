@@ -1,0 +1,183 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>使用Netty开发高性能的网络服务应用 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-netty" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2018-10-16-netty.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2018-10-16T12:48:43.000Z" itemprop="datePublished">2018-10-16</time></a><div class="article-category"><a class="article-category-link" href="/categories/Back-end/">Back-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/HTTP/" rel="tag">HTTP</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Netty/" rel="tag">Netty</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">使用Netty开发高性能的网络服务应用</h1></header><div class="article-entry" itemprop="articleBody"><p><img src="https://issues.jboss.org/secure/attachment/12345694/netty_logo_600px.png" alt="Netty"></p><blockquote><p>Netty是一个基于异步NIO（non-blocking IO）模型的，事件驱动的网络应用程序框架。</p></blockquote><blockquote><p>不同于传统阻塞IO，非阻塞IO通常使用更少的线程，从而提高并发性能。</p></blockquote><blockquote><p>Netty的灵活设计使得它能够开发几乎所有基于二进制流、文本应用协议的Web应用</p></blockquote><p>这篇文章将简单介绍如何使用Netty开发一个HTTP服务器</p><a id="more"></a><h2 id="导入Netty"><a href="#导入Netty" class="headerlink" title="导入Netty"></a>导入Netty</h2><p>这里使用Gradle导入4.1.30.Final版本</p><pre><code class="json">dependencies {
+    compile &quot;io.netty:netty-all:4.1.30.Final&quot;
+}</code></pre><h2 id="编写服务器"><a href="#编写服务器" class="headerlink" title="编写服务器"></a>编写服务器</h2><pre><code class="kotlin">class Server(val port: Int) {
+
+    @Throws(Exception::class)
+    fun run() {
+        val bossGroup = NioEventLoopGroup(1)
+        val workerGroup = NioEventLoopGroup()
+        try {
+            val b = ServerBootstrap()
+            b.group(bossGroup, workerGroup)
+                    .channel(NioServerSocketChannel::class.java)
+                    .handler(LoggingHandler(LogLevel.INFO))
+                    .childHandler(ServerInitializer())
+            val ch = b.bind(port).sync().channel()
+            println(&quot;server start on $port&quot;)
+            ch.closeFuture().sync()
+        } finally {
+            bossGroup.shutdownGracefully()
+            workerGroup.shutdownGracefully()
+        }
+    }
+}</code></pre><ul><li>这里<code>bossGroup</code>是用来接受连接的父线程池，可以是单线程，也可以是多线程（推荐是CPU核心数的倍数）</li><li>因为<code>bossGroup</code>接受连接后会立即返回，不会阻塞，所以即使单线程也能够处理并发（类似Node.JS）</li><li><code>workerGroup</code>是工作线程</li><li><code>channel()</code>设置构建NIO Channel的类型</li><li><code>handle()</code>和<code>childHandle()</code>分别设置主处理，和子处理对象</li></ul><h2 id="配置子处理流程"><a href="#配置子处理流程" class="headerlink" title="配置子处理流程"></a>配置子处理流程</h2><pre><code class="kotlin">class ServerInitializer : ChannelInitializer&lt;SocketChannel&gt;() {
+    override fun initChannel(ch: SocketChannel) {
+        val p = ch.pipeline()
+        p.addLast(HttpRequestDecoder())
+        // Uncomment the following line if you don&#39;t want to handle HttpChunks.
+        //p.addLast(new HttpObjectAggregator(1048576));
+        p.addLast(HttpResponseEncoder())
+        // Remove the following line if you don&#39;t want automatic content compression.
+        //p.addLast(new HttpContentCompressor());
+        p.addLast(HttpServerHandler())
+    }
+
+}</code></pre><ul><li>Netty自带了很多的编解码器，上面的<code>HttpRequestDecoder</code>和<code>HttpResponseEncoder</code>用于HTTP协议的编解码</li><li>经过编解码后我们的<code>HttpServerHandler</code>将会实际处理HTTP请求</li></ul><h2 id="处理HTTP请求"><a href="#处理HTTP请求" class="headerlink" title="处理HTTP请求"></a>处理HTTP请求</h2><pre><code class="kotlin">class HttpServerHandler : SimpleChannelInboundHandler&lt;Any&gt;() {
+
+    val sb = StringBuilder()
+
+    lateinit var request: HttpRequest
+
+    override fun channelRead0(ctx: ChannelHandlerContext, msg: Any) {
+        if (msg is HttpRequest) {
+            if (HttpUtil.is100ContinueExpected(msg)) {
+                ctx.write(DefaultFullHttpResponse(HttpVersion.HTTP_1_1, HttpResponseStatus.CONTINUE))
+            }
+            request = msg
+
+
+            sb.setLength(0)
+
+            sb.append(&quot;Welcome\r\n&quot;)
+            sb.append(&quot;=====================\r\n&quot;)
+            sb.append(&quot;VERSION: &quot;).append(msg.protocolVersion()).append(&quot;\r\n&quot;)
+            sb.append(&quot;HOSTNAME: &quot;).append(msg.headers().get(HttpHeaderNames.HOST, &quot;unknown&quot;)).append(&quot;\r\n&quot;)
+            sb.append(&quot;REQUEST_URI: &quot;).append(msg.uri()).append(&quot;\r\n\r\n&quot;)
+
+            val headers = msg.headers()
+            if (!headers.isEmpty) {
+                for (h in headers) {
+                    sb.append(&quot;HEADER: &quot;).append(h.key).append(&quot; = &quot;).append(h.value).append(&quot;\r\n&quot;)
+                }
+                sb.append(&quot;\r\n&quot;)
+            }
+
+            val queryStringDecoder = QueryStringDecoder(msg.uri())
+            val params = queryStringDecoder.parameters()
+            if (!params.isEmpty()) {
+                for (p in params) {
+                    val vals = p.value
+                    for (value in vals) {
+                        sb.append(&quot;PARAM: &quot;).append(p.key).append(&quot; = &quot;).append(value).append(&quot;\r\n&quot;)
+                    }
+                }
+                sb.append(&quot;\r\n&quot;)
+            }
+
+            appendDecoderResult(sb, msg)
+        }
+
+        if (msg is HttpContent) {
+            val content = msg.content()
+
+            if (content.isReadable) {
+                sb.append(&quot;CONTENT: &quot;)
+                sb.append(content.toString(CharsetUtil.UTF_8))
+                sb.append(&quot;\r\n&quot;)
+                appendDecoderResult(sb, msg)
+            }
+
+            if (msg is LastHttpContent) {
+                sb.append(&quot;END OF CONTENT\r\n&quot;)
+
+                if (!msg.trailingHeaders().isEmpty) {
+                    sb.append(&quot;\r\n&quot;)
+                    for (name in msg.trailingHeaders().names()) {
+                        for (value in msg.trailingHeaders().getAll(name)) {
+                            sb.append(&quot;TRAILING HEADER: &quot;)
+                            sb.append(name).append(&quot; = &quot;).append(value).append(&quot;\r\n&quot;)
+                        }
+                    }
+                    sb.append(&quot;\r\n&quot;)
+                }
+
+                // Decide whether to close the connection or not.
+                if (writeResponse(msg, ctx)) {
+                    // If keep-alive is off, close the connection once the content is fully written.
+                    ctx.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE)
+                }
+            }
+        }
+
+    }
+
+    override fun channelReadComplete(ctx: ChannelHandlerContext) {
+        ctx.flush()
+    }
+
+    private fun writeResponse(currentObj: HttpObject, ctx: ChannelHandlerContext): Boolean {
+        val keepAlive = HttpUtil.isKeepAlive(request)
+        // Build the response object.
+        val status = if (currentObj.decoderResult().isSuccess) {
+            HttpResponseStatus.OK
+        } else {
+            HttpResponseStatus.BAD_REQUEST
+        }
+        val response = DefaultFullHttpResponse(
+                HttpVersion.HTTP_1_1, status,
+                Unpooled.copiedBuffer(sb.toString(), CharsetUtil.UTF_8))
+
+        response.headers().set(HttpHeaderNames.CONTENT_TYPE, &quot;${HttpHeaderValues.TEXT_PLAIN}; charset=UTF-8&quot;)
+
+        if (keepAlive) {
+            // Add &#39;Content-Length&#39; header only for a keep-alive connection.
+            response.headers().setInt(HttpHeaderNames.CONTENT_LENGTH, response.content().readableBytes())
+            // Add keep alive header as per:
+            // - http://www.w3.org/Protocols/HTTP/1.1/draft-ietf-http-v11-spec-01.html#Connection
+            response.headers().set(HttpHeaderNames.CONNECTION, HttpHeaderValues.KEEP_ALIVE)
+        }
+        // Encode the cookie.
+        val cookieString = request.headers().get(HttpHeaderNames.COOKIE)
+        if (cookieString != null) {
+            val cookies = ServerCookieDecoder.STRICT.decode(cookieString)
+            if (!cookies.isEmpty()) {
+                // Reset the cookies if necessary.
+                for (cookie in cookies) {
+                    response.headers().add(HttpHeaderNames.SET_COOKIE, ServerCookieEncoder.STRICT.encode(cookie))
+
+                }
+
+            }
+
+        } else {
+            // Browser sent no cookie.  Add some.
+            response.headers().add(HttpHeaderNames.SET_COOKIE, ServerCookieEncoder.STRICT.encode(&quot;key1&quot;, &quot;value1&quot;));
+            response.headers().add(HttpHeaderNames.SET_COOKIE, ServerCookieEncoder.STRICT.encode(&quot;key2&quot;, &quot;value2&quot;));
+
+        }
+
+        // Write the response.
+        ctx.write(response)
+
+        return keepAlive
+    }
+
+
+    override fun exceptionCaught(ctx: ChannelHandlerContext, cause: Throwable) {
+        cause.printStackTrace()
+        ctx.close()
+    }
+
+    companion object {
+        fun appendDecoderResult(sb: StringBuilder, httpObj: HttpObject) {
+            val result = httpObj.decoderResult()
+            if (result.isSuccess) {
+                return
+            }
+
+            sb.append(&quot;.. WITH DECODER FAILURE: &quot;)
+            sb.append(result.cause())
+            sb.append(&quot;\r\n&quot;)
+        }
+    }
+}</code></pre><ul><li>如果构造流程时没有使用<code>HttpObjectAggregator</code>类，<code>channelRead()</code>会调用很多次，每次传入的对象为<code>HttpRequest</code>，<code>HttpContent</code>,<code>LastHttpContent</code>的子类，他们分别有方法可以读取到HTTP请求的内容。</li></ul><p>以上，转载请联系作者!</p></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2018-10-23-netty_function.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">使用Netty和阿里云函数写一个低成本的“梯子”</div></a></div><div class="article-nav-right"><a href="/2018-07-20-web_flux.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">理解Spring WebFlux框架中的响应式类型</div></a></div></nav><div id="comments"><wycode-comments path="2018-10-16-netty.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

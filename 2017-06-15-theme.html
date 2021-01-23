@@ -1,0 +1,92 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>自定义Hexo主题 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-theme" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2017-06-15-theme.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2017-06-15T12:47:36.000Z" itemprop="datePublished">2017-06-15</time></a><div class="article-category"><a class="article-category-link" href="/categories/Front-end/">Front-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Bootstrap/" rel="tag">Bootstrap</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/HTML/" rel="tag">HTML</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">自定义Hexo主题</h1></header><div class="article-entry" itemprop="articleBody"><blockquote><p>刚刚完成了Hexo博客主题的自定义，现在总结如下，让我们一起来看看如何打造一款属于自己的Hexo主题。</p></blockquote><p>如何创建一个新主题以及如何切换主题在官网的<a href="https://hexo.io/zh-cn/docs/themes.html" target="_blank" rel="noopener" title="doc">doc</a>中有说明，这里我们只讨论如何打造一个新的属于自己的模版。</p><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><blockquote><p>Hexo使用了<strong>模版</strong>进行渲染的方式来实现网页风格的自定义。其核心是一种嵌套、引用的风格实现对网页内容模块化管理。所以我也采取从外向里，抽丝剥茧，剥洋葱式的一层层展开来看其中的原理及如何去自定义。此文需要基本的HTML知识。</p></blockquote><a id="more"></a><h2 id="模版文件"><a href="#模版文件" class="headerlink" title="模版文件"></a>模版文件</h2><p>所有的模版文件都放置在<code>layout</code>文件夹中，所有用到的资源（CSS，JavaScript，图片等）都放置在<code>source</code>文件夹中。</p><p>模版的根入口文件是<code>layout</code>下的<code>layout.ejs</code>文件。</p><blockquote><p>这里的<code>.ejs</code>是模版采用的引擎，除了EJS，还有Haml和Jade，我大概看过Jade，比EJS更简洁，EJS更像HTML，我自己选择了EJS，原因是无需新学规则，还有就是官方提供的<code>landscape</code>也是采用的EJS，我的模版就是根据官方的<code>landscape</code>修改而来。</p></blockquote><h2 id="layout-ejs"><a href="#layout-ejs" class="headerlink" title="layout.ejs"></a>layout.ejs</h2><p>我们先来看看这个<code>layout.ejs</code>的内容：</p><pre><code class="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;%- partial(&#39;_partial/head&#39;) %&gt;
+&lt;body&gt;
+&lt;%- partial(&#39;_partial/wycode-nav&#39;) %&gt;
+&lt;%- partial(&#39;_partial/blog-nav&#39;) %&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;content&quot;&gt;&lt;%- body %&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;%- partial(&#39;_partial/footer&#39;, null, {cache: !config.relative_link}) %&gt;
+&lt;%- partial(&#39;_partial/after-footer&#39;) %&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre><p>可以看到以上就是典型的HTML文件框架。</p><h3 id="重点来了："><a href="#重点来了：" class="headerlink" title="重点来了："></a>重点来了：</h3><p>这里唯一的区别就是多了很多<code>&lt;%- %&gt;</code>，凡是在这个<code>&lt;%- %&gt;</code>里面的部分就是EJS模版的代码部分，而<code>partial(&#39;_partial/head&#39;)</code>的意思就是引用了一个模块，位置是<code>_partial</code>文件夹的<code>head.ejs</code>。</p><h2 id="head-ejs"><a href="#head-ejs" class="headerlink" title="head.ejs"></a>head.ejs</h2><p>然后我们看看这个<code>head.ejs</code>的内容：</p><pre><code class="html">&lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+    &lt;%
+    var title = page.title;
+
+    if (is_archive()) {
+        title = __(&#39;archive_a&#39;);
+
+        if (is_month()) {
+            title += &#39;: &#39; + page.year + &#39;/&#39; + page.month;
+        } else if (is_year()) {
+            title += &#39;: &#39; + page.year;
+        }
+    } else if (is_category()) {
+        title = __(&#39;category&#39;) + &#39;: &#39; + page.category;
+    } else if (is_tag()) {
+        title = __(&#39;tag&#39;) + &#39;: &#39; + page.tag;
+    }
+    %&gt;
+    &lt;title&gt;
+        &lt;% if (title){ %&gt;
+        &lt;%= title %&gt; |
+        &lt;% } %&gt;
+        &lt;%= config.title %&gt;&lt;/title&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1, maximum-scale=1&quot;&gt;
+    &lt;% if (theme.rss){ %&gt;
+    &lt;link rel=&quot;alternate&quot; href=&quot;&lt;%- theme.rss %&gt;&quot; title=&quot;&lt;%= config.title %&gt;&quot; type=&quot;application/atom+xml&quot;&gt;
+    &lt;% } %&gt;
+    &lt;% if (theme.favicon){ %&gt;
+    &lt;link rel=&quot;icon&quot; href=&quot;&lt;%- url_for(theme.favicon) %&gt;&quot;&gt;
+    &lt;% } %&gt;
+    &lt;!-- Bootstrap --&gt;
+    &lt;%- css(&#39;flat/dist/css/vendor/bootstrap.min.css&#39;) %&gt;
+    &lt;%- css(&#39;flat/dist/css/flat-ui.min&#39;) %&gt;
+    &lt;%- css(&#39;font-awesome-4.7.0/css/font-awesome.min&#39;) %&gt;
+    &lt;%- css(&#39;highlight/styles/monokai-sublime&#39;) %&gt;
+    &lt;%- css(&#39;css/blog&#39;) %&gt;
+
+    &lt;!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --&gt;
+    &lt;!-- WARNING: Respond.js doesn&#39;t work if you view the page via file:// --&gt;
+    &lt;!--[if lt IE 9]&gt;
+    &lt;%- js(&#39;flat/dist/js/vendor/html5shiv&#39;) %&gt;
+    &lt;%- js(&#39;flat/dist/js/vendor/respond.min&#39;) %&gt;
+    &lt;![endif]--&gt;
+&lt;/head&gt;</code></pre><p>可以看到这个<code>head.ejs</code>就是HTML中<code>&lt;head&gt;&lt;/head&gt;</code>标签的内容，这里我替换了原有的CSS，使用了<a href="http://www.bootcss.com/" target="_blank" rel="noopener" title="Bootstrap">Bootstrap</a>框架。</p><p>剩下的就是依次类推了。</p><p>附：layout文件结构</p><pre><code>layout
+│  archive.ejs
+│  category.ejs
+│  index.ejs
+│  layout.ejs
+│  page.ejs
+│  post.ejs
+│  tag.ejs
+│
+├─_partial
+│  │  after-footer.ejs
+│  │  archive-post.ejs
+│  │  archive.ejs
+│  │  article.ejs
+│  │  blog-nav.ejs
+│  │  footer.ejs
+│  │  head.ejs
+│  │  sidebar.ejs
+│  │  wycode-nav.ejs
+│  │
+│  └─post
+│          category.ejs
+│          date.ejs
+│          nav.ejs
+│          tag.ejs
+│          title.ejs
+│
+└─_widget
+        archive.ejs
+        category.ejs
+        recent_posts.ejs
+        tag.ejs
+        tagcloud.ejs</code></pre></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2017-06-15-search.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">为Hexo博客添加全文搜索</div></a></div><div class="article-nav-right"><a href="/2017-06-14-highlight.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">为HTML中的代码添加语法高亮</div></a></div></nav><div id="comments"><wycode-comments path="2017-06-15-theme.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

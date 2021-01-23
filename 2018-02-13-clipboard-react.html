@@ -1,0 +1,104 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>用React做一个跨平台剪切板 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-clipboard-react" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2018-02-13-clipboard-react.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2018-02-13T09:55:00.000Z" itemprop="datePublished">2018-02-13</time></a><div class="article-category"><a class="article-category-link" href="/categories/Front-end/">Front-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/" rel="tag">JavaScript</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/React/" rel="tag">React</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">用React做一个跨平台剪切板</h1></header><div class="article-entry" itemprop="articleBody"><p><img src="/images/20180213_react.png" alt="React"></p><blockquote><p>这篇文章我们将用React实现一个跨平台剪切板。</p></blockquote><p>通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。</p><a id="more"></a><h2 id="1-使用create-react-app创建工程"><a href="#1-使用create-react-app创建工程" class="headerlink" title="1.使用create-react-app创建工程"></a>1.使用<code>create-react-app</code>创建工程</h2><pre><code class="bash">npm install -g create-react-app
+create-react-app my-app
+
+cd my-app
+npm start</code></pre><h2 id="2-编写模版"><a href="#2-编写模版" class="headerlink" title="2.编写模版"></a>2.编写模版</h2><pre><code class="html">render() {
+        return (
+            &lt;div&gt;
+                &lt;Header/&gt;
+                &lt;div className=&quot;Clipboard container&quot;&gt;
+                    &lt;input placeholder=&quot;查询码&quot;
+                           type=&quot;number&quot;
+                           className=&quot;input-query-number form-control form-group&quot;
+                           value={this.state.queryNumber &gt; 0 ? this.state.queryNumber : &#39;&#39;}
+                           disabled={this.state.isShowResult}
+                           onChange={this.handleNumberChange}/&gt;
+                    {this.state.isShowResult ? null : &lt;button onClick={this.handleQuery}
+                                                              className=&quot;btn-query btn btn-primary form-control form-group&quot;&gt;查询&lt;/button&gt;}
+
+                    {this.state.isShowResult ? null :
+                        &lt;button onClick={this.handleNew}
+                                className=&quot;btn-new btn btn-primary form-control form-group&quot;&gt;新建&lt;/button&gt;}
+
+                    {this.state.isShowResult ? &lt;textarea onChange={this.handleTextChange} value={this.state.text}
+                                                         className=&quot;textarea-text form-control form-group&quot;/&gt; : null}
+
+                    {this.state.isShowResult ? &lt;button onClick={this.handleSave}
+                                                       className=&quot;btn-save btn btn-success form-control  form-group&quot;&gt;保存&lt;/button&gt; : null}
+                &lt;/div&gt;
+            &lt;/div&gt;
+        );
+    }
+</code></pre><ul><li><code>render()</code>返回的<code>JSX</code>只能有一个组件，当需要多个组件时，需要用一个<code>div</code>包起来；</li><li>这里通过state的自定义属性<code>isShowResult</code>实现对控件的隐藏和显示；</li><li>界面使用Bootstrap框架做移动端适配</li><li>通过<code>onClick={this.handleSave}</code>,<code>onChange={this.handleTextChange}</code>等属性绑定函数，构造函数里还要写<code>this.handleBack = this.handleBack.bind(this);</code></li></ul><h2 id="3-构造方法"><a href="#3-构造方法" class="headerlink" title="3.构造方法"></a>3.构造方法</h2><pre><code class="JavaScript">constructor(props) {
+        super(props);
+        this.state = {
+            queryNumber: -1,
+            isShowResult: false,
+            text: &#39;&#39;
+        };
+
+        this.handleNumberChange = this.handleNumberChange.bind(this);
+        this.handleTextChange = this.handleTextChange.bind(this);
+        this.handleQuery = this.handleQuery.bind(this);
+        this.handleNew = this.handleNew.bind(this);
+        this.handleSave = this.handleSave.bind(this);
+        this.handleBack = this.handleBack.bind(this);
+    }</code></pre><ul><li><code>state</code>中维护了页面状态，这里只需要3个参数：查询码，是否显示查询结果，剪切板文字</li></ul><h2 id="4-逻辑"><a href="#4-逻辑" class="headerlink" title="4.逻辑"></a>4.逻辑</h2><pre><code class="JavaScript"> handleNumberChange(event) {
+        this.setState({queryNumber: event.target.value});
+    }
+
+    handleTextChange(event) {
+        this.setState({text: event.target.value});
+    }
+
+    handleBack(event){
+        this.setState({isShowResult: false});
+    }
+
+    handleQuery(event) {
+        if(this.state.queryNumber&lt;=0){
+            alert(&#39;查询码不正确！&#39;);
+            return
+        }
+        let data = {
+            params: {
+                id: this.state.queryNumber
+            }
+        };
+        axios.get(&#39;https://wycode.cn/web/api/public/clipboard/query&#39;,data)
+            .then((response) =&gt;{
+                if(response.status!==200||response.data.data==null){
+                    throw &#39;查询码不正确！&#39;
+                }
+                this.setState({
+                    isShowResult: true,
+                    queryNumber: response.data.data.id,
+                    text: response.data.data.content
+                })
+            })
+            .catch((error) =&gt; alert(error));
+    }
+
+    handleNew(event) {
+        axios.post(&#39;https://wycode.cn/web/api/public/clipboard/create&#39;)
+            .then((response) =&gt; this.setState({
+                isShowResult: true,
+                queryNumber: response.data.data.id,
+                text: response.data.data.content
+            }))
+            .catch((error) =&gt; alert(error));
+    }
+
+    handleSave(event) {
+        let data = new FormData();
+        data.append(&#39;id&#39;,this.state.queryNumber);
+        data.append(&#39;content&#39;,this.state.text);
+        axios.post(&#39;https://wycode.cn/web/api/public/clipboard/save&#39;,data)
+            .then((response) =&gt; this.setState({
+                isShowResult: false,
+                queryNumber: response.data.data.id,
+                text: response.data.data.content
+            }))
+            .catch((error) =&gt; alert(error));
+    }
+</code></pre><ul><li>使用<code>this.setState({});</code>更改页面状态</li><li>这里使用<code>Axios</code>做网络请求。<code>Axios</code>是一个js网络请求库。</li><li>在网络请求返回函数里 <code>this</code>做作用域是当前对象，会发生错误，使用箭头符=&gt;，即lambda表达式就没有问题。或者在外部创建一个<code>this</code>的引用<code>let that = this;</code></li></ul><p>至此大功告成！访问 <a href="https://wycode.cn/clipboard/">https://wycode.cn/clipboard/</a> 查看示例<br>访问 <a href="https://github.com/wangyucode/React-Learning" target="_blank" rel="noopener">https://github.com/wangyucode/React-Learning</a> 查看完整源码</p></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2018-02-13-clipboard-wechatapp.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">微信小程序入门</div></a></div><div class="article-nav-right"><a href="/2018-01-29-home_deus.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">《未来简史》读书笔记</div></a></div></nav><div id="comments"><wycode-comments path="2018-02-13-clipboard-react.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>SpringBoot工程为SwaggerUI添加认证 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-swagger_auth" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2019-07-19-swagger_auth.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2019-07-19T10:41:44.000Z" itemprop="datePublished">2019-07-19</time></a><div class="article-category"><a class="article-category-link" href="/categories/Back-end/">Back-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Java/" rel="tag">Java</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Kotlin/" rel="tag">Kotlin</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/OAuth/" rel="tag">OAuth</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Spring/" rel="tag">Spring</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Swagger/" rel="tag">Swagger</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">SpringBoot工程为SwaggerUI添加认证</h1></header><div class="article-entry" itemprop="articleBody"><p><img src="https://swagger.io/swagger/media/assets/images/swagger_logo.svg" alt="swagger"></p><p>当API添加了鉴权后，<code>swagger</code>如何进行调试呢，比如需要在请求头<code>header</code>中添加类似<code>token</code>或者<code>Authorization</code>之类的。</p><p>在<code>Spring</code>中进行如下简单的配置就可以了。</p><a id="more"></a><pre><code class="kotlin">@Configuration
+@EnableSwagger2
+class SwaggerConfig {
+
+    @Bean
+    fun generateDocket(): Docket {
+        return Docket(DocumentationType.SWAGGER_2)
+                .select()
+                .apis(RequestHandlerSelectors.withClassAnnotation(Api::class.java))
+                .build()
+                .securityContexts(listOf(securityContext())) // #1
+                .securitySchemes(listOf(apiKey())) // #2
+                .apiInfo(apiInfo())
+    }
+
+    private fun securityContext(): SecurityContext {
+        return SecurityContext.builder()
+                .securityReferences(defaultAuth())
+                .forPaths(PathSelectors.regex(&quot;/api/public/admin/.*&quot;))
+                .build()
+    }
+
+    fun defaultAuth(): List&lt;SecurityReference&gt; {
+        val authorizationScope = AuthorizationScope(&quot;global&quot;, &quot;accessEverything&quot;)
+        val authorizationScopes = arrayOf(authorizationScope)
+        return listOf(SecurityReference(&quot;token&quot;, authorizationScopes))
+    }
+
+
+    fun apiKey(): ApiKey {
+        return ApiKey(&quot;token&quot;, &quot;X-Auth-Token&quot;, &quot;header&quot;)
+    }
+
+
+    private fun apiInfo(): ApiInfo {
+        return ApiInfo(&quot;王郁的API文档&quot;,
+                &quot;用于App测试及独立APP研发&quot;,
+                &quot;2.0&quot;,
+                &quot;http://wycode.cn&quot;,
+                Contact(&quot;王郁&quot;, &quot;wycode.cn&quot;, &quot;wangyu@wycode.cn&quot;),
+                &quot;wycode.cn All Right Reserved&quot;,
+                &quot;https://wycode.cn&quot;,
+                emptyList())
+    }
+}
+</code></pre><p>关键配置就是上面包含#1和#2注释的两行配置</p><ol><li>配置安全上下文，我这里配置了<code>/api/public/admin/.*</code>下的接口需要添加。</li><li>配置鉴权类型，我这里使用<code>ApiKey</code>。</li></ol></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2019-07-25-flutter_web.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">使用Flutter开发Web应用</div></a></div><div class="article-nav-right"><a href="/2019-07-15-spring_error.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">SpringBoot工程自定义错误JSON字段</div></a></div></nav><div id="comments"><wycode-comments path="2019-07-19-swagger_auth.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

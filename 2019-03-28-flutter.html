@@ -1,0 +1,114 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>使用Flutter开发跨平台应用 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-flutter" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2019-03-28-flutter.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2019-03-28T15:14:34.000Z" itemprop="datePublished">2019-03-28</time></a><div class="article-category"><a class="article-category-link" href="/categories/Android/">Android</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Android/" rel="tag">Android</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Dart/" rel="tag">Dart</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Flutter/" rel="tag">Flutter</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/iOS/" rel="tag">iOS</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">使用Flutter开发跨平台应用</h1></header><div class="article-entry" itemprop="articleBody"><p><img src="https://flutter.cn/favicon.ico" alt="Flutter"></p><blockquote><p>Flutter是由Google开发的开源的跨平台应用开发框架，支持Android、iOS开发，能够开发媲美原生的高性能应用。按照2019年的开发路线图，Flutter即将支持Web和桌面端应用的开发。这篇文章带你领略Flutter的魅力。</p></blockquote><a id="more"></a><p><a href="https://flutter.dev/" target="_blank" rel="noopener" title="Flutter官网">Flutter官网</a></p><h2 id="已经有ReactNative了，为什么还要Flutter"><a href="#已经有ReactNative了，为什么还要Flutter" class="headerlink" title="已经有ReactNative了，为什么还要Flutter"></a>已经有ReactNative了，为什么还要Flutter</h2><p>ReactNative已经能够做到使用一份JavaScript代码同时发布Android和iOS平台。而且其并不使用WebView，而是将React组件转换为相应的原生组件从而提高性能。</p><p>ReactNative技术看起来很美好，因为对公司而言，并不需要很多的Android和iOS开发，只需要一两个技术支持，其它业务代码都是由前端工程师完成，节约了成本（？）提高了效率（？）。</p><p>然而，最近越来越多的公司开始放弃ReactNative而回归到原生开发，原因在于，当ReactNative实际应用到大型项目上时，面对复杂的、定制化的需求，其自带封装好的组件往往不能满足要求。为了满足这些需求，往往需要原生开发去定制相应的React组件。或者为JS提供接口。原生很简单就能实现的功能，因为要跨平台，所以必须抽象出来给React使用。此时React带来的收益和成本相比不再显得有优势了。</p><p>Flutter的优势在于，它完全抛弃了使用原生UI，而是从底层2D渲染就独立出来。使用了Google开发的叫<code>Skia</code>的C++渲染库。类似于游戏引擎一样，能够提供60FPS的性能。上层使用<code>Dart</code>提供了一套现代的响应式布局框架。抛弃了原生组件，同时也就免去了原生组件的定制。定制UI也是在Flutter框架的范围内，不涉及原生开发。</p><p>这就是Flutter的魅力所在。</p><h2 id="Flutter技术架构"><a href="#Flutter技术架构" class="headerlink" title="Flutter技术架构"></a>Flutter技术架构</h2><p><img src="https://flutter.cn/images/arch-overview/archdiagram.png" alt="Flutter技术架构"></p><h2 id="关于环境搭建"><a href="#关于环境搭建" class="headerlink" title="关于环境搭建"></a>关于环境搭建</h2><p>环境搭建官网都有说明，我这里不再赘述，需要注意的是，下载并配置好Flutter之后，要执行一个<code>flutter doctor</code>的命令，这个命令会检查本地环境，在线安装所需要的组件。由于众所周知的原因，国内使用我们需要额外配置两个类似仓库镜像的环境变量：</p><pre><code class="bash">$ export PUB_HOSTED_URL=https://pub.flutter-io.cn
+$ export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn</code></pre><p>然后再执行<code>flutter doctor</code>就能快一点了。</p><h2 id="Hello-Flutter"><a href="#Hello-Flutter" class="headerlink" title="Hello Flutter"></a>Hello Flutter</h2><p>创建好第一个Flutter工程后，模版代码注释非常详细，Android部分看到只有一个Activity继承自FlutterActivity，用代理模式，接管了这个Activity的所有生命周期和事件回调。这些和Unity，ReactNative的原理都一样。以下是<code>Dart</code>部分的代码：</p><pre><code class="dart">import &#39;package:flutter/material.dart&#39;;
+
+void main() =&gt; runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: &#39;Flutter Demo&#39;,
+      theme: ThemeData(
+        // This is the theme of your application.
+        //
+        // Try running your application with &quot;flutter run&quot;. You&#39;ll see the
+        // application has a blue toolbar. Then, without quitting the app, try
+        // changing the primarySwatch below to Colors.green and then invoke
+        // &quot;hot reload&quot; (press &quot;r&quot; in the console where you ran &quot;flutter run&quot;,
+        // or simply save your changes to &quot;hot reload&quot; in a Flutter IDE).
+        // Notice that the counter didn&#39;t reset back to zero; the application
+        // is not restarted.
+        primarySwatch: Colors.blue,
+      ),
+      home: MyHomePage(title: &#39;Flutter Demo Home Page&#39;),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  MyHomePage({Key key, this.title}) : super(key: key);
+
+  // This widget is the home page of your application. It is stateful, meaning
+  // that it has a State object (defined below) that contains fields that affect
+  // how it looks.
+
+  // This class is the configuration for the state. It holds the values (in this
+  // case the title) provided by the parent (in this case the App widget) and
+  // used by the build method of the State. Fields in a Widget subclass are
+  // always marked &quot;final&quot;.
+
+  final String title;
+
+  @override
+  _MyHomePageState createState() =&gt; _MyHomePageState();
+}
+
+class _MyHomePageState extends State&lt;MyHomePage&gt; {
+  int _counter = 0;
+
+  void _incrementCounter() {
+    setState(() {
+      // This call to setState tells the Flutter framework that something has
+      // changed in this State, which causes it to rerun the build method below
+      // so that the display can reflect the updated values. If we changed
+      // _counter without calling setState(), then the build method would not be
+      // called again, and so nothing would appear to happen.
+      _counter++;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    // This method is rerun every time setState is called, for instance as done
+    // by the _incrementCounter method above.
+    //
+    // The Flutter framework has been optimized to make rerunning build methods
+    // fast, so that you can just rebuild anything that needs updating rather
+    // than having to individually change instances of widgets.
+    return Scaffold(
+      appBar: AppBar(
+        // Here we take the value from the MyHomePage object that was created by
+        // the App.build method, and use it to set our appbar title.
+        title: Text(widget.title),
+      ),
+      body: Center(
+        // Center is a layout widget. It takes a single child and positions it
+        // in the middle of the parent.
+        child: Column(
+          // Column is also layout widget. It takes a list of children and
+          // arranges them vertically. By default, it sizes itself to fit its
+          // children horizontally, and tries to be as tall as its parent.
+          //
+          // Invoke &quot;debug painting&quot; (press &quot;p&quot; in the console, choose the
+          // &quot;Toggle Debug Paint&quot; action from the Flutter Inspector in Android
+          // Studio, or the &quot;Toggle Debug Paint&quot; command in Visual Studio Code)
+          // to see the wireframe for each widget.
+          //
+          // Column has various properties to control how it sizes itself and
+          // how it positions its children. Here we use mainAxisAlignment to
+          // center the children vertically; the main axis here is the vertical
+          // axis because Columns are vertical (the cross axis would be
+          // horizontal).
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: &lt;Widget&gt;[
+            Text(
+              &#39;You have pushed the button this many times:&#39;,
+            ),
+            Text(
+              &#39;$_counter&#39;,
+              style: Theme.of(context).textTheme.display1,
+            ),
+          ],
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: _incrementCounter,
+        tooltip: &#39;Increment&#39;,
+        child: Icon(Icons.add),
+      ), // This trailing comma makes auto-formatting nicer for build methods.
+    );
+  }
+}
+
+</code></pre></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2019-05-17-nginx-redirect.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">NGINX配置重定向</div></a></div><div class="article-nav-right"><a href="/2018-10-23-netty_function.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">使用Netty和阿里云函数写一个低成本的“梯子”</div></a></div></nav><div id="comments"><wycode-comments path="2019-03-28-flutter.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

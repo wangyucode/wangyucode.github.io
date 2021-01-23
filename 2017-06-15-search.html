@@ -1,0 +1,137 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>为Hexo博客添加全文搜索 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-search" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2017-06-15-search.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2017-06-15T15:20:55.000Z" itemprop="datePublished">2017-06-15</time></a><div class="article-category"><a class="article-category-link" href="/categories/Front-end/">Front-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Ajax/" rel="tag">Ajax</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Bootstrap/" rel="tag">Bootstrap</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/XML/" rel="tag">XML</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/jQuery/" rel="tag">jQuery</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">为Hexo博客添加全文搜索</h1></header><div class="article-entry" itemprop="articleBody"><blockquote><p>本文介绍如何利用<code>hexo-generator-search</code>插件为Hexo博客添加本地全文搜索</p></blockquote><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><p><code>hexo-generator-search</code>实际上是根据网页内容生成了一个数据文件，格式是<code>XML</code>或者<code>JSON</code>。然后通过JS代码去匹配这个文件的内容，从而达到搜索的目的。</p><h2 id="最终效果"><a href="#最终效果" class="headerlink" title="最终效果"></a>最终效果</h2><p><img src="/images/20170616_search_01.png" alt="最终效果" title="最终效果"></p><a id="more"></a><h2 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h2><h3 id="安装-hexo-generator-search"><a href="#安装-hexo-generator-search" class="headerlink" title="安装 hexo-generator-search"></a>安装 hexo-generator-search</h3><pre><code class="bash">$ npm install hexo-generator-search --save</code></pre><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>在<code>_config.yml</code>中添加</p><pre><code class="yaml">search:
+  path: search.xml
+  field: post</code></pre><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><p>再次生成博客，就会发现<code>public</code>根目录下多了<code>search.xml</code>文件。</p><h3 id="写一个搜索框："><a href="#写一个搜索框：" class="headerlink" title="写一个搜索框："></a>写一个搜索框：</h3><p>使用<code>Bootstrap</code>框架的<code>modal</code>应该是极好的。<br>修改Hexo主题，（对此不了解的可以查看我的自定义Hexo主题的相关内容），在<code>layout.ejs</code>中添加一个modal：</p><pre><code class="html">&lt;%- partial(&#39;_partial/search-modal&#39;) %&gt;</code></pre><blockquote><p>根据Bootstrap文档，modal需要尽量作为 body 标签的直接子元素。</p></blockquote><p><code>search-modal.ejs</code>的代码如下：</p><pre><code class="html">&lt;div class=&quot;modal fade&quot; id=&quot;searchModal&quot;&gt;
+    &lt;div class=&quot;modal-dialog modal-lg&quot; role=&quot;document&quot;&gt;
+        &lt;div class=&quot;modal-content&quot;&gt;
+            &lt;div class=&quot;modal-body&quot;&gt;
+                &lt;i class=&quot;fa fa-search&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 搜索
+                &lt;input type=&quot;text&quot; class=&quot;form-control&quot; id=&quot;searchInput&quot; placeholder=&quot;Keyword&quot;&gt;
+                &lt;div class=&quot;search-content&quot; id=&quot;searchResult&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</code></pre><blockquote><p>链接加上<code>data-toggle=&quot;modal&quot; href=&quot;#searchModal&quot;</code>属性即可实现modal的展开</p></blockquote><h3 id="搜索代码："><a href="#搜索代码：" class="headerlink" title="搜索代码："></a>搜索代码：</h3><pre><code class="javascript">// A local search script with the help of [hexo-generator-search](https://github.com/PaicHyperionDev/hexo-generator-search)
+// Copyright (C) 2015
+// Joseph Pan &lt;http://github.com/wzpan&gt;
+// Shuhao Mao &lt;http://github.com/maoshuhao&gt;
+// This library is free software; you can redistribute it and/or modify
+// it under the terms of the GNU Lesser General Public License as
+// published by the Free Software Foundation; either version 2.1 of the
+// License, or (at your option) any later version.
+//
+// This library is distributed in the hope that it will be useful, but
+// WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+// Lesser General Public License for more details.
+//
+// You should have received a copy of the GNU Lesser General Public
+// License along with this library; if not, write to the Free Software
+// Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+// 02110-1301 USA
+//
+
+var searchFunc = function(path, search_id, content_id) {
+    &#39;use strict&#39;;
+    $.ajax({
+        url: path,
+        dataType: &quot;xml&quot;,
+        success: function( xmlResponse ) {
+            // get the contents from search data
+            var datas = $( &quot;entry&quot;, xmlResponse ).map(function() {
+                return {
+                    title: $( &quot;title&quot;, this ).text(),
+                    content: $(&quot;content&quot;,this).text(),
+                    url: $( &quot;url&quot; , this).text()
+                };
+            }).get();
+
+            var $input = document.getElementById(search_id);
+            var $resultContent = document.getElementById(content_id);
+
+            $input.addEventListener(&#39;input&#39;, function(){
+                var str=&#39;&lt;ul class=\&quot;search-result-list\&quot;&gt;&#39;;
+                var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
+                $resultContent.innerHTML = &quot;&quot;;
+                if (this.value.trim().length &lt;= 0) {
+                    return;
+                }
+                // perform local searching
+                datas.forEach(function(data) {
+                    var isMatch = true;
+                    var content_index = [];
+                    if (!data.title || data.title.trim() === &#39;&#39;) {
+                        data.title = &quot;Untitled&quot;;
+                    }
+                    var data_title = data.title.trim().toLowerCase();
+                    var data_content = data.content.trim().replace(/&lt;[^&gt;]+&gt;/g,&quot;&quot;).toLowerCase();
+                    var data_url = data.url;
+                    var index_title = -1;
+                    var index_content = -1;
+                    var first_occur = -1;
+                    // only match artiles with not empty contents
+                    if (data_content !== &#39;&#39;) {
+                        keywords.forEach(function(keyword, i) {
+                            index_title = data_title.indexOf(keyword);
+                            index_content = data_content.indexOf(keyword);
+
+                            if( index_title &lt; 0 &amp;&amp; index_content &lt; 0 ){
+                                isMatch = false;
+                            } else {
+                                if (index_content &lt; 0) {
+                                    index_content = 0;
+                                }
+                                if (i == 0) {
+                                    first_occur = index_content;
+                                }
+                                // content_index.push({index_content:index_content, keyword_len:keyword_len});
+                            }
+                        });
+                    } else {
+                        isMatch = false;
+                    }
+                    // show search results
+                    if (isMatch) {
+                        str += &quot;&lt;li&gt;&lt;a href=&#39;&quot;+ data_url +&quot;&#39; class=&#39;search-result-title&#39;&gt;&quot;+ data_title +&quot;&lt;/a&gt;&quot;;
+                        var content = data.content.trim().replace(/&lt;[^&gt;]+&gt;/g,&quot;&quot;);
+                        if (first_occur &gt;= 0) {
+                            // cut out 100 characters
+                            var start = first_occur - 20;
+                            var end = first_occur + 80;
+
+                            if(start &lt; 0){
+                                start = 0;
+                            }
+
+                            if(start == 0){
+                                end = 100;
+                            }
+
+                            if(end &gt; content.length){
+                                end = content.length;
+                            }
+
+                            var match_content = content.substr(start, end);
+
+                            // highlight all keywords
+                            keywords.forEach(function(keyword){
+                                var regS = new RegExp(keyword, &quot;gi&quot;);
+                                match_content = match_content.replace(regS, &quot;&lt;em class=\&quot;search-keyword\&quot;&gt;&quot;+keyword+&quot;&lt;/em&gt;&quot;);
+                            });
+
+                            str += &quot;&lt;p class=\&quot;search-result\&quot;&gt;&quot; + match_content +&quot;...&lt;/p&gt;&quot;
+                        }
+                        str += &quot;&lt;/li&gt;&quot;;
+                    }
+                });
+                str += &quot;&lt;/ul&gt;&quot;;
+                $resultContent.innerHTML = str;
+            });
+        }
+    });
+}</code></pre><h3 id="添加链接"><a href="#添加链接" class="headerlink" title="添加链接"></a>添加链接</h3><pre><code class="html">&lt;%- js(&#39;js/search&#39;) %&gt;
+&lt;script&gt;searchFunc(&#39;&lt;%= url_for(&#39;search.xml&#39;) %&gt;&#39;, &#39;searchInput&#39;, &#39;searchResult&#39;);&lt;/script&gt;</code></pre><h3 id="高亮关键词"><a href="#高亮关键词" class="headerlink" title="高亮关键词"></a>高亮关键词</h3><pre><code class="javascript">keywords.forEach(function(keyword){
+                            var regS = new RegExp(keyword, &quot;gi&quot;);
+                            data_title = data_title.replace(regS, &quot;&lt;em class=\&quot;search-keyword\&quot;&gt;&quot;+keyword+&quot;&lt;/em&gt;&quot;);
+                        });</code></pre><pre><code class="css">.search-keyword{
+    color: #c7254e;
+}</code></pre></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2017-06-16-Share.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">Android原生分享及第三方分享</div></a></div><div class="article-nav-right"><a href="/2017-06-15-theme.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">自定义Hexo主题</div></a></div></nav><div id="comments"><wycode-comments path="2017-06-15-search.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

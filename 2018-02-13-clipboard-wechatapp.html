@@ -1,0 +1,190 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>微信小程序入门 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-clipboard-wechatapp" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2018-02-13-clipboard-wechatapp.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2018-02-13T13:12:33.000Z" itemprop="datePublished">2018-02-13</time></a><div class="article-category"><a class="article-category-link" href="/categories/Front-end/">Front-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/" rel="tag">JavaScript</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Wechat/" rel="tag">Wechat</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">微信小程序入门</h1></header><div class="article-entry" itemprop="articleBody"><p><img src="/images/20180213_clipboard.jpg" alt="React"></p><blockquote><p>这篇文章我们将开发一个微信小程序版的跨平台剪切板。</p></blockquote><p>书接上文，我们已经用<code>React</code>开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。</p><p>如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。</p><a id="more"></a><h2 id="1-app-json"><a href="#1-app-json" class="headerlink" title="1.app.json"></a>1.app.json</h2><pre><code class="json">
+{
+  &quot;pages&quot;: [
+    &quot;pages/index/index&quot;
+  ],
+  &quot;window&quot;: {
+    &quot;backgroundTextStyle&quot;: &quot;light&quot;,
+    &quot;navigationBarBackgroundColor&quot;: &quot;#379392&quot;,
+    &quot;navigationBarTitleText&quot;: &quot;跨平台剪切板&quot;,
+    &quot;navigationBarTextStyle&quot;: &quot;white&quot;
+  },
+  &quot;debug&quot;: true
+}</code></pre><ul><li><code>app.json</code>中描述了小程序相关的全局配置信息，所有的页面需要配置在<code>page</code>属性中。</li><li>这里还能配置<code>tabbar</code>，为了跨平台剪切板的简洁，我去掉了tab，把它做成了一个单页面的极简APP</li></ul><h2 id="2-模板"><a href="#2-模板" class="headerlink" title="2.模板"></a>2.模板</h2><pre><code class="html">
+&lt;!--index.wxml--&gt;
+&lt;view class=&quot;container&quot;&gt;
+  &lt;input type=&#39;number&#39; placeholder=&quot;查询码&quot; value=&#39;{{queryNumber>0?queryNumber:""}}&#39; bindinput=&#39;bindInput&#39; disabled=&#39;{{isShowResult}}&#39;&gt;&lt;/input&gt;
+  &lt;button type=&#39;primary&#39; wx:if=&quot;{{!isShowResult}}&quot; bindtap=&#39;query&#39;&gt;查询&lt;/button&gt;
+  &lt;button wx:if=&quot;{{!isShowResult}}&quot; bindtap=&#39;create&#39;&gt;新建&lt;/button&gt;
+  &lt;textarea wx:if=&#39;{{isShowResult}}&#39; value=&#39;{{text}}&#39; bindinput=&#39;bindInputText&#39;&gt;&lt;/textarea&gt;
+  &lt;button type= &#39;primary&#39; wx:if = &quot;{{isShowResult}}&quot; bindtap=&#39;save&#39;&gt;保存&lt;/button&gt;
+  &lt;button wx:if = &quot;{{isShowResult}}&quot; bindtap=&#39;back&#39;&gt;返回&lt;/button&gt;
+&lt;/view&gt;</code></pre><ul><li><code>.wxml</code>后缀的是小程序的布局（模板）文件。</li><li>属性没什么好解释的，看一下就懂了。参考React版的教程就知道每个属性的详细用途。</li></ul><h2 id="3-样式表"><a href="#3-样式表" class="headerlink" title="3.样式表"></a>3.样式表</h2><pre><code class="css">/**index.wxss**/
+
+input {
+  border: 1px solid;
+  border-radius: 10rpx;
+  border-color: #ddd;
+  padding: 10rpx;
+  width: 96%;
+}
+
+button {
+  margin-top: 24rpx;
+  width: 100%;
+}
+
+textarea{
+  border: 1px solid;
+  border-radius: 10rpx;
+  border-color: #ddd;
+  padding: 10rpx;
+  width: 96%;
+  margin-top: 24rpx;
+}</code></pre><ul><li>就是传统的CSS层叠样式表</li><li>这里rpx是dpi无关的单位，保证不同分辨率的相同观感</li></ul><h2 id="4-逻辑"><a href="#4-逻辑" class="headerlink" title="4.逻辑"></a>4.逻辑</h2><pre><code class="javascript">//index.js
+//获取应用实例
+const app = getApp()
+
+Page({
+  data: {
+    queryNumber: -1,
+    isShowResult: false,
+    text: &#39;&#39;
+  },
+
+  onLoad: function () {
+
+  },
+
+  bindInput: function (e) {
+    this.setData({
+      queryNumber: e.detail.value
+    })
+  },
+
+  bindInputText: function (e) {
+    this.setData({
+      text: e.detail.value
+    })
+  },
+
+  query: function () {
+    if (this.data.queryNumber &lt;= 0) {
+      wx.showToast({
+        title: &#39;查询码不正确！&#39;,
+        icon: &#39;none&#39;
+      });
+      return
+    }
+
+    var that = this;
+    wx.showLoading({
+      title: &#39;请稍后...&#39;,
+    })
+    wx.request({
+      url: &#39;https://wycode.cn/web/api/public/clipboard/query&#39;,
+      data: { &#39;id&#39;: this.data.queryNumber },
+      success: function (res) {
+        if (!res.data.success || res.data.data == null) {
+          wx.showToast({
+            title: &#39;查询码不正确！&#39;,
+            icon: &#39;none&#39;
+          });
+        } else {
+          that.setData({
+            isShowResult: true,
+            queryNumber: res.data.data.id,
+            text: res.data.data.content
+          });
+        }
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res,
+          icon: &#39;none&#39;
+        });
+      },
+      complete:function(){
+        wx.hideLoading();
+      }
+    });
+
+  },
+
+  create: function () {
+    var that = this;
+    wx.showLoading({
+      title: &#39;请稍后...&#39;,
+    })
+    wx.request({
+      url: &#39;https://wycode.cn/web/api/public/clipboard/create&#39;,
+      method: &#39;POST&#39;,
+      success: function (res) {
+
+        that.setData({
+          isShowResult: true,
+          queryNumber: res.data.data.id,
+          text: res.data.data.content
+        });
+
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res.errMsg,
+          icon: &#39;none&#39;
+        });
+      },
+      complete:function(){
+        wx.hideLoading();
+      }
+    });
+  },
+
+  save: function () {
+    var that = this;
+    wx.showLoading({
+      title: &#39;请稍后...&#39;,
+    })
+    wx.request({
+      url: &#39;https://wycode.cn/web/api/public/clipboard/save&#39;,
+      method: &#39;POST&#39;,
+      data:{
+        id: that.data.queryNumber,
+        content: that.data.text
+      },
+      header: {
+        &#39;content-type&#39;: &#39;application/x-www-form-urlencoded&#39;
+      },
+      success: function (res) {
+
+        that.setData({
+          isShowResult: false,
+          queryNumber: res.data.data.id,
+          text: res.data.data.content
+        });
+        wx.showToast({
+          title: &#39;保存成功！&#39;,
+          icon: &#39;success&#39;
+        });
+
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res.errMsg,
+          icon: &#39;none&#39;
+        });
+      },
+      complete: function () {
+        wx.hideLoading();
+      }
+    });
+  },
+
+  back: function () {
+    this.setData({
+      isShowResult: false
+    })
+  }
+
+})
+</code></pre><ul><li>小程序的<code>data</code>，就是React的<code>state</code></li><li>小程序通过<code>this.setData()</code>刷新页面状态，如同React的<code>this.setState()</code></li><li>使用<code>wx.request()</code>做http请求</li><li>使用<code>wx.showToast()</code>显示一个提示</li><li>使用<code>wx.showLoading()</code>显示Loading</li><li>这里发现一个小程序的bug，在<code>wx.hideLoading()</code>会将Toast也消失掉。</li></ul><p>至此大功告成！打开微信扫一扫文章开头的小程序码即可使用。<br>访问 <a href="https://github.com/wangyucode/Clipboard" target="_blank" rel="noopener">https://github.com/wangyucode/Clipboard</a> 查看完整源码</p></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2018-03-08-opencv.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">OpenCV入门</div></a></div><div class="article-nav-right"><a href="/2018-02-13-clipboard-react.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">用React做一个跨平台剪切板</div></a></div></nav><div id="comments"><wycode-comments path="2018-02-13-clipboard-wechatapp.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

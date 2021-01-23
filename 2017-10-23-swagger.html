@@ -1,0 +1,87 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>使用swagger为Spring REST API生成在线文档 | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-swagger" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2017-10-23-swagger.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2017-10-23T12:58:47.000Z" itemprop="datePublished">2017-10-23</time></a><div class="article-category"><a class="article-category-link" href="/categories/Back-end/">Back-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Java/" rel="tag">Java</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/JavaScript/" rel="tag">JavaScript</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Spring/" rel="tag">Spring</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Swagger/" rel="tag">Swagger</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">使用swagger为Spring REST API生成在线文档</h1></header><div class="article-entry" itemprop="articleBody"><blockquote><p>本文介绍如何使用swaggerUI为Spring Boot项目创建动态的、从代码生成的REST API文档</p></blockquote><a id="more"></a><h2 id="创建SwaggerUI渲染需要的JSON"><a href="#创建SwaggerUI渲染需要的JSON" class="headerlink" title="创建SwaggerUI渲染需要的JSON"></a>创建SwaggerUI渲染需要的JSON</h2><ul><li>首先为项目添加生成JSON的库：</li></ul><pre><code>dependencies {
+    compile &quot;io.springfox:springfox-swagger2:2.7.0&quot;
+}</code></pre><ul><li>添加<code>SwaggerConfig</code>类</li></ul><pre><code class="java">@Configuration
+@EnableSwagger2
+public class SwaggerConfig {
+
+    @Bean
+    public Docket generateDocket(){
+        return new Docket(DocumentationType.SWAGGER_2)
+                .select()
+                .paths(paths()) // and by paths
+                .build()
+                .apiInfo(apiInfo());
+    }
+
+
+    //Here is an example where we select any api that matches one of these paths
+    private Predicate&lt;String&gt; paths() {
+        return input -&gt; input.matches(&quot;.api.*&quot;);
+    }
+
+
+    private ApiInfo apiInfo() {
+        return new ApiInfo(&quot;王郁的API文档&quot;,
+                &quot;提供App测试及独立APP研发&quot;,
+                &quot;2.0&quot;,
+                &quot;http://wycode.cn&quot;,
+                new Contact(&quot;王郁&quot;,&quot;wycode.cn&quot;,&quot;wangyu0503@gmail.com&quot;),
+                &quot;wycode.cn All Right Reserved&quot;,
+                &quot;http://wycode.cn&quot;,
+                new ArrayList&lt;&gt;());
+    }
+}</code></pre><ul><li>访问<code>http://localhost:8080/v2/api-docs</code>可以看到JSON即说明配置成功：</li></ul><pre><code class="JSON">{
+    &quot;swagger&quot;: &quot;2.0&quot;,
+    &quot;info&quot;: {
+        &quot;description&quot;: &quot;提供App测试及独立APP研发&quot;,
+        &quot;version&quot;: &quot;2.0&quot;,
+        &quot;title&quot;: &quot;王郁的API文档&quot;,
+        &quot;termsOfService&quot;: &quot;http://wycode.cn&quot;,
+        &quot;contact&quot;: {},
+        &quot;license&quot;: {}
+    },
+    &quot;host&quot;: &quot;localhost:8080&quot;,
+    &quot;basePath&quot;: &quot;/&quot;,
+    &quot;tags&quot;: [],
+    &quot;paths&quot;: {
+        &quot;/api/hello&quot;: {
+            &quot;get&quot;: {},
+            &quot;head&quot;: {},
+            &quot;post&quot;: {},
+            &quot;put&quot;: {},
+            &quot;delete&quot;: {},
+            &quot;options&quot;: {},
+            &quot;patch&quot;: {}
+        }
+    },
+    &quot;definitions&quot;: {}
+}</code></pre><ul><li>添加SwaggerUI包</li></ul><p>从<code>SwaggerUI</code>的github上下载最新版，将里面的<code>dist</code>文件夹，放入我们工程的静态页面目录</p><blockquote><p>因为我们要修改<code>index.html</code>，所以不能使用<code>webjars</code></p></blockquote><p>对<code>index.html</code>的常量<code>ui</code>做如下更改</p><pre><code class="JavaScript">// Build a system
+  const ui = SwaggerUIBundle({
+    url: &quot;/v2/api-docs&quot;, //API的JSON地址
+    dom_id: &#39;#swagger-ui&#39;,
+    deepLinking: true,
+    presets: [
+      SwaggerUIBundle.presets.apis,
+      SwaggerUIStandalonePreset
+    ],
+    plugins: [
+      SwaggerUIBundle.plugins.DownloadUrl
+    ],
+    layout: &quot;StandaloneLayout&quot;
+  })</code></pre><h2 id="大功告成！"><a href="#大功告成！" class="headerlink" title="大功告成！"></a>大功告成！</h2><h2 id="添加文档注释"><a href="#添加文档注释" class="headerlink" title="添加文档注释"></a>添加文档注释</h2><ul><li>实体注解</li></ul><pre><code class="Java">@ApiModel(value = &quot;Hello 消息&quot;,description = &quot;Hello接口返回的消息实体&quot;)
+public class Hello {
+
+    @ApiModelProperty(&quot;消息&quot;)
+    private String message;
+
+    ...
+}</code></pre><ul><li>接口注解</li></ul><pre><code class="java">@Api(value = &quot;Hello&quot;, description = &quot;第一个api&quot;,tags = &quot;Hello&quot;)
+@RestController
+public class HelloController {
+
+    @ApiOperation(value = &quot;Say Hello&quot;, produces = &quot;application/json &quot;)
+    @RequestMapping(&quot;/api/hello&quot;)
+    public Hello hello(@ApiParam(value = &quot;消息&quot;,defaultValue = &quot;Hello World!&quot;) @RequestParam(name = &quot;message&quot;,defaultValue = &quot;Hello World!&quot;)String message){
+        return  new Hello(&quot;message is : &quot;+ message);
+    }
+}</code></pre></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2017-10-26-web_framework.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统</div></a></div><div class="article-nav-right"><a href="/2017-09-04-android-dp.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">Android度量设计规范</div></a></div></nav><div id="comments"><wycode-comments path="2017-10-23-swagger.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>

@@ -1,0 +1,251 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><title>使用Netty和阿里云函数写一个低成本的“梯子” | 王郁的小站</title><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><link rel="shortcut icon" href="/img/logo_48.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"><link href="https://cdn.jsdelivr.net/npm/highlight.js@9.12.0/styles/atom-one-dark.css" rel="stylesheet"><link rel="stylesheet" href="/css/blog.css"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><meta name="generator" content="Hexo 4.2.1"></head><body><nav class="navbar navbar-dark fixed-top navbar-expand-lg wy-nav"><div class="container"><a class="navbar-brand" href="/" target="_self"><img src="/img/logo_48.png" width="32" height="32" alt="wycode.cn"> 王郁的小站</a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarNav"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link" href="/lab.html"><i class="fas fa-flask fa-fw"></i> 实验室</a></li><li class="nav-item"><a class="nav-link" href="/clipboard.html"><i class="fas fa-clipboard fa-fw"></i> 跨平台剪切板</a></li><li class="nav-item"><a class="nav-link" href="/api.html"><i class="fas fa-plug fa-fw"></i> API</a></li><li class="nav-item"><a class="nav-link" href="https://wycode.cn/admin"><i class="fas fa-wrench fa-fw"></i> 管理</a></li><li class="nav-item"><a class="nav-link" href="/about.html"><i class="fas fa-user fa-fw"></i> 关于</a></li><li class="nav-item blog-nav-right-search"><a class="nav-link" data-toggle="modal" href="#searchModal"><i class="fas fa-search fa-fw"></i> 搜索</a></li></ul></div></div></nav><div class="modal fade" id="searchModal"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-body"><i class="fa fa-search" aria-hidden="true"></i> 搜索 <input type="text" class="form-control" id="searchInput" placeholder="Keyword"><div class="search-content" id="searchResult"></div></div></div></div></div><div class="container main-content" style="margin-top:80px"><div class="row"><div class="col-md-12 blog-main"><article id="post-netty_function" class="article article-type-post" itemscope itemprop="blogPost"><div class="article-meta"><a href="/2018-10-23-netty_function.html" class="article-date"><i class="far fa-calendar-alt"></i> <time datetime="2018-10-23T15:14:34.000Z" itemprop="datePublished">2018-10-23</time></a><div class="article-category"><a class="article-category-link" href="/categories/Back-end/">Back-end</a></div><ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/HTTP/" rel="tag">HTTP</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Netty/" rel="tag">Netty</a></li></ul></div><div class="article-inner"><header class="article-header"><h1 class="article-title" itemprop="name">使用Netty和阿里云函数写一个低成本的“梯子”</h1></header><div class="article-entry" itemprop="articleBody"><p><img src="/images/20181023_liucheng.jpg" alt="流程" title="流程"></p><blockquote><p>函数计算（Function Compute）是事件驱动的全托管计算服务。函数计算无需租用和管理24小时运行的服务器(Serverless)，无需搭建复杂的服务器环境，只需编写代码并上传就可以了，只需要为代码实际运行消耗的资源付费，非常便宜。</p></blockquote><blockquote><p>函数计算可以选择运行区域，也就是说，我们可以将函数运行的服务器区域选择到香港或者是美国，如此会带来什么样的好处，只可意会，不可言传。那么能否利用云函数写一个Proxy软件呢？请看本文！</p></blockquote><a id="more"></a><h2 id="在阿里云上新建函数计算"><a href="#在阿里云上新建函数计算" class="headerlink" title="在阿里云上新建函数计算"></a>在阿里云上新建函数计算</h2><p>我们需要建立一个云函数，和一个HTTP触发器。</p><p>此过程请参考阿里云官网，我就不详细赘述。<a href="https://www.aliyun.com/product/fc" target="_blank" rel="noopener" title="官网在此">官网在此</a></p><h2 id="Netty服务端Handle代码"><a href="#Netty服务端Handle代码" class="headerlink" title="Netty服务端Handle代码"></a>Netty服务端Handle代码</h2><pre><code class="kotlin">package cn.wycode.lambda.proxy.inbound
+
+import cn.wycode.lambda.proxy.config.AliyunConfig
+import cn.wycode.lambda.proxy.outbound.ProxyOutboundInitializer
+import io.netty.bootstrap.Bootstrap
+import io.netty.buffer.ByteBuf
+import io.netty.buffer.Unpooled
+import io.netty.channel.*
+import io.netty.handler.codec.http.*
+import io.netty.util.CharsetUtil
+
+class ProxyInboundHandler(val aliyunConfig: AliyunConfig) : SimpleChannelInboundHandler&lt;ByteBuf&gt;() {
+
+
+    // As we use inboundChannel.eventLoop() when building the Bootstrap this does not need to be volatile as
+    // the outboundChannel will use the same EventLoop (and therefore Thread) as the inboundChannel.
+    private var outboundChannel: Channel? = null
+
+    override fun channelRead0(ctx: ChannelHandlerContext, msg: ByteBuf) {
+        println(&quot;ProxyInboundHandler&lt;&lt;&lt;&quot; + msg.toString(CharsetUtil.UTF_8))
+//        val headers = msg.headers()
+//        val headerMap = HashMap&lt;String, String&gt;(headers.size())
+//        headers.forEach { headerMap[it.key] = it.value }
+//        val outboundBody = Request(msg.method().name(), msg.uri(), msg.protocolVersion().text(), headerMap)
+//        val outboundJson = JSON.toJSONString(outboundBody)
+        val request = DefaultFullHttpRequest(HttpVersion.HTTP_1_1, HttpMethod.POST, aliyunConfig.path)
+        request.headers().set(HttpHeaderNames.HOST, aliyunConfig.host)
+        request.headers().set(HttpHeaderNames.CONNECTION, HttpHeaderValues.CLOSE)
+        request.headers().set(HttpHeaderNames.CONTENT_TYPE, HttpHeaderValues.APPLICATION_JSON)
+        request.headers().set(HttpHeaderNames.CONTENT_LENGTH, msg.writerIndex())
+//        request.content().writeCharSequence(outboundJson, CharsetUtil.UTF_8)
+        request.content().writeBytes(msg)
+//
+        if (outboundChannel!!.isActive) {
+            println(&quot;ProxyInboundHandler&gt;&gt;&gt;${request.content().toString(CharsetUtil.UTF_8)}&quot;)
+            outboundChannel!!.writeAndFlush(request).addListener(object : ChannelFutureListener {
+                override fun operationComplete(future: ChannelFuture) {
+                    if (future.isSuccess) {
+                        // was able to flush out data, start to read the next chunk
+                        ctx.channel().read()
+                    } else {
+                        future.channel().close()
+                    }
+                }
+            })
+        }
+    }
+
+
+    override fun channelActive(ctx: ChannelHandlerContext) {
+        val inboundChannel = ctx.channel()
+        // Start the connection attempt.
+        val outboundClient = Bootstrap()
+        outboundClient.group(inboundChannel.eventLoop())
+                .channel(inboundChannel.javaClass)
+                .handler(ProxyOutboundInitializer(inboundChannel))
+                .option(ChannelOption.AUTO_READ, false)
+
+        val f = outboundClient.connect(aliyunConfig.host, aliyunConfig.port)
+        outboundChannel = f.channel()
+        f.addListener { future -&gt;
+            if (future.isSuccess) {
+                // connection complete start to read first data
+                inboundChannel.read()
+            } else {
+                // Close the connection if the connection attempt has failed.
+                inboundChannel.close()
+            }
+        }
+    }
+
+
+    override fun channelInactive(ctx: ChannelHandlerContext) {
+        if (outboundChannel != null) {
+            closeOnFlush(outboundChannel!!)
+        }
+    }
+
+    override fun exceptionCaught(ctx: ChannelHandlerContext, cause: Throwable) {
+        cause.printStackTrace()
+        closeOnFlush(ctx.channel())
+    }
+
+    companion object {
+        fun closeOnFlush(ch: Channel) {
+            if (ch.isActive) {
+                ch.writeAndFlush(Unpooled.EMPTY_BUFFER).addListener(ChannelFutureListener.CLOSE)
+            }
+        }
+    }
+
+}
+</code></pre><h2 id="Netty客户端Handle代码"><a href="#Netty客户端Handle代码" class="headerlink" title="Netty客户端Handle代码"></a>Netty客户端Handle代码</h2><pre><code class="kotlin">package cn.wycode.lambda.proxy.outbound
+
+import cn.wycode.lambda.proxy.inbound.ProxyInboundHandler
+import io.netty.channel.*
+import io.netty.handler.codec.http.FullHttpResponse
+import io.netty.util.CharsetUtil
+
+class ProxyOutboundHandler(private val inboundChannel: Channel) : SimpleChannelInboundHandler&lt;FullHttpResponse&gt;() {
+
+    override fun channelActive(ctx: ChannelHandlerContext) {
+        println(&quot;ProxyOutBoundHandle==&quot;)
+        ctx.read()
+    }
+
+    override fun channelRead0(ctx: ChannelHandlerContext, msg: FullHttpResponse) {
+        println(&quot;ProxyOutBoundHandle&lt;&lt;&lt;$msg&quot;)
+        val body = msg.content().toString(CharsetUtil.UTF_8)
+        println(&quot;ProxyOutBoundHandle body&lt;&lt;&lt;$body&quot;)
+//        val proxyResponse = try {
+//            JSON.parseObject(body, Response::class.java)
+//        } catch (e: Exception) {
+//            e.printStackTrace()
+//            msg.retain()
+//            inboundChannel.writeAndFlush(msg).addListener(object : ChannelFutureListener {
+//                override fun operationComplete(future: ChannelFuture) {
+//                    if (future.isSuccess) {
+//                        // was able to flush out data, start to read the next chunk
+//                        ctx.channel().read()
+//                    } else {
+//                        future.channel().close()
+//                    }
+//                }
+//            })
+//            return
+//        }
+//        val headers = CombinedHttpHeaders(true)
+//        var outBytes:ByteArray? = null
+//        if (proxyResponse.error == null) {
+//            for (header in proxyResponse.headers!!) {
+//                headers[header.key] = header.value
+//            }
+//            outBytes = Base64.getDecoder().decode(proxyResponse.content)
+//        }else{
+//            outBytes = proxyResponse.error.toByteArray()
+//        }
+//        val response = DefaultFullHttpResponse(HttpVersion.HTTP_1_1,
+//                HttpResponseStatus.valueOf(proxyResponse.code),
+//                Unpooled.wrappedBuffer(outBytes),
+//                headers, DefaultHttpHeaders())
+        msg.retain()
+        inboundChannel.writeAndFlush(msg.content()).addListener(object : ChannelFutureListener {
+            override fun operationComplete(future: ChannelFuture) {
+                if (future.isSuccess) {
+                    // was able to flush out data, start to read the next chunk
+                    ctx.channel().read()
+                } else {
+                    future.channel().close()
+                }
+            }
+        })
+    }
+
+    override fun channelInactive(ctx: ChannelHandlerContext) {
+        println(&quot;ProxyOutBoundHandle!=&quot;)
+        ProxyInboundHandler.closeOnFlush(inboundChannel)
+    }
+
+    override fun exceptionCaught(ctx: ChannelHandlerContext, cause: Throwable) {
+        cause.printStackTrace()
+        ProxyInboundHandler.closeOnFlush(ctx.channel())
+    }
+
+}
+</code></pre><h2 id="云函数代码"><a href="#云函数代码" class="headerlink" title="云函数代码"></a>云函数代码</h2><pre><code class="java">package cn.wycode.lambda;
+
+import com.aliyun.fc.runtime.Context;
+import com.aliyun.fc.runtime.FunctionComputeLogger;
+import com.aliyun.fc.runtime.StreamRequestHandler;
+
+import java.io.*;
+import java.net.Socket;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
+
+public class Lambda implements StreamRequestHandler {
+
+
+    @Override
+    public void handleRequest(InputStream input, OutputStream output, Context context) throws IOException {
+        FunctionComputeLogger logger = context.getLogger();
+        StringBuilder sb = new StringBuilder();
+        byte[] buffer = new byte[1024];
+        int n;
+        while ((n = input.read(buffer)) != -1) {
+            sb.append(new String(buffer, 0, n, StandardCharsets.UTF_8));
+        }
+        logger.info(&quot;handleRequest&gt;&gt;&gt;&quot; + sb.toString());
+
+        String firstLine = new BufferedReader(new StringReader(sb.toString())).readLine();
+        String host;
+        int port;
+        try {
+            if (firstLine.startsWith(&quot;CONNECT &quot;)) {
+                String[] urlArray = firstLine.split(&quot; &quot;)[1].split(&quot;:&quot;);
+                host = urlArray[0];
+                port = Integer.parseInt(urlArray[1]);
+            } else {
+                URL url = new URL(firstLine.split(&quot; &quot;)[1]);
+                host = url.getHost();
+                port = url.getPort();
+
+                if (port == -1) {
+                    if (url.getProtocol().equalsIgnoreCase(&quot;http&quot;)) {
+                        port = 80;
+                    } else if (url.getProtocol().equalsIgnoreCase(&quot;https&quot;)) {
+                        port = 443;
+                    } else {
+                        throw new IllegalArgumentException(&quot;端口无法解析&quot;);
+                    }
+                }
+            }
+        } catch (Exception e) {
+            logger.error(&quot;url解析错误:&quot; + e.getMessage());
+            return;
+        }
+        logger.info(&quot;host-&gt;&quot; + host);
+        logger.info(&quot;port-&gt;&quot; + port);
+
+        Socket s = new Socket(host, port);
+        if (firstLine.startsWith(&quot;CONNECT &quot;)) {
+            String response = &quot;HTTP/1.1 200 Connection Established&quot;;
+            output.write(response.getBytes(StandardCharsets.UTF_8));
+            output.flush();
+            sb.setLength(0);
+            while ((n = input.read(buffer)) != -1) {
+                sb.append(new String(buffer, 0, n, StandardCharsets.UTF_8));
+            }
+            logger.info(&quot;handleRequest&gt;&gt;&gt;&quot; + sb.toString());
+        }
+
+        OutputStream httpOutputStream = s.getOutputStream();
+        httpOutputStream.write(sb.toString().getBytes(StandardCharsets.UTF_8));
+
+        InputStream httpInputStream = s.getInputStream();
+        sb.setLength(0);
+        while ((n = httpInputStream.read(buffer)) != -1) {
+            output.write(buffer, 0, n);
+            sb.append(new String(buffer, 0, n, StandardCharsets.UTF_8));
+        }
+        httpInputStream.close();
+        httpOutputStream.close();
+
+        s.close();
+        input.close();
+        output.close();
+        logger.info(&quot;handleRequest&lt;&lt;&lt;&quot; + sb.toString());
+    }
+}
+</code></pre><h2 id="遗留问题"><a href="#遗留问题" class="headerlink" title="遗留问题"></a>遗留问题</h2><ul><li>HTTP请求代理测试通过</li><li>可以在Netty客户端发送请求时，对请求体进行二进制加密，函数端解密；函数端收到真实响应加密，Netty客户端收到请求后解密。从而提高安全性</li><li>对于HTTP请求头为<code>Connection:keep-alive</code>的请求，函数端在读取真实响应时，会阻塞在流末尾的read方法而无法返回结果，<code>Connection:close</code>的请求正常</li><li>HTTPS请求在有代理的情况下，浏览器会先发送一个HTTP CONNECT请求，以建立TSL通道。目前因为read阻塞问题还没有解决。</li></ul><p>附：本项目全部源码地址：</p><p>Netty端：<a href="https://github.com/wangyucode/lambda-cross-java" target="_blank" rel="noopener" title="github">https://github.com/wangyucode/lambda-cross-java</a><br>函数端：<a href="https://github.com/wangyucode/aliyun-lambda" target="_blank" rel="noopener" title="github">https://github.com/wangyucode/aliyun-lambda</a></p><p>以上，转载请联系作者!</p></div></div><div class="container-reward"><img class="img-reward" src="/img/reward.jpg"></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4650660107955528" data-ad-slot="6505490608" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({})</script></article><nav class="article-nav"><div class="article-nav-left"><a href="/2019-03-28-flutter.html" id="article-nav-newer" class="article-nav-link-wrap"><strong class="article-nav-caption">上一篇</strong><div class="article-nav-title">使用Flutter开发跨平台应用</div></a></div><div class="article-nav-right"><a href="/2018-10-16-netty.html" id="article-nav-older" class="article-nav-link-wrap"><strong class="article-nav-caption">下一篇</strong><div class="article-nav-title">使用Netty开发高性能的网络服务应用</div></a></div></nav><div id="comments"><wycode-comments path="2018-10-23-netty_function.html"></wycode-comments></div></div></div></div><footer class="footer-bottom wy-footer"><div class="container"><div class="row justify-content-center"><ul class="list-inline text-center ui-bottom"><li><a href="http://beian.miit.gov.cn" target="_blank" style="font-size:12px">陕ICP备15011477号</a></li><li style="font-size:12px">©wycode.cn 2015-2021 All Right Reserved</li></ul></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/highlight.min.js"></script><script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.2/build/languages/kotlin.min.js"></script><script>hljs.initHighlightingOnLoad()</script><script src="/js/search.js"></script><script>searchFunc("/search.xml","searchInput","searchResult")</script><script src="https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.min.js"></script><script src="/js/comments/index.js"></script></body></html>
