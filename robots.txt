@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+
+
+# Sitemaps
+Sitemap: https://wycode.cn/sitemap.xml
