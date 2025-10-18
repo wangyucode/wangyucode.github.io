@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,89864,t=>{"use strict";t.s(["default",()=>c]);var o=t.i(49430);function c(t){let{postId:c}=t;return(0,o.useEffect)(()=>{"localhost"!==window.location.hostname&&fetch("https://wycode.cn/api/v1/blog-view?id=".concat(c))},[c]),null}}]);
