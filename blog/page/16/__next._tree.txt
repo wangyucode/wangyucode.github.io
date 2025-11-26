@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[41050,["/_next/static/chunks/ec39348990c3a291.js","/_next/static/chunks/e612c3809afb78cf.js"],"ViewportBoundary"]
+4:I[41050,["/_next/static/chunks/ec39348990c3a291.js","/_next/static/chunks/e612c3809afb78cf.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[37177,["/_next/static/chunks/ec39348990c3a291.js","/_next/static/chunks/e612c3809afb78cf.js"],"IconMark"]
+:HL["/_next/static/chunks/1c6a22b1450699f8.css","style"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"k2c049U8owr9XvC8Sbwl0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":null,"paramKey":"page","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"16","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"博客 - 第16页 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"王郁的小站博客 - 第16页"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"王郁,缺氧,AI,JS,Java"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"prev","href":"/blog/15"}],["$","link","6",{"rel":"next","href":"/blog/17"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L7","9",{}]]
