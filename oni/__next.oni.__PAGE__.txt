@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[93353,["/_next/static/chunks/4770d61a13025013.js","/_next/static/chunks/c1ed2544669fb08a.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"ZvPv-fz32n6EESMnyfWY-","rsc":["$","$1","c",{"children":[["$","iframe",null,{"className":"flex-1 card container shadow mx-auto md:my-4","src":"https://wycode.cn/oni/"}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

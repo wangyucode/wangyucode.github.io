@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[93353,["/_next/static/chunks/4770d61a13025013.js","/_next/static/chunks/c1ed2544669fb08a.js"],"ViewportBoundary"]
+4:I[93353,["/_next/static/chunks/4770d61a13025013.js","/_next/static/chunks/c1ed2544669fb08a.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[90663,["/_next/static/chunks/4770d61a13025013.js","/_next/static/chunks/c1ed2544669fb08a.js"],"IconMark"]
+:HL["/_next/static/chunks/1c6a22b1450699f8.css","style"]
+:HL["/images/20190614_oauth.png","image"]
+0:{"buildId":"ZvPv-fz32n6EESMnyfWY-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"pid","paramType":"d","paramKey":"oauth","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"OAuth2.0四种模式完整时序图 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"\n关于认证和授权，最权威的流程就是`OAuth2.0`了，涵盖了用户认证授权的方方面面，现代的大型网站几乎都是基于`Oauth2.0`协议开发认证鉴权功能。\n\n`OAuth2.0`被写入`RFC6749`，RFC中的流程图看了还是不明白的话，可以看看下面这张图，展示了`OAuth2.0`四种模式的完整流程。\n\n"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"OAuth"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L7","7",{}]]
