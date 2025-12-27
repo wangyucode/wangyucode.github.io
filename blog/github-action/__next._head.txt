@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[3922,["/_next/static/chunks/44d1dae4312c40b6.js","/_next/static/chunks/5775e90a00c5ff94.js"],"ViewportBoundary"]
+4:I[3922,["/_next/static/chunks/44d1dae4312c40b6.js","/_next/static/chunks/5775e90a00c5ff94.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[21579,["/_next/static/chunks/44d1dae4312c40b6.js","/_next/static/chunks/5775e90a00c5ff94.js"],"IconMark"]
+0:{"buildId":"sOlrsbrkTjCyCLqmRNiKW","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"使用Github Action进行持续集成 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"\n![Github Action](https://img2018.cnblogs.com/blog/1191638/202002/1191638-20200218165327798-180252718.png)\n\n> `Github Actions`是由 Github 发布的持续集成(CI)/持续交付(CD)服务，对于公开的仓库是免费使用的。之前我们使用`TravisCI`，现在用`Github Actions`更方便了。\n\n"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"Github,NodeJS,SFTP"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L7","7",{}]]
