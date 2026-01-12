@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[4652,["/_next/static/chunks/3ae9f889bf7abd51.js","/_next/static/chunks/8a07f2569e4abaaf.js"],"ViewportBoundary"]
+4:I[4652,["/_next/static/chunks/3ae9f889bf7abd51.js","/_next/static/chunks/8a07f2569e4abaaf.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[33509,["/_next/static/chunks/3ae9f889bf7abd51.js","/_next/static/chunks/8a07f2569e4abaaf.js"],"IconMark"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Unity中的网络请求 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"\n![Unity](https://tse1-mm.cn.bing.net/th/id/OIP-C.TPnSpv0PowWa1j_0SdXeWQHaEM?pid=ImgDet&rs=1)\n\n> Unity推荐使用`UnityWebRequest`替代原有`WWW`类做网络请求，`UnityWebRequest`提供了非常简单的方法请求RESTful接口。\n\n下面将基本的使用总结如下：\n\n"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"Unity,HTTP"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L7","7",{}]]

@@ -1,0 +1,458 @@
+1:"$Sreact.fragment"
+2:I[63424,["/_next/static/chunks/ce3b4f9406a7b9fa.js","/_next/static/chunks/46550a490b70d560.js","/_next/static/chunks/4e51c0f26b3e6bb3.js"],""]
+e:I[69063,["/_next/static/chunks/ce3b4f9406a7b9fa.js","/_next/static/chunks/46550a490b70d560.js","/_next/static/chunks/4e51c0f26b3e6bb3.js"],"default"]
+18:I[4652,["/_next/static/chunks/3ae9f889bf7abd51.js","/_next/static/chunks/8a07f2569e4abaaf.js"],"OutletBoundary"]
+19:"$Sreact.suspense"
+55:I[49558,["/_next/static/chunks/ce3b4f9406a7b9fa.js","/_next/static/chunks/46550a490b70d560.js","/_next/static/chunks/4e51c0f26b3e6bb3.js"],"AdSenseCard"]
+:HL["/images/20200512_auto_deploy.png","image"]
+:HL["https://www.rust-lang.org/static/images/rust-logo-blk.svg","image"]
+:HL["/images/20201204_mongodb.svg","image"]
+:HL["https://blog-cdn.everhour.com/blog/wp-content/uploads/2023/02/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.jpg","image"]
+:HL["https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":[["$","section",null,{"className":"flex flex-col gap-4 lg:flex-2","children":[["$","article","auto-deploy",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/auto-deploy","children":"基于Docker的自动化部署"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2021-05-09"]}],["$","$L2",null,{"href":"/blog/category/ci-cd","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"CI CD"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Watchtower",{"href":"/blog/tag/watchtower","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Watchtower"}],["$","$L2","Docker",{"href":"/blog/tag/docker","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Docker"}],["$","$L2","NodeJS",{"href":"/blog/tag/nodejs","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"NodeJS"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20200512_auto_deploy.png","alt":"flow","node":{"type":"element","tagName":"img","properties":{"src":"/images/20200512_auto_deploy.png","alt":"flow"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":42,"offset":42}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"flow"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":["之前写过一篇文章关于",["$","a","a-0",{"href":"/2020-10-28-github-action.html","children":"使用Github Action进行持续集成"}],"。\n但是如何将构建好的软件包，分发到运行环境？托付给自动化服务后如何保证服务器安全？Docker化部署的话，服务器上的Docker引擎如何自动检查、拉取、运行最新的镜像？\n本文介绍如何解决这些问题。"]}],"\n"]}]]}],"$L3"]]}]}],"$L4","$L5","$L6","$L7"]}],"$L8"]}],"$L9"]}]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+3:["$","$L2",null,{"href":"/blog/auto-deploy","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+4:["$","article","rust-ownership",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/rust-ownership","children":"理解Rust语言的所有权以及借用、引用、切片。"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2021-01-23"]}],["$","$L2",null,{"href":"/blog/category/languages","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Languages"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Rust",{"href":"/blog/tag/rust","className":"px-2 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":"Rust"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.rust-lang.org/static/images/rust-logo-blk.svg","alt":"Rust","node":{"type":"element","tagName":"img","properties":{"src":"https://www.rust-lang.org/static/images/rust-logo-blk.svg","alt":"Rust"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":67,"offset":67}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"Rust"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":["Rust由Mozilla基金会开发，没有虚拟机和垃圾回收，却又提供了内存安全，有着媲美C/C++的性能，又同时支持命令式函数式编程以及泛型等便利。优雅（上层抽象）和高性能（底层控制）往往是鱼和熊掌不可兼得，但Rust试图挑战这一矛盾。允许你做带垃圾回收的语言（例如Java）做不到的事，比如控制底层。而同时又避免了比如空指针，野指针在内的（例如C/C++）的问题。它被用于开发浏览器引擎(",["$","code","code-0",{"children":"Servo"}],")，操作系统(",["$","code","code-1",{"children":"Redox OS"}],")，并且特别适合开发",["$","code","code-2",{"children":"WebAssembly"}],"和嵌入式，以及高性能的Web服务。"]}],"\n"]}],"\n",["$","blockquote","blockquote-1",{"children":["\n",["$","p","p-0",{"children":["本文介绍Rust语言中和其它语言相比一个非常重要的特性",["$","code","code-0",{"children":"所有权(Ownership)"}],"以及其相关的",["$","code","code-1",{"children":"借用(Borrowing)"}],"，",["$","code","code-2",{"children":"引用(References)"}],"，",["$","code","code-3",{"children":"切片(Slice)"}],"的理解和使用。这个特性保证了Rust不需要垃圾回收以及强大的内存安全，同时还能在多线程编程中带来好处。"]}],"\n"]}]]}],"$Lc"]]}]}]
+5:["$","article","docker-mongodb",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/docker-mongodb","children":"备份和还原Docker容器中的MongoDB数据"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2020-12-05"]}],["$","$L2",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Docker",{"href":"/blog/tag/docker","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Docker"}],["$","$L2","MongoDB",{"href":"/blog/tag/mongodb","className":"px-2 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":"MongoDB"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20201204_mongodb.svg","alt":"MongoDB","node":{"type":"element","tagName":"img","properties":{"src":"/images/20201204_mongodb.svg","alt":"MongoDB"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":41,"offset":41}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"MongoDB"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"本文介绍如何使用两行简单的命令来执行备份和还原Docker容器中MongoDB的数据库数据。"}],"\n"]}]]}],["$","$L2",null,{"href":"/blog/docker-mongodb","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+6:["$","article","github-action",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/github-action","children":"使用Github Action进行持续集成"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2020-10-28"]}],["$","$L2",null,{"href":"/blog/category/ci-cd","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"CI CD"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Github",{"href":"/blog/tag/github","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"Github"}],["$","$L2","NodeJS",{"href":"/blog/tag/nodejs","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"NodeJS"}],["$","$L2","SFTP",{"href":"/blog/tag/sftp","className":"px-2 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-sm rounded-full","children":"SFTP"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://blog-cdn.everhour.com/blog/wp-content/uploads/2023/02/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.jpg","alt":"Github Action","node":{"type":"element","tagName":"img","properties":{"src":"https://blog-cdn.everhour.com/blog/wp-content/uploads/2023/02/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.jpg","alt":"Github Action"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":120,"offset":120}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"Github Action"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":[["$","code","code-0",{"children":"Github Actions"}],"是由 Github 发布的持续集成(CI)/持续交付(CD)服务，对于公开的仓库是免费使用的。之前我们使用",["$","code","code-1",{"children":"TravisCI"}],"，现在用",["$","code","code-2",{"children":"Github Actions"}],"更方便了。"]}],"\n"]}]]}],"$Ld"]]}]}]
+7:["$","article","chicken-dinner-tesla",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/chicken-dinner-tesla","children":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2020-07-24"]}],["$","$L2",null,{"href":"/blog/category/story","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Story"]}]]}],false,[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png","alt":"tesela","node":{"type":"element","tagName":"img","properties":{"src":"https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png","alt":"tesela"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":78,"offset":78}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"tesela"}]]}],"\n",["$","p","p-0",{"children":"今天我们用数学期望来计算一下《和平精英》的特斯拉（玛莎拉蒂）到底要多少钱？怎么抽最划算？"}]]}],["$","$L2",null,{"href":"/blog/chicken-dinner-tesla","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+8:["$","div",null,{"className":"flex justify-center items-center space-x-2 mt-4","children":[["$","$L2",null,{"href":"/blog/page/2","className":"btn btn-sm btn-circle","aria-label":"上一页","title":"上一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M15.75 19.5 8.25 12l7.5-7.5"}]]}]}],["$","div",null,{"className":"join","children":[["$","$L2","1",{"href":"/","className":"join-item btn btn-sm ","children":1}],["$","$L2","2",{"href":"/blog/page/2","className":"join-item btn btn-sm ","children":2}],["$","$L2","3",{"href":"/blog/page/3","className":"join-item btn btn-sm btn-active","children":3}],["$","$L2","4",{"href":"/blog/page/4","className":"join-item btn btn-sm ","children":4}],["$","$L2","5",{"href":"/blog/page/5","className":"join-item btn btn-sm ","children":5}],["$","span","ellipsis-5",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L2","16",{"href":"/blog/page/16","className":"join-item btn btn-sm ","children":16}]]}],["$","$L2",null,{"href":"/blog/page/4","className":"btn btn-sm btn-circle","aria-label":"下一页","title":"下一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m8.25 4.5 7.5 7.5-7.5 7.5"}]]}]}]]}]
+f:T86d,
+![flow](/images/20200512_auto_deploy.png)
+
+> 之前写过一篇文章关于[使用Github Action进行持续集成](/2020-10-28-github-action.html)。
+但是如何将构建好的软件包，分发到运行环境？托付给自动化服务后如何保证服务器安全？Docker化部署的话，服务器上的Docker引擎如何自动检查、拉取、运行最新的镜像？
+本文介绍如何解决这些问题。
+
+<!--more-->
+
+## 镜像分发
+
+对于Docker构建的镜像，我们可以将其推送到Docker hub之类的镜像仓库。
+然后在服务器上运行`docker pull <Image Name>`或者`docker-compose pull <Service>`就可以将镜像拉下来。
+然后再重新运行就可以了。
+
+这种方式解决了服务器的安全问题。
+
+但是如何将这一套流程自动化呢。
+
+## 自动检查镜像更新和重新运行
+
+一个思路就是专门写一个守护程序，在接收到某种API请求时，执行以上的操作。但是这样它就脱离了Docker的管理，而且其本身也是需要维护和部署的。
+
+但是如果将它也作为Docker镜像的话，`Container`又如何控制宿主机中的`Docker Engine`呢？
+
+这也有办法，我们只需要将`Host`的Docker域套接字(`UNIX domain socket`)，挂载到`Container`中：
+
+```bash
+docker run ... -v /var/run/docker.sock:/var/run/docker.sock
+```
+
+因为Docker是CS模式，这样`Container`就可以控制宿主机的Docker引擎，以实现上述操作了。有人将其称为`Docker in Docker`。
+
+而以上这个思路已经有人造好轮子了。
+
+## Watchtower
+
+Watchtower本身就是一个Docker镜像，支持定时、或者API Hook等方式触发检查，在发现有更新的镜像时，它会停止当前运行的容器，自动拉取镜像，重新以之前运行的参数重启容器，完美解决我们的需求。
+
+最终的流程参考文章开头的流程图。
+
+这样一来，我们只需要push代码，Github Action会自动构建Docker镜像并push到Docker hub，然后curl一下我们的watchtower，它就会自动帮我们拉取并运行最新的镜像了。
+
+省了不少时间，最重要的：**不要内卷，要work-life balance**
+10:T1302,
+![Rust](https://www.rust-lang.org/static/images/rust-logo-blk.svg)
+
+> Rust由Mozilla基金会开发，没有虚拟机和垃圾回收，却又提供了内存安全，有着媲美C/C++的性能，又同时支持命令式函数式编程以及泛型等便利。优雅（上层抽象）和高性能（底层控制）往往是鱼和熊掌不可兼得，但Rust试图挑战这一矛盾。允许你做带垃圾回收的语言（例如Java）做不到的事，比如控制底层。而同时又避免了比如空指针，野指针在内的（例如C/C++）的问题。它被用于开发浏览器引擎(`Servo`)，操作系统(`Redox OS`)，并且特别适合开发`WebAssembly`和嵌入式，以及高性能的Web服务。
+
+> 本文介绍Rust语言中和其它语言相比一个非常重要的特性`所有权(Ownership)`以及其相关的`借用(Borrowing)`，`引用(References)`，`切片(Slice)`的理解和使用。这个特性保证了Rust不需要垃圾回收以及强大的内存安全，同时还能在多线程编程中带来好处。
+
+<!--more-->
+
+## 所有权(Ownership)
+
+废话不多说，先看代码:
+
+```Rust
+let a = 5;
+let b = a;
+println!("a->{}, b->{}", a, b);
+```
+- 上面的代码会打印出`a->5, b->5`，和直觉（其它语言）相同。
+- `a`和`b`是`i32`类型，属于基础数据类型，存储在**栈**上。
+- 当把`b`赋值给`a`时，会进行拷贝。所以在栈上会有两个`5`。
+
+但是：
+
+```Rust
+let s1 = String::from("hello");
+let s2 = s1;
+println!("s1->{}, s2->{}", s1, s2);
+```
+
+- 上面的代码无法通过编译。因为`s1`的**所有权**发生了转移(`move`)。
+- 在把`s1`赋值给`s2`之后，`s1`就无法再使用了。
+- `s1`和`s2`被存储在**栈**上，但是`hello`这个字符串存储在**堆**上
+- `s1`和`s2`是`String`类型，`String`类型不是基础数据类型，它是实际字符串的基本信息，包含了指向堆内存的指针、长度、容量信息。
+- 赋值时，栈上的`String`即指针，长度、容量被拷贝了，但堆上的`hello`没有被拷贝。
+- 这样就保证了堆上的内存始终只有一个所有者`owner`。
+- Rust会在`Owner`离开作用域后自动释放`Drop`它所指向的堆内存。同时避免二次释放带来的内存问题和安全漏洞。
+
+![Move](https://doc.rust-lang.org/book/img/trpl04-04.svg)
+
+## 引用(References)和借用(Borrowing)
+
+再看一个函数的例子：
+
+```Rust
+fn main() {
+    let s1 = String::from("hello");
+    let length = get_length(s1);
+    println!("{}",s1);
+}
+
+fn get_length(str: String) -> usize {
+    str.len()
+}
+```
+- 上面的代码无法通过编译，因为`s1`的**所有权**被转移到了`get_length`函数里面。并在出了函数之后就被释放了。
+- 其中一个解决方案是让`get_length`通过元组`tuple`同时返回`str`。此时可以用`s1`继续接收`str`，即隐藏`shadowing`。
+
+我们也可以通过传递**引用**`References`来解决这个问题：
+
+```Rust
+fn main() {
+    let s1 = String::from("hello");
+    let len = get_length(&s1);
+    println!("The length of '{}' is {}.", s1, len);
+}
+
+fn get_length(str: &String) -> usize {
+    str.len()
+}
+```
+
+将获取引用作为函数参数称为**借用**`borrowing`
+
+## 可变引用（Mutable References）
+
+如果要在函数内修改**借用的值**则必须使用可变引用：
+
+```Rust
+fn main() {
+    let mut s = String::from("hello");
+
+    change(&mut s);
+}
+
+fn change(some_string: &mut String) {
+    some_string.push_str(", world");
+}
+```
+
+- Rust中所有的变量默认是不可变的，不可变代表了安全。
+- 同一作用域中，不可变引用可以有多个，即多个**读引用**是ok的。但是不能同时存在可变引用和不可变引用。
+- 同一作用域中，可变引用只能有一个，即**写引用**只能有一个。
+
+这些规则保证了Rust不可能出现**悬垂指针**（dangling pointer）或**空指针**（null pointer）异常。
+也减轻了多线程中的**竞争状态**（Race conditions）和**死锁**（Deadlocks）问题
+
+## 切片(Slice)
+
+三句话说清楚切片`Slice`：
+
+- 切片没有所有权，因为它是对数组或者字符串等集合某个区间的不可变引用。
+- 它的作用是，我们想使用集合中某个数据，又怕其他人对集合做了修改（比如清空了集合的元素）时能够提前发现bug。
+- 原理是上一节提到的，同一作用域不能同时存在可变引用和不可变引用。
+
+## Rust的缺点
+
+目前发现Rust最大的缺点就是：想写一个能够编译通过的代码实在是太难了，哈哈。
+
+但正是因为Rust拥有强大的编译器，它能够提前把bug扼杀在摇篮里，在编译阶段就拒绝各种各样的bug，从而同时保证程序的性能和安全。
+
+这也是为什么Typescript，敏捷开发，TDD，会火的原因了。**尽可能早的发现和解决问题。**
+11:Td42,
+![Github Action](https://blog-cdn.everhour.com/blog/wp-content/uploads/2023/02/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.jpg)
+
+> `Github Actions`是由 Github 发布的持续集成(CI)/持续交付(CD)服务，对于公开的仓库是免费使用的。之前我们使用`TravisCI`，现在用`Github Actions`更方便了。
+
+<!--more-->
+
+## Actions
+
+通常一个持续集成的工作流通常包含很多的步骤，这个步骤做的事，称为一个`Action`。
+
+我们会写很多的`Action`（配环境，拉代码，安装依赖，编译，测试，打包，部署），然后将它们组合到一起工作。
+
+## Github Marketplace
+
+组合可以是多种多样的，但是这些`Action`通常都是类似的。所以 Github 利用自己开源的特点，所有人都可以将自己的`Action`发布到`Github Marketplace`中，供他人使用。
+
+这意味着，你能想到的`Action`几乎都已经被写好了，直接拿来用就行了，不用重复造轮子。
+
+当然自己再造一个轮子也是很简单的。
+
+## 一个典型的 workflow
+
+```yml
+name: Node.js CI
+
+on: [push] # push代码时执行
+
+jobs:
+  build: # jobs名称
+    runs-on: ubuntu-latest # 操作系统
+
+    strategy:
+      matrix:
+        node-version: [8.x, 10.x, 12.x] # node版本
+
+    steps:
+      - uses: actions/checkout@v2 # 引用action：拉代码
+      - name: Use Node.js ${{ matrix.node-version }} # 引用action：配置node环境
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install # 跑命令：安装依赖
+      - run: npm run build --if-present # 跑命令：安装依赖
+      - run: npm test # 跑命令：执行测试
+```
+
+## 使用密码参数
+
+当我们要部署时，有时会用到服务器密码，我们不能直接配置在`workflow`脚本中。这时就要使用密码参数。
+
+1. 在仓库设置（Settings）页面
+2. 添加密码（Add a new secret）
+3. 使用 `${{secrets.NAME}}` 引用密码（替换`NAME`为你设置的密码名称）
+
+举个例子:
+
+```yml
+# Deploy
+- name: SFTP uploader
+  uses: wangyucode/sftp-upload-action@v1.1
+  with:
+    host: "wycode.cn"
+    port: 22 # optional, default is 22
+    username: ${{ secrets.SERVER_USERNAME }} # optional, default is root
+    password: ${{ secrets.SERVER_PASSWORD }}
+    localDir: "dist"
+    remoteDir: "/var/www/dealer/"
+    dryRun: false # optional
+```
+
+> 注意： 不要使用命令传递密码，应使用环境变量或 action 的输入。
+
+## 自定义 Action（造轮子）
+
+可以使用`Docker`或`JavaScript`
+
+1. 创建一个仓库
+2. 编写 action 定义文件
+3. 发布 action
+
+我写的 sftp 部署 action 的例子：
+
+```yml
+name: "SFTP uploader"
+color: "green"
+icon: "upload"
+description: "upload files to server via SFTP"
+inputs:
+  host:
+    required: true
+  port:
+    required: false
+    default: 22
+  username:
+    required: false
+    default: "root"
+  password:
+    required: true
+  localDir:
+    required: true
+  remoteDir:
+    required: true
+  dryRun:
+    required: false
+    default: false
+runs:
+  using: "node12"
+  main: "dist/index.js"
+```
+
+## 完整例子
+
+<https://github.com/wangyucode/dealer/blob/master/.github/workflows/main.yml>
+
+这是一个《谁是卧底发牌员》的网页应用，使用`AngularJS`，线上地址：<https://wycode.cn/dealer/>。
+
+提交代码后，Github Action 会自动编译部署到线上。
+12:Tc3f,
+![tesela](https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png)
+
+今天我们用数学期望来计算一下《和平精英》的特斯拉（玛莎拉蒂）到底要多少钱？怎么抽最划算？
+
+<!--more-->
+
+## 规则
+
+扭蛋等级概率：
+
+|  1星 | 2星  | 3星 |
+| :-: | :-: | :-: |
+| 82% | 17% | 1% |
+
+保护追加不会降低扭蛋等级，并且追加三次必定能提升扭蛋等级；保护追加需要消耗一定的幸运币，扭蛋等级越高，保护追加消耗的幸运币数量越多。
+
+|  1星 | 2星  | 3星 | 4星 | 5星 | 6星 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 6 | 17 | 51 | 153 | 430 | 827 |
+
+## 保底法/碎片兑换
+
+```bash
+抽1次的碎片期望 = 12 * 82% + 36 * 17% + 54 * 1% = 16.5碎片
+兑换一辆特斯拉需要 2880 碎片
+所以需要抽 2880/16.5 ≈ 175次
+175 * 6 = 1047点劵
+紫色 * 3 = 3141点券
+```
+
+## 免费追加法
+
+```bash
+成功期望 = 20% * 82% + 20% * 17% * 2 + 20% * 1% * 3 = 0.238
+失败期望 = 80% * 75% * -1 + 80% * 75% * -2 =  -1.8
+免费追加期望为-1.56星
+```
+
+## 保护追加法
+
+```bash
+一次成功概率 = 20%
+两次成功概率 = 20% * 20% = 4%
+其余都需要3次 即 76% 需要抽3次
+每升一个星需要的次数 = 20% + 4% * 2 + 76% * 3 = 2.56次
+每次升级的星星期望 = 82% * 1 + 17% * 2 + 1% * 3 = 1.19星
+升到6星总共需要 = 5.04次 即大概率需要升星5次
+```
+
+|  1星→2星 | 2星→3星 | 3星→4星 | 4星→5星 | 5星→6星 | 6星→7星 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 15.36 | 43.52 | 130.56 | 391.68 | 1100.8 | 1681.92 |
+
+```bash
+所以6星 = 15.36 + 43.52 + 130.56 + 391.68 + 1100.8 = 1681.92点劵
+所以7星 = 15.36 + 43.52 + 130.56 + 391.68 + 1100.8 + 1681.92= 3363.84点劵
+```
+
+## 运气爆棚和脸最黑的情况
+
+### 保底法：
+
+因为保底法需要操作175次，基本会接近期望数字。
+**基本不存在**175次全3星和175次全1星的情况（小于一亿分之一），即基本没有运气爆棚的情况，和脸黑的情况。
+
+### 免费追加法：
+
+免费升星法最好的情况（6元提车）只需要操作两次，所以幸存者偏差会**特别大**。
+
+那么传说中6元提车的概率是多少呢：
+
+| 可能的抽法 | 排列可能 | 概率 |
+| :-: | :-: | :-: |
+| 3,3组合 | 1种 | 0.0000004 |
+| 1,2,3组合 | 6种 | 0.000066912 |
+| 1,1,1,1,2组合 | 5种 | 0.00361697 |
+| 1,1,2,2组合 | 6种 | 0.00018655 |
+| 2,2,2组合 | 1种 | 0.000039304 |
+| 1,1,1,1,1,1组合 | 1种 | 0.000019456 |
+
+合计约千分之4，即你每尝试250次可能才能成功1次。
+当你尝试250次的时候 你已经花了1500点券了。
+
+至于最坏的情况，你可能要永远转下去了。
+
+## 保护追加法：
+
+和免费追加一样，最好的情况只需操作2次，概率也是一样的。
+不同之处在于最坏的情况，因为有保护，不至于一直转下去：
+
+```bash
+( 6 + 17 + 51 + 153 + 430 ) * 3 = 1971
+七星需要再 + 827 * 3 = 4452
+```
+
+> 总结：虽然保底法期望花费最少，但是很多人都忍不住去赌一把，原因就在于人性是喜爱赌博的。最后希望各位根据自己的实力，理性消费。
+9:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$Le",null,{"recentArticles":[{"id":"auto-deploy","file":"auto-deploy.md","content":"$f","data":{"title":"基于Docker的自动化部署","date":"2021-05-09","tags":["Watchtower","Docker","NodeJS"],"category":"CI CD"},"isEmpty":false,"excerpt":"\n![flow](/images/20200512_auto_deploy.png)\n\n> 之前写过一篇文章关于[使用Github Action进行持续集成](/2020-10-28-github-action.html)。\n但是如何将构建好的软件包，分发到运行环境？托付给自动化服务后如何保证服务器安全？Docker化部署的话，服务器上的Docker引擎如何自动检查、拉取、运行最新的镜像？\n本文介绍如何解决这些问题。\n\n"},{"id":"rust-ownership","file":"rust-ownership.md","content":"$10","data":{"title":"理解Rust语言的所有权以及借用、引用、切片。","date":"2021-01-23","tags":["Rust"],"category":"Languages"},"isEmpty":false,"excerpt":"\n![Rust](https://www.rust-lang.org/static/images/rust-logo-blk.svg)\n\n> Rust由Mozilla基金会开发，没有虚拟机和垃圾回收，却又提供了内存安全，有着媲美C/C++的性能，又同时支持命令式函数式编程以及泛型等便利。优雅（上层抽象）和高性能（底层控制）往往是鱼和熊掌不可兼得，但Rust试图挑战这一矛盾。允许你做带垃圾回收的语言（例如Java）做不到的事，比如控制底层。而同时又避免了比如空指针，野指针在内的（例如C/C++）的问题。它被用于开发浏览器引擎(`Servo`)，操作系统(`Redox OS`)，并且特别适合开发`WebAssembly`和嵌入式，以及高性能的Web服务。\n\n> 本文介绍Rust语言中和其它语言相比一个非常重要的特性`所有权(Ownership)`以及其相关的`借用(Borrowing)`，`引用(References)`，`切片(Slice)`的理解和使用。这个特性保证了Rust不需要垃圾回收以及强大的内存安全，同时还能在多线程编程中带来好处。\n\n"},{"id":"docker-mongodb","file":"docker-mongodb.md","content":"\n![MongoDB](/images/20201204_mongodb.svg)\n\n> 本文介绍如何使用两行简单的命令来执行备份和还原Docker容器中MongoDB的数据库数据。\n\n<!--more-->\n\n## 备份\n\n备份MongoDB有多种方法，其中比较简单的就是使用`mongodump`。\n\n```bash\ndocker exec -i <CONTAINER_NAME> mongodump -d <DATABASE> --archive > ./mongo/collections.archive\n```\n\n- 以上命令会将`<CONTAINER_NAME>`容器中的`<DATABASE>`数据库dump到host机器的`collections.archive`文件中。\n- `--archive`会dump所有`collection`到一个文件。\n- `mongodump`命令不提供目标路径的话会将dump结果输出到标准输出，这里使用`>`重定向输出到host的文件。\n\n## 还原\n\n这里使用host机器上的`collections.archive`文件进行还原。\n\n```bash\ndocker exec -i <CONTAINER_NAME> mongorestore --archive < ./mongo/collections.archive\n```\n\n- `--archive`模式导出的备份文件还原时必须也要加上`--archive`\n- `mongorestore`命令不提供源路径的话会使用标准输入，这里使用`<`重定向host的文件作为`mongorestore`的输入。\n\n","data":{"title":"备份和还原Docker容器中的MongoDB数据","date":"2020-12-05","tags":["Docker","MongoDB"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![MongoDB](/images/20201204_mongodb.svg)\n\n> 本文介绍如何使用两行简单的命令来执行备份和还原Docker容器中MongoDB的数据库数据。\n\n"},{"id":"github-action","file":"github-action.md","content":"$11","data":{"title":"使用Github Action进行持续集成","date":"2020-10-28","tags":["Github","NodeJS","SFTP"],"category":"CI CD"},"isEmpty":false,"excerpt":"\n![Github Action](https://blog-cdn.everhour.com/blog/wp-content/uploads/2023/02/h2jfrvzrbyh1yff2n3wfu2hkqqps6x_uvqo.jpg)\n\n> `Github Actions`是由 Github 发布的持续集成(CI)/持续交付(CD)服务，对于公开的仓库是免费使用的。之前我们使用`TravisCI`，现在用`Github Actions`更方便了。\n\n"},{"id":"chicken-dinner-tesla","file":"chicken-dinner-tesla.md","content":"$12","data":{"title":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","date":"2020-07-24","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![tesela](https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png)\n\n今天我们用数学期望来计算一下《和平精英》的特斯拉（玛莎拉蒂）到底要多少钱？怎么抽最划算？\n\n"}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L13","$L14","$L15","$L16","$L17"]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/4e51c0f26b3e6bb3.js","async":true}]
+b:["$","$L18",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@1a"}]}]
+c:["$","$L2",null,{"href":"/blog/rust-ownership","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+d:["$","$L2",null,{"href":"/blog/github-action","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+13:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L2","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L2","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L2","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L2","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L2","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L2","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+14:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L2","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50"]}]]}]}]
+51:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z15:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$51"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]}],"$L52"]}],"$L53","$L54"]}]]}]]}]}]
+16:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+17:["$","$L55",null,{}]
+1a:null
+1b:["$","$L2","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+1c:["$","$L2","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+1d:["$","$L2","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+1e:["$","$L2","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+1f:["$","$L2","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+20:["$","$L2","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+21:["$","$L2","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+22:["$","$L2","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+23:["$","$L2","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+24:["$","$L2","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+25:["$","$L2","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+26:["$","$L2","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+27:["$","$L2","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+28:["$","$L2","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+29:["$","$L2","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2a:["$","$L2","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2b:["$","$L2","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+2c:["$","$L2","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+2d:["$","$L2","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2e:["$","$L2","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2f:["$","$L2","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+30:["$","$L2","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+31:["$","$L2","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+32:["$","$L2","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+33:["$","$L2","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+34:["$","$L2","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+35:["$","$L2","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+36:["$","$L2","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+37:["$","$L2","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+38:["$","$L2","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+39:["$","$L2","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3a:["$","$L2","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3b:["$","$L2","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3c:["$","$L2","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3d:["$","$L2","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+3e:["$","$L2","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3f:["$","$L2","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+40:["$","$L2","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+41:["$","$L2","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L2","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+43:["$","$L2","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+44:["$","$L2","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L2","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+46:["$","$L2","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+47:["$","$L2","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+48:["$","$L2","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+49:["$","$L2","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4a:["$","$L2","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4b:["$","$L2","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L2","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4d:["$","$L2","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4e:["$","$L2","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4f:["$","$L2","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+50:["$","$L2","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+52:["$","p",null,{"children":"或添加微信："}]
+53:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+54:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]
