@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+:HL["/images/20180720_diagram-boot-reactor.svg","image"]
+:HL["https://nginx.org/nginx.png","image"]
+:HL["/images/20180623_springboot.jpg","image"]
+:HL["https://tse3-mm.cn.bing.net/th/id/OIP-C.BJ09SzSPlUf5QzF_EryfdwAAAA?pid=ImgDet&rs=1","image"]
+:HL["https://pic.baike.soso.com/ugc/baikepic2/18363/cut-20181002011705-1203719514_jpg_267_214_8556.jpg/300","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":null,"paramKey":"page","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"8","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

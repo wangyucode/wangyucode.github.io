@@ -1,0 +1,65 @@
+1:"$Sreact.fragment"
+2:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/473a1be2867482bb.js","/_next/static/chunks/a5d1ba47f41dfe06.js"],""]
+1b:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/473a1be2867482bb.js","/_next/static/chunks/a5d1ba47f41dfe06.js"],"AdSenseCard"]
+1c:I[9725,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/473a1be2867482bb.js","/_next/static/chunks/a5d1ba47f41dfe06.js"],"default"]
+1d:I[89864,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/473a1be2867482bb.js","/_next/static/chunks/a5d1ba47f41dfe06.js"],"default"]
+1e:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+1f:"$Sreact.suspense"
+:HL["https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png","image"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto w-full p-4","children":[["$","article",null,{"className":"card shadow bg-base-100 p-4 mb-4","children":[["$","h1",null,{"className":"text-2xl text-slate-800 dark:text-slate-200 font-extrabold text-center","children":"RxJava入门"}],["$","div",null,{"className":"flex justify-between text-sm mb-4 flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-01-20"]}],["$","$L2",null,{"href":"/blog/category/languages","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Languages"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","RxJava",{"href":"/blog/tag/rxjava","className":"px-2 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-sm rounded-full","children":"RxJava"}],["$","$L2","Java",{"href":"/blog/tag/java","className":"px-2 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":"Java"}]]}]]}],["$","div",null,{"className":"mt-4","children":["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png","alt":"ReactiveX","node":{"type":"element","tagName":"img","properties":{"src":"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png","alt":"ReactiveX"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":96,"offset":96}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"ReactiveX"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":["RxJava是",["$","code","code-0",{"children":"ReactiveX"}],"的Java分支，除了Java版，",["$","code","code-1",{"children":"ReactiveX"}],"还支持包括JavaScript、C#、C++、Swift、Python、Android、Unity、Kotlin、Go、PHP在内的众多平台和语言。"]}],"\n"]}],"\n",["$","blockquote","blockquote-1",{"children":["\n",["$","p","p-0",{"children":["ReactiveX的核心是对观察者模式的扩展，并上升到了和命令式编程完全不同的编程方式的高度，称为","$L3","，优势在于处理异步、基于事件的应用程序。可以将数据或是事件都加队列中处理，优雅地解决了以前多线程交互、IO、并发、同步、异常处理这种编程的老大难问题。再加上","$L4","表达式和链式编程，让程序变得更加简洁优雅。"]}],"\n"]}],"\n","<!--more-->","\n","$L5","\n","$L6","\n","$L7","\n","$L8","\n","$L9","\n","$La","\n","$Lb","\n","$Lc","\n","$Ld","\n","$Le","\n","$Lf","\n","$L10","\n","$L11","\n","$L12","\n","$L13"]}]}]]}],"$L14","$L15","$L16"]}],["$L17","$L18"],"$L19"]}],"loading":null,"isPartial":false}
+3:["$","code","code-0",{"children":"响应式编程"}]
+4:["$","code","code-1",{"children":"Lambda"}]
+5:["$","p","p-0",{"children":["看完了RactiveX的简介，觉得用它来封装一个网络请求框架应该是再好不过了，但是当我真正开始封装网络请求时，我发现：RxJava给的答案是，你并不需要去封装，而是",["$","strong","strong-0",{"children":"直接使用"}],"就好了。实例代码如下。"]}]
+6:["$","h2","h2-0",{"children":"Hello RxJava"}]
+7:["$","pre","pre-0",{"children":["$","code","code-0",{"className":"language-Java","children":"\tpublic void onClick(View v) {\n        Observable.create((ObservableOnSubscribe<String>) emitter -> emitter.onNext(httpRequest()))  //1.\n                .subscribeOn(Schedulers.io())  //2.\n                .observeOn(AndroidSchedulers.mainThread())  //3.\n                .subscribe(s -> textView.setText(s));  //4.\n    }\n    \n"}]}]
+8:["$","p","p-1",{"children":["核心代码就是",["$","code","code-0",{"children":"OnClick"}],"方法中的四行。"]}]
+9:["$","p","p-2",{"children":"步骤如下："}]
+a:["$","ol","ol-0",{"children":["\n",["$","li","li-0",{"children":["通过",["$","code","code-0",{"children":"create"}],"函数创建",["$","code","code-1",{"children":"Observable"}],"对象"]}],"\n",["$","li","li-1",{"children":["订阅调度到",["$","code","code-0",{"children":"Schedulers.io()"}],"，",["$","code","code-1",{"children":"io"}],"是一个有线程缓存的新线程调度器"]}],"\n",["$","li","li-2",{"children":"将事件消费调度到Android的主线程上"}],"\n",["$","li","li-3",{"children":"消费者（观察者）代码"}],"\n"]}]
+b:["$","p","p-3",{"children":[["$","code","code-0",{"children":"httpRequest()"}],"没用到任何复杂的框架，就用原生的",["$","code","code-1",{"children":"HttpURLConnection"}],"做一个网络请求，返回请求结果的String，代码如下："]}]
+1a:T41c,	private String httpRequest() throws Exception {
+        URL url = new URL("http://wycode.cn/");
+        HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+        String result;
+        try {
+            BufferedInputStream in = new BufferedInputStream(urlConnection.getInputStream());
+            result = readStream(in);
+        } finally {
+            urlConnection.disconnect();
+        }
+        return result;
+    }
+
+    private String readStream(BufferedInputStream in) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+        StringBuilder sb = new StringBuilder();
+        String line;
+        try {
+            while ((line = reader.readLine()) != null) {
+                sb.append(line).append("\n");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                in.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        return sb.toString();
+    }
+c:["$","pre","pre-1",{"children":["$","code","code-0",{"className":"language-Java","children":"$1a"}]}]
+d:["$","h2","h2-1",{"children":"变换操作"}]
+e:["$","p","p-4",{"children":["通常的，我们在请求网络后要对服务器返回的字符串进行解析，这时我们可以使用RxJava的",["$","code","code-0",{"children":"Transforming"}],"操作，在返回前将JSON String转为实体类。"]}]
+f:["$","pre","pre-2",{"children":["$","code","code-0",{"className":"language-Java","children":"Observable.create((ObservableOnSubscribe<String>) emitter -> emitter.onNext(httpRequest(\"https://wycode.cn/web/api/public/hello?message=Hello\"))) //1.\n                .map(s -> JSON.parseObject(s,Message.class)) //解析JSON\n                .subscribeOn(Schedulers.io()) //2.\n                .observeOn(AndroidSchedulers.mainThread()) //3.\n                .subscribe(message -> textView.setText(message.message)); //4.\n"}]}]
+10:["$","p","p-5",{"children":"可以看到在原有代码几乎没变的情况下，加上1行代码就实现了将Json转为实体再处理的需求。这就是RxJava的魅力。"}]
+11:["$","p","p-6",{"children":["完整源码在这里：",["$","a","a-0",{"href":"https://github.com/wangyucode/rxjava","children":"https://github.com/wangyucode/rxjava"}]]}]
+12:["$","p","p-7",{"children":"而以上也仅仅用到了RxJava的冰山一角，还有各种各样的函数来满足各种各样的需求。"}]
+13:["$","p","p-8",{"children":["函数列表在这里：",["$","a","a-0",{"href":"http://reactivex.io/documentation/operators.html","children":"http://reactivex.io/documentation/operators.html"}]]}]
+14:["$","$L1b",null,{}]
+15:["$","$L1c",null,{}]
+16:["$","$L1d",null,{"postId":"rxjava"}]
+17:["$","script","script-0",{"src":"/_next/static/chunks/473a1be2867482bb.js","async":true}]
+18:["$","script","script-1",{"src":"/_next/static/chunks/a5d1ba47f41dfe06.js","async":true}]
+19:["$","$L1e",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+20:null

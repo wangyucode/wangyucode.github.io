@@ -1,0 +1,514 @@
+1:"$Sreact.fragment"
+2:I[47395,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+3:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+4:I[59516,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"Image"]
+5:I[98951,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+6:I[20588,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+7:I[35910,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+8:I[78142,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+9:I[90220,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+a:I[70079,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+12:I[34741,[],"default"]
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"wycode_has_super_power","c":["","blog","page","4"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["page",{"children":[["page","4","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3fc28ce70887f98c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1e02b7c5799ac6a1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3b6828ba17d8ab80.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"transition-colors duration-1000 font","children":["$","body",null,{"className":"flex flex-col items-center min-h-dvh","children":[["$","$L2",null,{"className":"fixed top-0 left-0 right-0 bottom-0 -z-10"}],["$","header",null,{"className":"navbar shadow-sm bg-base-200/60 backdrop-blur fixed z-10","children":[["$","div",null,{"className":"navbar-start","children":["$","$L3",null,{"href":"/","className":"text-xl font-bold hover:text-sky-600 flex gap-1 items-center px-2","children":[["$","$L4",null,{"src":{"src":"/_next/static/media/icon.7d834061.svg","width":192,"height":192,"blurWidth":0,"blurHeight":0},"alt":"王郁的小站","width":32,"height":32}],["$","span",null,{"className":"bg-gradient-to-br dark:bg-gradient-to-tr from-sky-600 to-pink-600 dark:from-pink-400 dark:to-sky-400 bg-clip-text text-transparent","children":"王郁的小站"}]]}]}],["$","nav",null,{"className":"navbar-center hidden lg:flex","children":["$","$L5",null,{}]}],["$","div",null,{"className":"navbar-end gap-2","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]]}],["$","main",null,{"className":"flex-1 pt-16 flex flex-col lg:flex-row gap-4 w-full overflow-auto","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full h-10 shadow-sm bg-base-200/60 backdrop-blur bottom-0 right-0 left-0 flex flex-col md:flex-row justify-center items-center py-2 border-t border-slate-400/30 text-xs md:text-sm","children":[["$","a",null,{"href":"https://beian.miit.gov.cn","target":"_blank","className":"md:mr-2 md:pr-2 md:border-r border-base-content hover:text-info transition-colors","children":"陕ICP备15011477号"}],["$","div",null,{"className":"flex items-center","children":[["$","p",null,{"children":"2015-2026 ©wycode.cn All Right Reserved"}],["$","a",null,{"href":"https://github.com/wangyucode/wycode-next","target":"_blank","className":"ml-2 pl-2 border-l border-base-content hover:text-info transition-colors flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"mr-1 h-4 w-4 inline","children":["$","path",null,{"d":"$b"}]}],"v","3.4.1"]}]]}]]}],"$Lc"]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{"children":["$L10",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+13:I[97287,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+15:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"ViewportBoundary"]
+1a:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"MetadataBoundary"]
+c:["$","$L13",null,{}]
+d:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",[["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],null]}]
+:HL["/apps/chat2.png","image"]
+14:["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":[["$","section",null,{"className":"flex flex-col gap-4 lg:flex-2","children":[["$","article","websocket",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/websocket","children":"使用WebSocket和STOMP协议开发一个匿名聊天室"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2020-03-09"]}],["$","$L3",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","WebSocket",{"href":"/blog/tag/websocket","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"WebSocket"}],["$","$L3","Spring Boot",{"href":"/blog/tag/spring-boot","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"Spring Boot"}],["$","$L3","Kotlin",{"href":"/blog/tag/kotlin","className":"px-2 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":"Kotlin"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/apps/chat2.png","alt":"chat","node":{"type":"element","tagName":"img","properties":{"src":"/apps/chat2.png","alt":"chat"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":25,"offset":25}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"chat"}]]}],"\n",["$","p","p-0",{"children":"有时候就想和其他人安全地聊个天，它需要有这些特征："}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":"基于web技术，只需一个网页，无需下载任何App，易于转发。"}],"\n","$L1c","\n","$L1d","\n","$L1e","\n","$L1f","\n","$L20","\n","$L21","\n"]}],"\n","$L22","\n","$L23","\n","$L24"]}],"$L25"]]}]}],"$L26","$L27","$L28","$L29"]}],"$L2a"]}],"$L2b"]}]}]
+2e:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+:HL["https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png","image"]
+:HL["https://www.virtualbox.org/graphics/vbox_logo2_gradient.png","image"]
+:HL["https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg","image"]
+:HL["https://www.h2database.com/html/images/h2-logo-2.png","image"]
+1c:["$","li","li-1",{"children":"无需注册，使用简单，基于邀请码加入聊天，邀请码定时刷新。"}]
+1d:["$","li","li-2",{"children":"完全匿名。"}]
+1e:["$","li","li-3",{"children":"消息只保留在内存中，超时自动删除。"}]
+1f:["$","li","li-4",{"children":"进行在线人数统计，能设置最大人数上限。"}]
+20:["$","li","li-5",{"children":"用户上下线和邀请码刷新时有系统提示。"}]
+21:["$","li","li-6",{"children":"Web连接必然是不稳定的，所以断线必须能够重连。"}]
+22:["$","p","p-1",{"children":["线上Demo演示请直接访问: ",["$","a","a-0",{"href":"https://wycode.cn/lab/chat","children":"https://wycode.cn/lab/chat"}]]}]
+23:["$","p","p-2",{"children":"技术方面："}]
+24:["$","ul","ul-1",{"children":["\n",["$","li","li-0",{"children":["使用",["$","code","code-0",{"children":"WebSocket"}],"协议提供Web上的全双工通信支持。"]}],"\n",["$","li","li-1",{"children":["使用",["$","code","code-0",{"children":"STOMP"}],"作为上层协议，它基于帧(",["$","code","code-1",{"children":"Frame"}],")，和Http请求很类似，提供了一种发布订阅的模式，很适合需求的群聊模式。"]}],"\n",["$","li","li-2",{"children":["后端采用",["$","code","code-0",{"children":"Kotlin"}]," + ",["$","code","code-1",{"children":"SpringBoot"}],"，前端采用",["$","code","code-2",{"children":"Typescript"}]," + ",["$","code","code-3",{"children":"Angular"}]," + ",["$","code","code-4",{"children":"AntDesign"}],"，均使用最新版本。"]}],"\n"]}]
+25:["$","$L3",null,{"href":"/blog/websocket","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+26:["$","article","docker-spring",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/docker-spring","children":"使用Docker容器部署SpringBoot项目"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-11-20"]}],["$","$L3",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","Linux",{"href":"/blog/tag/linux","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Linux"}],["$","$L3","Docker",{"href":"/blog/tag/docker","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Docker"}],["$","$L3","Spring Boot",{"href":"/blog/tag/spring-boot","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"Spring Boot"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png","alt":"docker","node":{"type":"element","tagName":"img","properties":{"src":"https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png","alt":"docker"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":113,"offset":113}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"docker"}]]}],"\n",["$","p","p-0",{"children":"Docker容器化技术，使得部署变得平滑。再也不需要维护软件运行所需的复杂环境。Docker和现代化的微服务，敏捷开发，快速迭代和交付的要求非常匹配。"}],"\n",["$","p","p-1",{"children":"这篇文章实践从安装Docker开始，到将一个SpringBoot项目部署到Docker容器中。"}]]}],"$L2c"]]}]}]
+27:["$","article","virtualbox-network",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/virtualbox-network","children":"VirtualBox的虚拟机网络配置"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-09-20"]}],["$","$L3",null,{"href":"/blog/category/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Linux"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","VirtualBox",{"href":"/blog/tag/virtualbox","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"VirtualBox"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.virtualbox.org/graphics/vbox_logo2_gradient.png","alt":"virtual-box","node":{"type":"element","tagName":"img","properties":{"src":"https://www.virtualbox.org/graphics/vbox_logo2_gradient.png","alt":"virtual-box"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":76,"offset":76}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"virtual-box"}]]}],"\n",["$","p","p-0",{"children":"VirtualBox是著名的开源虚拟机软件，最初由Sun公司出品。后来Sun公司被Oracle收购。Sun公司的包括Java和VirtualBox，现在都是Oracle公司的软件。"}],"\n",["$","p","p-1",{"children":"配置虚拟机时，对于如何选择网络类型一直是一头雾水，这篇文章将VirtualBox的7种网络模式全部都总结一下。"}],"\n",["$","p","p-2",{"children":"不同模式的原理，也适用于VMWare。"}]]}],["$","$L3",null,{"href":"/blog/virtualbox-network","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+28:["$","article","ngrok",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/ngrok","children":"实现内网穿透的最新姿势"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-09-02"]}],["$","$L3",null,{"href":"/blog/category/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Linux"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","Linux",{"href":"/blog/tag/linux","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Linux"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg","alt":"Network","node":{"type":"element","tagName":"img","properties":{"src":"https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg","alt":"Network"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":162,"offset":162}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"Network"}]]}],"\n",["$","p","p-0",{"children":"当我们需要在外网访问处于内网的服务时，就需要内网穿透这个技术了。"}],"\n",["$","p","p-1",{"children":"本文介绍实现内网穿透的多种方式"}]]}],["$","$L3",null,{"href":"/blog/ngrok","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+2d:T4a7,<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:light-dark(#ffffff, #121212);--shiki-light-bg:#ffffff;--shiki-dark-bg:#121212;color:light-dark(#393a34, #dbd7caee);--shiki-light:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:light-dark(#1E754F, #4D9375);--shiki-light:#1E754F;--shiki-dark:#4D9375">alter</span><span style="color:light-dark(#1E754F, #4D9375);--shiki-light:#1E754F;--shiki-dark:#4D9375"> user</span><span style="color:light-dark(#393A34, #DBD7CAEE);--shiki-light:#393A34;--shiki-dark:#DBD7CAEE"> wayne </span><span style="color:light-dark(#1E754F, #4D9375);--shiki-light:#1E754F;--shiki-dark:#4D9375">set</span><span style="color:light-dark(#1E754F, #4D9375);--shiki-light:#1E754F;--shiki-dark:#4D9375"> password</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77"> '</span><span style="color:light-dark(#B56959, #C98A7D);--shiki-light:#B56959;--shiki-dark:#C98A7D">*****password*****</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">'</span></span>
+<span class="line"></span></code></pre>29:["$","article","h2-password",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/h2-password","children":"H2数据库修改密码"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-08-14"]}],["$","$L3",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","SQL",{"href":"/blog/tag/sql","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"SQL"}]]}]]}],["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.h2database.com/html/images/h2-logo-2.png","alt":"H2","node":{"type":"element","tagName":"img","properties":{"src":"https://www.h2database.com/html/images/h2-logo-2.png","alt":"H2"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":60,"offset":60}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"H2"}]]}],"\n",["$","p","p-0",{"children":"使用中的H2数据库如何修改用户名密码呢？执行下面的SQL就可以了："}],"\n",["$","div","pre-0",{"dangerouslySetInnerHTML":{"__html":"$2d"}}]]}]]}]}]
+2a:["$","div",null,{"className":"flex justify-center items-center space-x-2 mt-4","children":[["$","$L3",null,{"href":"/blog/page/3","className":"btn btn-sm btn-circle","aria-label":"上一页","title":"上一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M15.75 19.5 8.25 12l7.5-7.5"}]]}]}],["$","div",null,{"className":"join","children":[["$","$L3","1",{"href":"/","className":"join-item btn btn-sm ","children":1}],["$","$L3","2",{"href":"/blog/page/2","className":"join-item btn btn-sm ","children":2}],["$","$L3","3",{"href":"/blog/page/3","className":"join-item btn btn-sm ","children":3}],["$","$L3","4",{"href":"/blog/page/4","className":"join-item btn btn-sm btn-active","children":4}],["$","$L3","5",{"href":"/blog/page/5","className":"join-item btn btn-sm ","children":5}],["$","span","ellipsis-5",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L3","16",{"href":"/blog/page/16","className":"join-item btn btn-sm ","children":16}]]}],["$","$L3",null,{"href":"/blog/page/5","className":"btn btn-sm btn-circle","aria-label":"下一页","title":"下一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m8.25 4.5 7.5 7.5-7.5 7.5"}]]}]}]]}]
+2f:T18fb,
+![chat](/apps/chat2.png)
+
+有时候就想和其他人安全地聊个天，它需要有这些特征：
+
+- 基于web技术，只需一个网页，无需下载任何App，易于转发。
+- 无需注册，使用简单，基于邀请码加入聊天，邀请码定时刷新。
+- 完全匿名。
+- 消息只保留在内存中，超时自动删除。
+- 进行在线人数统计，能设置最大人数上限。
+- 用户上下线和邀请码刷新时有系统提示。
+- Web连接必然是不稳定的，所以断线必须能够重连。
+
+线上Demo演示请直接访问: <https://wycode.cn/lab/chat>
+
+技术方面：
+
+- 使用`WebSocket`协议提供Web上的全双工通信支持。
+- 使用`STOMP`作为上层协议，它基于帧(`Frame`)，和Http请求很类似，提供了一种发布订阅的模式，很适合需求的群聊模式。
+- 后端采用`Kotlin` + `SpringBoot`，前端采用`Typescript` + `Angular` + `AntDesign`，均使用最新版本。
+
+<!--more-->
+
+## 准备SpringBoot工程
+
+在SpringBoot中使用WebSocket和STOMP很简单，添加`spring-boot-starter-websocket`这个starter依赖就可以开始了。
+
+工程基于Gradle初始化，核心的几个依赖如下：
+
+```java
+implementation("org.springframework.boot:spring-boot-starter-websocket")
+implementation("org.jetbrains.kotlin:kotlin-reflect")
+implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.10.+")
+```
+
+## 配置WebSocket和STOMP
+
+添加这么一个类：
+
+```kotlin
+@Configuration
+@EnableWebSocketMessageBroker
+class WebSocketConfig(val chatService: ChatService, val taskScheduler: TaskScheduler) : WebSocketMessageBrokerConfigurer {
+
+
+    override fun configureMessageBroker(config: MessageBrokerRegistry) {
+        config.enableSimpleBroker("/topic/", "/queue/") // 1.
+                .setTaskScheduler(taskScheduler) // 2.
+        config.setApplicationDestinationPrefixes("/app") // 3.
+    }
+
+
+    override fun registerStompEndpoints(registry: StompEndpointRegistry) {
+        registry.addEndpoint("/stomp") // 4.
+                .setAllowedOrigins("*") // 5.
+    }
+
+}
+```
+这里配置了很多端点(`endpoint`)，很多时候容易搞混：
+
+1. 可以理解为是一些频道
+2. 用于定时心跳，设置了taskSchedule才能启用心跳（对于没有启用SockJS的项目），不开启心跳的话，不管是客户端还是服务器都很容易断开连接。
+3. 这里`/app`端点是应用的接收前缀，以app开头的路径会进入后端程序处理
+4. 这里`/stomp`端点是用来握手的，所以前端connect时连接的是这个端点
+5. 启用任意远程访问，防止前端出现跨域问题，易于调试，对于生产环境，可以删除
+
+> 需要提到的是，官方文档上仍然启用了`SockJS`，其实已经不需要了，`SockJS`是对于不支持`WebSocket`的Polyfill，对于现在的浏览器，其实已经不需要了，参考这个地址：https://caniuse.com/#search=websockets
+
+## 邀请码鉴权
+
+主要思路：
+
+- 配置客户端入口Channel的interceptor。`configureClientInboundChannel()`
+- 在握手阶段，取header。`accessor.getNativeHeader("code")`
+- code合法就赋予一个用户。`accessor.user = ChatUser()`
+- 出错时，设置一个sessionAttributes。`accessor.sessionAttributes!!["error"] = "邀请码错误！"`
+
+> 这里我尝试了多种办法直接在握手阶段返回错误，但是都失败了，所以最终通过sessionAttributes来标记错误，在下一次通信时返回错误信息。
+
+此处除了鉴权还做了三件事
+
+1. 对于本身分配了id的用户握手时，应当视为重连，而不是新用户，这是断线重连实现的关键。
+2. 新用户进入时要进行人数上限的判断，人满时也报错。
+3. 因为只有进入聊天室的人才能看到邀请码，所以这里还判断了一个超级用户码，用户以超级用户码进入时，会把当前的邀请码以错误码的形式返回。这样管理员就能方便的知道当前的邀请码了。
+
+## 主要接口
+
+`controller`只需要两个接口
+
+1. 用来查询当前状态，用户刚进入时会调用，此时会如果有鉴权时的错误信息，会返回错误。如果正常会返回房间的基本信息，以及所有的聊天记录。同时发送系统信息。
+
+```kotlin
+@MessageMapping("/status")
+@SendToUser("/queue/status")
+fun status(accessor: SimpMessageHeaderAccessor): CommonMessage<*> {
+    return if (accessor.user != null) {
+        chatService.sendSystemMessage(200, accessor.user!!.name)
+        CommonMessage.success(InitData(accessor.user!!.name.toInt(), chatService.users.size, chatService.messages, chatService.code,GEN_CODE_TIME_IN_MINUTES, REMOVE_MESSAGE_TIME_IN_MINUTES))
+    } else {
+        CommonMessage.fail(accessor.sessionAttributes!!["error"] as String)
+    }
+}
+```
+
+2. 发送消息，添加到聊天记录即可。
+
+```kotlin
+@MessageMapping("/all")
+fun all(message: String, user: Principal): CommonMessage<ChatMessage> {
+    val msg = ChatMessage(user.name.toInt(), Date(), message, 0)
+    chatService.messages.add(msg)
+    return CommonMessage.success(msg)
+}
+```
+
+## 定时服务及系统消息
+
+`ChatService`中要维护所有用户、历史消息记录、邀请码
+
+1. 所有用户是一个HashSet，`var users =  HashSet<ChatUser>()`，`ChatUser`使用id作为`hashcode`。
+2. 更新邀请码的频率较高，所以会同时检查过期消息并移除
+
+```kotlin
+fun generateCode() {
+    this.code = randomString(16)
+    logger.info("${Date().toLocaleString()}: $code")
+    this.sendSystemMessage(100, this.code)
+    removeOutdatedMessage()
+}
+```
+3. 移除过期消息，消息列表是一个队列，如果队列头部的消息已过期，需要递归检查下一个
+
+```kotlin
+fun removeOutdatedMessage() {
+    logger.info("${Date().toLocaleString()}: removeOutdatedMessage")
+    if (messages.size > 0) {
+        val message = messages[0]
+        if (Date().time - message.time.time > REMOVE_MESSAGE_TIME_IN_MINUTES * 60L * 1000) {
+            messages.removeAt(0)
+            removeOutdatedMessage()
+        }
+    }
+}
+```
+
+至此，后端核心技术要点已介绍完毕，最后放上github仓库，完整代码：<https://github.com/wangyucode/chatroom-spring-websocket-stomp>
+
+线上完整项目演示请直接访问: <https://wycode.cn/lab/chat>
+
+基于Angular的前端项目将在下篇博客介绍。
+
+30:Tf60,
+![docker](https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png)
+
+Docker容器化技术，使得部署变得平滑。再也不需要维护软件运行所需的复杂环境。Docker和现代化的微服务，敏捷开发，快速迭代和交付的要求非常匹配。
+
+这篇文章实践从安装Docker开始，到将一个SpringBoot项目部署到Docker容器中。
+
+<!--more-->
+
+## 安装Docker CE(Community edition)
+
+我这里使用的环境是`Ubuntu18.04`
+
+```bash
+$ curl -fsSL https://get.docker.com -o get-docker.sh
+$ sudo sh get-docker.sh
+$ systemctl enable docker
+$ systemctl start docker
+```
+
+## 准备SpringBoot工程
+
+这里我使用Spring官方的Docker示例项目
+
+`git clone https://github.com/spring-guides/gs-spring-boot-docker.git`
+
+## Dockerfile
+
+SpringBoot的`Dockerfile`有两种
+
+简单版的如下：
+```
+FROM openjdk:8-jdk-alpine
+VOLUME /tmp
+ARG JAR_FILE
+COPY ${JAR_FILE} app.jar
+ENTRYPOINT ["java","-jar","/app.jar"]
+```
+这是典型的SpringBoot项目启动方式
+
+复杂版的如下：
+```
+FROM openjdk:8-jdk-alpine
+VOLUME /tmp
+ARG DEPENDENCY=target/dependency
+COPY ${DEPENDENCY}/BOOT-INF/lib /app/lib
+COPY ${DEPENDENCY}/META-INF /app/META-INF
+COPY ${DEPENDENCY}/BOOT-INF/classes /app
+ENTRYPOINT ["java","-cp","app:app/lib/*","hello.Application"]
+```
+这是将lib和src分离的方式，有点像展开的jar
+
+我这里选择上面简单版的，简洁和性能之间我选简洁！
+
+## 基于maven构建Docker镜像
+
+使用Maven的话有Spotify构建的`dockerfile-maven-plugin`插件
+```xml
+<!-- tag::plugin[] -->
+<plugin>
+    <groupId>com.spotify</groupId>
+    <artifactId>dockerfile-maven-plugin</artifactId>
+    <version>1.4.9</version>
+    <executions>
+        <execution>
+            <id>default</id>
+            <phase>install</phase>
+            <goals>
+                <goal>build</goal>
+                <goal>push</goal>
+            </goals>
+        </execution>
+    </executions>
+    <configuration>
+        <repository>${docker.image.prefix}/${project.artifactId}</repository>
+        <buildArgs>
+            <JAR_FILE>${project.build.finalName}.jar</JAR_FILE>
+        </buildArgs>
+    </configuration>
+</plugin>
+<!-- end::plugin[] -->
+```
+
+- 添加了两个maven任务，build用户构建docker镜像，push用于推送docker镜像。
+- 添加了构建参数`buildArgs`>`JAR_FILE`传递给Dockerfile。
+- 添加了版本号作为镜像tag
+
+> 打包Docker镜像本身是需要docker环境的，于是有一种方法是开启remote API
+> 到这里其实就已经可以发布程序到DockerHub了，但实际项目中，我们不想发布私人镜像到DockerHub，那么我们需要建立私人的Docker仓库。
+
+## 开启remote API远程构建镜像
+
+Docker是CS模式，Docker的服务是支持通过Http远程访问的。通过开启remote API即可远程进行访问。
+```
+ExecStart=/usr/bin/dockerd -H fd:// -H tcp://0.0.0.0:2376
+```
+但要注意的remote API是需要进行TSL加密的。否则存在未授权访问漏洞，会被黑客利用，植入挖矿程序（别问我怎么知道的）。
+
+## 建立Docker私人仓库（Docker Registry）
+
+具体方式是添加一个仓库镜像
+
+```bash
+$ docker run -d -p 5000:5000 --restart always --name registry registry:2
+```
+
+然后就可以：
+
+```bash
+$ docker pull ubuntu
+$ docker tag ubuntu localhost:5000/ubuntu
+$ docker push localhost:5000/ubuntu
+```
+
+> 为了安全，创建的私有仓库也要添加Https
+
+## 总结
+
+使用docker部署SpringBoot工程时，正规的流程应该是：
+1. 为工程编写Dockerfile
+2. 添加Docker插件，构建Docker镜像
+3. push到公共或私有Docker仓库
+4. 拉取最新镜像并运行
+
+本地无法构建时，应使用某种持续集成方法让编译机去负责出包和推送，不应该使用remote API这不是常规做法，而且有安全风险。
+此外Docker官方提供了安全的私有Docker仓库，少量使用是免费的。31:T8dd,
+![virtual-box](https://www.virtualbox.org/graphics/vbox_logo2_gradient.png)
+
+VirtualBox是著名的开源虚拟机软件，最初由Sun公司出品。后来Sun公司被Oracle收购。Sun公司的包括Java和VirtualBox，现在都是Oracle公司的软件。
+
+配置虚拟机时，对于如何选择网络类型一直是一头雾水，这篇文章将VirtualBox的7种网络模式全部都总结一下。
+
+不同模式的原理，也适用于VMWare。
+
+<!--more-->
+
+## Not attached
+
+这个模式会向虚拟机报告有网卡，但没有物理连接。
+就像拔网线一个效果。
+对于通知虚拟机重新配置网络很有用。
+
+## Network Address Translation (NAT)
+
+如果你只是想在虚拟机内访问互联网，这个模式就足够了。
+这种模式有很多限制，比如无法ping通。不支持UDP广播。除了TCP和UDP之外的协议不支持。
+
+## NAT Network
+
+和NAT差不多，NAT网络就像虚拟机在一个路由器后面一样。外部访问需要设置端口转发。
+
+## Bridged Networking
+
+即桥接，虚拟机将直接链接某个宿主机物理网卡，而不用通过宿主机操作系统的网络。
+
+## Internal networking
+
+这种网络仅在虚拟机内部可见，宿主机及外部不可见。
+
+## Host-only networking
+
+这种可以创建一个虚拟的网络组，包含宿主机和虚拟机，宿主机上会有一个虚拟的网卡，提供和虚拟机之间的连接。
+
+## Generic networking
+
+这种相当于自定义，可以自由选择网卡驱动，一般情况下用不着这个。
+
+## 各种模式可访问性：
+
+| 模式 | 虚拟机→宿主机 | 宿主机→虚拟机 | 虚拟机A→虚拟机B | 虚拟机→互联网 | 互联网→虚拟机 |
+| ------ | ------------ | ------------ | -------------- | ------------ | ------------ |
+| Host-only | √ | √ | √ | X | X |
+| Internal | X | X | √ | X | X |
+| Bridged | √ | √ | √ | √ | √ |
+| NAT | √ | 端口转发 | X | √ | 端口转发 |
+| NATservice | √ | 端口转发 | √ | √ | 端口转发 |
+
+## 总结
+
+绝大多数情况下，我们需要虚拟机可以上网，这时设置一个`NAT`的模式。
+然后我们还需要主机可以访问虚拟机的服务，这时我们可以为虚拟机再加一个网卡设置为`Host-only`模式。32:Tc3e,
+![Network](https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg)
+
+当我们需要在外网访问处于内网的服务时，就需要内网穿透这个技术了。
+
+本文介绍实现内网穿透的多种方式
+
+<!--more-->
+
+## 有外网IP
+
+如果你的宽带接入是有外网IP的，那很简单，只需要设置路由器的端口转发就可以了。
+
+查看自己是不是有外网IP也很简单，查看路由器获取到的IP和真实的外网IP是否一致就知道了。
+
+真实外网IP，通过搜索引擎搜索IP即可获取。
+
+由于现在小区宽带都是接入到服务商的大路由上，IPV4的资源也很珍贵，所以基本都是没有外网IP的，本文重点讨论没有外网IP的情况。
+
+## 付费方案
+
+[https://www.oray.com](https://www.oray.com)
+
+花生壳提供软件解决方案，同时他们也提供能够实现穿透的硬件方案。
+
+当然还有`NAT123`，但是他们的官网就像是上个世纪的网站，还是算了吧。
+
+## ngrok
+
+![Network](https://camo.githubusercontent.com/f2d698991e6a0411680413ebcc15a6460b8beda3/68747470733a2f2f6e67726f6b2e636f6d2f7374617469632f696d672f6f766572766965772e706e67)
+
+ngrok1.x是开源的，地址在这：[https://github.com/inconshreveable/ngrok](https://github.com/inconshreveable/ngrok)
+ngrok2.x是闭源的，官网在这：[https://ngrok.com](https://ngrok.com)
+
+ngrok商业化之后估计1.x就很少维护了，2.x目前是有限制的免费。
+
+## frp
+
+![Network](https://github.com/fatedier/frp/raw/master/doc/pic/architecture.png)
+
+`frp`是一个开源的内网穿透的反向代理应用，支持 tcp, udp 协议。
+
+[https://github.com/fatedier/frp](https://github.com/fatedier/frp)
+
+用户通过访问一个装有`frps`的公网服务器，由服务器代理访问处于内网，并安装了`frpc`的内网服务
+
+配置方式，请参考他们的github仓库
+
+## v2ray
+
+`v2ray`通常用于科学上网，但是由于一个 V2Ray 进程可并发支持多个入站和出站协议，所以它也可以用于内网穿透。
+
+反向代理的大致工作原理如下:
+
+- 假设在主机 A 中有一个网页服务器，这台主机没有公网 IP，无法在公网上直接访问。另有一台主机 B，它可以由公网访问。现在我们需要把 B 作为入口，把流量从 B 转发到 A。
+- 在主机 A 中配置一个 V2Ray，称为bridge，在 B 中也配置一个 V2Ray，称为portal。
+- bridge会向portal主动建立连接，此连接的目标地址可以自行设定。portal会收到两种连接，一是由bridge发来的连接，二是公网用户发来的连接。portal会自动将两类连接合并。于是bridge就可以收到公网流量了。
+- bridge在收到公网流量之后，会将其原封不动地发给主机 A 中的网页服务器。当然，这一步需要路由的协作。
+- bridge会根据流量的大小进行动态的负载均衡。
+
+具体配置请参考官网及github
+
+[https://www.v2ray.com](https://www.v2ray.com)
+[https://github.com/V2Ray/v2ray-core](https://github.com/V2Ray/v2ray-core)2b:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L2e",null,{"recentArticles":[{"id":"websocket","file":"websocket.md","content":"$2f","data":{"title":"使用WebSocket和STOMP协议开发一个匿名聊天室","date":"2020-03-09","tags":["WebSocket","Spring Boot","Kotlin"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![chat](/apps/chat2.png)\n\n有时候就想和其他人安全地聊个天，它需要有这些特征：\n\n- 基于web技术，只需一个网页，无需下载任何App，易于转发。\n- 无需注册，使用简单，基于邀请码加入聊天，邀请码定时刷新。\n- 完全匿名。\n- 消息只保留在内存中，超时自动删除。\n- 进行在线人数统计，能设置最大人数上限。\n- 用户上下线和邀请码刷新时有系统提示。\n- Web连接必然是不稳定的，所以断线必须能够重连。\n\n线上Demo演示请直接访问: <https://wycode.cn/lab/chat>\n\n技术方面：\n\n- 使用`WebSocket`协议提供Web上的全双工通信支持。\n- 使用`STOMP`作为上层协议，它基于帧(`Frame`)，和Http请求很类似，提供了一种发布订阅的模式，很适合需求的群聊模式。\n- 后端采用`Kotlin` + `SpringBoot`，前端采用`Typescript` + `Angular` + `AntDesign`，均使用最新版本。\n\n"},{"id":"docker-spring","file":"docker-spring.md","content":"$30","data":{"title":"使用Docker容器部署SpringBoot项目","date":"2019-11-20","tags":["Linux","Docker","Spring Boot"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![docker](https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png)\n\nDocker容器化技术，使得部署变得平滑。再也不需要维护软件运行所需的复杂环境。Docker和现代化的微服务，敏捷开发，快速迭代和交付的要求非常匹配。\n\n这篇文章实践从安装Docker开始，到将一个SpringBoot项目部署到Docker容器中。\n\n"},{"id":"virtualbox-network","file":"virtualbox-network.md","content":"$31","data":{"title":"VirtualBox的虚拟机网络配置","date":"2019-09-20","tags":["VirtualBox"],"category":"Linux"},"isEmpty":false,"excerpt":"\n![virtual-box](https://www.virtualbox.org/graphics/vbox_logo2_gradient.png)\n\nVirtualBox是著名的开源虚拟机软件，最初由Sun公司出品。后来Sun公司被Oracle收购。Sun公司的包括Java和VirtualBox，现在都是Oracle公司的软件。\n\n配置虚拟机时，对于如何选择网络类型一直是一头雾水，这篇文章将VirtualBox的7种网络模式全部都总结一下。\n\n不同模式的原理，也适用于VMWare。\n\n"},{"id":"ngrok","file":"ngrok.md","content":"$32","data":{"title":"实现内网穿透的最新姿势","date":"2019-09-02","tags":["Linux"],"category":"Linux"},"isEmpty":false,"excerpt":"\n![Network](https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg)\n\n当我们需要在外网访问处于内网的服务时，就需要内网穿透这个技术了。\n\n本文介绍实现内网穿透的多种方式\n\n"},{"id":"h2-password","file":"h2-password.md","content":"\n![H2](https://www.h2database.com/html/images/h2-logo-2.png)\n\n使用中的H2数据库如何修改用户名密码呢？执行下面的SQL就可以了：\n\n```sql\nalter user wayne set password '*****password*****'\n```","data":{"title":"H2数据库修改密码","date":"2019-08-14","tags":["SQL"],"category":"Backend"},"isEmpty":false,"excerpt":""}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L33","$L34","$L35","$L36","$L37"]}]
+3d:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+2c:["$","$L3",null,{"href":"/blog/docker-spring","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+38:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z35:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$38"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":"$L39"}],"$L3a"]}],"$L3b","$L3c"]}]]}]]}]}]
+36:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+37:["$","$L3d",null,{}]
+:HL["/about/wechat.jpg","image"]
+39:["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]
+3a:["$","p",null,{"children":"或添加微信："}]
+3b:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+3c:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]
+33:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L3","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L3","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L3","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L3","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L3","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L3","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+34:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L3","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67","$L68","$L69","$L6a","$L6b","$L6c","$L6d","$L6e","$L6f","$L70","$L71","$L72","$L73"]}]]}]}]
+3e:["$","$L3","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+3f:["$","$L3","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+40:["$","$L3","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+41:["$","$L3","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L3","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+43:["$","$L3","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+44:["$","$L3","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L3","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+46:["$","$L3","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+47:["$","$L3","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+48:["$","$L3","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+49:["$","$L3","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+4a:["$","$L3","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4b:["$","$L3","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L3","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4d:["$","$L3","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4e:["$","$L3","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+4f:["$","$L3","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+50:["$","$L3","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+51:["$","$L3","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L3","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+53:["$","$L3","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+54:["$","$L3","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+55:["$","$L3","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+56:["$","$L3","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+57:["$","$L3","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+58:["$","$L3","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+59:["$","$L3","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+5a:["$","$L3","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5b:["$","$L3","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+5c:["$","$L3","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+5d:["$","$L3","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5e:["$","$L3","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5f:["$","$L3","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+60:["$","$L3","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+61:["$","$L3","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+62:["$","$L3","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+63:["$","$L3","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+64:["$","$L3","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+65:["$","$L3","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+66:["$","$L3","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+67:["$","$L3","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+68:["$","$L3","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+69:["$","$L3","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+6a:["$","$L3","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+6b:["$","$L3","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+6c:["$","$L3","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+6d:["$","$L3","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+6e:["$","$L3","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+6f:["$","$L3","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+70:["$","$L3","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+71:["$","$L3","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+72:["$","$L3","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+73:["$","$L3","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+74:I[72175,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"IconMark"]
+17:null
+1b:[["$","title","0",{"children":"博客 - 第4页 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"王郁的小站博客 - 第4页"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"王郁,缺氧,AI,JS,Java"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"prev","href":"/blog/3"}],["$","link","6",{"rel":"next","href":"/blog/5"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L74","9",{}]]

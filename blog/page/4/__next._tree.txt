@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+:HL["/apps/chat2.png","image"]
+:HL["https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png","image"]
+:HL["https://www.virtualbox.org/graphics/vbox_logo2_gradient.png","image"]
+:HL["https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg","image"]
+:HL["https://www.h2database.com/html/images/h2-logo-2.png","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":null,"paramKey":"page","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"4","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

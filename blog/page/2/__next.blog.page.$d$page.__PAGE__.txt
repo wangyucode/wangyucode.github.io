@@ -1,0 +1,378 @@
+1:"$Sreact.fragment"
+2:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+16:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+20:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+21:"$Sreact.suspense"
+5d:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+:HL["https://git-scm.com/images/logo@2x.png","image"]
+:HL["https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg","image"]
+:HL["https://www.zhengdexing.org/2020/10/20/HTTP%E5%8D%8F%E8%AE%AE-HTTP3/6301972-9482e8b53c342058.png","image"]
+:HL["https://www.w3cschool.cn/attachments/image/20170808/1502178281486445.png","image"]
+:HL["https://p1.qhimg.com/t016f1e762c0161d220.jpg","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":[["$","section",null,{"className":"flex flex-col gap-4 lg:flex-2","children":[["$","article","ssh-key",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/ssh-key","children":"解决 invalid format git@github.com: Permission denied (publickey)."}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2023-09-11"]}],["$","$L2",null,{"href":"/blog/category/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Linux"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Linux",{"href":"/blog/tag/linux","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Linux"}],["$","$L2","Git",{"href":"/blog/tag/git","className":"px-2 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-sm rounded-full","children":"Git"}]]}]]}],["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://git-scm.com/images/logo@2x.png","alt":"git","node":{"type":"element","tagName":"img","properties":{"src":"https://git-scm.com/images/logo@2x.png","alt":"git"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":47,"offset":47}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"git"}]]}],"\n",["$","p","p-0",{"children":"git 在远端 pull 或者 push 时报："}],"\n",["$","pre","pre-0",{"children":["$","code","code-0",{"children":"invalid format git@github.com: Permission denied (publickey).\n"}]}],"\n",["$","h2","h2-0",{"children":"问题场景："}],"\n",["$","p","p-1",{"children":"windows 上把 private key 的内容复制到文本编辑器时会出现。"}],"\n","$L3","\n","$L4","\n","$L5","\n","$L6","\n","$L7","\n","$L8","\n","$L9"]}]]}]}],"$La","$Lb","$Lc","$Ld"]}],"$Le"]}],"$Lf"]}]}],["$L10"],"$L11"]}],"loading":null,"isPartial":false}
+3:["$","h2","h2-1",{"children":"根本原因："}]
+4:["$","p","p-2",{"children":["私钥的换行是单字符",["$","code","code-0",{"children":"LF"}],"，但 windows 的默认换行符是",["$","code","code-1",{"children":"CRLF"}],"，所以导致 git 读取私钥报格式错误。"]}]
+5:["$","h2","h2-2",{"children":"解决办法："}]
+6:["$","p","p-3",{"children":["使用文本编辑器修改换行符，例如 VSCODE 中状态栏点击",["$","code","code-0",{"children":"CRLF"}],"，然后切换成",["$","code","code-1",{"children":"LF"}],"。"]}]
+7:["$","h2","h2-3",{"children":"笔记："}]
+8:["$","p","p-4",{"children":["通过",["$","code","code-0",{"children":"ssh -vT git@github.com"}]," 可以查看详细的 ssh log，来排查 ssh 的问题。\n出现如下 log 说明 ssh key 已经正常配置："]}]
+9:["$","pre","pre-1",{"children":["$","code","code-0",{"children":"Hi wangyucode! You've successfully authenticated, but GitHub does not provide shell access.\n"}]}]
+a:["$","article","chat-gpt",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/chat-gpt","children":"ChatGPT是如何被训练出来的"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2022-12-01"]}],["$","$L2",null,{"href":"/blog/category/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"AI"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","ChatGPT",{"href":"/blog/tag/chatgpt","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"ChatGPT"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg","alt":"ChatGPT","node":{"type":"element","tagName":"img","properties":{"src":"https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg","alt":"ChatGPT"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":79,"offset":79}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"ChatGPT"}]]}],"\n",["$","p","p-0",{"children":"ChatGPT是OpenAI在2022年11月推出的新一代由人工智能技术推动的自然语言处理模型。ChatGPT公布没多久，各大搜索引擎厂商都宣布正在开发自己的新版NPL模型，也是因为他们感受到了来自ChatGPT的压力。它能够理解并生成人类语言，能够回答问题，撰写文案，写诗歌，编故事，写代码，做Excel表格，它拥有上下文对话能力，在典型的使用场景下难以分辨是真人还是机器。ChatGPT被认为是下一代的搜索引，将会引起新一轮的技术革新浪潮。"}],"\n",["$","p","p-1",{"children":"本文介绍ChatGPT背后的工作原理和训练过程。"}]]}],["$","$L2",null,{"href":"/blog/chat-gpt","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+b:["$","article","http3",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/http3","children":"升级到HTTP3"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2022-09-29"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","HTTP",{"href":"/blog/tag/http","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"HTTP"}],["$","$L2","NGINX",{"href":"/blog/tag/nginx","className":"px-2 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-sm rounded-full","children":"NGINX"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.zhengdexing.org/2020/10/20/HTTP%E5%8D%8F%E8%AE%AE-HTTP3/6301972-9482e8b53c342058.png","alt":"http3","node":{"type":"element","tagName":"img","properties":{"src":"https://www.zhengdexing.org/2020/10/20/HTTP%E5%8D%8F%E8%AE%AE-HTTP3/6301972-9482e8b53c342058.png","alt":"http3"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":107,"offset":107}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"http3"}]]}],"\n",["$","p","p-0",{"children":["基于 UDP 的 HTTP/3 协议规范",["$","a","a-0",{"href":"https://datatracker.ietf.org/doc/html/rfc9114","children":"RFC 9114"}],"于 2022 年 6 月发表。而 HTTP/2 协议规范",["$","a","a-1",{"href":"https://httpwg.org/specs/rfc7540.html","children":"RFC 7540"}],"早在 2015 年 5 月发表。但是仍然有很多网站在使用更加古老的 HTTP1.1。"]}],"\n",["$","p","p-1",{"children":["HTTP/2 通过多路复用（multiplexing）和头部压缩，能够有效降低延迟。同时还提供了不同于",["$","code","code-0",{"children":"WebScoket"}],"协议的服务端推送的新方法。"]}],"\n",["$","p","p-2",{"children":"HTTP3 则使用基于 UDP 的 QUIC 协议，从根本上解决头部阻塞的问题，特别适用于移动网络不稳定情况下的网络效率改善。"}],"\n","$L12"]}],"$L13"]]}]}]
+c:["$","article","esm-node-ts",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/esm-node-ts","children":"esModule + NodeJS + TypeScript 的工程配置"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2022-09-22"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}],["$","$L2","TypeScript",{"href":"/blog/tag/typescript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"TypeScript"}],["$","$L2","NodeJS",{"href":"/blog/tag/nodejs","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"NodeJS"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.w3cschool.cn/attachments/image/20170808/1502178281486445.png","alt":"nodejs","node":{"type":"element","tagName":"img","properties":{"src":"https://www.w3cschool.cn/attachments/image/20170808/1502178281486445.png","alt":"nodejs"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":84,"offset":84}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"nodejs"}]]}],"\n",["$","p","p-0",{"children":"JavaScript的模块化方案经历了长时间的发展，最终于2015年在ES6实现了语言层面的标准化，即esModule（以下简称esm）, 现在JS社区开始拥抱esm，很多npm包仅采用esm发布。"}],"\n",["$","p","p-1",{"children":"而NodeJS一直依赖采用CommonJS的模块化方案，在最近发布的版本中也开始支持ems, 由于巨大的历史包袱，NodeJS并没有抛弃CommonJS，所以在NodeJS中实际支持两种模块化方式，esm和CommonJS."}],"\n","$L14"]}],"$L15"]]}]}]
+d:["$","article","the-crowd",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/the-crowd","children":"《乌合之众：大众心理研究》热门标注"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2021-07-22"]}],["$","$L2",null,{"href":"/blog/category/story","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Story"]}]]}],false,[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://p1.qhimg.com/t016f1e762c0161d220.jpg","alt":"The Crowd","node":{"type":"element","tagName":"img","properties":{"src":"https://p1.qhimg.com/t016f1e762c0161d220.jpg","alt":"The Crowd"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":59,"offset":59}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"The Crowd"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"闻有吏虽乱而有独善之民，不闻有乱民而有独治之吏\n—《韩非子·外储说》"}],"\n"]}],"\n",["$","p","p-0",{"children":"《乌合之众：大众心理研究》是一本研究大众心理学的著作。是法国社会心理学家古斯塔夫·勒庞创作的社会心理学著作，首次出版于1895年。勒庞指出：个人一旦融入群体，他们的个性将会被湮灭，群体的思想便会占据统治地位，而与此同时群体的行为也会变现为排斥异议、极端化、情绪化低智商化等特点，进而对社会产生破坏性的影响。"}],"\n",["$","p","p-1",{"children":"读了此书，你会明白过去、现在、以及将来全世界发生的各种群体事件背后的直接原因。"}],"\n",["$","p","p-2",{"children":"本文摘抄了《乌合之众：大众心理研究》在Kindle电子书中的热门标注："}]]}],["$","$L2",null,{"href":"/blog/the-crowd","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+e:["$","div",null,{"className":"flex justify-center items-center space-x-2 mt-4","children":[["$","$L2",null,{"href":"/","className":"btn btn-sm btn-circle","aria-label":"上一页","title":"上一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M15.75 19.5 8.25 12l7.5-7.5"}]]}]}],["$","div",null,{"className":"join","children":[["$","$L2","1",{"href":"/","className":"join-item btn btn-sm ","children":1}],["$","$L2","2",{"href":"/blog/page/2","className":"join-item btn btn-sm btn-active","children":2}],["$","$L2","3",{"href":"/blog/page/3","className":"join-item btn btn-sm ","children":3}],["$","$L2","4",{"href":"/blog/page/4","className":"join-item btn btn-sm ","children":4}],["$","$L2","5",{"href":"/blog/page/5","className":"join-item btn btn-sm ","children":5}],["$","span","ellipsis-5",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L2","16",{"href":"/blog/page/16","className":"join-item btn btn-sm ","children":16}]]}],["$","$L2",null,{"href":"/blog/page/3","className":"btn btn-sm btn-circle","aria-label":"下一页","title":"下一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m8.25 4.5 7.5 7.5-7.5 7.5"}]]}]}]]}]
+17:Tc1f,
+![ChatGPT](https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg)
+
+ChatGPT是OpenAI在2022年11月推出的新一代由人工智能技术推动的自然语言处理模型。ChatGPT公布没多久，各大搜索引擎厂商都宣布正在开发自己的新版NPL模型，也是因为他们感受到了来自ChatGPT的压力。它能够理解并生成人类语言，能够回答问题，撰写文案，写诗歌，编故事，写代码，做Excel表格，它拥有上下文对话能力，在典型的使用场景下难以分辨是真人还是机器。ChatGPT被认为是下一代的搜索引，将会引起新一轮的技术革新浪潮。
+
+本文介绍ChatGPT背后的工作原理和训练过程。
+
+<!--more-->
+
+## 罗马不是一天建成的
+
+ChatGPT脱胎于InstructGPT，而InstructGPT的前身是GPT-3，GPT-3的诞生就已经引起了业界的轰动，它的模型参数达到了1750亿，这比谷歌的BERT模型3.7亿参数大了400多倍。并且GPT-3可以使用很小的数据集来训练。
+
+GPT-3的缺陷：由于GPT-3使用使用互联网上巨大的数据集训练来预测下一个词，而不是去符合用户的期待，所以它难免会输出不可信的，或者有害的信息，负面的情绪等。
+
+InstructGPT的改进：通过基于人类反馈的强化学习（RLHF - reinforcement learning from human feedback），通过人类对模型的输出进行评分反馈来优化模型的行为。这使得模型更倾向于听人话而不是胡说八道。
+
+## InstructGPT的训练过程
+
+1. 使用人工生成的示例 + 监督学习 + GPT-3训练一个模型出来
+2. 然后不同模型生成多种输出 + 人工标记 训练一个奖励模型
+3. 通过奖励模型 + 强化学习 + PPO算法 训练一开始的模型
+
+由于步骤2要使用人工标记，这与预训练的模型数据量相比还不到2%，尽管对比GPT-3已经有了很大改进，InstructGPT也并不是完全安全的，它仍然会生成有偏见的输出，撒谎，输出有毒的内容。
+
+OpenAI也提到，目前训练的数据基于讲英语的社会价值观，最终需要更负责任和包容的选择。
+
+## ChatGPT更进一步
+
+- ChatGPT的基础模型来自于训练GPT-3.5, 这个GPT-3.5是由一个代码补全模型，经InstructGPT优化而来。
+- 训练人员通过扮演用户和AI助手来生成模板对话，并将这些数据混合到InstructGPT的数据集中，然后将模型变成了一种对话的格式。
+- 和InstructGPT一样地，通过对模型的输出进行随机采样和人工评分。然后用得到的奖励模型，使用强化学习对初始模型进行训练。并对这个过程进行数次迭代。
+
+## 持续进化
+
+ChatGPT也不是完美的，但是它在持续进化，OpenAI做了一个网页聊天室<https://chat.openai.com/>，让ChatGPT接受来自更多用户的测试和评价。
+此外集成了ChatGPT的新版Bing在公测中。
+OpenAI肯定会基于收集的大量测试数据和用户反馈来升级和更新模型。
+
+真正的通用人工智能，或是有自由意识的人工智能还有多远，我们拭目以待。
+
+
+
+
+18:Ta41,
+![http3](https://www.zhengdexing.org/2020/10/20/HTTP%E5%8D%8F%E8%AE%AE-HTTP3/6301972-9482e8b53c342058.png)
+
+基于 UDP 的 HTTP/3 协议规范[RFC 9114](https://datatracker.ietf.org/doc/html/rfc9114)于 2022 年 6 月发表。而 HTTP/2 协议规范[RFC 7540](https://httpwg.org/specs/rfc7540.html)早在 2015 年 5 月发表。但是仍然有很多网站在使用更加古老的 HTTP1.1。
+
+HTTP/2 通过多路复用（multiplexing）和头部压缩，能够有效降低延迟。同时还提供了不同于`WebScoket`协议的服务端推送的新方法。
+
+HTTP3 则使用基于 UDP 的 QUIC 协议，从根本上解决头部阻塞的问题，特别适用于移动网络不稳定情况下的网络效率改善。
+
+本文介绍 HTTP2，HTTP3 协议的新特性，以及通过 NGINX 升级到 HTTP2 和 HTTP3 的方法。
+
+<!--more-->
+
+## 回顾 HTTP/1.0 和 HTTP/1.1
+
+- HTTP/1.0 每发送一个请求，就要建立一个新的 TCP 连接。
+- HTTP/1.1 加入了请求流水线（request pipelining），和持久连接。但多数情况下仍然会对不同的请求建立多个连接。由于 TCP 的特性，阻塞控制无法在多个连接之间共享，且浏览器限制了同服务器的总连接数。所以网络效率仍然较低。
+- 此外 HTTP/1.1 和 1.0 都使用明文，用空格和回车进行字段分割，这导致了解析的复杂性和对不同变体的容忍度提升。
+
+## HTTP2
+
+HTTP/2 引入了二进制帧和多路复用来改善延迟，但它没有修改传输层（TCP），由于 TCP 严格按照顺序发送数据包，当数据包发生丢失时，TCP 协议会重发数据包，所以在丢包率较高的情况下多路复用的机制反而会变慢。
+
+## HTTP3
+
+HTTP/3 使用基于 UDP 的 QUIC 协议，拥有 HTTP2 所有的优良特性，并且由于 UDP 天生无需握手，且在网络环境发生变化时无需重新建立连接，例如切换移动网络到 WIFI。
+
+## 升级到 HTTP2
+
+NGINX 默认使用 HTTP/1.1, 我们只需简单的添加`http2`到`listen`指令即可无痛升级到 HTTP2：
+
+```nginx
+...
+server {
+    listen 443 ssl http2;
+    ...
+}
+```
+
+## 升级到 HTTP3
+
+截止到今天（2022 年 10 月 1 日），NGINX 对 HTTP3 的支持还在开发中（nginx-quic 分支），官方还没有发布基于此分支的 docker 镜像，这里我使用民间编译的镜像`dasskelett/nginx-quic`。
+
+修改配置:
+
+```nginx
+...
+server {
+    listen 443 ssl http2;
+    listen 443 http3 reuseport;
+    ...
+    ssl_early_data on;
+
+    add_header Alt-Svc 'h3=":443"; ma=86400';
+    add_header QUIC-Status $http3;
+    ...
+}
+```
+
+至此本站已全面支持 HTTP3。
+19:Tfc4,
+![nodejs](https://www.w3cschool.cn/attachments/image/20170808/1502178281486445.png)
+
+JavaScript的模块化方案经历了长时间的发展，最终于2015年在ES6实现了语言层面的标准化，即esModule（以下简称esm）, 现在JS社区开始拥抱esm，很多npm包仅采用esm发布。
+
+而NodeJS一直依赖采用CommonJS的模块化方案，在最近发布的版本中也开始支持ems, 由于巨大的历史包袱，NodeJS并没有抛弃CommonJS，所以在NodeJS中实际支持两种模块化方式，esm和CommonJS.
+
+此外，现在很多前端工程使用TypeScript开发，而TS的模块解析方式也需要进行一些配置，在这3者结合的过程中有很多坑，本文介绍将三者完美结合的最佳实践。
+
+<!--more-->
+
+## 同时引入CommonJS包和ESM包
+
+为了测试我们同时引入`lodash`的CommonJS版本和ESM版本
+
+```bash
+npm i lodash-es lodash
+```
+
+在NodeJS中，模块作者除非显示指定使用esm方式加载模块：
+
+- 使用`.mjs`
+- 在`package.json`中的`type`字段指定为`module`
+- 使用`--input-type`标记
+
+否则默认加载方式为CommonJS。
+
+而上面的例子中`lodash-es`的`package.json`中的`type`就是`module`。
+
+## 使用CommonJS包
+
+创建一个`common-js.js`文件：
+
+```javascript
+const _ = require('lodash');
+console.log(_.VERSION); // print '4.17.21'
+```
+
+以上是CommonJS的写法，很习以为常，能够正确打印。
+
+## 使用esm包
+
+创建一个`esm.js`文件：
+
+```javascript
+import _ from 'lodash-es';
+console.log(_.VERSION);
+```
+
+第1个坑出现了, 报语法错误：`SyntaxError: Cannot use import statement outside a module`
+
+说无法在模块外部使用import语句，一旦一个文件有顶级(top-level)的`import`或`export`，它会被当作一个模块，否则是一个脚本文件。
+
+所以我们需要把这个文件变成esm，两种方式：
+
+1. 重命名文件，修改扩展名为`.mjs`;
+2. 在`package.json`中添加`"type": "module"`
+
+但如果采用选项2，第2个坑就会出现了, 回去运行`common-js.js`报错：`ReferenceError: require is not defined in ES module scope, you can use import instead`。
+说`require`在esm中不支持，此时可以重命名`common-js.js`后缀为`.cjs`，告诉模块加载器，此文件以CommonJS加载。
+
+## 引入Typescript
+
+安装TS：
+
+```bash
+npm i typescript ts-node -D
+```
+
+> ts-node 可以在nodejs中直接运行ts文件而无需编译
+
+然后将刚才的`esm.js`和`common-js.cjs`扩展名改为`.ts`
+
+使用`ts-node`命令直接运行`esm.ts`
+
+```bash
+npx ts-node esm.ts
+```
+
+第3个坑出现了，扩展名不支持：`TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension ".ts" for xxx`
+
+这是因为esm的默认扩展名是js而不是ts，此时我们需要：
+
+1. `ts-node --esm`
+2. 添加 `"ts-node": {"esm": true}`到`tsconfig.json`。
+
+如果采用方案1，第4个坑出现了，无法找到模块：`error TS7016: Could not find a declaration file for module 'lodash-es'`。
+
+此时添加配置: `"esModuleInterop": true`到`tsconfig.json`的`compilerOptions`中。
+
+添加完成后第5个坑出现了，引用错误：`ReferenceError: exports is not defined in ES module scope`
+
+此时添加配置`module": "ESNext"`到`tsconfig.json`的`compilerOptions`中。
+
+添加完成后第6个坑出现了，找不到模块：`ReferenceError: exports is not defined in ES module scope`
+
+此时配置模块的解析方式为最新的`"moduleResolution": "Node16"`。
+
+到此终于可以成功运行`esm.ts`了。
+
+返回去运行`common-js.ts`:
+
+```bash
+npx ts-node common-js.ts
+```
+
+第7个坑出现了，它把我们的CommonJS模块当esm了：`ReferenceError: require is not defined in ES module scope, you can use import instead`
+
+此时处于鱼和熊掌不可兼得，因为我们设置了`module": "ESNext"`， 所以ts的编译结果会添加`export {}`，所以如果要在纯esm的工程中仍然要使用CommonJS，则使用`.cjs`作为扩展名即可。
+
+完整的代码在这里：https://github.com/wangyucode/esm-node-ts1a:T20e6,
+![The Crowd](https://p1.qhimg.com/t016f1e762c0161d220.jpg)
+
+> 闻有吏虽乱而有独善之民，不闻有乱民而有独治之吏 
+                    —《韩非子·外储说》
+
+《乌合之众：大众心理研究》是一本研究大众心理学的著作。是法国社会心理学家古斯塔夫·勒庞创作的社会心理学著作，首次出版于1895年。勒庞指出：个人一旦融入群体，他们的个性将会被湮灭，群体的思想便会占据统治地位，而与此同时群体的行为也会变现为排斥异议、极端化、情绪化低智商化等特点，进而对社会产生破坏性的影响。
+
+读了此书，你会明白过去、现在、以及将来全世界发生的各种群体事件背后的直接原因。
+
+本文摘抄了《乌合之众：大众心理研究》在Kindle电子书中的热门标注：
+
+<!--more-->
+
+## 热门标注
+
+> 自觉的个性的消失，以及感情和思想转向一个不同的方向，就是要变成组织化群体的人所表现出的首要特征。
+
+> 无意识现象不但在有机体的生活中，而且在智力活动中，都发挥着一种完全压倒性的作用。
+
+> 群体在智力上总是低于孤立的个人，但是感情及其激起的行动这个角度看，群体可以比个人表现的更好或更差，全看环境如何。
+
+> 孤立的个人具有主宰自己的反应的能力，群体则缺乏这种能力。
+
+> 大凡能够成就大业的领袖人物，他最重要的品质不是博学多识，而是必须“具备强大而持久的意志力”，这是一种“极为罕见、极为强大的品质，它足以征服一切。
+
+> 群体要想成为历史变迁的主角，它必须多多少少“为信仰而战”，也就是说，它的形成必须是为了某些简单而明确的信仰。
+
+> 在观念简单化效应的作用下，凡是有抱着怀疑的精神、相信在政治和社会问题上极不易发现“确定性真理”的人，尤其是一个习惯于用推理和讨论的方式说明问题的人，在群体中是没有地位的；当面对群情激奋时，他尤其会生出苍白无力的感觉：因为他意识到他要与之作对的，不仅仅是一种错误的行为，而且还有“多数的力量”，还有贯彻这种行为时的偏执态度。我们更能理解，所谓专业精英，不管他智力多么高强，他陈明利害得失的理性努力，面对被空洞的观念冲昏了头脑的群体，反而会产生一种自己十分迂腐的无聊感觉。更为可悲的是，面对群众的荒谬与狂热，明智之士更有可能根本不会作出这样的努力，而是同群体一起陷入其中，事后又惊叹于自己连常识都已忘却的愚蠢。
+
+> 因此在同人类的各种作为文明动力的感情——“譬如尊严、自我牺牲、宗教信仰、爱国主义以及对荣誉的爱”——的对抗中，理性在大多数时候都不是赢家。
+
+> 群体只知道简单而极端的感情；提供给他们的各种意见、想法和信念，他们或者全盘接受，或者一概拒绝；将其视为绝对真理或绝对谬论。
+
+> 进入了群体的个人，在“集体潜意识”机制的作用下，在心理上会产生一种本质性的变化。就像“动物、痴呆、社会主义者、幼儿和原始人”一样，这样的个人会不由自主地失去自我意识，完全变成另一种智力水平十分低下的生物。
+
+> 自法国大革命以来，由领袖、意识形态和勒庞意义上的群体所组成的这种新的三位一体，便取代了宗教与皇权，成为一切民主宪政架构之外政治合法性运动的要件，尤其在勒庞之后的一百年里，这种新的三位一体更是上演了一幕幕规模宏大而惨烈的悲剧。
+
+> 社会组织就像一切生命有机体一样复杂，我们还不具备强迫它们在突然之间发生深刻变革的智力”。因此他反对一个民族热衷于重大的政治和社会变革，他认为，这种变革的计划从理论上说无论多么出色，都不会使民族气质即刻出现变化（因为“只有时间具备这样的力量”）。采用激进的方式，借助于抽象的原则贯彻一种社会改造的蓝图，只会“使一个高度精致的文明倒退到社会进化更早期的阶段”
+
+> 人们在智力上差异最大，但他们却有着非常相似的本能和情感。在属于情感领域的每一种事情上——宗教、政治、道德、爱憎等等，最杰出的人士很少能比凡夫俗子高明多少。从智力上说，一个伟大的数学家和他的鞋匠之间可能有天壤之别，但是从性格的角度看，他们可能差别甚微或根本没有差别。
+
+> 在集体心理中，个人的才智被削弱了，从而他们的个性也被削弱了。异质性被同质性所吞没，无意识的品质占了上风。
+
+> 群体是个无名氏，因此也不必承担责任。这样一来，总是约束着个人的责任感便彻底消失了。
+
+> 有意识人格的消失，无意识人格的得势，思想和感情因暗示和相互传染作用而转向一个共同的方向，以及立刻把暗示的观念转化为行动的倾向，是组成群体的个人所表现出来的主要特点。他不再是他自己，他变成了一个不再受自己意志支配的玩偶。
+
+> 群体中的个人不但在行动上和他本人有着本质的差别，甚至在完全失去独立性之前，他的思想和感情就已经发生了变化，这种变化是如此深刻，它可以让一个守财奴变得挥霍无度，把怀疑论者改造成信徒，把老实人变成罪犯，把懦夫变成豪杰。
+
+> 群体可以转瞬之间就从最血腥的狂热变成最极端的宽宏大量和英雄主义。群体很容易做出刽子手的举动，同样也很容易慷慨赴义。正是群体，为每一种信仰的胜利而不惜血流成河。
+
+> 群体因为夸大自己的感情，因此它只会被极端感情所打动。希望感动群体的演说家，必须出言不逊，信誓旦旦。夸大其辞、言之凿凿、不断重复，绝对不以说理的方式证明任何事情
+
+> 群体只知道简单而极端的感情；提供给他们的各种意见、想法和信念，他们或者全盘接受，或者一概拒绝；将其视为绝对真理或绝对谬论。用暗示的办法加以诱导而不是作出合理解释的信念，历来都是如此。与宗教信仰有关的偏执及其对人们的头脑实行的专制统治，早就为大家所知。
+
+> 在公众集会上，演说者哪怕作出最轻微的反驳，立刻就会招来怒吼和粗野的叫骂。在一片嘘声和驱逐声中，演说者很快就会败下阵来。当然，假如现场缺少当权者的代表这种约束性因素，反驳者往往会被打死。
+
+> 群体可以杀人放火，无恶不作，但是也能表现出极崇高的献身、牺牲和不计名利的举动，即孤立的个人根本做不到的极崇高的行为。以名誉、光荣和爱国主义作为号召，最有可能影响到组成群体的个人，而且经常可以达到使他慷慨赴死的地步。
+
+> 群体推理的特点，是把彼此不同、只在表面上相似的事物搅在一起，并且立刻把具体的事物普遍化。
+
+> 影响民众想象力的，并不是事实本身，而是它们发生和引起注意的方式。如果让我表明看法的话，我会说，必须对它们进行浓缩加工，它们才会形成一种令人瞠目结舌的惊人形象。掌握了影响群众想象力的艺术，也就掌握了统治他们的艺术。
+
+> 一切政治、神学或社会信条，要想在群众中扎根，都必须采取宗教的形式——能够把危险的讨论排除在外的形式。即便有可能使群众接受无神论，这种信念也会表现出宗教情感中所有的偏执狂，它很快就会表现为一种崇拜。
+
+> 词语的威力与它们所唤醒的形象有关，同时又独立于它们的真实含义。最不明确的词语，有时反而影响最大。例如像民主、社会主义、平等、自由等等，它们的含义极为模糊，即使一大堆专著也不足以确定它们的所指。然而这区区几个词语的确有着神奇的威力，它们似乎是解决一切问题的灵丹妙药。各种极不相同的潜意识中的抱负及其实现的希望，全被它们集于一身。
+
+> 信徒们总是穷凶极恶地打碎他们以前神灵的塑像。
+f:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L16",null,{"recentArticles":[{"id":"ssh-key","file":"ssh-key.md","content":"\n![git](https://git-scm.com/images/logo@2x.png)\n\ngit 在远端 pull 或者 push 时报：\n\n```\ninvalid format git@github.com: Permission denied (publickey).\n```\n\n## 问题场景：\n\nwindows 上把 private key 的内容复制到文本编辑器时会出现。\n\n## 根本原因：\n\n私钥的换行是单字符`LF`，但 windows 的默认换行符是`CRLF`，所以导致 git 读取私钥报格式错误。\n\n## 解决办法：\n\n使用文本编辑器修改换行符，例如 VSCODE 中状态栏点击`CRLF`，然后切换成`LF`。\n\n## 笔记：\n\n通过`ssh -vT git@github.com` 可以查看详细的 ssh log，来排查 ssh 的问题。\n出现如下 log 说明 ssh key 已经正常配置：\n\n```\nHi wangyucode! You've successfully authenticated, but GitHub does not provide shell access.\n```\n","data":{"title":"解决 invalid format git@github.com: Permission denied (publickey).","date":"2023-09-11","tags":["Linux","Git"],"category":"Linux"},"isEmpty":false,"excerpt":""},{"id":"chat-gpt","file":"chat-gpt.md","content":"$17","data":{"title":"ChatGPT是如何被训练出来的","date":"2022-12-01","tags":["ChatGPT"],"category":"AI"},"isEmpty":false,"excerpt":"\n![ChatGPT](https://cdn.openai.com/chatgpt/draft-20221129c/ChatGPT_Diagram.svg)\n\nChatGPT是OpenAI在2022年11月推出的新一代由人工智能技术推动的自然语言处理模型。ChatGPT公布没多久，各大搜索引擎厂商都宣布正在开发自己的新版NPL模型，也是因为他们感受到了来自ChatGPT的压力。它能够理解并生成人类语言，能够回答问题，撰写文案，写诗歌，编故事，写代码，做Excel表格，它拥有上下文对话能力，在典型的使用场景下难以分辨是真人还是机器。ChatGPT被认为是下一代的搜索引，将会引起新一轮的技术革新浪潮。\n\n本文介绍ChatGPT背后的工作原理和训练过程。\n\n"},{"id":"http3","file":"http3.md","content":"$18","data":{"title":"升级到HTTP3","date":"2022-09-29","tags":["HTTP","NGINX"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![http3](https://www.zhengdexing.org/2020/10/20/HTTP%E5%8D%8F%E8%AE%AE-HTTP3/6301972-9482e8b53c342058.png)\n\n基于 UDP 的 HTTP/3 协议规范[RFC 9114](https://datatracker.ietf.org/doc/html/rfc9114)于 2022 年 6 月发表。而 HTTP/2 协议规范[RFC 7540](https://httpwg.org/specs/rfc7540.html)早在 2015 年 5 月发表。但是仍然有很多网站在使用更加古老的 HTTP1.1。\n\nHTTP/2 通过多路复用（multiplexing）和头部压缩，能够有效降低延迟。同时还提供了不同于`WebScoket`协议的服务端推送的新方法。\n\nHTTP3 则使用基于 UDP 的 QUIC 协议，从根本上解决头部阻塞的问题，特别适用于移动网络不稳定情况下的网络效率改善。\n\n本文介绍 HTTP2，HTTP3 协议的新特性，以及通过 NGINX 升级到 HTTP2 和 HTTP3 的方法。\n\n"},{"id":"esm-node-ts","file":"esm-node-ts.md","content":"$19","data":{"title":"esModule + NodeJS + TypeScript 的工程配置","date":"2022-09-22","tags":["JavaScript","TypeScript","NodeJS"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![nodejs](https://www.w3cschool.cn/attachments/image/20170808/1502178281486445.png)\n\nJavaScript的模块化方案经历了长时间的发展，最终于2015年在ES6实现了语言层面的标准化，即esModule（以下简称esm）, 现在JS社区开始拥抱esm，很多npm包仅采用esm发布。\n\n而NodeJS一直依赖采用CommonJS的模块化方案，在最近发布的版本中也开始支持ems, 由于巨大的历史包袱，NodeJS并没有抛弃CommonJS，所以在NodeJS中实际支持两种模块化方式，esm和CommonJS.\n\n此外，现在很多前端工程使用TypeScript开发，而TS的模块解析方式也需要进行一些配置，在这3者结合的过程中有很多坑，本文介绍将三者完美结合的最佳实践。\n\n"},{"id":"the-crowd","file":"the-crowd.md","content":"$1a","data":{"title":"《乌合之众：大众心理研究》热门标注","date":"2021-07-22","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![The Crowd](https://p1.qhimg.com/t016f1e762c0161d220.jpg)\n\n> 闻有吏虽乱而有独善之民，不闻有乱民而有独治之吏 \n                    —《韩非子·外储说》\n\n《乌合之众：大众心理研究》是一本研究大众心理学的著作。是法国社会心理学家古斯塔夫·勒庞创作的社会心理学著作，首次出版于1895年。勒庞指出：个人一旦融入群体，他们的个性将会被湮灭，群体的思想便会占据统治地位，而与此同时群体的行为也会变现为排斥异议、极端化、情绪化低智商化等特点，进而对社会产生破坏性的影响。\n\n读了此书，你会明白过去、现在、以及将来全世界发生的各种群体事件背后的直接原因。\n\n本文摘抄了《乌合之众：大众心理研究》在Kindle电子书中的热门标注：\n\n"}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L1b","$L1c","$L1d","$L1e","$L1f"]}]
+10:["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true}]
+11:["$","$L20",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+12:["$","p","p-3",{"children":"本文介绍 HTTP2，HTTP3 协议的新特性，以及通过 NGINX 升级到 HTTP2 和 HTTP3 的方法。"}]
+13:["$","$L2",null,{"href":"/blog/http3","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+14:["$","p","p-2",{"children":"此外，现在很多前端工程使用TypeScript开发，而TS的模块解析方式也需要进行一些配置，在这3者结合的过程中有很多坑，本文介绍将三者完美结合的最佳实践。"}]
+15:["$","$L2",null,{"href":"/blog/esm-node-ts","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+1b:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L2","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L2","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L2","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L2","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L2","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L2","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+1c:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L2","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58"]}]]}]}]
+59:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z1d:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$59"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]}],"$L5a"]}],"$L5b","$L5c"]}]]}]]}]}]
+1e:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+1f:["$","$L5d",null,{}]
+22:null
+23:["$","$L2","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+24:["$","$L2","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+25:["$","$L2","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+26:["$","$L2","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+27:["$","$L2","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+28:["$","$L2","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+29:["$","$L2","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2a:["$","$L2","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+2b:["$","$L2","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+2c:["$","$L2","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2d:["$","$L2","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+2e:["$","$L2","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+2f:["$","$L2","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+30:["$","$L2","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+31:["$","$L2","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+32:["$","$L2","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+33:["$","$L2","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+34:["$","$L2","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+35:["$","$L2","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+36:["$","$L2","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+37:["$","$L2","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+38:["$","$L2","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+39:["$","$L2","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+3a:["$","$L2","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3b:["$","$L2","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3c:["$","$L2","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3d:["$","$L2","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3e:["$","$L2","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+3f:["$","$L2","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+40:["$","$L2","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+41:["$","$L2","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+42:["$","$L2","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+43:["$","$L2","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+44:["$","$L2","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L2","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+46:["$","$L2","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+47:["$","$L2","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+48:["$","$L2","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+49:["$","$L2","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4a:["$","$L2","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4b:["$","$L2","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L2","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4d:["$","$L2","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4e:["$","$L2","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4f:["$","$L2","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+50:["$","$L2","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+51:["$","$L2","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L2","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L2","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+54:["$","$L2","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+55:["$","$L2","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+56:["$","$L2","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+57:["$","$L2","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+58:["$","$L2","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+5a:["$","p",null,{"children":"或添加微信："}]
+5b:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+5c:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]

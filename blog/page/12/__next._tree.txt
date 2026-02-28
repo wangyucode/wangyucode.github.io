@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+:HL["https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg","image"]
+:HL["https://img-blog.csdnimg.cn/c5c68cae3bf640eaa2a3ec03fc518b1c.png","image"]
+:HL["https://ts1.cn.mm.bing.net/th/id/R-C.da7d3edf2afaf378bff91a21e6385091?rik=kWTVUo%2be2O8bbg&riu=http%3a%2f%2ftheeye.pe.kr%2fwp-content%2fuploads%2f2014%2f02%2fgradle.png&ehk=5NJHqrr5W7rLhp4CEUQIadjJ83TfKvlokTsc%2bzFFiLo%3d&risl=&pid=ImgRaw&r=0","image"]
+:HL["/images/20170815_kotlin.png","image"]
+:HL["https://tse3-mm.cn.bing.net/th/id/OIP-C.X0Up2Pdq1ZDskAe51Uac4gHaE8?pid=ImgDet&rs=1","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":null,"paramKey":"page","hasRuntimePrefetch":false,"slots":{"children":{"name":"page","paramType":"d","paramKey":"12","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

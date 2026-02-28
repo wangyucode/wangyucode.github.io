@@ -1,0 +1,384 @@
+1:"$Sreact.fragment"
+2:I[47395,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+3:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+4:I[59516,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"Image"]
+5:I[98951,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+6:I[20588,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+7:I[35910,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+8:I[78142,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+9:I[90220,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+a:I[70079,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+12:I[34741,[],"default"]
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"wycode_has_super_power","c":["","blog","category","story"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["category",{"children":[["cid","story","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3fc28ce70887f98c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1e02b7c5799ac6a1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3b6828ba17d8ab80.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"transition-colors duration-1000 font","children":["$","body",null,{"className":"flex flex-col items-center min-h-dvh","children":[["$","$L2",null,{"className":"fixed top-0 left-0 right-0 bottom-0 -z-10"}],["$","header",null,{"className":"navbar shadow-sm bg-base-200/60 backdrop-blur fixed z-10","children":[["$","div",null,{"className":"navbar-start","children":["$","$L3",null,{"href":"/","className":"text-xl font-bold hover:text-sky-600 flex gap-1 items-center px-2","children":[["$","$L4",null,{"src":{"src":"/_next/static/media/icon.7d834061.svg","width":192,"height":192,"blurWidth":0,"blurHeight":0},"alt":"王郁的小站","width":32,"height":32}],["$","span",null,{"className":"bg-gradient-to-br dark:bg-gradient-to-tr from-sky-600 to-pink-600 dark:from-pink-400 dark:to-sky-400 bg-clip-text text-transparent","children":"王郁的小站"}]]}]}],["$","nav",null,{"className":"navbar-center hidden lg:flex","children":["$","$L5",null,{}]}],["$","div",null,{"className":"navbar-end gap-2","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]]}],["$","main",null,{"className":"flex-1 pt-16 flex flex-col lg:flex-row gap-4 w-full overflow-auto","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full h-10 shadow-sm bg-base-200/60 backdrop-blur bottom-0 right-0 left-0 flex flex-col md:flex-row justify-center items-center py-2 border-t border-slate-400/30 text-xs md:text-sm","children":[["$","a",null,{"href":"https://beian.miit.gov.cn","target":"_blank","className":"md:mr-2 md:pr-2 md:border-r border-base-content hover:text-info transition-colors","children":"陕ICP备15011477号"}],["$","div",null,{"className":"flex items-center","children":[["$","p",null,{"children":"2015-2026 ©wycode.cn All Right Reserved"}],["$","a",null,{"href":"https://github.com/wangyucode/wycode-next","target":"_blank","className":"ml-2 pl-2 border-l border-base-content hover:text-info transition-colors flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"mr-1 h-4 w-4 inline","children":["$","path",null,{"d":"$b"}]}],"v","3.4.1"]}]]}]]}],"$Lc"]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{"children":["$L10",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+13:I[97287,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+15:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"ViewportBoundary"]
+1a:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"MetadataBoundary"]
+c:["$","$L13",null,{}]
+d:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",[["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],null]}]
+14:["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 flex items-center mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-6 w-6","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Story",["$","span",null,{"className":"ml-2 text-sm font-normal text-slate-500 dark:text-slate-400","children":["(",7," 篇文章)"]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div","start-from-limitation",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/start-from-limitation","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"《始于极限》标注"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2025-08-20"]}]]}]}],["$","div","ai",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/ai","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"这一波AI浪潮是否是泡沫？"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2024-10-30"]}]]}]}],["$","div","the-crowd",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/the-crowd","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"《乌合之众：大众心理研究》热门标注"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2021-07-22"]}]]}]}],"$L1c","$L1d","$L1e","$L1f"]}]]}]}]}],"$L20"]}]}]
+21:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+1c:["$","div","chicken-dinner-tesla",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/chicken-dinner-tesla","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2020-07-24"]}]]}]}]
+1d:["$","div","rich-dad",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/rich-dad","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"《富爸爸，穷爸爸》热门标注"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-07-26"]}]]}]}]
+1e:["$","div","home-deus",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/home-deus","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"《未来简史》读书笔记"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-01-29"]}]]}]}]
+1f:["$","div","why-blog",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/why-blog","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"我为什么开始写博客了？"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-06-08"]}]]}]}]
+22:Teb5,
+![始于极限](https://pic.arkread.com/cover/ebook/f/407667944.1663903605.jpg!cover_default.jpg)
+
+> 在人生的旅途中，也许有人与你同行，也许没有。有旅伴也许是幸运的，也可能不幸。有时候，旅伴确实能为我们的人生增光添彩。不过到头来，终究是孤身一人。只要做好这样的思想准备，便不难做出选择了。
+
+《始于极限》是上野千鹤子和铃木凉美在新冠疫情，历时一年，十二次通信，由书信整理的一本关于恋爱与性、婚姻、男人、工作、独立、自由等，围绕 12 大主题聊透女性内心深处的愤怒与困境的书。
+
+本文摘抄了《始于极限》一些原文：
+
+<!--more-->
+
+## 恋爱与性
+
+> 没想到性经验极度丰富的男女在人生末尾回忆起的“最美好的性体验”竟是性爱合一的极致。
+
+> 性是性，爱是爱，它们本不相同，偶尔会重合，有时则不会。一个人如果经历过性和爱偶然重合带来的至上幸福，那应该是非常幸运。而且一个人能分辨出高质量的性，也正说明他经历过许多质量不那么高的性
+
+> “性欲降低以后，人生就变得平和了。”
+
+## 能力
+
+> 我这代人普遍认为性与爱显然是两码事，对我们来说，面临的挑战大概是如何面对孤独，而人们认为性爱一致时无须直面这种孤独。
+
+> 想从事的工作与符合理想人生的工作有时是一致的，可一旦出现冲突，就得考虑把什么放在第一位、有没有什么东西被忽视了、三十岁时还能不能保持同样的价值观。
+
+> 想象力无法超越自身的认知，而现实远超想象
+
+> 教授问我：“那你硕士毕业出来打算做什么呀？”我老实回答：“老师，我是一点想法都没有。”教授便说：“女孩子嘛，就这样挺好的。”在那个年代，大家甚至不觉得这是性别歧视。
+
+## 团结
+
+> 在人生的旅途中，也许有人与你同行，也许没有。有旅伴也许是幸运的，也可能不幸。有时候，旅伴确实能为我们的人生增光添彩。不过到头来，终究是孤身一人。只要做好这样的思想准备，便不难做出选择了。
+
+## 女性主义
+
+> 不想被贴上“女权”的标签，但又想好好抗议，一看就是 21 世纪初成人的那代人特有的心态。但申明之后紧跟着的话往往又是不折不扣的女性主义言论，于是我想，也许很多女性并不是排斥女性主义本身，而是接受不了“女权”这个称呼。
+
+> 全国各地的“女性服务中心”也都把招牌改成了“男女共同参与中心”。男性也被纳入到政策中，本就少得可怜的女性政策预算还得分一部分给男性，各地还办起了面向男性的烹饪班。
+
+## 自由
+
+> 三岛由纪夫《假面的告白》是戴着“假面”却诚实到教人心头一颤的告白，川端的《睡美人》也是认识到衰老的男人对性不加修饰的坦白。
+
+## 男人
+
+> 社会变革变的不是真心话，而是原则和场面话
+
+> 其实活着就是孤独地面对自身的利己主义。只有建立起彼此自我对等的纠葛，男女之间才能有正经的恋爱。
+
+以上为纯原文摘抄不代表本人看法，总体而言，此书没有想象中的深刻。
+
+不想被贴上“女权”的标签，又想发表女性主义言论。
+
+为了照顾女性而设立的全国的“女性服务中心”，又因为不想被特殊对待，改成“男女共同参与中心”。改完又觉得男性被纳入瓜分了她们的预算。啊？那我们全国各地的妇联岂不是有歧视女性之嫌？但愿我们不会有那一天。
+
+本文原始发表于 <https://wycode.cn/blog/caddy>，转载请注明出处
+23:T1b7c,
+![chatgpt](https://assets.datamation.com/uploads/2023/05/dm-how-to-use-chatgpt-696x464.png)
+
+> 今天是2024年10月30日，自从ChatGPT在2022年11月发布以来，人工智能（以下简称AI）的热度持续上升，它被认为是第四次工业革命的重要推动力。但也有人说AI是泡沫，做到实质性落地并且收益的公司屈指可数。这篇文章会结合历史，最新的前沿进展，分享一下目前我自己的观察和思考。
+
+<!--more-->
+## 回顾历史
+
+> 历史总是惊人的相似
+
+目前的AI浪潮，和20世纪90年代末的互联网浪潮非常相似。
+
+### 90年代互联网浪潮
+
+90年代互联网开始商业化，经济方面1994年到1995年，为了防止经济过热，美联储连续加息7次，将联邦利率提高至6%，然而在这样的背景下，1995年到1998年，纳斯达克指数上涨了168%，这里面的重要原因就是互联网的出现。如今的互联网巨头都是在那个时候创立的，谷歌亚马逊是1995年左右，百度，腾讯，阿里99年左右。随后的2000年互联网泡沫破裂，大量公司破产倒闭，行业重新洗牌。普通人站在当时1999年的时间点上，也是看不清未来互联网能做什么。但是现在我们知道这些互联网公司不仅活下来了，而且成为了目前市值最高的互联网巨头。
+
+当时的互联网，可以落地的应用并不多，无非就是浏览器，电子邮件。直到2000年互联网泡沫破裂后，我们才真正看清了互联网能做什么。2002年，我还在上学，当时的同班同学谁会注册QQ，谁就是交际花。2003年《梦幻西游》发布，2004年《魔兽世界》发布，2005年QQ空间发布。这时候互联网才开始真正进入大众视野。随着2007年，乔布斯掏出初代Iphone，又开启了移动互联网时代，互联网创造了无数新的工作岗位并实现了生产力的巨大飞跃。
+
+再看看现在的AI，和90年代末的互联网非常相似。经济方面，美联储从2022年3月到2023年6月加息11次，但是以英伟达为首的科技巨头股价却屡创新高。站在当下的时间点上，目前的AI和2000年的搜索引擎非常相似。
+
+## 人工智能和搜索引擎
+
+现在的人工智能应用还处于非常早期的阶段，目前使用最普遍的还是聊天机器人，比如`ChatGPT`，`Gemini`，`Claude`, `文心一言`，`通义千问`，`豆包`等等。他们都很强，但是对于很多人而言，你把ChatGPT摆到他面前，他也问不出什么有价值的问题，这个问题或者叫提示词（prompt）的质量决定了AI给你回复的质量，这个和早些年的搜索引擎其实是一样的，会百度一下，和Google一下, 以及关键词的选取，得到的结果质量是完全不同的。也说句不好听的，人与人之间使用搜索引擎的能力差距比人和猴子的差距还大。放到AI的时代还是一样。AI和搜索引擎都是8个字**遇强则强，遇弱则弱**。当然了，搜索引擎不是互联网的全部，聊天机器人也不是AI应用的全部。未来肯定会有更多面向更大众化的应用。
+
+## AI能否替代程序员
+
+先说结论，AI无法代替程序员，但是会让很多程序员失业。从最早的`Github Copilot`以及国内的`Baidu Comate`，`Marscode`, `TONGYI lingma`到现在的AI 编辑器`Cursor`, 对于效率的提升是非常明显的。第一次使用`Github Copilot`，看到它真的明白我的业务，和并且给出符合我自己风格的代码提示的时候，让我有种“伯牙摔琴”，找到知己的感觉。这感觉是直冲天灵盖的那种震撼。这样的工具对于一些CURD工程师，调库侠，是巨大的威胁。特别是当你使用的语言和框架比较老而且非常普遍的话，这种冲击会更加明显。但是，如果你做的是真正的前沿创新，更高一级的抽象，大型应用的架构设计，AI永远无法替代你。
+
+## 目前的状态
+
+![mmlu](/images/20241030_mmlu.png)
+从目前的趋势来看，`Scaling Law`没有问题，大模型就是参数越大，能力越强。但是由于大模型训练的算力需求巨大，可以预见的未来都是少数巨头和独角兽公司有能力自己训练，比如谷歌，meta，百度，阿里，OpenAI，月之暗面，清华智谱等。所以普通人小公司就没有机会了吗？并不是。先看下大模型的缺陷和痛点。
+
+### toB的痛点
+
+目前大模型无法解决以下问题：
+
+1. 知识局限性：通用的模型对于实时的，未公开的，私域的，离线的，无能为力。因为大模型一旦训练好它的知识库就锁定了。
+2. 复杂业务场景： 现实中的业务场景非常复杂，比如金融，医疗，法律，教育等特定领域。它们往往拥有已经在使用的传统系统，目前的对话大模型无法对接这些复杂的系统和业务场景。
+
+### RAG和Agent
+
+解决大模型的以上两个问题我们需要：
+1. RAG（Retrieval Augmented Generation） 检索增强生成。原理就是给大模型外挂一个数据库，让它从数据库中检索出相关的信息。再总结生成回答。
+2. Agent：类似与中间层，通过一个或多个Agent来构建一个workflow连接现有系统构和大模型。
+
+基于以上的方向，目前看到的toC的应用是
+
+- 知识库管理系统，例如Google的`NotebookLM`， `Obsidian`等。
+- 问答引擎：例如`Perplexity`等。
+
+这些东西目前还都是一些极客在用，离大众化还有很长一段路要走。其实和所有的技术革新浪潮一样，刚出来的时候都是比较“小众”。
+
+## AI和智能手机
+
+toC很重要的一个方向就是智能手机和AI的结合，目前的大模型和现有的智能手机还在进一步融合，将来AI一定是系统级的，可以在任何时候无感使用。而不是像现在一样，需要安装一个APP然后尬聊。所以可以预见的将来，还会有新一波的换机潮，现在的所谓“智能手机”在和AI高度集成的手机面前，就跟以前的诺基亚一样。
+
+## 学术研究的进展
+
+AI在学术领域的帮助，可以说是带来了一种全新的研究范式。为什么这么说呢？自从2017年那片神级的论文“Attention is all you need”，基于Transformer的新发现层出不穷，2024年诺贝尔物理学奖颁给人工神经网络，化学奖颁给了Deepmind用人工神经网络破解蛋白质结构的团队。在这之前还有研究团队用机器学习取得了在可控核聚变领域的进展，最近这几天还有团队利用Transformer发现了16万种新病毒。以前的学术研究是先提出设想，排除其它干扰做实验验证，然后得出结论。而结合AI的学术研究是直接面对混沌的现实世界得出理论和规律。这种改变是根本性的，并且跨学科的。而且未来的新技术还能和AI结合，例如量子计算，元宇宙，机器人，Web3.0。
+
+那么回到开头的问题，你还怀疑AI是泡沫吗？
+24:T20e6,
+![The Crowd](https://p1.qhimg.com/t016f1e762c0161d220.jpg)
+
+> 闻有吏虽乱而有独善之民，不闻有乱民而有独治之吏 
+                    —《韩非子·外储说》
+
+《乌合之众：大众心理研究》是一本研究大众心理学的著作。是法国社会心理学家古斯塔夫·勒庞创作的社会心理学著作，首次出版于1895年。勒庞指出：个人一旦融入群体，他们的个性将会被湮灭，群体的思想便会占据统治地位，而与此同时群体的行为也会变现为排斥异议、极端化、情绪化低智商化等特点，进而对社会产生破坏性的影响。
+
+读了此书，你会明白过去、现在、以及将来全世界发生的各种群体事件背后的直接原因。
+
+本文摘抄了《乌合之众：大众心理研究》在Kindle电子书中的热门标注：
+
+<!--more-->
+
+## 热门标注
+
+> 自觉的个性的消失，以及感情和思想转向一个不同的方向，就是要变成组织化群体的人所表现出的首要特征。
+
+> 无意识现象不但在有机体的生活中，而且在智力活动中，都发挥着一种完全压倒性的作用。
+
+> 群体在智力上总是低于孤立的个人，但是感情及其激起的行动这个角度看，群体可以比个人表现的更好或更差，全看环境如何。
+
+> 孤立的个人具有主宰自己的反应的能力，群体则缺乏这种能力。
+
+> 大凡能够成就大业的领袖人物，他最重要的品质不是博学多识，而是必须“具备强大而持久的意志力”，这是一种“极为罕见、极为强大的品质，它足以征服一切。
+
+> 群体要想成为历史变迁的主角，它必须多多少少“为信仰而战”，也就是说，它的形成必须是为了某些简单而明确的信仰。
+
+> 在观念简单化效应的作用下，凡是有抱着怀疑的精神、相信在政治和社会问题上极不易发现“确定性真理”的人，尤其是一个习惯于用推理和讨论的方式说明问题的人，在群体中是没有地位的；当面对群情激奋时，他尤其会生出苍白无力的感觉：因为他意识到他要与之作对的，不仅仅是一种错误的行为，而且还有“多数的力量”，还有贯彻这种行为时的偏执态度。我们更能理解，所谓专业精英，不管他智力多么高强，他陈明利害得失的理性努力，面对被空洞的观念冲昏了头脑的群体，反而会产生一种自己十分迂腐的无聊感觉。更为可悲的是，面对群众的荒谬与狂热，明智之士更有可能根本不会作出这样的努力，而是同群体一起陷入其中，事后又惊叹于自己连常识都已忘却的愚蠢。
+
+> 因此在同人类的各种作为文明动力的感情——“譬如尊严、自我牺牲、宗教信仰、爱国主义以及对荣誉的爱”——的对抗中，理性在大多数时候都不是赢家。
+
+> 群体只知道简单而极端的感情；提供给他们的各种意见、想法和信念，他们或者全盘接受，或者一概拒绝；将其视为绝对真理或绝对谬论。
+
+> 进入了群体的个人，在“集体潜意识”机制的作用下，在心理上会产生一种本质性的变化。就像“动物、痴呆、社会主义者、幼儿和原始人”一样，这样的个人会不由自主地失去自我意识，完全变成另一种智力水平十分低下的生物。
+
+> 自法国大革命以来，由领袖、意识形态和勒庞意义上的群体所组成的这种新的三位一体，便取代了宗教与皇权，成为一切民主宪政架构之外政治合法性运动的要件，尤其在勒庞之后的一百年里，这种新的三位一体更是上演了一幕幕规模宏大而惨烈的悲剧。
+
+> 社会组织就像一切生命有机体一样复杂，我们还不具备强迫它们在突然之间发生深刻变革的智力”。因此他反对一个民族热衷于重大的政治和社会变革，他认为，这种变革的计划从理论上说无论多么出色，都不会使民族气质即刻出现变化（因为“只有时间具备这样的力量”）。采用激进的方式，借助于抽象的原则贯彻一种社会改造的蓝图，只会“使一个高度精致的文明倒退到社会进化更早期的阶段”
+
+> 人们在智力上差异最大，但他们却有着非常相似的本能和情感。在属于情感领域的每一种事情上——宗教、政治、道德、爱憎等等，最杰出的人士很少能比凡夫俗子高明多少。从智力上说，一个伟大的数学家和他的鞋匠之间可能有天壤之别，但是从性格的角度看，他们可能差别甚微或根本没有差别。
+
+> 在集体心理中，个人的才智被削弱了，从而他们的个性也被削弱了。异质性被同质性所吞没，无意识的品质占了上风。
+
+> 群体是个无名氏，因此也不必承担责任。这样一来，总是约束着个人的责任感便彻底消失了。
+
+> 有意识人格的消失，无意识人格的得势，思想和感情因暗示和相互传染作用而转向一个共同的方向，以及立刻把暗示的观念转化为行动的倾向，是组成群体的个人所表现出来的主要特点。他不再是他自己，他变成了一个不再受自己意志支配的玩偶。
+
+> 群体中的个人不但在行动上和他本人有着本质的差别，甚至在完全失去独立性之前，他的思想和感情就已经发生了变化，这种变化是如此深刻，它可以让一个守财奴变得挥霍无度，把怀疑论者改造成信徒，把老实人变成罪犯，把懦夫变成豪杰。
+
+> 群体可以转瞬之间就从最血腥的狂热变成最极端的宽宏大量和英雄主义。群体很容易做出刽子手的举动，同样也很容易慷慨赴义。正是群体，为每一种信仰的胜利而不惜血流成河。
+
+> 群体因为夸大自己的感情，因此它只会被极端感情所打动。希望感动群体的演说家，必须出言不逊，信誓旦旦。夸大其辞、言之凿凿、不断重复，绝对不以说理的方式证明任何事情
+
+> 群体只知道简单而极端的感情；提供给他们的各种意见、想法和信念，他们或者全盘接受，或者一概拒绝；将其视为绝对真理或绝对谬论。用暗示的办法加以诱导而不是作出合理解释的信念，历来都是如此。与宗教信仰有关的偏执及其对人们的头脑实行的专制统治，早就为大家所知。
+
+> 在公众集会上，演说者哪怕作出最轻微的反驳，立刻就会招来怒吼和粗野的叫骂。在一片嘘声和驱逐声中，演说者很快就会败下阵来。当然，假如现场缺少当权者的代表这种约束性因素，反驳者往往会被打死。
+
+> 群体可以杀人放火，无恶不作，但是也能表现出极崇高的献身、牺牲和不计名利的举动，即孤立的个人根本做不到的极崇高的行为。以名誉、光荣和爱国主义作为号召，最有可能影响到组成群体的个人，而且经常可以达到使他慷慨赴死的地步。
+
+> 群体推理的特点，是把彼此不同、只在表面上相似的事物搅在一起，并且立刻把具体的事物普遍化。
+
+> 影响民众想象力的，并不是事实本身，而是它们发生和引起注意的方式。如果让我表明看法的话，我会说，必须对它们进行浓缩加工，它们才会形成一种令人瞠目结舌的惊人形象。掌握了影响群众想象力的艺术，也就掌握了统治他们的艺术。
+
+> 一切政治、神学或社会信条，要想在群众中扎根，都必须采取宗教的形式——能够把危险的讨论排除在外的形式。即便有可能使群众接受无神论，这种信念也会表现出宗教情感中所有的偏执狂，它很快就会表现为一种崇拜。
+
+> 词语的威力与它们所唤醒的形象有关，同时又独立于它们的真实含义。最不明确的词语，有时反而影响最大。例如像民主、社会主义、平等、自由等等，它们的含义极为模糊，即使一大堆专著也不足以确定它们的所指。然而这区区几个词语的确有着神奇的威力，它们似乎是解决一切问题的灵丹妙药。各种极不相同的潜意识中的抱负及其实现的希望，全被它们集于一身。
+
+> 信徒们总是穷凶极恶地打碎他们以前神灵的塑像。
+25:Tc3f,
+![tesela](https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png)
+
+今天我们用数学期望来计算一下《和平精英》的特斯拉（玛莎拉蒂）到底要多少钱？怎么抽最划算？
+
+<!--more-->
+
+## 规则
+
+扭蛋等级概率：
+
+|  1星 | 2星  | 3星 |
+| :-: | :-: | :-: |
+| 82% | 17% | 1% |
+
+保护追加不会降低扭蛋等级，并且追加三次必定能提升扭蛋等级；保护追加需要消耗一定的幸运币，扭蛋等级越高，保护追加消耗的幸运币数量越多。
+
+|  1星 | 2星  | 3星 | 4星 | 5星 | 6星 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 6 | 17 | 51 | 153 | 430 | 827 |
+
+## 保底法/碎片兑换
+
+```bash
+抽1次的碎片期望 = 12 * 82% + 36 * 17% + 54 * 1% = 16.5碎片
+兑换一辆特斯拉需要 2880 碎片
+所以需要抽 2880/16.5 ≈ 175次
+175 * 6 = 1047点劵
+紫色 * 3 = 3141点券
+```
+
+## 免费追加法
+
+```bash
+成功期望 = 20% * 82% + 20% * 17% * 2 + 20% * 1% * 3 = 0.238
+失败期望 = 80% * 75% * -1 + 80% * 75% * -2 =  -1.8
+免费追加期望为-1.56星
+```
+
+## 保护追加法
+
+```bash
+一次成功概率 = 20%
+两次成功概率 = 20% * 20% = 4%
+其余都需要3次 即 76% 需要抽3次
+每升一个星需要的次数 = 20% + 4% * 2 + 76% * 3 = 2.56次
+每次升级的星星期望 = 82% * 1 + 17% * 2 + 1% * 3 = 1.19星
+升到6星总共需要 = 5.04次 即大概率需要升星5次
+```
+
+|  1星→2星 | 2星→3星 | 3星→4星 | 4星→5星 | 5星→6星 | 6星→7星 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 15.36 | 43.52 | 130.56 | 391.68 | 1100.8 | 1681.92 |
+
+```bash
+所以6星 = 15.36 + 43.52 + 130.56 + 391.68 + 1100.8 = 1681.92点劵
+所以7星 = 15.36 + 43.52 + 130.56 + 391.68 + 1100.8 + 1681.92= 3363.84点劵
+```
+
+## 运气爆棚和脸最黑的情况
+
+### 保底法：
+
+因为保底法需要操作175次，基本会接近期望数字。
+**基本不存在**175次全3星和175次全1星的情况（小于一亿分之一），即基本没有运气爆棚的情况，和脸黑的情况。
+
+### 免费追加法：
+
+免费升星法最好的情况（6元提车）只需要操作两次，所以幸存者偏差会**特别大**。
+
+那么传说中6元提车的概率是多少呢：
+
+| 可能的抽法 | 排列可能 | 概率 |
+| :-: | :-: | :-: |
+| 3,3组合 | 1种 | 0.0000004 |
+| 1,2,3组合 | 6种 | 0.000066912 |
+| 1,1,1,1,2组合 | 5种 | 0.00361697 |
+| 1,1,2,2组合 | 6种 | 0.00018655 |
+| 2,2,2组合 | 1种 | 0.000039304 |
+| 1,1,1,1,1,1组合 | 1种 | 0.000019456 |
+
+合计约千分之4，即你每尝试250次可能才能成功1次。
+当你尝试250次的时候 你已经花了1500点券了。
+
+至于最坏的情况，你可能要永远转下去了。
+
+## 保护追加法：
+
+和免费追加一样，最好的情况只需操作2次，概率也是一样的。
+不同之处在于最坏的情况，因为有保护，不至于一直转下去：
+
+```bash
+( 6 + 17 + 51 + 153 + 430 ) * 3 = 1971
+七星需要再 + 827 * 3 = 4452
+```
+
+> 总结：虽然保底法期望花费最少，但是很多人都忍不住去赌一把，原因就在于人性是喜爱赌博的。最后希望各位根据自己的实力，理性消费。
+20:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L21",null,{"recentArticles":[{"id":"start-from-limitation","file":"start-from-limitation.md","content":"$22","data":{"title":"《始于极限》标注","date":"2025-08-20","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![始于极限](https://pic.arkread.com/cover/ebook/f/407667944.1663903605.jpg!cover_default.jpg)\n\n> 在人生的旅途中，也许有人与你同行，也许没有。有旅伴也许是幸运的，也可能不幸。有时候，旅伴确实能为我们的人生增光添彩。不过到头来，终究是孤身一人。只要做好这样的思想准备，便不难做出选择了。\n\n《始于极限》是上野千鹤子和铃木凉美在新冠疫情，历时一年，十二次通信，由书信整理的一本关于恋爱与性、婚姻、男人、工作、独立、自由等，围绕 12 大主题聊透女性内心深处的愤怒与困境的书。\n\n本文摘抄了《始于极限》一些原文：\n\n"},{"id":"ai","file":"ai.md","content":"$23","data":{"title":"这一波AI浪潮是否是泡沫？","date":"2024-10-30","tags":["AI"],"category":"Story"},"isEmpty":false,"excerpt":"\n![chatgpt](https://assets.datamation.com/uploads/2023/05/dm-how-to-use-chatgpt-696x464.png)\n\n> 今天是2024年10月30日，自从ChatGPT在2022年11月发布以来，人工智能（以下简称AI）的热度持续上升，它被认为是第四次工业革命的重要推动力。但也有人说AI是泡沫，做到实质性落地并且收益的公司屈指可数。这篇文章会结合历史，最新的前沿进展，分享一下目前我自己的观察和思考。\n\n"},{"id":"the-crowd","file":"the-crowd.md","content":"$24","data":{"title":"《乌合之众：大众心理研究》热门标注","date":"2021-07-22","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![The Crowd](https://p1.qhimg.com/t016f1e762c0161d220.jpg)\n\n> 闻有吏虽乱而有独善之民，不闻有乱民而有独治之吏 \n                    —《韩非子·外储说》\n\n《乌合之众：大众心理研究》是一本研究大众心理学的著作。是法国社会心理学家古斯塔夫·勒庞创作的社会心理学著作，首次出版于1895年。勒庞指出：个人一旦融入群体，他们的个性将会被湮灭，群体的思想便会占据统治地位，而与此同时群体的行为也会变现为排斥异议、极端化、情绪化低智商化等特点，进而对社会产生破坏性的影响。\n\n读了此书，你会明白过去、现在、以及将来全世界发生的各种群体事件背后的直接原因。\n\n本文摘抄了《乌合之众：大众心理研究》在Kindle电子书中的热门标注：\n\n"},{"id":"chicken-dinner-tesla","file":"chicken-dinner-tesla.md","content":"$25","data":{"title":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","date":"2020-07-24","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![tesela](https://game.gtimg.cn/images/gp/ingame/a20200724tslcar/intor_6.png)\n\n今天我们用数学期望来计算一下《和平精英》的特斯拉（玛莎拉蒂）到底要多少钱？怎么抽最划算？\n\n"},{"id":"rich-dad","file":"rich-dad.md","content":"\n![rich-dad](https://images-cn.ssl-images-amazon.com/images/I/51mZHfA%2B-6L._SX351_BO1,204,203,200_.jpg)\n\n> 人穷穷观念，人富钱生钱。\n\n《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。\n\n本文摘抄了《富爸爸，穷爸爸》在Kindle电子书中的热门标注：\n\n<!--more-->\n\n\n## 热门标注\n\n> 贫穷和破产的区别是，破产是暂时的，而贫穷是永久的。\n\n> 不如意的时候，如果你认为是别人的问题，你就会试图改变他人；如果你认为问题在自己，你就会改变自己，学习一些东西让自己变得更聪明。大多数人认为世界上除了自己之外，其他人都应该改变。其实，改变自己比改变他人更容易。\n\n> 拥有公司的富人：赚钱->消费->纳税；在公司上班的穷人：赚钱->纳税->消费\n\n以上，转载请注明出处!\n","data":{"title":"《富爸爸，穷爸爸》热门标注","date":"2019-07-26","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![rich-dad](https://images-cn.ssl-images-amazon.com/images/I/51mZHfA%2B-6L._SX351_BO1,204,203,200_.jpg)\n\n> 人穷穷观念，人富钱生钱。\n\n《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。\n\n本文摘抄了《富爸爸，穷爸爸》在Kindle电子书中的热门标注：\n\n"}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L26","$L27","$L28","$L29","$L2a"]}]
+30:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+2b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z28:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$2b"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":"$L2c"}],"$L2d"]}],"$L2e","$L2f"]}]]}]]}]}]
+29:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+2a:["$","$L30",null,{}]
+:HL["/about/wechat.jpg","image"]
+2c:["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]
+2d:["$","p",null,{"children":"或添加微信："}]
+2e:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+2f:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]
+26:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L3","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L3","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L3","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L3","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L3","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L3","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+27:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L3","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66"]}]]}]}]
+31:["$","$L3","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+32:["$","$L3","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+33:["$","$L3","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+34:["$","$L3","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+35:["$","$L3","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+36:["$","$L3","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+37:["$","$L3","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+38:["$","$L3","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+39:["$","$L3","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+3a:["$","$L3","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3b:["$","$L3","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+3c:["$","$L3","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+3d:["$","$L3","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3e:["$","$L3","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3f:["$","$L3","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+40:["$","$L3","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+41:["$","$L3","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+42:["$","$L3","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+43:["$","$L3","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+44:["$","$L3","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L3","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+46:["$","$L3","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+47:["$","$L3","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+48:["$","$L3","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+49:["$","$L3","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4a:["$","$L3","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4b:["$","$L3","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4c:["$","$L3","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+4d:["$","$L3","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4e:["$","$L3","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4f:["$","$L3","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+50:["$","$L3","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+51:["$","$L3","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L3","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L3","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+54:["$","$L3","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+55:["$","$L3","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+56:["$","$L3","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+57:["$","$L3","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+58:["$","$L3","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+59:["$","$L3","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5a:["$","$L3","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5b:["$","$L3","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5c:["$","$L3","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+5d:["$","$L3","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5e:["$","$L3","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+5f:["$","$L3","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+60:["$","$L3","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+61:["$","$L3","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+62:["$","$L3","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+63:["$","$L3","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+64:["$","$L3","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+65:["$","$L3","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+66:["$","$L3","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+67:I[72175,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"IconMark"]
+17:null
+1b:[["$","title","0",{"children":"Story | 王郁的小站"}],["$","meta","1",{"name":"description","content":"查看所有关于 Story 的文章，共 7 篇"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"Story,王郁的小站,博客"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L67","7",{}]]

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"ViewportBoundary"]
+3:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[72175,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"IconMark"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JSON | 王郁的小站"}],["$","meta","1",{"name":"description","content":"查看所有关于 JSON 的文章，共 2 篇"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"JSON,王郁的小站,博客"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L5","7",{}]]}]}]}],null]}],"loading":null,"isPartial":false}

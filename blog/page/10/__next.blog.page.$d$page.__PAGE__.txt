@@ -1,0 +1,629 @@
+1:"$Sreact.fragment"
+2:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+13:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+1d:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+5a:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+:HL["/images/20180213_react.png","image"]
+:HL["/images/20180213_clipboard.jpg","image"]
+:HL["/images/20180129_homo_deus.jpg","image"]
+:HL["https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":[["$","section",null,{"className":"flex flex-col gap-4 lg:flex-2","children":[["$","article","clipboard-react",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/clipboard-react","children":"用React做一个跨平台剪切板"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-02-13"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","React",{"href":"/blog/tag/react","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"React"}],["$","$L2","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180213_react.png","alt":"React","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180213_react.png","alt":"React"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":37,"offset":37}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"React"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"这篇文章我们将用React实现一个跨平台剪切板。"}],"\n"]}],"\n",["$","p","p-0",{"children":"通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。"}]]}],"$L3"]]}]}],"$L4","$L5","$L6","$L7"]}],"$L8"]}],"$L9"]}]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+3:["$","$L2",null,{"href":"/blog/clipboard-react","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+4:["$","article","clipboard-wechatapp",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/clipboard-wechatapp","children":"微信小程序入门"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-02-13"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Wechat",{"href":"/blog/tag/wechat","className":"px-2 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-sm rounded-full","children":"Wechat"}],["$","$L2","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180213_clipboard.jpg","alt":"React","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180213_clipboard.jpg","alt":"React"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":41,"offset":41}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"React"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"这篇文章我们将开发一个微信小程序版的跨平台剪切板。"}],"\n"]}],"\n",["$","p","p-0",{"children":["书接上文，我们已经用",["$","code","code-0",{"children":"React"}],"开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。"]}],"\n",["$","p","p-1",{"children":"如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。"}]]}],["$","$L2",null,{"href":"/blog/clipboard-wechatapp","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,"$Lc"]}],"查看全文..."]}]]]}]}]
+5:["$","article","home-deus",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/home-deus","children":"《未来简史》读书笔记"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-01-29"]}],["$","$L2",null,{"href":"/blog/category/story","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Story"]}]]}],false,[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180129_homo_deus.jpg","alt":"未来简史","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180129_homo_deus.jpg","alt":"未来简史"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":40,"offset":40}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"未来简史"}]]}],"\n",["$","h2","h2-0",{"children":"1%的精英和99%的无用的人"}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"人类将失去在经济和军事上的用途，因此经济和政治制度可能将不再继续认同人类有太多价值。"}],"\n"]}],"\n",["$","blockquote","blockquote-1",{"children":["\n",["$","p","p-0",{"children":"21世纪经济学最重要的问题，可能就是多余的人能有什么用？一旦拥有高度智能的算法接手几乎一切工作，而且能比人类做的更好时，人类还能做什么？"}],"\n"]}],"\n",["$","p","p-0",{"children":"前段时间看到一个TED演讲，未来世界各地可能像某些北欧国家一样，发基础工资，所有人都有基本工资来消费，而经济的马车由机器拉动。我们看到现在国家在搞扶贫，其实就是发社会基本工资。只不过还够不上发达国家而已。"}],"\n",["$","p","p-1",{"children":"社会的贫富差距会加大。绝大多数人将会沦为无用的人。我们看到整个社会逐渐淘汰了一些简单的工作。例如扫马路、看守停车场。不幸的是，从事这些岗位的恰恰是低收入者。这些事情都在身边真实发生。"}],"\n",["$","p","p-2",{"children":["除了计算机互联网的发展、另外一个进步巨大，却又常常被忽视的领域是生物科技，被称为上帝剪刀的基因编辑可能因为法律和伦理问题还需时日。但基于基因组测序和大数据做癌症筛查是现在的精英阶层已经流行的。由此超人类可能和传统的人产生历史上从未发生的",["$","strong","strong-0",{"children":"生理差距"}],"。"]}]]}],["$","$L2",null,{"href":"/blog/home-deus","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+6:["$","article","rxjava",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/rxjava","children":"RxJava入门"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-01-20"]}],["$","$L2",null,{"href":"/blog/category/languages","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Languages"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","RxJava",{"href":"/blog/tag/rxjava","className":"px-2 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-sm rounded-full","children":"RxJava"}],["$","$L2","Java",{"href":"/blog/tag/java","className":"px-2 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":"Java"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png","alt":"ReactiveX","node":{"type":"element","tagName":"img","properties":{"src":"https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png","alt":"ReactiveX"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":96,"offset":96}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"ReactiveX"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":["RxJava是",["$","code","code-0",{"children":"ReactiveX"}],"的Java分支，除了Java版，",["$","code","code-1",{"children":"ReactiveX"}],"还支持包括JavaScript、C#、C++、Swift、Python、Android、Unity、Kotlin、Go、PHP在内的众多平台和语言。"]}],"\n"]}],"\n",["$","blockquote","blockquote-1",{"children":["\n",["$","p","p-0",{"children":["ReactiveX的核心是对观察者模式的扩展，并上升到了和命令式编程完全不同的编程方式的高度，称为",["$","code","code-0",{"children":"响应式编程"}],"，优势在于处理异步、基于事件的应用程序。可以将数据或是事件都加队列中处理，优雅地解决了以前多线程交互、IO、并发、同步、异常处理这种编程的老大难问题。再加上","$Ld","表达式和链式编程，让程序变得更加简洁优雅。"]}],"\n"]}]]}],"$Le"]]}]}]
+7:["$","article","react",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/react","children":"React框架原理的思考"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-01-06"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","React",{"href":"/blog/tag/react","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"React"}],["$","$L2","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}]]}]]}],["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180213_react.png","alt":"React","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180213_react.png","alt":"React"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":37,"offset":37}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"React"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":["React框架的整体思路是将DOM元素彻底改为由JS代码渲染，通过组件(",["$","code","code-0",{"children":"Component"}],")的层层嵌套，最终由",["$","code","code-1",{"children":"ReactDOM.render()"}],"渲染到页面上。"]}],"\n"]}],"\n",["$","p","p-0",{"children":"React框架的核心概念："}],"\n",["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":["元素(",["$","code","code-0",{"children":"Element"}],") Recat认为元素是不可变的，创建后不能修改。React使用",["$","code","code-1",{"children":"JSX"}],"技术将HTML代码直接作为常量使用。"]}],"\n",["$","li","li-1",{"children":["组件(",["$","code","code-0",{"children":"Component"}],") 组件是对元素的封装。拥有自身的生命周期函数。"]}],"\n",["$","li","li-2",{"children":["属性(",["$","code","code-0",{"children":"Props"}],") 属性可以看作常量，用于构建特定的组件。"]}],"\n","$Lf","\n"]}],"\n","$L10","\n","$L11","\n","$L12"]}]]}]}]
+8:["$","div",null,{"className":"flex justify-center items-center space-x-2 mt-4","children":[["$","$L2",null,{"href":"/blog/page/9","className":"btn btn-sm btn-circle","aria-label":"上一页","title":"上一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M15.75 19.5 8.25 12l7.5-7.5"}]]}]}],["$","div",null,{"className":"join","children":[["$","$L2","1",{"href":"/","className":"join-item btn btn-sm ","children":1}],["$","span","ellipsis-1",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L2","9",{"href":"/blog/page/9","className":"join-item btn btn-sm ","children":9}],["$","$L2","10",{"href":"/blog/page/10","className":"join-item btn btn-sm btn-active","children":10}],["$","$L2","11",{"href":"/blog/page/11","className":"join-item btn btn-sm ","children":11}],["$","span","ellipsis-5",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L2","16",{"href":"/blog/page/16","className":"join-item btn btn-sm ","children":16}]]}],["$","$L2",null,{"href":"/blog/page/11","className":"btn btn-sm btn-circle","aria-label":"下一页","title":"下一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m8.25 4.5 7.5 7.5-7.5 7.5"}]]}]}]]}]
+14:T15e7,
+![React](/images/20180213_react.png)
+
+> 这篇文章我们将用React实现一个跨平台剪切板。
+
+
+通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。
+
+<!--more-->
+
+## 1.使用`create-react-app`创建工程
+
+```bash
+npm install -g create-react-app
+create-react-app my-app
+
+cd my-app
+npm start
+```
+
+## 2.编写模版
+
+```html
+render() {
+        return (
+            <div>
+                <Header/>
+                <div className="Clipboard container">
+                    <input placeholder="查询码"
+                           type="number"
+                           className="input-query-number form-control form-group"
+                           value={this.state.queryNumber > 0 ? this.state.queryNumber : ''}
+                           disabled={this.state.isShowResult}
+                           onChange={this.handleNumberChange}/>
+                    {this.state.isShowResult ? null : <button onClick={this.handleQuery}
+                                                              className="btn-query btn btn-primary form-control form-group">查询</button>}
+
+                    {this.state.isShowResult ? null :
+                        <button onClick={this.handleNew}
+                                className="btn-new btn btn-primary form-control form-group">新建</button>}
+
+                    {this.state.isShowResult ? <textarea onChange={this.handleTextChange} value={this.state.text}
+                                                         className="textarea-text form-control form-group"/> : null}
+
+                    {this.state.isShowResult ? <button onClick={this.handleSave}
+                                                       className="btn-save btn btn-success form-control  form-group">保存</button> : null}
+                </div>
+            </div>
+        );
+    }
+
+```
+
+- `render()`返回的`JSX`只能有一个组件，当需要多个组件时，需要用一个`div`包起来；
+- 这里通过state的自定义属性`isShowResult`实现对控件的隐藏和显示；
+- 界面使用Bootstrap框架做移动端适配
+- 通过`onClick={this.handleSave}`,`onChange={this.handleTextChange}`等属性绑定函数，构造函数里还要写`this.handleBack = this.handleBack.bind(this);`
+
+## 3.构造方法
+
+```JavaScript
+constructor(props) {
+        super(props);
+        this.state = {
+            queryNumber: -1,
+            isShowResult: false,
+            text: ''
+        };
+
+        this.handleNumberChange = this.handleNumberChange.bind(this);
+        this.handleTextChange = this.handleTextChange.bind(this);
+        this.handleQuery = this.handleQuery.bind(this);
+        this.handleNew = this.handleNew.bind(this);
+        this.handleSave = this.handleSave.bind(this);
+        this.handleBack = this.handleBack.bind(this);
+    }
+```
+
+- `state`中维护了页面状态，这里只需要3个参数：查询码，是否显示查询结果，剪切板文字
+
+## 4.逻辑
+
+```JavaScript
+ handleNumberChange(event) {
+        this.setState({queryNumber: event.target.value});
+    }
+
+    handleTextChange(event) {
+        this.setState({text: event.target.value});
+    }
+
+    handleBack(event){
+        this.setState({isShowResult: false});
+    }
+
+    handleQuery(event) {
+        if(this.state.queryNumber<=0){
+            alert('查询码不正确！');
+            return
+        }
+        let data = {
+            params: {
+                id: this.state.queryNumber
+            }
+        };
+        axios.get('https://wycode.cn/web/api/public/clipboard/query',data)
+            .then((response) =>{
+                if(response.status!==200||response.data.data==null){
+                    throw '查询码不正确！'
+                }
+                this.setState({
+                    isShowResult: true,
+                    queryNumber: response.data.data.id,
+                    text: response.data.data.content
+                })
+            })
+            .catch((error) => alert(error));
+    }
+
+    handleNew(event) {
+        axios.post('https://wycode.cn/web/api/public/clipboard/create')
+            .then((response) => this.setState({
+                isShowResult: true,
+                queryNumber: response.data.data.id,
+                text: response.data.data.content
+            }))
+            .catch((error) => alert(error));
+    }
+
+    handleSave(event) {
+        let data = new FormData();
+        data.append('id',this.state.queryNumber);
+        data.append('content',this.state.text);
+        axios.post('https://wycode.cn/web/api/public/clipboard/save',data)
+            .then((response) => this.setState({
+                isShowResult: false,
+                queryNumber: response.data.data.id,
+                text: response.data.data.content
+            }))
+            .catch((error) => alert(error));
+    }
+
+```
+
+- 使用`this.setState({});`更改页面状态
+- 这里使用`Axios`做网络请求。`Axios`是一个js网络请求库。
+- 在网络请求返回函数里 `this`做作用域是当前对象，会发生错误，使用箭头符=>，即lambda表达式就没有问题。或者在外部创建一个`this`的引用`let that = this;`
+
+
+至此大功告成！访问 https://wycode.cn/clipboard/ 查看示例
+访问 https://github.com/wangyucode/React-Learning 查看完整源码15:T162e,
+![React](/images/20180213_clipboard.jpg)
+
+> 这篇文章我们将开发一个微信小程序版的跨平台剪切板。
+
+
+书接上文，我们已经用`React`开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。
+
+如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。
+
+<!--more-->
+
+## 1.app.json
+
+```json
+
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#379392",
+    "navigationBarTitleText": "跨平台剪切板",
+    "navigationBarTextStyle": "white"
+  },
+  "debug": true
+}
+```
+
+- `app.json`中描述了小程序相关的全局配置信息，所有的页面需要配置在`page`属性中。
+- 这里还能配置`tabbar`，为了跨平台剪切板的简洁，我去掉了tab，把它做成了一个单页面的极简APP
+
+## 2.模板
+
+```html
+
+<!--index.wxml-->
+<view class="container">
+  <input type='number' placeholder="查询码" value='{{queryNumber>0?queryNumber:""}}' bindinput='bindInput' disabled='{{isShowResult}}'></input>
+  <button type='primary' wx:if="{{!isShowResult}}" bindtap='query'>查询</button>
+  <button wx:if="{{!isShowResult}}" bindtap='create'>新建</button>
+  <textarea wx:if='{{isShowResult}}' value='{{text}}' bindinput='bindInputText'></textarea>
+  <button type= 'primary' wx:if = "{{isShowResult}}" bindtap='save'>保存</button>
+  <button wx:if = "{{isShowResult}}" bindtap='back'>返回</button>
+</view>
+```
+
+- `.wxml`后缀的是小程序的布局（模板）文件。
+- 属性没什么好解释的，看一下就懂了。参考React版的教程就知道每个属性的详细用途。
+
+## 3.样式表
+
+```css
+/**index.wxss**/
+
+input {
+  border: 1px solid;
+  border-radius: 10rpx;
+  border-color: #ddd;
+  padding: 10rpx;
+  width: 96%;
+}
+
+button {
+  margin-top: 24rpx;
+  width: 100%;
+}
+
+textarea{
+  border: 1px solid;
+  border-radius: 10rpx;
+  border-color: #ddd;
+  padding: 10rpx;
+  width: 96%;
+  margin-top: 24rpx;
+}
+```
+
+- 就是传统的CSS层叠样式表
+- 这里rpx是dpi无关的单位，保证不同分辨率的相同观感
+
+
+## 4.逻辑
+
+```javascript
+//index.js
+//获取应用实例
+const app = getApp()
+
+Page({
+  data: {
+    queryNumber: -1,
+    isShowResult: false,
+    text: ''
+  },
+
+  onLoad: function () {
+
+  },
+
+  bindInput: function (e) {
+    this.setData({
+      queryNumber: e.detail.value
+    })
+  },
+
+  bindInputText: function (e) {
+    this.setData({
+      text: e.detail.value
+    })
+  },
+
+  query: function () {
+    if (this.data.queryNumber <= 0) {
+      wx.showToast({
+        title: '查询码不正确！',
+        icon: 'none'
+      });
+      return
+    }
+
+    var that = this;
+    wx.showLoading({
+      title: '请稍后...',
+    })
+    wx.request({
+      url: 'https://wycode.cn/web/api/public/clipboard/query',
+      data: { 'id': this.data.queryNumber },
+      success: function (res) {
+        if (!res.data.success || res.data.data == null) {
+          wx.showToast({
+            title: '查询码不正确！',
+            icon: 'none'
+          });
+        } else {
+          that.setData({
+            isShowResult: true,
+            queryNumber: res.data.data.id,
+            text: res.data.data.content
+          });
+        }
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res,
+          icon: 'none'
+        });
+      },
+      complete:function(){
+        wx.hideLoading();
+      }
+    });
+
+  },
+
+  create: function () {
+    var that = this;
+    wx.showLoading({
+      title: '请稍后...',
+    })
+    wx.request({
+      url: 'https://wycode.cn/web/api/public/clipboard/create',
+      method: 'POST',
+      success: function (res) {
+
+        that.setData({
+          isShowResult: true,
+          queryNumber: res.data.data.id,
+          text: res.data.data.content
+        });
+
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res.errMsg,
+          icon: 'none'
+        });
+      },
+      complete:function(){
+        wx.hideLoading();
+      }
+    });
+  },
+
+  save: function () {
+    var that = this;
+    wx.showLoading({
+      title: '请稍后...',
+    })
+    wx.request({
+      url: 'https://wycode.cn/web/api/public/clipboard/save',
+      method: 'POST',
+      data:{
+        id: that.data.queryNumber,
+        content: that.data.text
+      },
+      header: {
+        'content-type': 'application/x-www-form-urlencoded'
+      },
+      success: function (res) {
+
+        that.setData({
+          isShowResult: false,
+          queryNumber: res.data.data.id,
+          text: res.data.data.content
+        });
+        wx.showToast({
+          title: '保存成功！',
+          icon: 'success'
+        });
+
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res.errMsg,
+          icon: 'none'
+        });
+      },
+      complete: function () {
+        wx.hideLoading();
+      }
+    });
+  },
+
+  back: function () {
+    this.setData({
+      isShowResult: false
+    })
+  }
+
+})
+
+```
+
+- 小程序的`data`，就是React的`state`
+- 小程序通过`this.setData()`刷新页面状态，如同React的`this.setState()`
+- 使用`wx.request()`做http请求
+- 使用`wx.showToast()`显示一个提示
+- 使用`wx.showLoading()`显示Loading
+- 这里发现一个小程序的bug，在`wx.hideLoading()`会将Toast也消失掉。
+
+
+至此大功告成！打开微信扫一扫文章开头的小程序码即可使用。
+访问 https://github.com/wangyucode/Clipboard 查看完整源码16:Tc3d,
+![未来简史](/images/20180129_homo_deus.jpg)
+
+## 1%的精英和99%的无用的人
+
+> 人类将失去在经济和军事上的用途，因此经济和政治制度可能将不再继续认同人类有太多价值。
+
+> 21世纪经济学最重要的问题，可能就是多余的人能有什么用？一旦拥有高度智能的算法接手几乎一切工作，而且能比人类做的更好时，人类还能做什么？
+
+
+前段时间看到一个TED演讲，未来世界各地可能像某些北欧国家一样，发基础工资，所有人都有基本工资来消费，而经济的马车由机器拉动。我们看到现在国家在搞扶贫，其实就是发社会基本工资。只不过还够不上发达国家而已。
+
+社会的贫富差距会加大。绝大多数人将会沦为无用的人。我们看到整个社会逐渐淘汰了一些简单的工作。例如扫马路、看守停车场。不幸的是，从事这些岗位的恰恰是低收入者。这些事情都在身边真实发生。
+
+除了计算机互联网的发展、另外一个进步巨大，却又常常被忽视的领域是生物科技，被称为上帝剪刀的基因编辑可能因为法律和伦理问题还需时日。但基于基因组测序和大数据做癌症筛查是现在的精英阶层已经流行的。由此超人类可能和传统的人产生历史上从未发生的**生理差距**。
+
+<!--more-->
+
+## 饥荒、瘟疫和战争
+
+就在几十年前，饥荒、瘟疫和战争是人类的头号敌人。但是，到了今天：
+
+> 2010年，饥饿和营养不良合计夺走了约100万人的生命，但肥胖却让300万人丧命。
+
+> 虽然我们不敢保证绝不会爆发新一波埃博拉或未知流感病毒疫情，横扫全球造成数百万人死亡，但至少我们不会认为这是不可避免的自然灾害。相反，我们会认为这是一个不可原谅的认为疏忽，要有人为此负起责任。
+
+> 2012年，全球约有5600万人死亡，其中62万人死于暴力（战争致死12万，犯罪致死50万），相较之下，自杀的有80万，死于糖尿病的更是有150万。现在，糖比火药更致命。
+
+
+## 生命就是算法
+
+> 人类历史就是数据处理过程。
+
+人不仅在处理数据，还在产生数据。你每天都在看新闻，刷微博，同时也在发微博，发朋友圈，记录、上传和分享。
+
+如今，各种微博，朋友圈，公众号，头条，推送。
+
+以前，价值来源于获取信息的能力。现在，价值来源于过滤信息的能力。
+
+
+
+## 意识与智能分离
+
+> 任何一匹马，不论是嗅觉、爱的能力、认人的能力、跳过栅栏的能力或是其他上千件事情上，绝对都远高于历史上首款平民汽车福特T型车，或是价值千万的兰博基尼。然而马还是被汽车取代，原因在于汽车在社会系统真正需要的少数几个领域胜出。
+
+事实证明高度的智能并不需要意识的参与。
+
+## 大数据和人工智能将比我们更加了解自己
+
+当机器的选择比我们更好时，我们还有自己的独立人格吗，亦或是裹挟在数据浪潮中的一小片涟漪。
+
+
+
+17:Tf50,
+![ReactiveX](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png)
+
+> RxJava是`ReactiveX`的Java分支，除了Java版，`ReactiveX`还支持包括JavaScript、C#、C++、Swift、Python、Android、Unity、Kotlin、Go、PHP在内的众多平台和语言。
+
+
+> ReactiveX的核心是对观察者模式的扩展，并上升到了和命令式编程完全不同的编程方式的高度，称为`响应式编程`，优势在于处理异步、基于事件的应用程序。可以将数据或是事件都加队列中处理，优雅地解决了以前多线程交互、IO、并发、同步、异常处理这种编程的老大难问题。再加上`Lambda`表达式和链式编程，让程序变得更加简洁优雅。
+
+<!--more-->
+
+
+看完了RactiveX的简介，觉得用它来封装一个网络请求框架应该是再好不过了，但是当我真正开始封装网络请求时，我发现：RxJava给的答案是，你并不需要去封装，而是**直接使用**就好了。实例代码如下。
+
+## Hello RxJava
+
+```Java
+	public void onClick(View v) {
+        Observable.create((ObservableOnSubscribe<String>) emitter -> emitter.onNext(httpRequest()))  //1.
+                .subscribeOn(Schedulers.io())  //2.
+                .observeOn(AndroidSchedulers.mainThread())  //3.
+                .subscribe(s -> textView.setText(s));  //4.
+    }
+    
+```
+
+核心代码就是`OnClick`方法中的四行。
+
+步骤如下：
+
+
+1. 通过`create`函数创建`Observable`对象
+2. 订阅调度到`Schedulers.io()`，`io`是一个有线程缓存的新线程调度器
+3. 将事件消费调度到Android的主线程上
+4. 消费者（观察者）代码
+
+`httpRequest()`没用到任何复杂的框架，就用原生的`HttpURLConnection`做一个网络请求，返回请求结果的String，代码如下：
+
+```Java
+	private String httpRequest() throws Exception {
+        URL url = new URL("http://wycode.cn/");
+        HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+        String result;
+        try {
+            BufferedInputStream in = new BufferedInputStream(urlConnection.getInputStream());
+            result = readStream(in);
+        } finally {
+            urlConnection.disconnect();
+        }
+        return result;
+    }
+
+    private String readStream(BufferedInputStream in) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(in));
+        StringBuilder sb = new StringBuilder();
+        String line;
+        try {
+            while ((line = reader.readLine()) != null) {
+                sb.append(line).append("\n");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                in.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+        return sb.toString();
+    }
+```
+
+## 变换操作
+
+通常的，我们在请求网络后要对服务器返回的字符串进行解析，这时我们可以使用RxJava的`Transforming`操作，在返回前将JSON String转为实体类。
+
+```Java
+Observable.create((ObservableOnSubscribe<String>) emitter -> emitter.onNext(httpRequest("https://wycode.cn/web/api/public/hello?message=Hello"))) //1.
+                .map(s -> JSON.parseObject(s,Message.class)) //解析JSON
+                .subscribeOn(Schedulers.io()) //2.
+                .observeOn(AndroidSchedulers.mainThread()) //3.
+                .subscribe(message -> textView.setText(message.message)); //4.
+```
+
+可以看到在原有代码几乎没变的情况下，加上1行代码就实现了将Json转为实体再处理的需求。这就是RxJava的魅力。
+
+完整源码在这里：https://github.com/wangyucode/rxjava
+
+而以上也仅仅用到了RxJava的冰山一角，还有各种各样的函数来满足各种各样的需求。
+
+函数列表在这里：http://reactivex.io/documentation/operators.html
+9:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L13",null,{"recentArticles":[{"id":"clipboard-react","file":"clipboard-react.md","content":"$14","data":{"title":"用React做一个跨平台剪切板","date":"2018-02-13","tags":["React","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![React](/images/20180213_react.png)\n\n> 这篇文章我们将用React实现一个跨平台剪切板。\n\n\n通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。\n\n"},{"id":"clipboard-wechatapp","file":"clipboard-wechatapp.md","content":"$15","data":{"title":"微信小程序入门","date":"2018-02-13","tags":["Wechat","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![React](/images/20180213_clipboard.jpg)\n\n> 这篇文章我们将开发一个微信小程序版的跨平台剪切板。\n\n\n书接上文，我们已经用`React`开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。\n\n如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。\n\n"},{"id":"home-deus","file":"home-deus.md","content":"$16","data":{"title":"《未来简史》读书笔记","date":"2018-01-29","tags":null,"category":"Story"},"isEmpty":false,"excerpt":"\n![未来简史](/images/20180129_homo_deus.jpg)\n\n## 1%的精英和99%的无用的人\n\n> 人类将失去在经济和军事上的用途，因此经济和政治制度可能将不再继续认同人类有太多价值。\n\n> 21世纪经济学最重要的问题，可能就是多余的人能有什么用？一旦拥有高度智能的算法接手几乎一切工作，而且能比人类做的更好时，人类还能做什么？\n\n\n前段时间看到一个TED演讲，未来世界各地可能像某些北欧国家一样，发基础工资，所有人都有基本工资来消费，而经济的马车由机器拉动。我们看到现在国家在搞扶贫，其实就是发社会基本工资。只不过还够不上发达国家而已。\n\n社会的贫富差距会加大。绝大多数人将会沦为无用的人。我们看到整个社会逐渐淘汰了一些简单的工作。例如扫马路、看守停车场。不幸的是，从事这些岗位的恰恰是低收入者。这些事情都在身边真实发生。\n\n除了计算机互联网的发展、另外一个进步巨大，却又常常被忽视的领域是生物科技，被称为上帝剪刀的基因编辑可能因为法律和伦理问题还需时日。但基于基因组测序和大数据做癌症筛查是现在的精英阶层已经流行的。由此超人类可能和传统的人产生历史上从未发生的**生理差距**。\n\n"},{"id":"rxjava","file":"rxjava.md","content":"$17","data":{"title":"RxJava入门","date":"2018-01-20","tags":["RxJava","Java"],"category":"Languages"},"isEmpty":false,"excerpt":"\n![ReactiveX](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2021/08/ReactoveX.png)\n\n> RxJava是`ReactiveX`的Java分支，除了Java版，`ReactiveX`还支持包括JavaScript、C#、C++、Swift、Python、Android、Unity、Kotlin、Go、PHP在内的众多平台和语言。\n\n\n> ReactiveX的核心是对观察者模式的扩展，并上升到了和命令式编程完全不同的编程方式的高度，称为`响应式编程`，优势在于处理异步、基于事件的应用程序。可以将数据或是事件都加队列中处理，优雅地解决了以前多线程交互、IO、并发、同步、异常处理这种编程的老大难问题。再加上`Lambda`表达式和链式编程，让程序变得更加简洁优雅。\n\n"},{"id":"react","file":"react.md","content":"\n![React](/images/20180213_react.png)\n\n> React框架的整体思路是将DOM元素彻底改为由JS代码渲染，通过组件(`Component`)的层层嵌套，最终由`ReactDOM.render()`渲染到页面上。\n\nReact框架的核心概念：\n\n- 元素(`Element`) Recat认为元素是不可变的，创建后不能修改。React使用`JSX`技术将HTML代码直接作为常量使用。\n- 组件(`Component`) 组件是对元素的封装。拥有自身的生命周期函数。\n- 属性(`Props`) 属性可以看作常量，用于构建特定的组件。\n- 状态(`State`) 组件通过状态维护自身变化。组件通过调用`setState()`方法重新渲染。\n\nReact的理念是采取[单一责任原则](https://en.wikipedia.org/wiki/Single_responsibility_principle \"Wiki\")，自顶向下设计，一层层的拆分成只做一件事的`Component`。\n\n在做一个实际的项目时，采取先使用假数据画页面的方式，这个过程中只需要关心数据模型和页面。而不去关心逻辑交互。\n\n此时`Component`为什么要分成`Props`和`State`就显而易见了，做页面时只关心`Props`，做交互时只关心`State`。","data":{"title":"React框架原理的思考","date":"2018-01-06","tags":["React","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":""}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L18","$L19","$L1a","$L1b","$L1c"]}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true}]
+b:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+c:["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]
+d:["$","code","code-1",{"children":"Lambda"}]
+e:["$","$L2",null,{"href":"/blog/rxjava","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+f:["$","li","li-3",{"children":["状态(",["$","code","code-0",{"children":"State"}],") 组件通过状态维护自身变化。组件通过调用",["$","code","code-1",{"children":"setState()"}],"方法重新渲染。"]}]
+10:["$","p","p-1",{"children":["React的理念是采取",["$","a","a-0",{"href":"https://en.wikipedia.org/wiki/Single_responsibility_principle","title":"Wiki","children":"单一责任原则"}],"，自顶向下设计，一层层的拆分成只做一件事的",["$","code","code-0",{"children":"Component"}],"。"]}]
+11:["$","p","p-2",{"children":"在做一个实际的项目时，采取先使用假数据画页面的方式，这个过程中只需要关心数据模型和页面。而不去关心逻辑交互。"}]
+12:["$","p","p-3",{"children":["此时",["$","code","code-0",{"children":"Component"}],"为什么要分成",["$","code","code-1",{"children":"Props"}],"和",["$","code","code-2",{"children":"State"}],"就显而易见了，做页面时只关心",["$","code","code-3",{"children":"Props"}],"，做交互时只关心",["$","code","code-4",{"children":"State"}],"。"]}]
+18:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L2","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L2","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L2","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L2","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L2","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L2","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+19:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L2","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55"]}]]}]}]
+56:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z1a:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$56"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]}],"$L57"]}],"$L58","$L59"]}]]}]]}]}]
+1b:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+1c:["$","$L5a",null,{}]
+1f:null
+20:["$","$L2","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+21:["$","$L2","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+22:["$","$L2","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+23:["$","$L2","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+24:["$","$L2","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+25:["$","$L2","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+26:["$","$L2","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+27:["$","$L2","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+28:["$","$L2","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+29:["$","$L2","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2a:["$","$L2","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+2b:["$","$L2","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+2c:["$","$L2","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+2d:["$","$L2","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2e:["$","$L2","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2f:["$","$L2","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+30:["$","$L2","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+31:["$","$L2","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+32:["$","$L2","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+33:["$","$L2","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+34:["$","$L2","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+35:["$","$L2","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+36:["$","$L2","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+37:["$","$L2","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+38:["$","$L2","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+39:["$","$L2","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3a:["$","$L2","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3b:["$","$L2","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+3c:["$","$L2","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3d:["$","$L2","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3e:["$","$L2","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3f:["$","$L2","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+40:["$","$L2","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+41:["$","$L2","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L2","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+43:["$","$L2","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+44:["$","$L2","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+45:["$","$L2","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+46:["$","$L2","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+47:["$","$L2","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+48:["$","$L2","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+49:["$","$L2","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4a:["$","$L2","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4b:["$","$L2","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4c:["$","$L2","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4d:["$","$L2","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+4e:["$","$L2","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4f:["$","$L2","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+50:["$","$L2","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+51:["$","$L2","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L2","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L2","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+54:["$","$L2","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+55:["$","$L2","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+57:["$","p",null,{"children":"或添加微信："}]
+58:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+59:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]

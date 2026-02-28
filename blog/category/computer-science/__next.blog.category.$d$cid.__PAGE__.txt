@@ -1,0 +1,1585 @@
+1:"$Sreact.fragment"
+2:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+6:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+f:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+4c:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+:HL["/about/wechat.jpg","image"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 flex items-center mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-6 w-6","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Computer Science",["$","span",null,{"className":"ml-2 text-sm font-normal text-slate-500 dark:text-slate-400","children":["(",3," 篇文章)"]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div","data-structures03",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/data-structures03","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"数据结构与算法学习笔记03"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-03-26"]}]]}]}],["$","div","data-structures02",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/data-structures02","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"数据结构与算法学习笔记02"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-03-16"]}]]}]}],["$","div","data-structures01",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/data-structures01","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"数据结构与算法学习笔记01"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-03-14"]}]]}]}]]}]]}]}]}],"$L3"]}]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+7:T47cc,
+![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)
+
+> 树状结构的基础是二叉树，二叉树即度为2的树。
+
+## 二叉树的链表结构
+
+```c
+typedef struct TNode *Position;
+typedef Position BinTree; /* 二叉树类型 */
+struct TNode{ /* 树结点定义 */
+    ElementType Data; /* 结点数据 */
+    BinTree Left;     /* 指向左子树 */
+    BinTree Right;    /* 指向右子树 */
+};
+```
+
+
+<!--more-->
+
+## 作业1：树的同构
+
+给定两棵树T1和T2。如果T1可以通过若干次左右孩子互换就变成T2，则我们称两棵树是“同构”的。例如图1给出的两棵树就是同构的，因为我们把其中一棵树的结点A、B、G的左右孩子互换后，就得到另外一棵树。而图2就不是同构的。
+图1：
+![图1](/images/20180326_data_structures03_1.png)
+图2：
+![图2](/images/20180326_data_structures03_2.png)
+现给定两棵树，请你判断它们是否是同构的。
+
+- 输入格式:
+
+输入给出2棵二叉树树的信息。对于每棵树，首先在一行中给出一个非负整数N (≤10)，即该树的结点数（此时假设结点从0到N−1编号）；随后N行，第i行对应编号第i个结点，给出该结点中存储的1个英文大写字母、其左孩子结点的编号、右孩子结点的编号。如果孩子结点为空，则在相应位置上给出`-`。给出的数据间用一个空格分隔。注意：题目保证每个结点中存储的字母是不同的。
+
+- 输出格式:
+
+如果两棵树是同构的，输出`Yes`，否则输出`No`。
+
+- 输入样例1（对应图1）：
+
+```bash
+8
+A 1 2
+B 3 4
+C 5 -
+D - -
+E 6 -
+G 7 -
+F - -
+H - -
+8
+G - 4
+B 7 6
+F - -
+A 5 1
+H - -
+C 0 -
+D - -
+E 2 -
+```
+
+- 输出样例1:
+
+```bash
+Yes
+```
+- 输入样例2（对应图2）：
+
+```bash
+8
+B 5 7
+F - -
+A 0 3
+C 6 -
+H - -
+D - -
+G 4 -
+E 1 -
+8
+D 6 -
+B 5 -
+E - -
+H - -
+C 0 2
+G - 3
+F - -
+A 1 4
+```
+- 输出样例2:
+
+```bash
+No
+```
+
+- 实现：
+
+```java
+public class Main {
+    public static void main(String args[]) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        //读第一个树节点
+        int n_a = 0;
+        n_a = Integer.parseInt(reader.readLine());
+
+        String[] inputs_a = new String[n_a];
+        List<Node> nodes_a = new ArrayList<>(n_a);
+
+        for (int i = 0; i < n_a; i++) {
+            inputs_a[i] = reader.readLine();
+        }
+
+
+        int n_b = 0;
+        n_b = Integer.parseInt(reader.readLine());
+
+        String[] inputs_b = new String[n_b];
+        List<Node> nodes_b = new ArrayList<>(n_b);
+
+        for (int i = 0; i < n_b; i++) {
+            inputs_b[i] = reader.readLine();
+        }
+
+        if (n_a != n_b) {
+            System.out.println("No");
+            return;
+        }
+
+        addNodes(inputs_a, nodes_a);
+        addNodes(inputs_b, nodes_b);
+
+        if(inputs_a.length==1&&!Objects.equals(nodes_a.get(0).data,nodes_b.get(0).data)){
+            System.out.println("No");
+            return;
+        }
+
+        for (Node node_a : nodes_a) {
+            for (Node node_b : nodes_b) {
+                if (Objects.equals(node_a.data, node_b.data)) {
+                    if (!((Objects.equals(node_a.left, node_b.left) && Objects.equals(node_a.right, node_b.right))
+                            || (Objects.equals(node_a.left, node_b.right) && Objects.equals(node_a.right, node_b.left)))) {
+                        System.out.println("No");
+                        return;
+                    }
+                }
+            }
+        }
+
+        System.out.println("Yes");
+    }
+
+
+    private static void addNodes(String[] inputs, List<Node> nodes) {
+        for (String input : inputs) {
+            Node n = new Node();
+            String[] lineArg = input.split(" ");
+            n.data = lineArg[0];
+            if (!Objects.equals("-", lineArg[1])) {
+                int left_num = Integer.parseInt(lineArg[1]);
+                n.left = inputs[left_num].split(" ")[0];
+            }
+            if (!Objects.equals("-", lineArg[2])) {
+                int right_num = Integer.parseInt(lineArg[2]);
+                n.right = inputs[right_num].split(" ")[0];
+            }
+            nodes.add(n);
+        }
+    }
+
+    static class Node {
+        String data;
+        String left;
+        String right;
+    }
+}
+
+```
+
+- 总结:
+
+1. 利用二叉树的数据结构可以解决这个问题。
+2. 这里我采用了投机取巧的办法，并没有建立树状结构，而是把每个节点进行比较，唯一需要处理的特例就是同唯一父节点值不同的情况。
+
+## 作业2：List Leaves（25 分）
+
+Given a tree, you are supposed to list all the leaves in the order of top down, and left to right.
+
+- Input Specification:
+
+Each input file contains one test case. For each case, the first line gives a positive integer N (≤10) which is the total number of nodes in the tree -- and hence the nodes are numbered from 0 to N−1. Then N lines follow, each corresponds to a node, and gives the indices of the left and right children of the node. If the child does not exist, a "-" will be put at the position. Any pair of children are separated by a space.
+
+- Output Specification:
+
+For each test case, print in one line all the leaves' indices in the order of top down, and left to right. There must be exactly one space between any adjacent numbers, and no extra space at the end of the line.
+
+- Sample Input:
+
+```bash
+8
+1 -
+- -
+0 -
+2 7
+- -
+- -
+5 -
+4 6
+```
+Sample Output:
+
+
+```bash
+4 1 5
+```
+
+- 实现：
+
+```java
+public class Main {
+    public static void main(String args[]) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+        int sum;
+        sum = Integer.parseInt(reader.readLine());
+
+        String[] inputs = new String[sum];
+
+        for (int i = 0; i < sum; i++) {
+            inputs[i] = reader.readLine();
+        }
+
+        int root_num = findRoot(inputs);
+        StringBuilder sb = new StringBuilder();
+        Queue<Node> nodes = new LinkedList<>();
+
+        Node root =  getNode(root_num,inputs[root_num]);
+        nodes.add(root);
+        checkTree(nodes, sb, inputs);
+        if (sb.length() > 0) {
+            sb.deleteCharAt(sb.length() - 1);
+        }
+        System.out.println(sb.toString());
+    }
+
+    private static Node getNode(int root_num, String input) {
+        Node node = new Node();
+        node.data = root_num;
+        String[] lineArg = input.split(" ");
+        if (!Objects.equals("-", lineArg[0])) {
+            node.left = Integer.parseInt(lineArg[0]);
+        }
+        if (!Objects.equals("-", lineArg[1])) {
+            node.right = Integer.parseInt(lineArg[1]);
+        }
+        return node;
+    }
+
+    private static void checkTree(Queue<Node> nodes, StringBuilder sb, String[] inputs) {
+        while (!nodes.isEmpty()) {
+            Node node = nodes.poll();
+            if (node.left<0 && node.right<0) {
+                sb.append(node.data);
+                sb.append(' ');
+            }
+            if (node.left>=0) {
+                Node n_l = getNode(node.left,inputs[node.left]);
+                nodes.add(n_l);
+            }
+            if (node.right>=0) {
+                Node n_r = getNode(node.right,inputs[node.right]);
+                nodes.add(n_r);
+            }
+        }
+    }
+
+
+    private static int findRoot(String[] inputs) {
+        int[] link = new int[inputs.length];
+        for (String input : inputs) {
+            String[] lineArg = input.split(" ");
+            if (!Objects.equals("-", lineArg[0])) {
+                int left_num = Integer.parseInt(lineArg[0]);
+                link[left_num] = 1;
+            }
+            if (!Objects.equals("-", lineArg[1])) {
+                int right_num = Integer.parseInt(lineArg[1]);
+                link[right_num] = 1;
+            }
+        }
+        int i;
+        for (i = 0; i < link.length; i++) {
+            if (link[i] == 0) {
+                break;
+            }
+        }
+
+        return i;
+    }
+
+    static class Node{
+        int data =-1;
+        int left = -1;
+        int right = -1;
+    }
+}
+
+```
+
+- 总结：
+
+1. 树的遍历最基本的方法是采用递归；
+2. 使用堆栈可以免递归遍历树，每个对象有3次访问机会，调整访问时机可以分别实现前序、中序及后序遍历；
+3. 采用队列可以层级遍历树，此题采用层级遍历。
+
+## 作业3：Tree Traversals Again（25 分）
+
+An inorder binary tree traversal can be implemented in a non-recursive way with a stack. For example, suppose that when a 6-node binary tree (with the keys numbered from 1 to 6) is traversed, the stack operations are: push(1); push(2); push(3); pop(); pop(); push(4); pop(); pop(); push(5); push(6); pop(); pop(). Then a unique binary tree (shown in Figure 1) can be generated from this sequence of operations. Your task is to give the postorder traversal sequence of this tree.
+
+- Figure 1
+
+![Figure 1](/images/20180327_data_structures03_3.png)
+
+- Input Specification:
+
+Each input file contains one test case. For each case, the first line contains a positive integer N (≤30) which is the total number of nodes in a tree (and hence the nodes are numbered from 1 to N). Then 2N lines follow, each describes a stack operation in the format: "Push X" where X is the index of the node being pushed onto the stack; or "Pop" meaning to pop one node from the stack.
+
+- Output Specification:
+
+For each test case, print the postorder traversal sequence of the corresponding tree in one line. A solution is guaranteed to exist. All the numbers must be separated by exactly one space, and there must be no extra space at the end of the line.
+
+- Sample Input:
+
+```bash
+6
+Push 1
+Push 2
+Push 3
+Pop
+Pop
+Push 4
+Pop
+Pop
+Push 5
+Push 6
+Pop
+Pop
+```
+- Sample Output:
+
+```bash
+3 4 2 6 5 1
+```
+
+- 实现：
+
+```java
+package cn.wycode;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Objects;
+import java.util.Stack;
+
+public class Main {
+    public static void main(String args[]) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        //读第一行
+        String[] line1Array = getStringArray(reader);
+        String firstAddress = line1Array[0];
+        int count = Integer.parseInt(line1Array[1]);
+        int k = Integer.parseInt(line1Array[2]);
+
+        //读取所有节点
+        ArrayList<Node> nodes = new ArrayList<>(count);
+        for (int i = 0; i < count; i++) {
+            String[] lineArray = getStringArray(reader);
+            Node node = new Node();
+            node.address = lineArray[0];
+            node.data = Integer.parseInt(lineArray[1]);
+            node.nextAddress = lineArray[2];
+            nodes.add(node);
+        }
+
+
+        //按链表顺序加入队列
+        LinkedList<Node> queue = new LinkedList<>();
+        String address = firstAddress;
+        while (!address.equals("-1")) {
+            for (int i = 0; i < nodes.size(); i++) { //循环匹配地址
+                Node n = nodes.get(i);
+                if (Objects.equals(address, n.address)) { //找到则加入队列
+                    queue.add(n);
+                    address = n.nextAddress; //查找地址赋值为当前节点的下一个地址
+                    nodes.remove(n); //处理完的移出节点数组，减少循环量
+                    break;
+                }
+            }
+        }
+
+        Stack<Node> stack = new Stack<>();
+        boolean isCanConvert = queue.size() >= k; //是否够反转
+        while (!queue.isEmpty()) { //循环出队列
+            Node n = queue.remove();
+            if (isCanConvert) { //够反转则压入堆栈
+                stack.push(n);
+                if (stack.size() == k) { //压够反转数量就全部输出
+                    isCanConvert = queue.size() >= k; //再次检查是否够反转
+                    while (!stack.isEmpty()) {
+                        //重新赋值next
+                        Node nStack = stack.pop();
+                        if (stack.isEmpty()) { //如果栈里没了，地址就等于队列的下一个
+                            if (queue.isEmpty()) { //队列也没了，地址等于-1
+                                nStack.nextAddress = "-1";
+                            } else {
+                                //如果剩下的还能反转
+                                if (isCanConvert) {
+                                    nStack.nextAddress = queue.get(k - 1).address;
+                                } else {
+                                    nStack.nextAddress = queue.peek().address;
+                                }
+                            }
+                        } else {
+                            nStack.nextAddress = stack.peek().address;
+                        }
+                        print(nStack);
+                    }
+                }
+            } else { //不够反转 直接输出节点
+                print(n);
+            }
+        }
+
+    }
+
+
+    private static void print(Node n) {
+        System.out.println(n.address + " " + n.data + " " + n.nextAddress);
+    }
+
+    private static String[] getStringArray(BufferedReader reader) {
+        String line1 = null;
+        try {
+            line1 = reader.readLine();
+        } catch (Exception ignore) {
+        }
+        return line1.split(" ");
+    }
+
+    static class Node {
+        String address;
+        int data;
+        String nextAddress;
+    }
+}
+
+```
+
+
+- 总结：
+
+1. 利用队列和栈解决顺序问题
+
+## 作业2：Pop Sequence（25 分）
+
+
+Given a stack which can keep M numbers at most. Push N numbers in the order of 1, 2, 3, ..., N and pop randomly. You are supposed to tell if a given sequence of numbers is a possible pop sequence of the stack. For example, if M is 5 and N is 7, we can obtain 1, 2, 3, 4, 5, 6, 7 from the stack, but not 3, 2, 1, 7, 5, 6, 4.
+
+Input Specification:
+
+Each input file contains one test case. For each case, the first line contains 3 numbers (all no more than 1000): M (the maximum capacity of the stack), N (the length of push sequence), and K (the number of pop sequences to be checked). Then K lines follow, each contains a pop sequence of N numbers. All the numbers in a line are separated by a space.
+
+Output Specification:
+
+For each pop sequence, print in one line "YES" if it is indeed a possible pop sequence of the stack, or "NO" if not.
+
+Sample Input:
+```bash
+5 7 5
+1 2 3 4 5 6 7
+3 2 1 7 5 6 4
+7 6 5 4 3 2 1
+5 6 4 3 7 2 1
+1 7 6 5 4 3 2
+```
+Sample Output:
+```bash
+YES
+NO
+NO
+YES
+NO
+```
+
+- 实现
+
+```java
+public class Main {
+    public static void main(String args[]) throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+
+        int sum;
+        sum = Integer.parseInt(reader.readLine());
+
+        String[] inputs = new String[sum*2];
+
+        for (int i = 0; i < inputs.length; i++) {
+            inputs[i] = reader.readLine();
+        }
+
+        StringBuilder sb = new StringBuilder();
+
+        //Build Tree
+        Node root = buildTree(inputs);
+        //后序遍历打印
+        traversalsTree(root,sb);
+        
+
+        if (sb.length() > 0) {
+            sb.deleteCharAt(sb.length() - 1);
+        }
+        System.out.println(sb.toString());
+    }
+
+
+    private static Node buildTree(String[] inputs) {
+        Node root =null;
+
+        Stack<Node> nodes = new Stack<>();
+        final String PUSH = "Push";
+        final String POP = "Pop";
+        Node lastPush = null;
+        Node lastPop = null;
+        String lastOperation = null;
+        int level = 0;
+        for (String input : inputs) {
+            String[] lineArg = input.split(" ");
+            if (Objects.equals(lineArg[0], PUSH)) {
+                Node node = new Node();
+                node.data = Integer.parseInt(lineArg[1]);
+                node.level = level;
+                nodes.push(node);
+                if (lastOperation == null) {
+                    root = node;
+                } else if (Objects.equals(lastOperation, PUSH)) {
+                    lastPush.left = node;
+                } else if (Objects.equals(lastOperation, POP)) {
+                    lastPop.right = node;
+                }
+                lastPush = node;
+                lastOperation = PUSH;
+                level++;
+            } else {
+                lastPop = nodes.pop();
+                lastOperation = POP;
+                level--;
+            }
+        }
+        return root;
+    }
+
+    private static void traversalsTree(Node root, StringBuilder sb) {
+            if(root!=null) {
+                traversalsTree(root.left, sb);
+                traversalsTree(root.right, sb);
+                sb.append(root.data);
+                sb.append(' ');
+            }
+    }
+
+    static class Node {
+        int data = -1;
+        Node left;
+        Node right;
+        int level = 0;
+
+        @Override
+        public String toString() {
+            return "Node{" +
+                    "data=" + data +
+                    ", left=" + (left==null?"null":left.data) +
+                    ", right=" + (right==null?"null":right.data)+
+                    ", level=" + level +
+                    '}';
+        }
+    }
+}
+
+```
+
+- 总结：
+
+1. 通过先构建出原始树再后序遍历的方法解决了问题。
+2. 优化方向：将后序遍历的递归方式改为非递归方式。
+3. 此题应该可以在构建树时直接输出正确答案。
+
+- 非递归算法核心：
+
+首先要搞清楚先序、中序、后序的非递归算法共同之处：用栈来保存先前走过的路径，以便可以在访问完子树后,可以利用栈中的信息,回退到当前节点的双亲节点,进行下一步操作。
+后序遍历的非递归算法是三种顺序中最复杂的，原因在于，后序遍历是先访问左、右子树,再访问根节点，而在非递归算法中，利用栈回退到时，并不知道是从左子树回退到根节点，还是从右子树回退到根节点，如果从左子树回退到根节点，此时就应该去访问右子树，而如果从右子树回退到根节点，此时就应该访问根节点。所以相比前序和后序，必须得在压栈时添加信息，以便在退栈时可以知道是从左子树返回，还是从右子树返回进而决定下一步的操作。8:T47c4,
+![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)
+
+> 线性结构的基础是数组和链表，由数组和链表可以扩展出堆栈和队列。
+
+
+<!--more-->
+
+## 实验1：计算表达式的值
+
+将中缀表达式转换为后缀表达式，并计算表达式的值。
+
+- 实现：
+
+```java
+import java.util.Stack;
+
+public class Test05 {
+
+    public static void main(String[] args) {
+        String s = "2*(6/3+4)-5";
+        System.out.println("中缀表达式："+s);
+        s= covert(s);
+        System.out.println("转换为后缀表达式："+s);
+        int i = calculate(s);
+        System.out.println("计算后缀表达式："+i);
+
+    }
+
+    private static int calculate(String s) {
+
+        Stack<Integer> stack = new Stack<>();
+        for (char c : s.toCharArray()) { //从左到右遍历，如果是数字压入堆栈，如果是操作符，从堆栈中pop出两个数字计算，并将结果压入堆栈
+            if(c=='+') {
+                stack.push(stack.pop() + stack.pop());
+            }else if(c=='*') {
+                stack.push(stack.pop() * stack.pop());
+            }else if(c=='-') {
+                int b = stack.pop();
+                int a = stack.pop();
+                stack.push(a - b);
+            }else if(c=='/'){
+                int b = stack.pop();
+                int a = stack.pop();
+                stack.push(a / b);
+            }else{
+                stack.push(Character.getNumericValue(c));
+            }
+        }
+
+        return stack.pop(); //循环结束时，栈顶的数字就是后缀表达式结果
+
+    }
+
+    private static String covert(String s) {
+        StringBuilder sb = new StringBuilder();
+        Stack<Character> stack = new Stack<>();
+        for (char c : s.toCharArray()) {
+            if (c >= '0' && c <= '9') { //如果是数字直接输出
+                sb.append(c);
+            } else if (c == '(') { //如果是左括号，压入操作堆栈
+                stack.push(c);
+            } else if (c == ')') { //如果是右括号
+                while (true) { //寻找左括号
+                    c = stack.pop();
+                    if (c == '(') { //找到直接结束循环
+                        break;
+                    } else { //不是左括号直接输出操作符
+                        sb.append(c);
+                    }
+                }
+            } else { //如果是+ - * /
+
+                while (true) {  //寻找栈顶比当前操作优先级低的操作符
+                    if (stack.isEmpty()) { //如果是空栈，直接压入操作符
+                        stack.push(c);
+                        break;
+                    }
+                    char cInStack = stack.peek();
+                    if (isStackPriority(cInStack, c)) { //如果栈顶操作符优先级高或相同，直接出栈并输出
+                        sb.append(stack.pop());
+                    } else {
+                        stack.push(c); //找到优先级低的地方，把当前操作符push进去
+                        break;
+                    }
+                }
+            }
+            //System.out.println(stack.size());
+        }
+        while (!stack.isEmpty()){ //最后将栈里的操作符全部输出
+            sb.append(stack.pop());
+        }
+        return sb.toString();
+    }
+
+    private static boolean isStackPriority(char cInStack, char c2) {
+        return cInStack != '(' && (cInStack == '*' || cInStack == '/' || c2 != '*' && c2 != '/');
+    }
+}
+```
+
+
+
+- 输出：
+
+```bash
+中缀表达式：2*(6/3+4)-5
+转换为后缀表达式：263/4+*5-
+计算后缀表达式：7
+```
+
+- 总结:
+
+1. 利用堆栈可以很优雅的解决表达式运算的问题
+2. 以上程序有3个缺陷：不能计算小数；不能计算负数；只能计算个位数的运算
+3. 改进方向：使用浮点型计算；后缀转换时要添加对于多位数、小数、负数的处理；将结果直接保存到堆栈里，堆栈内保存数字和操作符
+
+## 作业1：一元多项式的乘法与加法运算（20 分）
+
+设计函数分别求两个一元多项式的乘积与和。
+
+输入格式:
+
+输入分2行，每行分别先给出多项式非零项的个数，再以指数递降方式输入一个多项式非零项系数和指数（绝对值均为不超过1000的整数）。数字间以空格分隔。
+
+输出格式:
+
+输出分2行，分别以指数递降方式输出乘积多项式以及和多项式非零项的系数和指数。数字间以空格分隔，但结尾不能有多余空格。零多项式应输出0 0。
+
+输入样例:
+```bash
+5 3 4 -5 2  6 1  -2 0 0 0
+5 5 20  -7 4  3 1 0 0 3 0
+```
+输出样例:
+```bash
+15 24 -25 22 30 21 -10 20 -21 8 35 6 -33 5 14 4 -15 3 18 2 -6 1
+5 20 -4 4 -5 2 9 1 -2 0
+```
+
+- 实现：
+
+```java
+public class Main {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        PolyNode first1 = getInput(scanner);
+        PolyNode first2 = getInput(scanner);
+        PolyNode result1 = add(first1, first2);
+        PolyNode result2 = multiply(first1, first2);
+        print(result2);
+        print(result1);
+
+    }
+
+    /**
+     * 逐项插入算法
+     *
+     * @param first1
+     * @param first2
+     * @return
+     */
+    private static PolyNode multiply(PolyNode first1, PolyNode first2) {
+        PolyNode p1 = first1;
+        PolyNode p2 = first2;
+
+        PolyNode first = new PolyNode(); //结果，先构造一个空的头节点
+        PolyNode rear = first; //将尾部指向这个头
+        while (p2 != null) { //先用第一项乘以p2构造一个初始多项式
+            PolyNode next = new PolyNode(); //构造一个新节点
+            next.coef = p1.coef * p2.coef; //系数相乘
+            next.expon = p1.expon + p2.expon; //指数相加
+            rear.next = next; //尾部指针指向新的节点
+            rear = next; //新尾部等于新添加的节点
+            p2 = p2.next; //移动p2指针
+        }
+        p1 = p1.next; //把p1指针向后挪1位
+        while (p1 != null) {
+            p2 = first2; //将p2指针归位
+            rear = first; //尾部指针归位
+            while (p2 != null) {
+                int e = p1.expon + p2.expon; //指数相加
+                int c = p1.coef * p2.coef; //系数相乘
+                while (rear.next != null && rear.next.expon > e) { //寻找比当前指数小或者等的位置
+                    rear = rear.next; //rear 往后挪
+                }
+                if (rear.next != null && rear.next.expon == e) { //挪了之后如果下一项存在，且指数相等，则合并系数
+                    if (rear.next.coef + c == 0) { //和下一项系数相加等于0，则删掉这一项
+                        rear.next = rear.next.next;
+                    } else { //系数相加不为0，就要合并系数
+                        rear.next.coef += c;
+                    }
+                } else { //指数不等，需要创建一个新节点插入
+                    PolyNode newPoly = new PolyNode(); //构造一个新节点
+                    newPoly.coef = c;
+                    newPoly.expon = e;
+                    newPoly.next = rear.next;//新插入的节点下一个=当前尾部的下一个
+                    rear.next = newPoly; //当前尾部的下一个等于新节点
+                }
+
+                p2 = p2.next;//p2处理完毕，将p2挪到下一个
+            }
+            p1 = p1.next;//p2遍历完毕，将p1往后挪
+        }
+        first = first.next; //将头部挪到真实的头部位置，Java会自动回收没有引用的头节点
+
+        return first;
+    }
+
+    private static void print(PolyNode result) {
+        PolyNode p = result;
+        StringBuilder sb = new StringBuilder();
+        if (p == null) { //零多项式输出0 0
+            sb.append("0 0");
+        }
+        boolean isFirst = true;
+        while (p != null) {
+            if (!isFirst)
+                sb.append(' ');
+            sb.append(p.coef);
+            sb.append(' ');
+            sb.append(p.expon);
+            p = p.next;
+            isFirst = false;
+        }
+        System.out.println(sb.toString());
+    }
+
+    private static PolyNode add(PolyNode first1, PolyNode first2) {
+        PolyNode p1 = first1;
+        PolyNode p2 = first2;
+
+        PolyNode first = new PolyNode(); //结果，先构造一个空的头节点
+        PolyNode rear = first; //将尾部指向这个头
+        while (p1 != null && p2 != null) { //当两个指针都不为空时
+            if (p1.coef == 0) { //系数为0,直接省略
+                p1 = p1.next;
+            } else if (p2.coef == 0) {
+                p2 = p2.next;
+            } else if (p1.expon == p2.expon) { //指数相等，则系数相加后串到后面
+                int coef = p1.coef + p2.coef;  //系数相加
+                if (coef != 0) {
+                    PolyNode next = new PolyNode(); //构造一个新节点
+                    next.coef = coef;
+                    next.expon = p1.expon;
+                    rear.next = next; //尾部指针指向新的节点
+                    rear = next; //新尾部等于新添加的节点
+                }
+                p1 = p1.next; //移动指针
+                p2 = p2.next;
+            } else if (p1.expon > p2.expon) {//指数大的串到后面
+                PolyNode next = new PolyNode(); //构造一个新节点
+                next.coef = p1.coef;
+                next.expon = p1.expon;
+                rear.next = next; //尾部指针指向新的节点
+                rear = next; //新尾部等于新添加的节点
+                p1 = p1.next; //移动指针
+            } else {
+                PolyNode next = new PolyNode(); //构造一个新节点
+                next.coef = p2.coef;
+                next.expon = p2.expon;
+                rear.next = next; //尾部指针指向新的节点
+                rear = next; //新尾部等于新添加的节点
+                p2 = p2.next; //移动指针
+            }
+        }
+
+        while (p1 != null) { //p1没完，把所有p1追加到后面
+            if (p1.coef != 0) { //系数不为0才，添加，否则继续找因为后面可以能还有系数不为0的
+                PolyNode next = new PolyNode(); //构造一个新节点
+                next.coef = p1.coef;
+                next.expon = p1.expon;
+                rear.next = next; //尾部指针指向新的节点
+                rear = next; //新尾部等于新添加的节点
+            }
+            p1 = p1.next; //移动指针
+        }
+
+        while (p2 != null && p2.coef != 0) { //p2没完，把所有p2追加到后面
+            if (p2.coef != 0) { //系数不为0才，添加，否则继续找因为后面可以能还有系数不为0的
+                PolyNode next = new PolyNode(); //构造一个新节点
+                next.coef = p2.coef;
+                next.expon = p2.expon;
+                rear.next = next; //尾部指针指向新的节点
+                rear = next; //新尾部等于新添加的节点
+            }
+            p2 = p2.next; //移动指针
+        }
+        first = first.next; //将头部挪到真实的头部位置，Java会自动回收没有引用的头节点
+        return first;
+    }
+
+    private static PolyNode getInput(Scanner scanner) {
+        int count = scanner.nextInt(); //得到总项数
+        PolyNode first = new PolyNode(); //构造一个空的头
+        PolyNode rear = first; //构造一个尾部的指针
+        while (count > 0) {
+            PolyNode next = new PolyNode(); //读取一个节点
+            next.coef = scanner.nextInt();
+            next.expon = scanner.nextInt();
+            rear.next = next; //将尾部的指针指向读到的这个节点
+            rear = next; //将尾部指针挪到新添加的节点
+            count--; //循环
+        }
+        first = first.next; //将头部挪到真实的头部位置，Java会自动回收没有引用的头节点
+        return first;
+    }
+
+
+    static class PolyNode {
+        int coef;
+        int expon;
+        PolyNode next;
+    }
+}
+
+```
+
+- 总结：
+
+1. 逐项插值算法；
+2. 单个对象保存一个当前类的引用可以当作链表来使用；
+3. 原输入的链表不要取修改它的内部对象引用或者变量值；
+
+## 作业1：Reversing Linked List（25 分）
+
+Given a constant K and a singly linked list L, you are supposed to reverse the links of every K elements on L. For example, given L being 1→2→3→4→5→6, if K=3, then you must output 3→2→1→6→5→4; if K=4, you must output 4→3→2→1→5→6.
+
+Input Specification:
+
+Each input file contains one test case. For each case, the first line contains the address of the first node, a positive N (≤10
+​5
+​​ ) which is the total number of nodes, and a positive K (≤N) which is the length of the sublist to be reversed. The address of a node is a 5-digit nonnegative integer, and NULL is represented by -1.
+
+Then N lines follow, each describes a node in the format:
+
+`Address Data Next`
+where `Address` is the position of the node, `Data` is an integer, and `Next` is the position of the next node.
+
+Output Specification:
+
+For each case, output the resulting ordered linked list. Each node occupies a line, and is printed in the same format as in the input.
+
+Sample Input:
+```bash
+00100 8 4
+00000 4 99999
+00100 1 12309
+68237 6 77777
+33218 3 00000
+77777 7 88888
+99999 5 68237
+12309 2 33218
+88888 8 -1
+```
+Sample Output:
+```bash
+00000 4 33218
+33218 3 12309
+12309 2 00100
+00100 1 99999
+99999 5 68237
+68237 6 -1
+```
+
+- 实现：
+
+```java
+package cn.wycode;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Objects;
+import java.util.Stack;
+
+public class Main {
+    public static void main(String args[]) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        //读第一行
+        String[] line1Array = getStringArray(reader);
+        String firstAddress = line1Array[0];
+        int count = Integer.parseInt(line1Array[1]);
+        int k = Integer.parseInt(line1Array[2]);
+
+        //读取所有节点
+        ArrayList<Node> nodes = new ArrayList<>(count);
+        for (int i = 0; i < count; i++) {
+            String[] lineArray = getStringArray(reader);
+            Node node = new Node();
+            node.address = lineArray[0];
+            node.data = Integer.parseInt(lineArray[1]);
+            node.nextAddress = lineArray[2];
+            nodes.add(node);
+        }
+
+
+        //按链表顺序加入队列
+        LinkedList<Node> queue = new LinkedList<>();
+        String address = firstAddress;
+        while (!address.equals("-1")) {
+            for (int i = 0; i < nodes.size(); i++) { //循环匹配地址
+                Node n = nodes.get(i);
+                if (Objects.equals(address, n.address)) { //找到则加入队列
+                    queue.add(n);
+                    address = n.nextAddress; //查找地址赋值为当前节点的下一个地址
+                    nodes.remove(n); //处理完的移出节点数组，减少循环量
+                    break;
+                }
+            }
+        }
+
+        Stack<Node> stack = new Stack<>();
+        boolean isCanConvert = queue.size() >= k; //是否够反转
+        while (!queue.isEmpty()) { //循环出队列
+            Node n = queue.remove();
+            if (isCanConvert) { //够反转则压入堆栈
+                stack.push(n);
+                if (stack.size() == k) { //压够反转数量就全部输出
+                    isCanConvert = queue.size() >= k; //再次检查是否够反转
+                    while (!stack.isEmpty()) {
+                        //重新赋值next
+                        Node nStack = stack.pop();
+                        if (stack.isEmpty()) { //如果栈里没了，地址就等于队列的下一个
+                            if (queue.isEmpty()) { //队列也没了，地址等于-1
+                                nStack.nextAddress = "-1";
+                            } else {
+                                //如果剩下的还能反转
+                                if (isCanConvert) {
+                                    nStack.nextAddress = queue.get(k - 1).address;
+                                } else {
+                                    nStack.nextAddress = queue.peek().address;
+                                }
+                            }
+                        } else {
+                            nStack.nextAddress = stack.peek().address;
+                        }
+                        print(nStack);
+                    }
+                }
+            } else { //不够反转 直接输出节点
+                print(n);
+            }
+        }
+
+    }
+
+
+    private static void print(Node n) {
+        System.out.println(n.address + " " + n.data + " " + n.nextAddress);
+    }
+
+    private static String[] getStringArray(BufferedReader reader) {
+        String line1 = null;
+        try {
+            line1 = reader.readLine();
+        } catch (Exception ignore) {
+        }
+        return line1.split(" ");
+    }
+
+    static class Node {
+        String address;
+        int data;
+        String nextAddress;
+    }
+}
+
+```
+
+
+- 总结：
+
+1. 利用队列和栈解决顺序问题
+
+## 作业2：Pop Sequence（25 分）
+
+
+Given a stack which can keep M numbers at most. Push N numbers in the order of 1, 2, 3, ..., N and pop randomly. You are supposed to tell if a given sequence of numbers is a possible pop sequence of the stack. For example, if M is 5 and N is 7, we can obtain 1, 2, 3, 4, 5, 6, 7 from the stack, but not 3, 2, 1, 7, 5, 6, 4.
+
+Input Specification:
+
+Each input file contains one test case. For each case, the first line contains 3 numbers (all no more than 1000): M (the maximum capacity of the stack), N (the length of push sequence), and K (the number of pop sequences to be checked). Then K lines follow, each contains a pop sequence of N numbers. All the numbers in a line are separated by a space.
+
+Output Specification:
+
+For each pop sequence, print in one line "YES" if it is indeed a possible pop sequence of the stack, or "NO" if not.
+
+Sample Input:
+```bash
+5 7 5
+1 2 3 4 5 6 7
+3 2 1 7 5 6 4
+7 6 5 4 3 2 1
+5 6 4 3 7 2 1
+1 7 6 5 4 3 2
+```
+Sample Output:
+```bash
+YES
+NO
+NO
+YES
+NO
+```9:T284a,
+![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)
+
+> 程序=数据结构+算法。
+
+浙江大学数据结构是国家精品课程，于2018年3月开学，2018年6月学期结束。
+
+<!--more-->
+
+## 实验1：给出数字N，要求程序输出1~N的整数
+
+使用Java测试：输出10000次，for循环耗时114ms，递归耗时61ms！100000次递归栈溢出崩溃，for循环耗时900ms。
+
+```java
+
+public class Main {
+
+    public static void main(String[] args) {
+   		// write your code here
+        Main m = new Main();
+        long time = System.currentTimeMillis();
+        m.printN(10000);
+        System.out.println("time="+(System.currentTimeMillis()-time));
+        time = System.currentTimeMillis();
+        m.printNR(10000);
+        System.out.println("time="+(System.currentTimeMillis()-time));
+    }
+
+    private void printNR(int n) {
+        if(n>0) {
+            printNR(n - 1);
+            System.out.println(n);
+        }
+    }
+
+    private void printN(int n){
+        for(int i= 1;i<=n;i++){
+            System.out.println(i);
+        }
+    }
+}
+```
+
+用C测试：输出100000次，for循环耗时149ms，递归耗时148ms，100000次递归耗时150ms，100万次
+
+```C
+#include <stdio.h>
+#include <time.h>
+
+
+void printN(int n);
+void printNC(int n);
+
+int main(){
+    clock_t startTime = clock();
+    printN(100000);
+    //double diff = ;
+    printf("%f seconds\n",difftime(clock(),startTime)/CLOCKS_PER_SEC);
+    
+    
+}
+
+void printN(int n){
+    for(int i=1;i<=n;i++){
+        printf("%d\n",i);
+    }
+}
+
+
+void printNC(int n){
+    if(n){
+        printNC(n-1);
+        printf("%d\n",n);
+    }
+
+}
+
+```
+
+- 总结:
+
+1. ~~C语言程序运行效率至少在Java的10倍以上~~（C程序计时不准，需要重新测试）
+2. 递归的空间效率很差，容易堆栈溢出崩溃。
+3. Java环境递归耗时是for循环的1/2。
+4. C语言环境递归耗时和for循环差不多。
+
+## 实验2：计算多项式的值
+
+![多项式](/images/20180313_data_structure.png)
+
+```java
+public class Test02 {
+
+    public static void main(String[] args) {
+        // write your code here
+        Test02 t = new Test02();
+        long time = System.currentTimeMillis();
+        for(int i=0;i<100000;i++) {
+            t.f1(1.1);
+        }
+        System.out.println("time=" + (System.currentTimeMillis() - time));
+        time = System.currentTimeMillis();
+        for(int i=0;i<100000;i++) {
+            t.f2(1.1);
+        }
+        System.out.println("time=" + (System.currentTimeMillis() - time));
+    }
+
+    private double f1(double x) {
+        double v = 1f;
+        for (int i = 1; i <= 100; i++) {
+            v += Math.pow(x,i) / i;
+        }
+        return v;
+    }
+
+    //f(x) = 1+x(1/1+x(1/2+x(1/3+....x(1/100))))
+
+    private double f2(double x) {
+        double v = x/100;
+        int i = 100;
+        while (i>1) {
+            v = x*(1f/(i-1)+v);
+            i--;
+        }
+        return v+1;
+    }
+}
+
+```
+
+- 总结：
+1. 循环10万次测试，方法1，耗时1016ms，方法2耗时16ms。约100倍的效率差距
+2. 计算时一定要注意，整形和浮点型`v = x*(1f/(i-1)+v);`
+3. 方法1，慢就慢在`pow`函数上
+4. 替换pow函数为计数循环`x *=x`耗时500ms，差距缩小至约20倍。
+
+## 作业1
+
+01-复杂度1 最大子列和问题（20 分）
+给定K个整数组成的序列{ N​1, N2, ..., NK}，“连续子列”被定义为{ N​i, Ni+1, ..., N​j}，其中 1≤i≤j≤K。
+“最大子列和”则被定义为所有连续子列元素的和中最大者。
+例如给定序列{ -2, 11, -4, 13, -5, -2 }，其连续子列{ 11, -4, 13 }有最大的和20。
+现要求你编写程序，计算给定整数序列的最大子列和。
+
+本题旨在测试各种不同的算法在各种数据情况下的表现。
+
+各组测试数据特点如下：
+
+ 数据1：与样例等价，测试基本正确性；
+ 数据2：102个随机整数；
+ 数据3：103个随机整数；
+ 数据4：104个随机整数；
+ 数据5：105个随机整数；
+输入格式:
+
+ 输入第1行给出正整数K (≤100000)；第2行给出K个整数，其间以空格分隔。
+
+输出格式:
+
+ 在一行中输出最大子列和。如果序列中所有整数皆为负数，则输出0。
+
+输入样例:
+```
+ 6
+ -2 11 -4 13 -5 -2
+```
+输出样例:
+```
+ 20
+```
+
+实现：
+
+```java
+import java.util.Scanner;
+
+
+public class Main{
+
+    public static void main(String args[]) {
+        Scanner scanner = new Scanner(System.in);
+        int k = scanner.nextInt();
+        int[] n = new int[k];
+        for (int i = 0; i < k; i++) {
+            if (scanner.hasNext()) {
+                n[i] = scanner.nextInt();
+            }
+        }
+        System.out.println(maximumSubsequenceSum(n));
+    }
+
+    /**
+     * 在线处理算法，任意时刻给出的都是当前最大子数列和
+     * @param n
+     * @return
+     */
+    private static int maximumSubsequenceSum(int[] n) {
+        int thisMax = 0;
+        int maxSum = 0;
+        for (int i = 0; i < n.length; i++) {
+            thisMax += n[i];
+
+            if (thisMax < 0) {
+                thisMax = 0;
+            } else if (thisMax > maxSum) {
+                maxSum = thisMax;
+            }
+        }
+        return maxSum;
+    }
+}
+```
+
+## 作业2
+
+01-复杂度2 Maximum Subsequence Sum（25 分）
+Given a sequence of K integers { N1, N2, ..., NK}. A continuous subsequence is defined to be { Ni, Ni+1, ..., Nj } where 1≤i≤j≤K. The Maximum Subsequence is the continuous subsequence which has the largest sum of its elements. For example, given sequence { -2, 11, -4, 13, -5, -2 }, its maximum subsequence is { 11, -4, 13 } with the largest sum being 20.
+
+Now you are supposed to find the largest sum, together with the first and the last numbers of the maximum subsequence.
+
+Input Specification:
+
+Each input file contains one test case. Each case occupies two lines. The first line contains a positive integer K (≤10000). The second line contains K numbers, separated by a space.
+
+Output Specification:
+
+For each test case, output in one line the largest sum, together with the first and the last numbers of the maximum subsequence. The numbers must be separated by one space, but there must be no extra space at the end of a line. In case that the maximum subsequence is not unique, output the one with the smallest indices i and j (as shown by the sample case). If all the K numbers are negative, then its maximum sum is defined to be 0, and you are supposed to output the first and the last numbers of the whole sequence.
+
+Sample Input:
+```
+10
+-10 1 2 3 4 -5 -23 3 7 -21
+```
+Sample Output:
+```
+10 1 4
+```
+
+- 实现：
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String countString = null;
+        String numbersString =null;
+        try {
+            countString = reader.readLine();
+            numbersString = reader.readLine();
+        }catch (Exception ignored){
+
+        }
+        int[] n = new int[Integer.parseInt(countString)];
+        String[] numbersStringArray = numbersString.split(" ");
+
+        for (int i = 0; i < n.length; i++) {
+            n[i] = Integer.parseInt(numbersStringArray[i]);
+        }
+
+
+//        Scanner scanner = new Scanner(System.in);
+//        int k = scanner.nextInt();
+//        int[] n = new int[k];
+//
+//        for (int i = 0; i < k; i++) {
+//            n[i] = scanner.nextInt();
+//        }
+
+        maximumSubsequenceSum(n);
+
+    }
+
+    /**
+     * 在线处理算法，任意时刻给出的都是当前最大子数列和
+     *
+     * @param n
+     * @return
+     */
+    private static void maximumSubsequenceSum(int[] n) {
+        int thisMax = 0;
+        int maxSum = 0;
+
+        int startI = 0;
+        int endI = n.length - 1;
+        int temp = 0;
+        boolean isMaxStart = true;
+        for (int i = 0; i < n.length; i++) {
+            thisMax += n[i];
+
+            if (thisMax < 0) {
+                thisMax = 0;
+                temp = 0;
+                isMaxStart = true;
+            } else {
+
+                if(isMaxStart){
+                    temp = i;
+                    isMaxStart = false;
+                }
+
+                if (thisMax > maxSum) {
+
+                    maxSum = thisMax;
+                    endI = i;
+                    startI = temp;
+                }
+
+                if(maxSum==0){
+                    startI =temp;
+                    endI = i;
+                }
+            }
+        }
+
+
+        System.out.println(maxSum + " " + n[startI] + " " + n[endI]);
+    }
+}
+
+```
+
+- 总结
+
+1. 这题所有case要求在200ms内执行完毕，其中一个case比较大的N导致执行超时,调查发现Scanner这个东西贼慢...换成BufferReader就好了。
+
+## 作业3
+
+
+01-复杂度3 二分查找（20 分）
+本题要求实现二分查找算法。
+
+函数接口定义：
+
+`Position BinarySearch( List L, ElementType X );`
+其中List结构定义如下：
+```c
+typedef int Position;
+typedef struct LNode *List;
+struct LNode {
+    ElementType Data[MAXSIZE];
+    Position Last; /* 保存线性表中最后一个元素的位置 */
+};
+```
+L是用户传入的一个线性表，其中ElementType元素可以通过>、==、<进行比较，并且题目保证传入的数据是递增有序的。函数BinarySearch要查找X在Data中的位置，即数组下标（注意：元素从下标1开始存储）。找到则返回下标，否则返回一个特殊的失败标记NotFound。
+
+裁判测试程序样例：
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAXSIZE 10
+#define NotFound 0
+typedef int ElementType;
+
+typedef int Position;
+typedef struct LNode *List;
+struct LNode {
+    ElementType Data[MAXSIZE];
+    Position Last; /* 保存线性表中最后一个元素的位置 */
+};
+
+List ReadInput(); /* 裁判实现，细节不表。元素从下标1开始存储 */
+Position BinarySearch( List L, ElementType X );
+
+int main()
+{
+    List L;
+    ElementType X;
+    Position P;
+
+    L = ReadInput();
+    scanf("%d", &X);
+    P = BinarySearch( L, X );
+    printf("%d\n", P);
+
+    return 0;
+}
+
+/* 你的代码将被嵌在这里 */
+```
+输入样例1：
+```
+5
+12 31 55 89 101
+31
+```
+输出样例1：
+```
+2
+```
+输入样例2：
+```
+3
+26 78 233
+31
+```
+输出样例2：
+```
+0
+```
+
+
+- 实现：
+
+
+
+3:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L6",null,{"recentArticles":[{"id":"data-structures03","file":"data-structures03.md","content":"$7","data":{"title":"数据结构与算法学习笔记03","date":"2018-03-26","tags":["C"],"category":"Computer Science"},"isEmpty":false,"excerpt":"\n![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)\n\n> 树状结构的基础是二叉树，二叉树即度为2的树。\n\n## 二叉树的链表结构\n\n```c\ntypedef struct TNode *Position;\ntypedef Position BinTree; /* 二叉树类型 */\nstruct TNode{ /* 树结点定义 */\n    ElementType Data; /* 结点数据 */\n    BinTree Left;     /* 指向左子树 */\n    BinTree Right;    /* 指向右子树 */\n};\n```\n\n\n"},{"id":"data-structures02","file":"data-structures02.md","content":"$8","data":{"title":"数据结构与算法学习笔记02","date":"2018-03-16","tags":["C"],"category":"Computer Science"},"isEmpty":false,"excerpt":"\n![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)\n\n> 线性结构的基础是数组和链表，由数组和链表可以扩展出堆栈和队列。\n\n\n"},{"id":"data-structures01","file":"data-structures01.md","content":"$9","data":{"title":"数据结构与算法学习笔记01","date":"2018-03-14","tags":["C"],"category":"Computer Science"},"isEmpty":false,"excerpt":"\n![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)\n\n> 程序=数据结构+算法。\n\n浙江大学数据结构是国家精品课程，于2018年3月开学，2018年6月学期结束。\n\n"}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$La","$Lb","$Lc","$Ld","$Le"]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true}]
+5:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+a:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L2","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L2","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L2","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L2","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L2","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L2","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+b:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L2","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47"]}]]}]}]
+48:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2zc:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$48"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]}],"$L49"]}],"$L4a","$L4b"]}]]}]]}]}]
+d:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+e:["$","$L4c",null,{}]
+11:null
+12:["$","$L2","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+13:["$","$L2","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+14:["$","$L2","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+15:["$","$L2","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+16:["$","$L2","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+17:["$","$L2","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+18:["$","$L2","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+19:["$","$L2","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+1a:["$","$L2","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+1b:["$","$L2","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+1c:["$","$L2","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+1d:["$","$L2","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+1e:["$","$L2","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+1f:["$","$L2","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+20:["$","$L2","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+21:["$","$L2","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+22:["$","$L2","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+23:["$","$L2","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+24:["$","$L2","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+25:["$","$L2","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+26:["$","$L2","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+27:["$","$L2","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+28:["$","$L2","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+29:["$","$L2","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+2a:["$","$L2","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2b:["$","$L2","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2c:["$","$L2","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2d:["$","$L2","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+2e:["$","$L2","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2f:["$","$L2","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+30:["$","$L2","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+31:["$","$L2","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+32:["$","$L2","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+33:["$","$L2","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+34:["$","$L2","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+35:["$","$L2","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+36:["$","$L2","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+37:["$","$L2","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+38:["$","$L2","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+39:["$","$L2","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3a:["$","$L2","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3b:["$","$L2","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3c:["$","$L2","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3d:["$","$L2","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3e:["$","$L2","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3f:["$","$L2","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+40:["$","$L2","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+41:["$","$L2","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L2","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+43:["$","$L2","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+44:["$","$L2","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L2","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+46:["$","$L2","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+47:["$","$L2","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+49:["$","p",null,{"children":"或添加微信："}]
+4a:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+4b:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]

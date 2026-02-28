@@ -1,0 +1,587 @@
+1:"$Sreact.fragment"
+2:I[47395,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+3:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+4:I[59516,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"Image"]
+5:I[98951,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+6:I[20588,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+7:I[35910,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+8:I[78142,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+9:I[90220,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+a:I[70079,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+12:I[34741,[],"default"]
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"wycode_has_super_power","c":["","blog","tag","kotlin"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["tag",{"children":[["cid","kotlin","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3fc28ce70887f98c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1e02b7c5799ac6a1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3b6828ba17d8ab80.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"transition-colors duration-1000 font","children":["$","body",null,{"className":"flex flex-col items-center min-h-dvh","children":[["$","$L2",null,{"className":"fixed top-0 left-0 right-0 bottom-0 -z-10"}],["$","header",null,{"className":"navbar shadow-sm bg-base-200/60 backdrop-blur fixed z-10","children":[["$","div",null,{"className":"navbar-start","children":["$","$L3",null,{"href":"/","className":"text-xl font-bold hover:text-sky-600 flex gap-1 items-center px-2","children":[["$","$L4",null,{"src":{"src":"/_next/static/media/icon.7d834061.svg","width":192,"height":192,"blurWidth":0,"blurHeight":0},"alt":"王郁的小站","width":32,"height":32}],["$","span",null,{"className":"bg-gradient-to-br dark:bg-gradient-to-tr from-sky-600 to-pink-600 dark:from-pink-400 dark:to-sky-400 bg-clip-text text-transparent","children":"王郁的小站"}]]}]}],["$","nav",null,{"className":"navbar-center hidden lg:flex","children":["$","$L5",null,{}]}],["$","div",null,{"className":"navbar-end gap-2","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]]}],["$","main",null,{"className":"flex-1 pt-16 flex flex-col lg:flex-row gap-4 w-full overflow-auto","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full h-10 shadow-sm bg-base-200/60 backdrop-blur bottom-0 right-0 left-0 flex flex-col md:flex-row justify-center items-center py-2 border-t border-slate-400/30 text-xs md:text-sm","children":[["$","a",null,{"href":"https://beian.miit.gov.cn","target":"_blank","className":"md:mr-2 md:pr-2 md:border-r border-base-content hover:text-info transition-colors","children":"陕ICP备15011477号"}],["$","div",null,{"className":"flex items-center","children":[["$","p",null,{"children":"2015-2026 ©wycode.cn All Right Reserved"}],["$","a",null,{"href":"https://github.com/wangyucode/wycode-next","target":"_blank","className":"ml-2 pl-2 border-l border-base-content hover:text-info transition-colors flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"mr-1 h-4 w-4 inline","children":["$","path",null,{"d":"$b"}]}],"v","3.4.1"]}]]}]]}],"$Lc"]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{"children":["$L10",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+13:I[97287,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+15:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"ViewportBoundary"]
+1a:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"MetadataBoundary"]
+c:["$","$L13",null,{}]
+d:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",[["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],null]}]
+14:["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 flex items-center mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-6 w-6","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"Kotlin",["$","span",null,{"className":"ml-2 text-sm font-normal text-slate-500 dark:text-slate-400","children":["(",7," 篇文章)"]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div","websocket",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/websocket","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"使用WebSocket和STOMP协议开发一个匿名聊天室"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2020-03-09"]}]]}]}],["$","div","swagger-auth",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/swagger-auth","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"SpringBoot工程为SwaggerUI添加认证"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-07-19"]}]]}]}],["$","div","spring-error",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/spring-error","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"SpringBoot工程自定义错误JSON字段"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-07-15"]}]]}]}],"$L1c","$L1d","$L1e","$L1f"]}]]}]}]}],"$L20"]}]}]
+21:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+1c:["$","div","email",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/email","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"使用SpringBoot发送SSL邮件"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-06-07"]}]]}]}]
+1d:["$","div","comments-sql",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/comments-sql","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"从0开始开发一个评论系统"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-05-21"]}]]}]}]
+1e:["$","div","web-flux",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/web-flux","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"理解Spring WebFlux框架中的响应式类型"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-07-20"]}]]}]}]
+1f:["$","div","kotlin-learn",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/kotlin-learn","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"Kotlin入门"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-07-27"]}]]}]}]
+22:T18fb,
+![chat](/apps/chat2.png)
+
+有时候就想和其他人安全地聊个天，它需要有这些特征：
+
+- 基于web技术，只需一个网页，无需下载任何App，易于转发。
+- 无需注册，使用简单，基于邀请码加入聊天，邀请码定时刷新。
+- 完全匿名。
+- 消息只保留在内存中，超时自动删除。
+- 进行在线人数统计，能设置最大人数上限。
+- 用户上下线和邀请码刷新时有系统提示。
+- Web连接必然是不稳定的，所以断线必须能够重连。
+
+线上Demo演示请直接访问: <https://wycode.cn/lab/chat>
+
+技术方面：
+
+- 使用`WebSocket`协议提供Web上的全双工通信支持。
+- 使用`STOMP`作为上层协议，它基于帧(`Frame`)，和Http请求很类似，提供了一种发布订阅的模式，很适合需求的群聊模式。
+- 后端采用`Kotlin` + `SpringBoot`，前端采用`Typescript` + `Angular` + `AntDesign`，均使用最新版本。
+
+<!--more-->
+
+## 准备SpringBoot工程
+
+在SpringBoot中使用WebSocket和STOMP很简单，添加`spring-boot-starter-websocket`这个starter依赖就可以开始了。
+
+工程基于Gradle初始化，核心的几个依赖如下：
+
+```java
+implementation("org.springframework.boot:spring-boot-starter-websocket")
+implementation("org.jetbrains.kotlin:kotlin-reflect")
+implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.10.+")
+```
+
+## 配置WebSocket和STOMP
+
+添加这么一个类：
+
+```kotlin
+@Configuration
+@EnableWebSocketMessageBroker
+class WebSocketConfig(val chatService: ChatService, val taskScheduler: TaskScheduler) : WebSocketMessageBrokerConfigurer {
+
+
+    override fun configureMessageBroker(config: MessageBrokerRegistry) {
+        config.enableSimpleBroker("/topic/", "/queue/") // 1.
+                .setTaskScheduler(taskScheduler) // 2.
+        config.setApplicationDestinationPrefixes("/app") // 3.
+    }
+
+
+    override fun registerStompEndpoints(registry: StompEndpointRegistry) {
+        registry.addEndpoint("/stomp") // 4.
+                .setAllowedOrigins("*") // 5.
+    }
+
+}
+```
+这里配置了很多端点(`endpoint`)，很多时候容易搞混：
+
+1. 可以理解为是一些频道
+2. 用于定时心跳，设置了taskSchedule才能启用心跳（对于没有启用SockJS的项目），不开启心跳的话，不管是客户端还是服务器都很容易断开连接。
+3. 这里`/app`端点是应用的接收前缀，以app开头的路径会进入后端程序处理
+4. 这里`/stomp`端点是用来握手的，所以前端connect时连接的是这个端点
+5. 启用任意远程访问，防止前端出现跨域问题，易于调试，对于生产环境，可以删除
+
+> 需要提到的是，官方文档上仍然启用了`SockJS`，其实已经不需要了，`SockJS`是对于不支持`WebSocket`的Polyfill，对于现在的浏览器，其实已经不需要了，参考这个地址：https://caniuse.com/#search=websockets
+
+## 邀请码鉴权
+
+主要思路：
+
+- 配置客户端入口Channel的interceptor。`configureClientInboundChannel()`
+- 在握手阶段，取header。`accessor.getNativeHeader("code")`
+- code合法就赋予一个用户。`accessor.user = ChatUser()`
+- 出错时，设置一个sessionAttributes。`accessor.sessionAttributes!!["error"] = "邀请码错误！"`
+
+> 这里我尝试了多种办法直接在握手阶段返回错误，但是都失败了，所以最终通过sessionAttributes来标记错误，在下一次通信时返回错误信息。
+
+此处除了鉴权还做了三件事
+
+1. 对于本身分配了id的用户握手时，应当视为重连，而不是新用户，这是断线重连实现的关键。
+2. 新用户进入时要进行人数上限的判断，人满时也报错。
+3. 因为只有进入聊天室的人才能看到邀请码，所以这里还判断了一个超级用户码，用户以超级用户码进入时，会把当前的邀请码以错误码的形式返回。这样管理员就能方便的知道当前的邀请码了。
+
+## 主要接口
+
+`controller`只需要两个接口
+
+1. 用来查询当前状态，用户刚进入时会调用，此时会如果有鉴权时的错误信息，会返回错误。如果正常会返回房间的基本信息，以及所有的聊天记录。同时发送系统信息。
+
+```kotlin
+@MessageMapping("/status")
+@SendToUser("/queue/status")
+fun status(accessor: SimpMessageHeaderAccessor): CommonMessage<*> {
+    return if (accessor.user != null) {
+        chatService.sendSystemMessage(200, accessor.user!!.name)
+        CommonMessage.success(InitData(accessor.user!!.name.toInt(), chatService.users.size, chatService.messages, chatService.code,GEN_CODE_TIME_IN_MINUTES, REMOVE_MESSAGE_TIME_IN_MINUTES))
+    } else {
+        CommonMessage.fail(accessor.sessionAttributes!!["error"] as String)
+    }
+}
+```
+
+2. 发送消息，添加到聊天记录即可。
+
+```kotlin
+@MessageMapping("/all")
+fun all(message: String, user: Principal): CommonMessage<ChatMessage> {
+    val msg = ChatMessage(user.name.toInt(), Date(), message, 0)
+    chatService.messages.add(msg)
+    return CommonMessage.success(msg)
+}
+```
+
+## 定时服务及系统消息
+
+`ChatService`中要维护所有用户、历史消息记录、邀请码
+
+1. 所有用户是一个HashSet，`var users =  HashSet<ChatUser>()`，`ChatUser`使用id作为`hashcode`。
+2. 更新邀请码的频率较高，所以会同时检查过期消息并移除
+
+```kotlin
+fun generateCode() {
+    this.code = randomString(16)
+    logger.info("${Date().toLocaleString()}: $code")
+    this.sendSystemMessage(100, this.code)
+    removeOutdatedMessage()
+}
+```
+3. 移除过期消息，消息列表是一个队列，如果队列头部的消息已过期，需要递归检查下一个
+
+```kotlin
+fun removeOutdatedMessage() {
+    logger.info("${Date().toLocaleString()}: removeOutdatedMessage")
+    if (messages.size > 0) {
+        val message = messages[0]
+        if (Date().time - message.time.time > REMOVE_MESSAGE_TIME_IN_MINUTES * 60L * 1000) {
+            messages.removeAt(0)
+            removeOutdatedMessage()
+        }
+    }
+}
+```
+
+至此，后端核心技术要点已介绍完毕，最后放上github仓库，完整代码：<https://github.com/wangyucode/chatroom-spring-websocket-stomp>
+
+线上完整项目演示请直接访问: <https://wycode.cn/lab/chat>
+
+基于Angular的前端项目将在下篇博客介绍。
+
+23:T7ae,
+![swagger](https://swagger.io/swagger/media/assets/images/swagger_logo.svg)
+
+当API添加了鉴权后，`swagger`如何进行调试呢，比如需要在请求头`header`中添加类似`token`或者`Authorization`之类的。
+
+在`Spring`中进行如下简单的配置就可以了。
+
+<!--more-->
+
+```kotlin
+@Configuration
+@EnableSwagger2
+class SwaggerConfig {
+
+    @Bean
+    fun generateDocket(): Docket {
+        return Docket(DocumentationType.SWAGGER_2)
+                .select()
+                .apis(RequestHandlerSelectors.withClassAnnotation(Api::class.java))
+                .build()
+                .securityContexts(listOf(securityContext())) // #1
+                .securitySchemes(listOf(apiKey())) // #2
+                .apiInfo(apiInfo())
+    }
+
+    private fun securityContext(): SecurityContext {
+        return SecurityContext.builder()
+                .securityReferences(defaultAuth())
+                .forPaths(PathSelectors.regex("/api/public/admin/.*"))
+                .build()
+    }
+
+    fun defaultAuth(): List<SecurityReference> {
+        val authorizationScope = AuthorizationScope("global", "accessEverything")
+        val authorizationScopes = arrayOf(authorizationScope)
+        return listOf(SecurityReference("token", authorizationScopes))
+    }
+
+
+    fun apiKey(): ApiKey {
+        return ApiKey("token", "X-Auth-Token", "header")
+    }
+
+
+    private fun apiInfo(): ApiInfo {
+        return ApiInfo("王郁的API文档",
+                "用于App测试及独立APP研发",
+                "2.0",
+                "http://wycode.cn",
+                Contact("王郁", "wycode.cn", "wangyu@wycode.cn"),
+                "wycode.cn All Right Reserved",
+                "https://wycode.cn",
+                emptyList())
+    }
+}
+
+```
+关键配置就是上面包含#1和#2注释的两行配置
+
+1. 配置安全上下文，我这里配置了`/api/public/admin/.*`下的接口需要添加。
+2. 配置鉴权类型，我这里使用`ApiKey`。24:T868,
+![springboot](/images/20180623_springboot.jpg)
+
+通常我们为了统一，和前端方便处理，写的API返回JSON会有固定的结构，比如下面这种：
+```json
+{
+    "code":200,
+    "message":"hello world!",
+    "data":{
+        "user":{}
+    }
+}
+```
+但是当返回码为非200时，比如接口不存在`404`，服务器错误`500`，Spring默认会返回一个类似这样的结构：
+
+```json
+{
+  "timestamp": "2019-07-19 10:23:47",
+  "status": 403,
+  "error": "Forbidden",
+  "message": "没有权限",
+  "path": "/web/api/public/admin/dota/version"
+}
+```
+
+下面进行简单配置即可实现这个JSON结构的自定义：
+<!--more-->
+
+```kotlin
+import cn.wycode.web.DEV
+import org.springframework.boot.web.servlet.error.DefaultErrorAttributes
+import org.springframework.stereotype.Component
+import org.springframework.web.context.request.WebRequest
+
+@Component
+class WyErrorAttributes : DefaultErrorAttributes(DEV) { // #1
+    override fun getErrorAttributes(webRequest: WebRequest?, includeStackTrace: Boolean): MutableMap<String, Any> {
+        val errorAttributes = super.getErrorAttributes(webRequest, includeStackTrace) // #2
+        errorAttributes["success"] = false // #3
+        errorAttributes["error"] = errorAttributes["message"] // #4
+        errorAttributes["data"] = errorAttributes["exception"]  // #5
+        return errorAttributes
+    }
+}
+```
+
+1. Spring默认的`DefaultErrorAttributes`就写的挺好，我们继承并扩展一下就可以了，当然你也可以删除或者完全替换里面的结构。
+2. 先使用默认的方法构建一个`errorAttributes`。
+3. 添加一个`success`属性，既然是`ErrorAttributes`当然是`false`了。
+4. 覆盖`error`属性，改为`message`。
+5. 添加`data`属性，在DEV环境时会添加错误的类信息。
+
+做了这个配置之后，错误信息的JSON会变成下面这样：
+
+```json
+{
+  "timestamp": "2019-07-19 16:56:41",
+  "status": 500,
+  "error": "/ by zero",
+  "exception": "java.lang.ArithmeticException",
+  "message": "/ by zero",
+  "path": "/web/api/public/admin/dota/version",
+  "success": false,
+  "data": "java.lang.ArithmeticException"
+}
+```25:T999,
+![email](https://cms-assets.tutsplus.com/uploads/users/23/posts/26357/preview_image/professional-email-signature-icon.jpg)
+
+当需要后台发送通知的时候，Email是一个比较好的选择，因为它免费啊！
+
+这篇文章介绍如何使用SpringBoot发送邮件。
+
+<!--more-->
+
+## 添加依赖
+
+如同其它`starter`工具一样。SpringBoot为我们提供了`spring-boot-starter-mail`
+
+```js
+    compile('org.springframework.boot:spring-boot-starter-mail')
+```
+
+## 配置
+
+在`application.properties`添加如下配置
+
+```js
+spring.mail.host=smtp.exmail.qq.com
+spring.mail.username=wangyu@wycode.cn
+spring.mail.password=*********
+spring.mail.properties.mail.smtp.auth=true
+spring.mail.properties.mail.smtp.starttls.enable=true
+spring.mail.properties.mail.smtp.starttls.required=true
+```
+- smtp域名，用户名，密码，根据自己的填写。
+
+## 创建Service
+
+```kotlin
+package cn.wycode.web.service
+
+import org.apache.commons.logging.LogFactory
+import org.springframework.mail.SimpleMailMessage
+import org.springframework.mail.javamail.JavaMailSender
+import org.springframework.scheduling.annotation.Async
+import org.springframework.stereotype.Service
+
+@Service
+class MailService(private val mailSender: JavaMailSender) {
+
+    private val log = LogFactory.getLog(this.javaClass)
+
+    @Async
+    fun sendSimpleMail(sendTo: String, subject: String, content: String) {
+        val message = SimpleMailMessage()
+        message.setFrom("wangyu@wycode.cn")
+        message.setTo(sendTo)
+        message.setSubject(subject)
+        message.setText(content)
+        try {
+            mailSender.send(message)
+            log.error("已发送邮件 $subject 到 $sendTo")
+        } catch (e: Exception) {
+            log.error("邮件发送失败！", e)
+        }
+    }
+}
+```
+- `JavaMailSender`由Spring自动注入
+- `@Async`发送邮件这里采用异步方式，启用异步需要在Application使用`@EnableAsync`
+
+
+## 关于SSL及发送端口
+
+`Could not connect to SMTP host: smtp.163.com, port: 25`
+
+本地运行ok，但是发布到阿里云ECS上就无法连接服务，这里是因为阿里云接上级通知禁用了25端口，客服建议使用安全的`465`端口。
+
+网上的教程很复杂，其实对于正规的SMTP服务器，我们只需添加如下两个属性就好了。
+
+```js
+spring.mail.port=465
+spring.mail.properties.mail.smtp.ssl.enable=true
+```
+- 端口改为`465`
+- 启用`SSL`
+
+以上，转载请注明出处!26:T16af,
+![网易云音乐](https://image.woshipm.com/wp-files/2018/04/QFTkYSkExyHKCzhTTl7V.jpg)
+
+畅言的广告有点过于流氓，所以准备开发一套评论系统，除了博客，还能用在其它APP中。
+
+基本需求类似网易云音乐的评论，可以对引用别人的评论回复，可以点赞。
+
+<!--more-->
+
+## 表结构
+
+为了保证表结构尽可能简单的同时又支持类似网易云一样功能，同时又保证可扩展性，采用单表设计，表结构（映射实体）如下。
+
+```kotlin
+@Entity
+data class Comment(
+        @Id
+        @GeneratedValue(generator = "seq_comment")
+        @SequenceGenerator(name = "seq_comment", sequenceName = "SEQ_COMMENT", allocationSize = 1, initialValue = 1)
+        val id: Long = 0,
+        @ApiModelProperty(value = "主题id")
+        val topicId: String = "",
+        @ManyToOne
+        val app: CommentApp = CommentApp(),
+        @Column(length = 1023)
+        val content: String? = null,
+        @ApiModelProperty(value = "评论类型，0.文字评论，1.点赞，2.图片评论")
+        val type: Int = 0,
+        val fromUserId: String = "",
+        val fromUserName: String? = null,
+        val fromUserIcon: String? = null,
+        val toUserId: String? = null,
+        val toUserName: String? = null,
+        val toUserIcon: String? = null,
+        val toContent: String? = null,
+        val createTime: Date = Date(),
+        var likeCount: Int = 0)
+```
+- 为了能够在多个app中使用，所以增加了一个`CommentApp`实体，里面包含一个name和accessKey，评论和app是多对一关系。
+- `type`字段可以用来扩展为直接对文章点赞，以及图片的评论（`content`为图片地址）。
+- 为了保持评论系统的独立，所以用户信息应该由使用评论的app提供，比如使用第三方登录。所以并不需要用户表。
+- 这里冗余引用的评论信息，就不需要考虑嵌套查询，以及实体嵌套，循环引用的问题。只保留一层引用，当然也就只支持一对一的回复了。
+- 页面展示上其实并不需要`UserId`，这里是考虑提高数据的可维护性。
+
+## 接口
+
+### 1.新增评论或点赞
+
+```kotlin
+@ApiOperation(value = "新增评论及点赞")
+@RequestMapping(path = ["/newComment"], method = [RequestMethod.POST])
+fun newComment(@RequestParam accessKey: String,
+               @RequestParam appName: String,
+               @ApiParam("评论类型，0.文字评论，1.点赞，2.图片评论", defaultValue = "0",example = "0",allowableValues = "0,1,2")
+               @RequestParam(required = false, defaultValue = "0") type: Int = 0,
+               @RequestParam topicId: String,
+               @RequestParam(required = false) content: String?,
+               @RequestParam fromUserId: String,
+               @RequestParam(required = false) fromUserName: String?,
+               @RequestParam(required = false) fromUserIcon: String?,
+               @RequestParam(required = false) toCommentId: Long?
+): JsonResult<Comment> {
+    if (type < 0 || type > 2) return JsonResult.error("参数错误")
+    var contentText = content
+    //文字及图片评论内容限制
+    if (type == 0 || type == 2) {
+        if (StringUtils.isEmpty(contentText)) return JsonResult.error("内容不能为空")
+        if (contentText!!.length > 1023) return JsonResult.error("内容不能超过1000个字")
+    }
+    val app = commentAppRepository.findByNameAndAccessKey(appName, accessKey)
+            ?: return JsonResult.error("app不存在，或key错误")
+    //图片评论上传至OSS
+    if (type == 2) {
+        val file = storageService.loadTemp(contentText).toFile()
+        if (!file.exists()) {
+            return JsonResult.error("相片不存在")
+        }
+        contentText = ossService.putFile(OssService.COMMENT_BUCKET_NAME, appName, file)
+                ?: return JsonResult.error("评论失败，请重试")
+    }
+    //处理回复
+    var toComment: Comment? = null
+    if (toCommentId != null && toCommentId > 0) {
+        toComment = commentRepository.findById(toCommentId).orElse(null) ?: return JsonResult.error("被回复的评论不存在")
+        if (toComment.topicId != topicId) return JsonResult.error("不能跨主题回复")
+        if (toComment.type == 1) return JsonResult.error("不能对点赞回复")
+        //对评论点赞，直接对点赞数+1，不保存此条评论
+        if (type == 1) {
+            toComment.likeCount++
+            return JsonResult.data(commentRepository.save(toComment))
+        }
+    }
+    //需要新增的comment
+    val comment = Comment(
+            topicId = topicId,
+            app = app,
+            content = contentText,
+            type = type,
+            fromUserId = fromUserId,
+            fromUserName = fromUserName,
+            fromUserIcon = fromUserIcon,
+            toUserId = toComment?.fromUserId,
+            toUserName = toComment?.fromUserName,
+            toUserIcon = toComment?.fromUserIcon,
+            toContent = toComment?.content)
+    log.info("$fromUserName 评论了 ${app.name} 的 $topicId")
+    return JsonResult.data(commentRepository.save(comment))
+}
+```
+
+### 2.获取评论列表
+
+```kotlin
+@ApiOperation(value = "获取评论列表")
+@RequestMapping(path = ["/getComments"], method = [RequestMethod.GET])
+fun getComments(@RequestParam accessKey: String,
+                @RequestParam appName: String,
+                @RequestParam topicId: String): JsonResult<List<Comment>> {
+    commentAppRepository.findByNameAndAccessKey(appName, accessKey)
+            ?: return JsonResult.error("app不存在，或key错误")
+    return JsonResult.data(commentRepository.findAllByApp_NameAndTopicIdAndDeleted(appName, topicId))
+}
+```
+
+最终效果即为目前页面下方的评论功能。
+
+以上，转载请注明出处!
+20:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L21",null,{"recentArticles":[{"id":"websocket","file":"websocket.md","content":"$22","data":{"title":"使用WebSocket和STOMP协议开发一个匿名聊天室","date":"2020-03-09","tags":["WebSocket","Spring Boot","Kotlin"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![chat](/apps/chat2.png)\n\n有时候就想和其他人安全地聊个天，它需要有这些特征：\n\n- 基于web技术，只需一个网页，无需下载任何App，易于转发。\n- 无需注册，使用简单，基于邀请码加入聊天，邀请码定时刷新。\n- 完全匿名。\n- 消息只保留在内存中，超时自动删除。\n- 进行在线人数统计，能设置最大人数上限。\n- 用户上下线和邀请码刷新时有系统提示。\n- Web连接必然是不稳定的，所以断线必须能够重连。\n\n线上Demo演示请直接访问: <https://wycode.cn/lab/chat>\n\n技术方面：\n\n- 使用`WebSocket`协议提供Web上的全双工通信支持。\n- 使用`STOMP`作为上层协议，它基于帧(`Frame`)，和Http请求很类似，提供了一种发布订阅的模式，很适合需求的群聊模式。\n- 后端采用`Kotlin` + `SpringBoot`，前端采用`Typescript` + `Angular` + `AntDesign`，均使用最新版本。\n\n"},{"id":"swagger-auth","file":"swagger-auth.md","content":"$23","data":{"title":"SpringBoot工程为SwaggerUI添加认证","date":"2019-07-19","tags":["OAuth","Java","Kotlin","Spring","Swagger"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![swagger](https://swagger.io/swagger/media/assets/images/swagger_logo.svg)\n\n当API添加了鉴权后，`swagger`如何进行调试呢，比如需要在请求头`header`中添加类似`token`或者`Authorization`之类的。\n\n在`Spring`中进行如下简单的配置就可以了。\n\n"},{"id":"spring-error","file":"spring-error.md","content":"$24","data":{"title":"SpringBoot工程自定义错误JSON字段","date":"2019-07-15","tags":["Java","Kotlin","Spring"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![springboot](/images/20180623_springboot.jpg)\n\n通常我们为了统一，和前端方便处理，写的API返回JSON会有固定的结构，比如下面这种：\n```json\n{\n    \"code\":200,\n    \"message\":\"hello world!\",\n    \"data\":{\n        \"user\":{}\n    }\n}\n```\n但是当返回码为非200时，比如接口不存在`404`，服务器错误`500`，Spring默认会返回一个类似这样的结构：\n\n```json\n{\n  \"timestamp\": \"2019-07-19 10:23:47\",\n  \"status\": 403,\n  \"error\": \"Forbidden\",\n  \"message\": \"没有权限\",\n  \"path\": \"/web/api/public/admin/dota/version\"\n}\n```\n\n下面进行简单配置即可实现这个JSON结构的自定义：\n"},{"id":"email","file":"email.md","content":"$25","data":{"title":"使用SpringBoot发送SSL邮件","date":"2019-06-07","tags":["Kotlin","Spring","Java"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![email](https://cms-assets.tutsplus.com/uploads/users/23/posts/26357/preview_image/professional-email-signature-icon.jpg)\n\n当需要后台发送通知的时候，Email是一个比较好的选择，因为它免费啊！\n\n这篇文章介绍如何使用SpringBoot发送邮件。\n\n"},{"id":"comments-sql","file":"comments-sql.md","content":"$26","data":{"title":"从0开始开发一个评论系统","date":"2019-05-21","tags":["Kotlin","SQL","Spring","JPA","Hibernate"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![网易云音乐](https://image.woshipm.com/wp-files/2018/04/QFTkYSkExyHKCzhTTl7V.jpg)\n\n畅言的广告有点过于流氓，所以准备开发一套评论系统，除了博客，还能用在其它APP中。\n\n基本需求类似网易云音乐的评论，可以对引用别人的评论回复，可以点赞。\n\n"}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L27","$L28","$L29","$L2a","$L2b"]}]
+31:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+2c:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z29:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$2c"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":"$L2d"}],"$L2e"]}],"$L2f","$L30"]}]]}]]}]}]
+2a:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+2b:["$","$L31",null,{}]
+:HL["/about/wechat.jpg","image"]
+2d:["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]
+2e:["$","p",null,{"children":"或添加微信："}]
+2f:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+30:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]
+27:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L3","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L3","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L3","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L3","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L3","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L3","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+28:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L3","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67"]}]]}]}]
+32:["$","$L3","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+33:["$","$L3","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+34:["$","$L3","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+35:["$","$L3","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+36:["$","$L3","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+37:["$","$L3","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+38:["$","$L3","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+39:["$","$L3","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+3a:["$","$L3","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+3b:["$","$L3","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3c:["$","$L3","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+3d:["$","$L3","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+3e:["$","$L3","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3f:["$","$L3","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+40:["$","$L3","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+41:["$","$L3","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L3","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+43:["$","$L3","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+44:["$","$L3","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L3","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+46:["$","$L3","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+47:["$","$L3","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+48:["$","$L3","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+49:["$","$L3","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4a:["$","$L3","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4b:["$","$L3","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L3","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4d:["$","$L3","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+4e:["$","$L3","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4f:["$","$L3","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+50:["$","$L3","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+51:["$","$L3","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L3","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L3","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+54:["$","$L3","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+55:["$","$L3","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+56:["$","$L3","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+57:["$","$L3","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+58:["$","$L3","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+59:["$","$L3","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+5a:["$","$L3","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5b:["$","$L3","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5c:["$","$L3","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5d:["$","$L3","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+5e:["$","$L3","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5f:["$","$L3","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+60:["$","$L3","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+61:["$","$L3","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+62:["$","$L3","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+63:["$","$L3","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+64:["$","$L3","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+65:["$","$L3","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+66:["$","$L3","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+67:["$","$L3","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+68:I[72175,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"IconMark"]
+17:null
+1b:[["$","title","0",{"children":"Kotlin | 王郁的小站"}],["$","meta","1",{"name":"description","content":"查看所有关于 Kotlin 的文章，共 7 篇"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"Kotlin,王郁的小站,博客"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L68","7",{}]]

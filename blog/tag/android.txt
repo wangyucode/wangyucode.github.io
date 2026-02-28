@@ -1,0 +1,775 @@
+1:"$Sreact.fragment"
+2:I[47395,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+3:I[58522,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],""]
+4:I[59516,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"Image"]
+5:I[98951,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+6:I[20588,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+7:I[35910,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+8:I[78142,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+9:I[90220,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+a:I[70079,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"default"]
+12:I[34741,[],"default"]
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"wycode_has_super_power","c":["","blog","tag","android"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["tag",{"children":[["cid","android","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3fc28ce70887f98c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1e02b7c5799ac6a1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3b6828ba17d8ab80.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"transition-colors duration-1000 font","children":["$","body",null,{"className":"flex flex-col items-center min-h-dvh","children":[["$","$L2",null,{"className":"fixed top-0 left-0 right-0 bottom-0 -z-10"}],["$","header",null,{"className":"navbar shadow-sm bg-base-200/60 backdrop-blur fixed z-10","children":[["$","div",null,{"className":"navbar-start","children":["$","$L3",null,{"href":"/","className":"text-xl font-bold hover:text-sky-600 flex gap-1 items-center px-2","children":[["$","$L4",null,{"src":{"src":"/_next/static/media/icon.7d834061.svg","width":192,"height":192,"blurWidth":0,"blurHeight":0},"alt":"王郁的小站","width":32,"height":32}],["$","span",null,{"className":"bg-gradient-to-br dark:bg-gradient-to-tr from-sky-600 to-pink-600 dark:from-pink-400 dark:to-sky-400 bg-clip-text text-transparent","children":"王郁的小站"}]]}]}],["$","nav",null,{"className":"navbar-center hidden lg:flex","children":["$","$L5",null,{}]}],["$","div",null,{"className":"navbar-end gap-2","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]]}],["$","main",null,{"className":"flex-1 pt-16 flex flex-col lg:flex-row gap-4 w-full overflow-auto","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full h-10 shadow-sm bg-base-200/60 backdrop-blur bottom-0 right-0 left-0 flex flex-col md:flex-row justify-center items-center py-2 border-t border-slate-400/30 text-xs md:text-sm","children":[["$","a",null,{"href":"https://beian.miit.gov.cn","target":"_blank","className":"md:mr-2 md:pr-2 md:border-r border-base-content hover:text-info transition-colors","children":"陕ICP备15011477号"}],["$","div",null,{"className":"flex items-center","children":[["$","p",null,{"children":"2015-2026 ©wycode.cn All Right Reserved"}],["$","a",null,{"href":"https://github.com/wangyucode/wycode-next","target":"_blank","className":"ml-2 pl-2 border-l border-base-content hover:text-info transition-colors flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"mr-1 h-4 w-4 inline","children":["$","path",null,{"d":"$b"}]}],"v","3.4.1"]}]]}]]}],"$Lc"]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{"children":["$L10",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+13:I[97287,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js"],"default"]
+15:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"ViewportBoundary"]
+1a:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"MetadataBoundary"]
+c:["$","$L13",null,{}]
+d:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L14",[["$","script","script-0",{"src":"/_next/static/chunks/02b922fccc7b26ff.js","async":true,"nonce":"$undefined"}]],["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],null]}]
+14:["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 flex items-center mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-6 w-6","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"Android",["$","span",null,{"className":"ml-2 text-sm font-normal text-slate-500 dark:text-slate-400","children":["(",8," 篇文章)"]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div","flutter",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/flutter","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"使用Flutter开发跨平台应用"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-03-28"]}]]}]}],["$","div","react-native",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/react-native","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"React Native源码解析（Android篇）"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-03-19"]}]]}]}],["$","div","android-dp",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/android-dp","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"Android度量设计规范"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-09-04"]}]]}]}],"$L1c","$L1d","$L1e","$L1f","$L20"]}]]}]}]}],"$L21"]}]}]
+22:I[69063,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"default"]
+1c:["$","div","gradle-build",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/gradle-build","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"Gradle构建变种版本（多渠道打包）"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-09-04"]}]]}]}]
+1d:["$","div","unity2android",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/unity2android","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"在Unity中使用Android原生代码"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-07-26"]}]]}]}]
+1e:["$","div","wave-progress",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/wave-progress","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"自定义形状波浪进度"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-07-24"]}]]}]}]
+1f:["$","div","Share",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/Share","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"Android原生分享及第三方分享"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-06-16"]}]]}]}]
+20:["$","div","gitignore",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L3",null,{"href":"/blog/gitignore","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"Android Studio工程应该忽略的文件及如何使用gitignore"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-06-16"]}]]}]}]
+23:T1c54,
+![Flutter](https://blog.scottlogic.com/bquinn/assets/Flutter_logo_text.png)
+
+> Flutter是由Google开发的开源的跨平台应用开发框架，支持Android、iOS开发，能够开发媲美原生的高性能应用。按照2019年的开发路线图，Flutter即将支持Web和桌面端应用的开发。这篇文章带你领略Flutter的魅力。
+
+
+<!--more-->
+
+[Flutter官网](https://flutter.dev/ "Flutter官网")
+
+
+## 已经有ReactNative了，为什么还要Flutter
+
+ReactNative已经能够做到使用一份JavaScript代码同时发布Android和iOS平台。而且其并不使用WebView，而是将React组件转换为相应的原生组件从而提高性能。
+
+ReactNative技术看起来很美好，因为对公司而言，并不需要很多的Android和iOS开发，只需要一两个技术支持，其它业务代码都是由前端工程师完成，节约了成本（？）提高了效率（？）。
+
+然而，最近越来越多的公司开始放弃ReactNative而回归到原生开发，原因在于，当ReactNative实际应用到大型项目上时，面对复杂的、定制化的需求，其自带封装好的组件往往不能满足要求。为了满足这些需求，往往需要原生开发去定制相应的React组件。或者为JS提供接口。原生很简单就能实现的功能，因为要跨平台，所以必须抽象出来给React使用。此时React带来的收益和成本相比不再显得有优势了。
+
+Flutter的优势在于，它完全抛弃了使用原生UI，而是从底层2D渲染就独立出来。使用了Google开发的叫`Skia`的C++渲染库。类似于游戏引擎一样，能够提供60FPS的性能。上层使用`Dart`提供了一套现代的响应式布局框架。抛弃了原生组件，同时也就免去了原生组件的定制。定制UI也是在Flutter框架的范围内，不涉及原生开发。
+
+这就是Flutter的魅力所在。
+
+## Flutter技术架构
+
+![Flutter技术架构](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png)
+
+## 关于环境搭建
+
+环境搭建官网都有说明，我这里不再赘述，需要注意的是，下载并配置好Flutter之后，要执行一个`flutter doctor`的命令，这个命令会检查本地环境，在线安装所需要的组件。由于众所周知的原因，国内使用我们需要额外配置两个类似仓库镜像的环境变量：
+
+```bash
+$ export PUB_HOSTED_URL=https://pub.flutter-io.cn
+$ export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+```
+
+然后再执行`flutter doctor`就能快一点了。
+
+
+## Hello Flutter
+
+创建好第一个Flutter工程后，模版代码注释非常详细，Android部分看到只有一个Activity继承自FlutterActivity，用代理模式，接管了这个Activity的所有生命周期和事件回调。这些和Unity，ReactNative的原理都一样。以下是`Dart`部分的代码：
+
+
+
+```dart
+import 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        // This is the theme of your application.
+        //
+        // Try running your application with "flutter run". You'll see the
+        // application has a blue toolbar. Then, without quitting the app, try
+        // changing the primarySwatch below to Colors.green and then invoke
+        // "hot reload" (press "r" in the console where you ran "flutter run",
+        // or simply save your changes to "hot reload" in a Flutter IDE).
+        // Notice that the counter didn't reset back to zero; the application
+        // is not restarted.
+        primarySwatch: Colors.blue,
+      ),
+      home: MyHomePage(title: 'Flutter Demo Home Page'),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  MyHomePage({Key key, this.title}) : super(key: key);
+
+  // This widget is the home page of your application. It is stateful, meaning
+  // that it has a State object (defined below) that contains fields that affect
+  // how it looks.
+
+  // This class is the configuration for the state. It holds the values (in this
+  // case the title) provided by the parent (in this case the App widget) and
+  // used by the build method of the State. Fields in a Widget subclass are
+  // always marked "final".
+
+  final String title;
+
+  @override
+  _MyHomePageState createState() => _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  int _counter = 0;
+
+  void _incrementCounter() {
+    setState(() {
+      // This call to setState tells the Flutter framework that something has
+      // changed in this State, which causes it to rerun the build method below
+      // so that the display can reflect the updated values. If we changed
+      // _counter without calling setState(), then the build method would not be
+      // called again, and so nothing would appear to happen.
+      _counter++;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    // This method is rerun every time setState is called, for instance as done
+    // by the _incrementCounter method above.
+    //
+    // The Flutter framework has been optimized to make rerunning build methods
+    // fast, so that you can just rebuild anything that needs updating rather
+    // than having to individually change instances of widgets.
+    return Scaffold(
+      appBar: AppBar(
+        // Here we take the value from the MyHomePage object that was created by
+        // the App.build method, and use it to set our appbar title.
+        title: Text(widget.title),
+      ),
+      body: Center(
+        // Center is a layout widget. It takes a single child and positions it
+        // in the middle of the parent.
+        child: Column(
+          // Column is also layout widget. It takes a list of children and
+          // arranges them vertically. By default, it sizes itself to fit its
+          // children horizontally, and tries to be as tall as its parent.
+          //
+          // Invoke "debug painting" (press "p" in the console, choose the
+          // "Toggle Debug Paint" action from the Flutter Inspector in Android
+          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+          // to see the wireframe for each widget.
+          //
+          // Column has various properties to control how it sizes itself and
+          // how it positions its children. Here we use mainAxisAlignment to
+          // center the children vertically; the main axis here is the vertical
+          // axis because Columns are vertical (the cross axis would be
+          // horizontal).
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Text(
+              'You have pushed the button this many times:',
+            ),
+            Text(
+              '$_counter',
+              style: Theme.of(context).textTheme.display1,
+            ),
+          ],
+        ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: _incrementCounter,
+        tooltip: 'Increment',
+        child: Icon(Icons.add),
+      ), // This trailing comma makes auto-formatting nicer for build methods.
+    );
+  }
+}
+
+
+```24:T3201,
+![React](/images/20180213_react.png)
+
+> Facebook的React Native是比基于WebView更先进的跨平台解决方案。实现了只编写一次JavaScript代码即可同时生成Android及iOS应用，并且同时拥有原生控件的性能。此篇文章我将从React Native Android端源码中探究它到底是如何做到的。以及实现的思路，架构的设计等。
+
+
+<!--more-->
+
+## 核心类ReactActivity
+
+使用`react-native-cli`生成工程文件，打开工程目录，发现有一个入口Activity：`MainActivity`继承自`ReactActivity`抽象类。这个`ReactActivity`是React Native项目的唯一一个Activity，可以猜想其采用了单Activity的架构。回想Unity,LibGDX这样的游戏引擎，也是采用了这样的模式。
+
+```java
+...
+
+/**
+ * Base Activity for React Native applications.
+ */
+public abstract class ReactActivity extends Activity
+    implements DefaultHardwareBackBtnHandler, PermissionAwareActivity {
+
+  private final ReactActivityDelegate mDelegate;
+
+  protected ReactActivity() {
+    mDelegate = createReactActivityDelegate();
+  }
+
+  ...
+
+  @Override
+  protected void onCreate(Bundle savedInstanceState) {
+    super.onCreate(savedInstanceState);
+    mDelegate.onCreate(savedInstanceState);
+  }
+...
+```
+
+可以发现在Android框架创建`ReactActivity`实例的同时会创建一个`ReactActivityDelegate`对象。
+
+然后`ReactActivity`将Activity的生命周期方法和一些回调方法注入到这个`ReactActivityDelegate`对象中。
+
+看看这个`ReactActivityDelegate`都在干啥。
+
+
+## 核心类ReactActivityDelegate
+
+```java
+...
+
+/**
+ * Delegate class for {@link ReactActivity} and {@link ReactFragmentActivity}. You can subclass this
+ * to provide custom implementations for e.g. {@link #getReactNativeHost()}, if your Application
+ * class doesn't implement {@link ReactApplication}.
+ */
+public class ReactActivityDelegate {
+
+  ···
+
+  private @Nullable ReactRootView mReactRootView;
+
+  ...
+
+  protected void onCreate(Bundle savedInstanceState) {
+    if (mMainComponentName != null) {
+      loadApp(mMainComponentName);
+    }
+    mDoubleTapReloadRecognizer = new DoubleTapReloadRecognizer();
+  }
+
+  protected void loadApp(String appKey) {
+    if (mReactRootView != null) {
+      throw new IllegalStateException("Cannot loadApp while app is already running.");
+    }
+    mReactRootView = createRootView();
+    mReactRootView.startReactApplication(
+      getReactNativeHost().getReactInstanceManager(),
+      appKey,
+      getLaunchOptions());
+    getPlainActivity().setContentView(mReactRootView);
+  }
+
+  ...
+}
+
+```
+
+
+`ReactActivityDelegate`在`OnCreate`方法中调用`loadApp`方法，然后创建了一个`ReactRootView`,并调用了`ReactRootView`的`startReactApplication`方法，最后将这个`ReactRootView`作为Activity的根View显示。
+
+继续看这个`ReactRootView`。
+
+## 核心类ReactRootView
+
+```java
+
+···
+
+public class ReactRootView extends SizeMonitoringFrameLayout
+    implements RootView, MeasureSpecProvider {
+
+  ···
+
+  /**
+   * Schedule rendering of the react component rendered by the JS application from the given JS
+   * module (@{param moduleName}) using provided {@param reactInstanceManager} to attach to the
+   * JS context of that manager. Extra parameter {@param launchOptions} can be used to pass initial
+   * properties for the react component.
+   */
+  public void startReactApplication(
+      ReactInstanceManager reactInstanceManager,
+      String moduleName,
+      @Nullable Bundle initialProperties) {
+      
+      ···
+
+      if (!mReactInstanceManager.hasStartedCreatingInitialContext()) {
+        mReactInstanceManager.createReactContextInBackground();
+      }
+      
+      ···
+  }
+
+  ···
+}
+
+```
+
+这个`startReactApplication()`方法，最终调用了`ReactInstanceManager`对象的`createReactContextInBackground()`方法。
+
+继续追这个`ReactInstanceManager`。
+
+## 核心类ReactInstanceManager
+
+```java
+···
+
+@ThreadSafe
+public class ReactInstanceManager {
+
+  ···
+
+  @ThreadConfined(UI)
+  public void createReactContextInBackground() {
+    ···
+    recreateReactContextInBackgroundInner();
+  }
+
+  ···
+
+  
+  @ThreadConfined(UI)
+  public void recreateReactContextInBackground() {
+    ···
+    recreateReactContextInBackgroundInner();
+  }
+
+  @ThreadConfined(UI)
+  private void recreateReactContextInBackgroundInner() {
+    ···
+    recreateReactContextInBackgroundFromBundleLoader();
+  }
+
+  @ThreadConfined(UI)
+  private void recreateReactContextInBackgroundFromBundleLoader() {
+    ···
+    recreateReactContextInBackground(mJavaScriptExecutorFactory, mBundleLoader);
+  }
+
+  ···
+
+  @ThreadConfined(UI)
+  private void recreateReactContextInBackground(
+    JavaScriptExecutorFactory jsExecutorFactory,
+    JSBundleLoader jsBundleLoader) {
+    ···
+      runCreateReactContextOnNewThread(initParams);
+    ···
+  }
+
+  @ThreadConfined(UI)
+  private void runCreateReactContextOnNewThread(final ReactContextInitParams initParams) {
+    ···
+    mCreateReactContextThread =
+        new Thread(
+            new Runnable() {
+              @Override
+              public void run() {
+                ···
+                
+                  final ReactApplicationContext reactApplicationContext =
+                      createReactContext(
+                          initParams.getJsExecutorFactory().create(),
+                          initParams.getJsBundleLoader());
+
+                 ···
+                  Runnable setupReactContextRunnable =
+                      new Runnable() {
+                        @Override
+                        public void run() {
+                          try {
+                            setupReactContext(reactApplicationContext);
+                          } catch (Exception e) {
+                            mDevSupportManager.handleException(e);
+                          }
+                        }
+                      };
+
+                  reactApplicationContext.runOnNativeModulesQueueThread(setupReactContextRunnable);
+                 ···
+              }
+            });
+    ···
+    mCreateReactContextThread.start();
+  }
+
+  ···
+
+  /**
+   * @return instance of {@link ReactContext} configured a {@link CatalystInstance} set
+   */
+  private ReactApplicationContext createReactContext(
+      JavaScriptExecutor jsExecutor,
+      JSBundleLoader jsBundleLoader) {
+    ···
+    final ReactApplicationContext reactContext = new ReactApplicationContext(mApplicationContext);
+
+    ···
+    CatalystInstanceImpl.Builder catalystInstanceBuilder = new CatalystInstanceImpl.Builder()
+      .setReactQueueConfigurationSpec(ReactQueueConfigurationSpec.createDefault())
+      .setJSExecutor(jsExecutor)
+      .setRegistry(nativeModuleRegistry)
+      .setJSBundleLoader(jsBundleLoader)
+      .setNativeModuleCallExceptionHandler(exceptionHandler);
+
+    ···
+      catalystInstance = catalystInstanceBuilder.build();
+    
+    ···
+    catalystInstance.runJSBundle();
+    reactContext.initializeWithInstance(catalystInstance);
+
+    return reactContext;
+  }
+
+  ···
+}
+
+```
+
+这个`ReactInstanceManager`有点长，通过一系列方法调用，最后通过`createReactContext()`方法创建了`ReactApplicationContext`的实例，并创建了`CatalystInstance`用于初始化`reactContext`。
+
+在初始化`reactContext`之前又调用了`catalystInstance.runJSBundle();`，猜想这里是调用JS代码的入口，这里的`CatalystInstance`是个接口，我们要查看`CatalystInstanceImpl`来看看具体实现。
+
+## 核心类CatalystInstanceImpl
+
+```java
+
+···
+
+/**
+ * This provides an implementation of the public CatalystInstance instance.  It is public because
+ * it is built by XReactInstanceManager which is in a different package.
+ */
+@DoNotStrip
+public class CatalystInstanceImpl implements CatalystInstance {
+  
+  ···
+
+  public static class PendingJSCall {
+
+    ···
+
+    void call(CatalystInstanceImpl catalystInstance) {
+      NativeArray arguments = mArguments != null ? mArguments : new WritableNativeArray();
+      catalystInstance.jniCallJSFunction(mModule, mMethod, arguments);
+    }
+
+    ···
+  }
+
+  ···
+
+  private native void jniSetSourceURL(String sourceURL);
+  private native void jniRegisterSegment(int segmentId, String path);
+  private native void jniLoadScriptFromAssets(AssetManager assetManager, String assetURL, boolean loadSynchronously);
+  private native void jniLoadScriptFromFile(String fileName, String sourceURL, boolean loadSynchronously);
+
+  @Override
+  public void runJSBundle() {
+    static {
+      ReactBridge.staticInit();
+    }
+    ···
+    mJSBundleLoader.loadScript(CatalystInstanceImpl.this);
+
+    synchronized (mJSCallsPendingInitLock) {
+
+      // Loading the bundle is queued on the JS thread, but may not have
+      // run yet.  It's safe to set this here, though, since any work it
+      // gates will be queued on the JS thread behind the load.
+      mAcceptCalls = true;
+
+      for (PendingJSCall function : mJSCallsPendingInit) {
+        function.call(this);
+      }
+      mJSCallsPendingInit.clear();
+      mJSBundleHasLoaded = true;
+    }
+
+    ···
+  }
+
+  private native void jniCallJSFunction(
+    String module,
+    String method,
+    NativeArray arguments);
+
+  ···
+}
+
+```
+
+这里通过`mJSBundleLoader.loadScript()`去加载js，然后把js函数构建为`PendingJSCall`放到一个列表里逐个执行，`PendingJSCall`的`call()`方法最终调用了C++层的`jniCallJSFunction()`函数。
+
+文件开头使用静态代码块`ReactBridge.staticInit()`装载了名为`reactnativejni`的so文件。
+
+至此java层源码就追完了，我们接着看c++层源码
+
+## C++层
+
+```c++
+···
+
+namespace facebook {
+namespace react {
+
+···
+
+void CatalystInstanceImpl::initializeBridge(
+    jni::alias_ref<ReactCallback::javaobject> callback,
+    // This executor is actually a factory holder.
+    JavaScriptExecutorHolder* jseh,
+    jni::alias_ref<JavaMessageQueueThread::javaobject> jsQueue,
+    jni::alias_ref<JavaMessageQueueThread::javaobject> nativeModulesQueue,
+    jni::alias_ref<jni::JCollection<JavaModuleWrapper::javaobject>::javaobject> javaModules,
+    jni::alias_ref<jni::JCollection<ModuleHolder::javaobject>::javaobject> cxxModules) {
+  // TODO mhorowitz: how to assert here?
+  // Assertions.assertCondition(mBridge == null, "initializeBridge should be called once");
+  moduleMessageQueue_ = std::make_shared<JMessageQueueThread>(nativeModulesQueue);
+
+  // This used to be:
+  //
+  // Java CatalystInstanceImpl -> C++ CatalystInstanceImpl -> Bridge -> Bridge::Callback
+  // --weak--> ReactCallback -> Java CatalystInstanceImpl
+  //
+  // Now the weak ref is a global ref.  So breaking the loop depends on
+  // CatalystInstanceImpl#destroy() calling mHybridData.resetNative(), which
+  // should cause all the C++ pointers to be cleaned up (except C++
+  // CatalystInstanceImpl might be kept alive for a short time by running
+  // callbacks). This also means that all native calls need to be pre-checked
+  // to avoid NPE.
+
+  // See the comment in callJSFunction.  Once js calls switch to strings, we
+  // don't need jsModuleDescriptions any more, all the way up and down the
+  // stack.
+
+  moduleRegistry_ = std::make_shared<ModuleRegistry>(
+    buildNativeModuleList(
+       std::weak_ptr<Instance>(instance_),
+       javaModules,
+       cxxModules,
+       moduleMessageQueue_));
+
+  instance_->initializeBridge(
+    folly::make_unique<JInstanceCallback>(
+    callback,
+    moduleMessageQueue_),
+    jseh->getExecutorFactory(),
+    folly::make_unique<JMessageQueueThread>(jsQueue),
+    moduleRegistry_);
+}
+
+···
+
+void CatalystInstanceImpl::jniCallJSFunction(std::string module, std::string method, NativeArray* arguments) {
+  // We want to share the C++ code, and on iOS, modules pass module/method
+  // names as strings all the way through to JS, and there's no way to do
+  // string -> id mapping on the objc side.  So on Android, we convert the
+  // number to a string, here which gets passed as-is to JS.  There, they they
+  // used as ids if isFinite(), which handles this case, and looked up as
+  // strings otherwise.  Eventually, we'll probably want to modify the stack
+  // from the JS proxy through here to use strings, too.
+  instance_->callJSFunction(std::move(module),
+                            std::move(method),
+                            arguments->consume());
+}
+
+···
+
+}}
+
+```
+
+在这个`CatalystInstanceImpl.cpp`中可以发现c++对于js的调用。以及非常棒的两段注释。
+
+React Navtive 通过C++层去解释执行JS，从而达到一个比较好的性能。
+
+
+## 总结
+
+通过此文算是搞明白了，Android系统是怎么样去执行JavaScript代码的。
+但React Native又是如何将JS中的组件渲染成Android原生组件的仍然是个疑问。
+以后再研究吧...25:T7c2,
+![Android](https://img-blog.csdnimg.cn/c5c68cae3bf640eaa2a3ec03fc518b1c.png)
+
+> 有关 dpi、dp、px、sp、设计规范等等。
+
+<!--more-->
+
+## Pixel density (dpi)
+
+像素密度，表示每英寸的长度上有多少像素
+
+`dpi = sqrt(像素宽度^2+像素高度^2)/屏幕尺寸`
+
+以下是常见手机的 dpi
+
+| 屏幕尺寸 | 720\*1280 | 1080\*1920 | 1440\*2560 |
+| :------: | :-------: | :--------: | :--------: |
+|   5 寸   |   293.7   |   440.6    |   587.4    |
+|  5.5 寸  |   267.0   |   400.5    |   534.0    |
+|   6 寸   |   244.8   |   367.2    |   489.5    |
+
+## Density-independent pixels (dp)
+
+引入 dpi 的概念就是为了使用像素无关的单位`dp`，从而使不同分辨率和尺寸的手机上达到一样的观感
+
+`dp = 像素*160/dpi`
+
+160dpi 的手机上，1px=1dp
+
+### 图片缩放
+
+| Screen resolution | dpi | Pixel ratio | Image size (pixels) |
+| :---------------: | :-: | :---------: | :-----------------: |
+|      xxxhdpi      | 640 |     4.0     |      400 x 400      |
+|      xxhdpi       | 480 |     3.0     |      300 x 300      |
+|       xhdpi       | 320 |     2.0     |      200 x 200      |
+|       hdpi        | 240 |     1.5     |      150 x 150      |
+|       mdpi        | 160 |     1.0     |      100 x 100      |
+
+## Scaleable pixels (sp)
+
+sp 和 dp 差不多只是用于字体
+
+14sp 为标准大小
+
+![sp](/images/20170904_sp.png)
+
+| xx_small | x_small | small | medium | large | x_large | xx_large | xxx_large |
+| :------: | :-----: | :---: | :----: | :---: | :-----: | :------: | :-------: |
+|   8sp    |  10sp   | 12sp  |  14sp  | 16sp  |  18sp   |   20sp   |   22sp    |
+
+## 基准网络
+
+所有组件都与间隔为 8dp 的基准网格对齐。排版/文字（Type）与间隔为 4dp 的基准网格对齐。在工具条中的图标同样与间隔为 4dp 的基准网格对齐。这些规则适用于移动设备、平板设备以及桌面应用程序。
+
+![baselinegrids](/images/20170905_layout-metrics-baselinegrids.png)
+26:T5ca,
+![Gradle](https://ts1.cn.mm.bing.net/th/id/R-C.da7d3edf2afaf378bff91a21e6385091?rik=kWTVUo%2be2O8bbg&riu=http%3a%2f%2ftheeye.pe.kr%2fwp-content%2fuploads%2f2014%2f02%2fgradle.png&ehk=5NJHqrr5W7rLhp4CEUQIadjJ83TfKvlokTsc%2bzFFiLo%3d&risl=&pid=ImgRaw&r=0)
+
+> 构建变体是 Gradle 按照特定规则集合进行打包，以生成适应不同需求的Apk包。
+例如，需要生成dev版，测试版、以及release版，它们的服务器地址，版本号，图标各不相同，以及多渠道打包等等。
+
+<!--more-->
+## productFlavors
+
+可以定义多个`productFlavors`版本，其继承覆盖所有`defaultConfig`中的字段
+
+主要的使用手段有一下几种
+
+- 覆盖`defaultConfig`默认字段(包名、版本名等)
+- 往`AndroidManifast.xml`文件注入编译变量
+- 修改包名，支持前后缀
+- 使用`buildConfigField`动态改变编译时常量
+- 使用`resValue`动态注入字符串资源
+
+
+## 示例
+```
+android {
+    ...
+    defaultConfig {
+        versionCode 200
+        versionName 'V2.0.0'
+        manifestPlaceholders = [
+                scheme: "FindAR"
+                id    : "1565483848"
+        ]
+        buildConfigField "String", "ROOT_FOLDER_NAME", '"FindAR"'
+    }
+
+    productFlavors{
+       dev{
+           versionName 'V2.0.0 Dev'
+           resValue "string", "user_id", "001" //user id
+       }
+
+       production{
+           versionName 'V2.0.0 Release'
+           resValue "string", "user_id", "002" //user id
+       }
+   }
+}
+```
+21:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L22",null,{"recentArticles":[{"id":"flutter","file":"flutter.md","content":"$23","data":{"title":"使用Flutter开发跨平台应用","date":"2019-03-28","tags":["Flutter","Dart","Android","iOS"],"category":"Android"},"isEmpty":false,"excerpt":"\n![Flutter](https://blog.scottlogic.com/bquinn/assets/Flutter_logo_text.png)\n\n> Flutter是由Google开发的开源的跨平台应用开发框架，支持Android、iOS开发，能够开发媲美原生的高性能应用。按照2019年的开发路线图，Flutter即将支持Web和桌面端应用的开发。这篇文章带你领略Flutter的魅力。\n\n\n"},{"id":"react-native","file":"react-native.md","content":"$24","data":{"title":"React Native源码解析（Android篇）","date":"2018-03-19","tags":["Android","React Native","React","iOS"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![React](/images/20180213_react.png)\n\n> Facebook的React Native是比基于WebView更先进的跨平台解决方案。实现了只编写一次JavaScript代码即可同时生成Android及iOS应用，并且同时拥有原生控件的性能。此篇文章我将从React Native Android端源码中探究它到底是如何做到的。以及实现的思路，架构的设计等。\n\n\n"},{"id":"android-dp","file":"android-dp.md","content":"$25","data":{"title":"Android度量设计规范","date":"2017-09-04","tags":["Android","Material Design"],"category":"Android"},"isEmpty":false,"excerpt":"\n![Android](https://img-blog.csdnimg.cn/c5c68cae3bf640eaa2a3ec03fc518b1c.png)\n\n> 有关 dpi、dp、px、sp、设计规范等等。\n\n"},{"id":"gradle-build","file":"gradle-build.md","content":"$26","data":{"title":"Gradle构建变种版本（多渠道打包）","date":"2017-09-04","tags":["Gradle","Android"],"category":"Android"},"isEmpty":false,"excerpt":"\n![Gradle](https://ts1.cn.mm.bing.net/th/id/R-C.da7d3edf2afaf378bff91a21e6385091?rik=kWTVUo%2be2O8bbg&riu=http%3a%2f%2ftheeye.pe.kr%2fwp-content%2fuploads%2f2014%2f02%2fgradle.png&ehk=5NJHqrr5W7rLhp4CEUQIadjJ83TfKvlokTsc%2bzFFiLo%3d&risl=&pid=ImgRaw&r=0)\n\n> 构建变体是 Gradle 按照特定规则集合进行打包，以生成适应不同需求的Apk包。\n例如，需要生成dev版，测试版、以及release版，它们的服务器地址，版本号，图标各不相同，以及多渠道打包等等。\n\n"},{"id":"unity2android","file":"unity2android.md","content":"\n![Unity](https://tse1-mm.cn.bing.net/th/id/OIP-C.TPnSpv0PowWa1j_0SdXeWQHaEM?pid=ImgDet&rs=1)\n\n> 在某些情况下，我们需要使用原生代码来做一些事，比如集成一些第三方原生SDK，\n以下这种方式介绍了如何将Unity导出成Android Studio工程，从而添加Android代码。\n之后的教程中我还将介绍如何将Android写好的代码导回到Unity工程中。\n\n<!--more-->\n\n## Unity工程导出为Android工程\n\n1. 在Unity菜单中选择：File——Build Settings\n2. 为了能在Android Studio中更好的运行，构建系统选择Gradle\n3. 选中Export Project选项\n4. 选择你喜欢的目录导出\n5. Unity发生了改动时，只需导出后替换asset文件夹内容即可\n\n![Export](/images/20170726_export.png)\n\n## Unity调用Android方法\n\n```csharp\nprivate void sendMessageToAndroid(string method,params object[] args)\n    {\n        AndroidJavaClass jc = new AndroidJavaClass(\"com.unity3d.player.UnityPlayer\");\n        AndroidJavaObject jo = jc.GetStatic<AndroidJavaObject>(\"currentActivity\");\n        jo.Call(method, args);\n    }\n```\n\n- 在UnityPlayerActivity中准备好Unity要调用的方法\n- 调用上面的方法，传入方法名（不带括号），及参数（多参，也可不传）即可。\n\n## Android调用Unity方法\n\n```java\nUnityPlayer.UnitySendMessage(\"GameObject\", \"message\", \"args\");\n```\n\n- 相当于调用了Unity中的`sendMessage()`。","data":{"title":"在Unity中使用Android原生代码","date":"2017-07-26","tags":["Android","Unity"],"category":"Unity"},"isEmpty":false,"excerpt":"\n![Unity](https://tse1-mm.cn.bing.net/th/id/OIP-C.TPnSpv0PowWa1j_0SdXeWQHaEM?pid=ImgDet&rs=1)\n\n> 在某些情况下，我们需要使用原生代码来做一些事，比如集成一些第三方原生SDK，\n以下这种方式介绍了如何将Unity导出成Android Studio工程，从而添加Android代码。\n之后的教程中我还将介绍如何将Android写好的代码导回到Unity工程中。\n\n"}],"idTitleMap":{"rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L27","$L28","$L29","$L2a","$L2b"]}]
+31:I[49558,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/02b922fccc7b26ff.js"],"AdSenseCard"]
+2c:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z29:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$2c"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":"$L2d"}],"$L2e"]}],"$L2f","$L30"]}]]}]]}]}]
+2a:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+2b:["$","$L31",null,{}]
+:HL["/about/wechat.jpg","image"]
+2d:["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]
+2e:["$","p",null,{"children":"或添加微信："}]
+2f:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+30:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]
+27:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",22,")"]}]]}],["$","$L3","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L3","linux",{"href":"/blog/category/linux","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",9,")"]}]]}],["$","$L3","story",{"href":"/blog/category/story","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Story",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}],["$","$L3","android",{"href":"/blog/category/android","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}],["$","$L3","unity",{"href":"/blog/category/unity","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}],["$","$L3","ci-cd",{"href":"/blog/category/ci-cd","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["CI CD",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","languages",{"href":"/blog/category/languages","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["Languages",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","computer-science",{"href":"/blog/category/computer-science","className":"px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":["Computer Science",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","3d",{"href":"/blog/category/3d","className":"px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["3D",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]]}]]}]}]
+28:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L3","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67"]}]]}]}]
+32:["$","$L3","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+33:["$","$L3","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+34:["$","$L3","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+35:["$","$L3","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+36:["$","$L3","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+37:["$","$L3","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+38:["$","$L3","hibernate",{"href":"/blog/tag/hibernate","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Hibernate",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+39:["$","$L3","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+3a:["$","$L3","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+3b:["$","$L3","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3c:["$","$L3","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+3d:["$","$L3","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+3e:["$","$L3","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3f:["$","$L3","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+40:["$","$L3","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+41:["$","$L3","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L3","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+43:["$","$L3","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+44:["$","$L3","material-design",{"href":"/blog/tag/material-design","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Material Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L3","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+46:["$","$L3","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+47:["$","$L3","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+48:["$","$L3","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+49:["$","$L3","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4a:["$","$L3","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4b:["$","$L3","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L3","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4d:["$","$L3","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+4e:["$","$L3","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4f:["$","$L3","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+50:["$","$L3","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+51:["$","$L3","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L3","sftp",{"href":"/blog/tag/sftp","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["SFTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L3","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+54:["$","$L3","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",14,")"]}]]}]
+55:["$","$L3","spring-boot",{"href":"/blog/tag/spring-boot","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Spring Boot",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+56:["$","$L3","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+57:["$","$L3","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+58:["$","$L3","svn",{"href":"/blog/tag/svn","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SVN",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+59:["$","$L3","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+5a:["$","$L3","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5b:["$","$L3","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5c:["$","$L3","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5d:["$","$L3","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+5e:["$","$L3","ubuntu",{"href":"/blog/tag/ubuntu","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Ubuntu",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5f:["$","$L3","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+60:["$","$L3","vi",{"href":"/blog/tag/vi","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["vi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+61:["$","$L3","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+62:["$","$L3","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+63:["$","$L3","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+64:["$","$L3","webflux",{"href":"/blog/tag/webflux","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["WebFlux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+65:["$","$L3","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+66:["$","$L3","webui",{"href":"/blog/tag/webui","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["WebUI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+67:["$","$L3","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+68:I[72175,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"IconMark"]
+17:null
+1b:[["$","title","0",{"children":"Android | 王郁的小站"}],["$","meta","1",{"name":"description","content":"查看所有关于 Android 的文章，共 8 篇"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"Android,王郁的小站,博客"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?favicon.fe33cc56.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","6",{"rel":"icon","href":"/icon.svg?icon.7d834061.svg","sizes":"any","type":"image/svg+xml"}],["$","$L68","7",{}]]

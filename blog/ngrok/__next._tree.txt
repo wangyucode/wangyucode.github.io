@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/3fc28ce70887f98c.css","style"]
+:HL["https://www.howtogeek.com/thumbcache/2/200/b47f24b18abd7d5411b75447849e04ff/wp-content/uploads/2017/03/why-is-a-network-tunnel-called-a-tunnel-00.jpg","image"]
+:HL["https://camo.githubusercontent.com/f2d698991e6a0411680413ebcc15a6460b8beda3/68747470733a2f2f6e67726f6b2e636f6d2f7374617469632f696d672f6f766572766965772e706e67","image"]
+:HL["https://github.com/fatedier/frp/raw/master/doc/pic/architecture.png","image"]
+0:{"buildId":"wycode_has_super_power","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"blog","paramType":null,"paramKey":"blog","hasRuntimePrefetch":false,"slots":{"children":{"name":"pid","paramType":"d","paramKey":"ngrok","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

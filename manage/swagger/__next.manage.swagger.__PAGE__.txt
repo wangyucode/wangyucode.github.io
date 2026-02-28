@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[39038,["/_next/static/chunks/1e02b7c5799ac6a1.js","/_next/static/chunks/3b6828ba17d8ab80.js","/_next/static/chunks/e2769df81ed6b24c.js","/_next/static/chunks/035ee5072c62d323.js"],"default"]
+3:I[71933,["/_next/static/chunks/be77d35d8dddc77a.js","/_next/static/chunks/0a126d9629c9d34c.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/87e9fd021d89a298.css","style"]
+0:{"buildId":"wycode_has_super_power","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex-1 card container shadow mx-auto md:my-4 bg-base-100","children":["$","$L2",null,{"url":"https://wycode.cn/api/v1/openapi.yml"}]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/87e9fd021d89a298.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/e2769df81ed6b24c.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/035ee5072c62d323.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
