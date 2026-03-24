@@ -1,0 +1,310 @@
+1:"$Sreact.fragment"
+2:I[6785,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],""]
+7:I[69063,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],"default"]
+10:I[93289,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"OutletBoundary"]
+11:"$Sreact.suspense"
+47:I[83606,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],"AdSenseCard"]
+:HL["/about/wechat.jpg","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 flex items-center mb-4","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-6 w-6","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"HTML",["$","span",null,{"className":"ml-2 text-sm font-normal text-slate-500 dark:text-slate-400","children":["(",4," 篇文章)"]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div","angular",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/angular","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"Angular框架原理的思考"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-12-28"]}]]}]}],["$","div","theme",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/theme","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"自定义Hexo主题"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-06-15"]}]]}]}],["$","div","highlight",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/highlight","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"为HTML中的代码添加语法高亮"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-06-14"]}]]}]}],"$L3"]}]]}]}]}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wycode_has_super_power"}
+3:["$","div","comments",{"className":"border-b border-base-content/10 pb-3 last:border-b-0 last:pb-0","children":["$","$L2",null,{"href":"/blog/comments","className":"flex justify-between hover:text-sky-500 transition-colors","children":[["$","h3",null,{"className":"text-lg font-medium","children":"给自己的网站添加评论功能"}],["$","div",null,{"className":"flex items-center mt-1 text-sm text-base-content/50","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 w-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2017-06-09"]}]]}]}]
+8:T1239,
+![Hexo](https://ts1.cn.mm.bing.net/th/id/R-C.15156de8ecdaca0e208f755572b5217b?rik=SCL92Je0wYHVXg&riu=http%3a%2f%2fheibanbai.com.cn%2fimg%2fhexo.png&ehk=VywdH%2f1oS1u8iXWWEm11T%2bm0ntJ9pczrqS%2bktzxU3Mo%3d&risl=&pid=ImgRaw&r=0)
+
+> 刚刚完成了Hexo博客主题的自定义，现在总结如下，让我们一起来看看如何打造一款属于自己的Hexo主题。
+
+如何创建一个新主题以及如何切换主题在官网的[doc](https://hexo.io/zh-cn/docs/themes.html "doc")中有说明，这里我们只讨论如何打造一个新的属于自己的模版。
+## 方法
+> Hexo使用了**模版**进行渲染的方式来实现网页风格的自定义。其核心是一种嵌套、引用的风格实现对网页内容模块化管理。所以我也采取从外向里，抽丝剥茧，剥洋葱式的一层层展开来看其中的原理及如何去自定义。此文需要基本的HTML知识。
+
+<!--more-->
+## 模版文件
+所有的模版文件都放置在`layout`文件夹中，所有用到的资源（CSS，JavaScript，图片等）都放置在`source`文件夹中。
+
+模版的根入口文件是`layout`下的`layout.ejs`文件。
+
+> 这里的`.ejs`是模版采用的引擎，除了EJS，还有Haml和Jade，我大概看过Jade，比EJS更简洁，EJS更像HTML，我自己选择了EJS，原因是无需新学规则，还有就是官方提供的`landscape`也是采用的EJS，我的模版就是根据官方的`landscape`修改而来。
+
+## layout.ejs
+我们先来看看这个`layout.ejs`的内容：
+```html
+<!DOCTYPE html>
+<html>
+<%- partial('_partial/head') %>
+<body>
+<%- partial('_partial/wycode-nav') %>
+<%- partial('_partial/blog-nav') %>
+<div class="container">
+    <div class="row">
+        <div class="content"><%- body %></div>
+    </div>
+</div>
+<%- partial('_partial/footer', null, {cache: !config.relative_link}) %>
+<%- partial('_partial/after-footer') %>
+</body>
+</html>
+```
+可以看到以上就是典型的HTML文件框架。
+### 重点来了：
+这里唯一的区别就是多了很多`<%- %>`，凡是在这个`<%- %>`里面的部分就是EJS模版的代码部分，而`partial('_partial/head')`的意思就是引用了一个模块，位置是`_partial`文件夹的`head.ejs`。
+
+## head.ejs
+然后我们看看这个`head.ejs`的内容：
+```html
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <%
+    var title = page.title;
+
+    if (is_archive()) {
+        title = __('archive_a');
+
+        if (is_month()) {
+            title += ': ' + page.year + '/' + page.month;
+        } else if (is_year()) {
+            title += ': ' + page.year;
+        }
+    } else if (is_category()) {
+        title = __('category') + ': ' + page.category;
+    } else if (is_tag()) {
+        title = __('tag') + ': ' + page.tag;
+    }
+    %>
+    <title>
+        <% if (title){ %>
+        <%= title %> |
+        <% } %>
+        <%= config.title %></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <% if (theme.rss){ %>
+    <link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
+    <% } %>
+    <% if (theme.favicon){ %>
+    <link rel="icon" href="<%- url_for(theme.favicon) %>">
+    <% } %>
+    <!-- Bootstrap -->
+    <%- css('flat/dist/css/vendor/bootstrap.min.css') %>
+    <%- css('flat/dist/css/flat-ui.min') %>
+    <%- css('font-awesome-4.7.0/css/font-awesome.min') %>
+    <%- css('highlight/styles/monokai-sublime') %>
+    <%- css('css/blog') %>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <%- js('flat/dist/js/vendor/html5shiv') %>
+    <%- js('flat/dist/js/vendor/respond.min') %>
+    <![endif]-->
+</head>
+```
+可以看到这个`head.ejs`就是HTML中`<head></head>`标签的内容，这里我替换了原有的CSS，使用了[Bootstrap](http://www.bootcss.com/ "Bootstrap")框架。
+
+剩下的就是依次类推了。
+
+附：layout文件结构
+```
+layout
+│  archive.ejs
+│  category.ejs
+│  index.ejs
+│  layout.ejs
+│  page.ejs
+│  post.ejs
+│  tag.ejs
+│
+├─_partial
+│  │  after-footer.ejs
+│  │  archive-post.ejs
+│  │  archive.ejs
+│  │  article.ejs
+│  │  blog-nav.ejs
+│  │  footer.ejs
+│  │  head.ejs
+│  │  sidebar.ejs
+│  │  wycode-nav.ejs
+│  │
+│  └─post
+│          category.ejs
+│          date.ejs
+│          nav.ejs
+│          tag.ejs
+│          title.ejs
+│
+└─_widget
+        archive.ejs
+        category.ejs
+        recent_posts.ejs
+        tag.ejs
+        tagcloud.ejs
+```
+9:T79b,
+![highlight.js](https://avatars.githubusercontent.com/u/9039821?s=280&v=4)
+
+> Hexo 默认对于代码高亮的处理过于粗暴，改变了其原有的`<pre><code>`标签形式，而且并没有达到良好的效果，所以尝试自己添加语法高亮功能。此文档也适用于其它HTML文档中代码的语法高亮显示。
+
+**我这里使用highlight.js进行添加语法高亮**
+
+<!--more-->
+
+### highlight.js优势：
+
+- 176 languages and 79 styles
+- automatic language detection
+- multi-language code highlighting
+- available for node.js
+- works with any markup
+- compatible with any js framework
+
+## 下面开始集
+
+添加引用：
+```html
+<link rel="stylesheet" href="/path/to/styles/monokai-sublime.css">
+<script src="/path/to/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+```
+以上第一行是风格样式，我这里使用了`monokai-sublime`样式；
+第二行是highlight的JS库；
+第三行在文档加载时自动检测`<pre><code>`标签进行格式化。
+
+**highlight.js**虽然支持100多种语言，但默认并不包含所有，在下载页提供了语言选择，建议自己选择下载，毕竟每个人心目中的热门语言都不同，个人需要在页面中使用的语言也不同。
+
+当然你也可以使用一些静态CDN库进行加速。
+
+我的博客就是使用了这个库，以下是一段Java代码示例：
+
+```java
+/******************************************************************************
+ *  Compilation:  javac HelloWorld.java
+ *  Execution:    java HelloWorld
+ *
+ *  Prints "Hello, World". By tradition, this is everyone's first program.
+ *
+ *  % java HelloWorld
+ *  Hello, World
+ *
+ ******************************************************************************/
+
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
+}
+```
+a:T9e6,
+## 解决方案
+
+### 动态自建
+需要数据库存储，后台接口，以及前端页面等都自己实现。
+**优点**：所有技术和数据都在自己手中，可控性强，安全。
+**缺点**：细节很多，包括表结构，顶和踩计数、还有评论的评论（盖楼）、排序、敏感词过滤、审核等等。还是挺大的一个系统
+
+### 静态集成第三方
+目前流行的有以下几种:
+【[Disqus](https://disqus.com/ "Disqus")】：国外的，因为众所周知的原因，可能被墙。
+【多说】：之前很多人在用，不过已经停止服务了，他们的代码开源在[github.com/duoshuo](https://github.com/duoshuo "github.com/duoshuo")，有兴趣可以参考。
+【[畅言](https://changyan.kuaizhan.com/ "畅言")】：搜狐出品。
+【[网易云跟帖](https://gentie.163.com/ "网易云跟帖")】：网易出品。
+
+<!--more-->
+
+## 选择
+
+不想耗费太多精力，也不想重复造轮子，所以选择集成网易云跟帖，也是因为一直对网易的产品比较有好感。
+
+## 过程
+
+1.  使用网易账号登陆云跟帖后台；
+
+2.  填写基本信息和相关信息：
+![](/images/20170609_pinglun_01.jpg)
+【图1】
+3.  然后就可以获取代码集成了：
+![](/images/20170609_pinglun_02.jpg)
+【图2】
+ 代码如下：
+```html
+<div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
+<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
+<script>
+var cloudTieConfig = {
+  url: document.location.href,
+  sourceId: "",
+  productKey: "32b5a020f7eb416280e9317a050982ac",
+  target: "cloud-tie-wrapper"
+};
+var yunManualLoad = true;
+Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
+</script>
+```
+云跟帖通过`url`、`sourceId`、`productKey`这三个参数确定唯一的一个网页，`productKey`一定要替换成你自己的；
+
+因为我在[wangyucode.github.io](https://wangyucode.github.io "wangyucode.github.io")和[wycode.cn](http://wycode.cn "wycode.cn")都部署了一样的网页，所以我把`url: document.location.href`，替换为`url: "http://wycode.cn/about.html"`，使github和我自己的服务器上拥有一样的数据。
+
+## 后续
+- 云跟帖支持数据审核，敏感词过滤等，你可以自主选择显示哪些评论。
+- 云跟帖支持数据导出，以后要做迁移可以导出数据
+- 还支持评论时回推数据到你指定的地址，此功能结合api可以做到产生评论立即推送一条消息到自己的手机，做到消息秒回！
+4:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L7",null,{"recentArticles":[{"id":"angular","file":"angular.md","content":"\n![Angular](https://angularjs.org/img/AngularJS-large.png)\n\n> Angular 框架的整体思路，很像 Spring 这样的后台框架。一层层的分解、解耦，天下框架莫不如此。\n\nAngular 有 3 个重要概念：\n\n- 模块(Module)\n- 组件(Component)\n- 路由(Router)\n\nAngular 通过将大型项目分割成一个个`模块`，松耦合，便于扩展和维护。\n\n所谓`组件`，就是一个 MVC 块，每个模块会有很多组件，组件代表了一个页面，可以嵌套，因此可以更加细分下去，通过元数据做双向绑定。\n\n所谓`路由`，就是一个分发器，不同的路径加载不同的模块或组件即可。\n\n所谓`元数据`，就是 Java 注解。\n\nSpring 那套，控制反转（IOC）依赖注入（DI）也被引入进来。\n\n将业务逻辑封装到`Service`里，然后注入到各个组件中使用。业务代码就彻底被隔离到 Service 里了，不会侵入框架整体设计。\n\n关于 Webpack：Webpack 在打包 Web 工程时，可以找到资源之间的引用，最小化压缩合并 CSS，JavaScript 文件。\n","data":{"title":"Angular框架原理的思考","date":"2017-12-28","tags":["Angular","TypeScript","HTML"],"category":"Frontend"},"isEmpty":false,"excerpt":""},{"id":"theme","file":"theme.md","content":"$8","data":{"title":"自定义Hexo主题","date":"2017-06-15","tags":["Hexo","Bootstrap","HTML"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![Hexo](https://ts1.cn.mm.bing.net/th/id/R-C.15156de8ecdaca0e208f755572b5217b?rik=SCL92Je0wYHVXg&riu=http%3a%2f%2fheibanbai.com.cn%2fimg%2fhexo.png&ehk=VywdH%2f1oS1u8iXWWEm11T%2bm0ntJ9pczrqS%2bktzxU3Mo%3d&risl=&pid=ImgRaw&r=0)\n\n> 刚刚完成了Hexo博客主题的自定义，现在总结如下，让我们一起来看看如何打造一款属于自己的Hexo主题。\n\n如何创建一个新主题以及如何切换主题在官网的[doc](https://hexo.io/zh-cn/docs/themes.html \"doc\")中有说明，这里我们只讨论如何打造一个新的属于自己的模版。\n## 方法\n> Hexo使用了**模版**进行渲染的方式来实现网页风格的自定义。其核心是一种嵌套、引用的风格实现对网页内容模块化管理。所以我也采取从外向里，抽丝剥茧，剥洋葱式的一层层展开来看其中的原理及如何去自定义。此文需要基本的HTML知识。\n\n"},{"id":"highlight","file":"highlight.md","content":"$9","data":{"title":"为HTML中的代码添加语法高亮","date":"2017-06-14","tags":["HTML","CSS","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![highlight.js](https://avatars.githubusercontent.com/u/9039821?s=280&v=4)\n\n> Hexo 默认对于代码高亮的处理过于粗暴，改变了其原有的`<pre><code>`标签形式，而且并没有达到良好的效果，所以尝试自己添加语法高亮功能。此文档也适用于其它HTML文档中代码的语法高亮显示。\n\n**我这里使用highlight.js进行添加语法高亮**\n\n"},{"id":"comments","file":"comments.md","content":"$a","data":{"title":"给自己的网站添加评论功能","date":"2017-06-09","tags":["HTML","CSS","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n## 解决方案\n\n### 动态自建\n需要数据库存储，后台接口，以及前端页面等都自己实现。\n**优点**：所有技术和数据都在自己手中，可控性强，安全。\n**缺点**：细节很多，包括表结构，顶和踩计数、还有评论的评论（盖楼）、排序、敏感词过滤、审核等等。还是挺大的一个系统\n\n### 静态集成第三方\n目前流行的有以下几种:\n【[Disqus](https://disqus.com/ \"Disqus\")】：国外的，因为众所周知的原因，可能被墙。\n【多说】：之前很多人在用，不过已经停止服务了，他们的代码开源在[github.com/duoshuo](https://github.com/duoshuo \"github.com/duoshuo\")，有兴趣可以参考。\n【[畅言](https://changyan.kuaizhan.com/ \"畅言\")】：搜狐出品。\n【[网易云跟帖](https://gentie.163.com/ \"网易云跟帖\")】：网易出品。\n\n"}],"idTitleMap":{"ai-generated-dashboard":"AI 驱动的数据库可视化面板","openclaw-docker":"如何使用 Docker 安全地部署 OpenClaw (龙虾)","rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$Lb","$Lc","$Ld","$Le","$Lf"]}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/0001m61~weslk.js","async":true}]
+6:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+b:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",23,")"]}]]}],["$","$L2","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L2","mobile",{"href":"/blog/category/mobile","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Mobile",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}],["$","$L2","devops",{"href":"/blog/category/devops","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["DevOps",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",12,")"]}]]}],["$","$L2","life",{"href":"/blog/category/life","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Life",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}],["$","$L2","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]]}]]}]}]
+c:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L2","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42"]}]]}]}]
+43:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2zd:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$43"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]}],"$L44"]}],"$L45","$L46"]}]]}]]}]}]
+e:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+f:["$","$L47",null,{}]
+12:null
+13:["$","$L2","design",{"href":"/blog/tag/design","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+14:["$","$L2","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+15:["$","$L2","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+16:["$","$L2","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+17:["$","$L2","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+18:["$","$L2","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+19:["$","$L2","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+1a:["$","$L2","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+1b:["$","$L2","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+1c:["$","$L2","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+1d:["$","$L2","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+1e:["$","$L2","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+1f:["$","$L2","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+20:["$","$L2","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+21:["$","$L2","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+22:["$","$L2","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+23:["$","$L2","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+24:["$","$L2","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+25:["$","$L2","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+26:["$","$L2","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+27:["$","$L2","next.js",{"href":"/blog/tag/next.js","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Next.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+28:["$","$L2","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+29:["$","$L2","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+2a:["$","$L2","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+2b:["$","$L2","openclaw",{"href":"/blog/tag/openclaw","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OpenClaw",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2c:["$","$L2","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2d:["$","$L2","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2e:["$","$L2","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2f:["$","$L2","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+30:["$","$L2","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+31:["$","$L2","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+32:["$","$L2","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+33:["$","$L2","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+34:["$","$L2","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+35:["$","$L2","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",16,")"]}]]}]
+36:["$","$L2","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+37:["$","$L2","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+38:["$","$L2","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+39:["$","$L2","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3a:["$","$L2","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3b:["$","$L2","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3c:["$","$L2","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+3d:["$","$L2","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+3e:["$","$L2","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3f:["$","$L2","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+40:["$","$L2","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+41:["$","$L2","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+42:["$","$L2","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+44:["$","p",null,{"children":"或添加微信："}]
+45:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+46:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]

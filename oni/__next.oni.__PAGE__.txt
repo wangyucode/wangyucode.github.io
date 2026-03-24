@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[93289,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mockup-phone mx-auto my-4","children":["$","iframe",null,{"className":"mockup-phone-display","src":"https://wycode.cn/oni/"}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wycode_has_super_power"}
+4:null

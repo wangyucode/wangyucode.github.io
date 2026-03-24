@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0m1805~_qhlls.css","style"]
+:HL["https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg","image"]
+:HL["/images/20180313_data_structure.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"pid","param":{"type":"d","key":"data-structures01","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}

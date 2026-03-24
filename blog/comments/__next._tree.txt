@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0m1805~_qhlls.css","style"]
+:HL["/images/20170609_pinglun_01.jpg","image"]
+:HL["/images/20170609_pinglun_02.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"pid","param":{"type":"d","key":"comments","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}

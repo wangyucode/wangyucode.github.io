@@ -1,0 +1,399 @@
+1:"$Sreact.fragment"
+2:I[6785,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],""]
+1c:I[69063,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],"default"]
+26:I[93289,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"OutletBoundary"]
+27:"$Sreact.suspense"
+5e:I[83606,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],"AdSenseCard"]
+:HL["https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg","image"]
+:HL["https://swagger.io/swagger/media/assets/images/swagger_logo.svg","image"]
+:HL["/images/20180623_springboot.jpg","image"]
+:HL["https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":[["$","section",null,{"className":"flex flex-col gap-4 lg:flex-2","children":[["$","article","flutter-web",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/flutter-web","children":"使用Flutter开发Web应用"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-07-25"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Flutter",{"href":"/blog/tag/flutter","className":"px-2 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-sm rounded-full","children":"Flutter"}],["$","$L2","Dart",{"href":"/blog/tag/dart","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"Dart"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg","alt":"flutter","node":{"type":"element","tagName":"img","properties":{"src":"https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg","alt":"flutter"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":123,"offset":123}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"flutter"}]]}],"\n",["$","p","p-0",{"children":"在Google IO 2019开发者大会上，Flutter和Dart发表了超越移动端，为iOS，Android，ChromeOS和Web构建应用的主题演讲。"}],"\n",["$","p","p-1",{"children":"时至今日，想必Flutter已经可以开发Web应用了。"}],"\n","$L3","\n","$L4"]}],"$L5"]]}]}],"$L6","$L7","$L8","$L9"]}],"$La"]}],"$Lb"]}]}],["$Lc"],"$Ld"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wycode_has_super_power"}
+3:["$","p","p-2",{"children":["我们知道Flutter是使用叫",["$","code","code-0",{"children":"Skia"}],"的C++库来渲染UI，但是Web上是使用",["$","code","code-1",{"children":"Dom"}],"，",["$","code","code-2",{"children":"Canvas"}],"，以及",["$","code","code-3",{"children":"WebGL"}],"，那么Flutter到底会采用哪种方式呢？"]}]
+4:["$","p","p-3",{"children":"这篇文章带你对Flutter for web做一个了解和实践："}]
+5:["$","$L2",null,{"href":"/blog/flutter-web","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+6:["$","article","swagger-auth",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/swagger-auth","children":"SpringBoot工程为SwaggerUI添加认证"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-07-19"]}],["$","$L2",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","OAuth",{"href":"/blog/tag/oauth","className":"px-2 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":"OAuth"}],["$","$L2","Java",{"href":"/blog/tag/java","className":"px-2 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":"Java"}],["$","$L2","Kotlin",{"href":"/blog/tag/kotlin","className":"px-2 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":"Kotlin"}],["$","$L2","Spring",{"href":"/blog/tag/spring","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"Spring"}],["$","$L2","Swagger",{"href":"/blog/tag/swagger","className":"px-2 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":"Swagger"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://swagger.io/swagger/media/assets/images/swagger_logo.svg","alt":"swagger","node":{"type":"element","tagName":"img","properties":{"src":"https://swagger.io/swagger/media/assets/images/swagger_logo.svg","alt":"swagger"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":76,"offset":76}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"swagger"}]]}],"\n","$Le","\n","$Lf"]}],"$L10"]]}]}]
+11:Tc36,<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:light-dark(#ffffff, #121212);--shiki-light-bg:#ffffff;--shiki-dark-bg:#121212;color:light-dark(#393a34, #dbd7caee);--shiki-light:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">{</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">    "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">code</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#2F798A, #4C9A91);--shiki-light:#2F798A;--shiki-dark:#4C9A91">200</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">,</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">    "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">message</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="color:light-dark(#B56959, #C98A7D);--shiki-light:#B56959;--shiki-dark:#C98A7D">hello world!</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">,</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">    "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">data</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:{</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">        "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">user</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:{}</span></span>
+<span class="line"><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">    }</span></span>
+<span class="line"><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">}</span></span>
+<span class="line"></span></code></pre>7:["$","article","spring-error",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/spring-error","children":"SpringBoot工程自定义错误JSON字段"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-07-15"]}],["$","$L2",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","Java",{"href":"/blog/tag/java","className":"px-2 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":"Java"}],["$","$L2","Kotlin",{"href":"/blog/tag/kotlin","className":"px-2 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":"Kotlin"}],["$","$L2","Spring",{"href":"/blog/tag/spring","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"Spring"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180623_springboot.jpg","alt":"springboot","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180623_springboot.jpg","alt":"springboot"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":47,"offset":47}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"springboot"}]]}],"\n",["$","p","p-0",{"children":"通常我们为了统一，和前端方便处理，写的API返回JSON会有固定的结构，比如下面这种："}],"\n",["$","div","pre-0",{"dangerouslySetInnerHTML":{"__html":"$11"}}],"\n","$L12","\n","$L13","\n","$L14"]}],"$L15"]]}]}]
+8:["$","article","oauth",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/oauth","children":"OAuth2.0四种模式完整时序图"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-06-14"]}],["$","$L2",null,{"href":"/blog/category/backend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Backend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","OAuth",{"href":"/blog/tag/oauth","className":"px-2 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":"OAuth"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","p","p-0",{"children":["关于认证和授权，最权威的流程就是",["$","code","code-0",{"children":"OAuth2.0"}],"了，涵盖了用户认证授权的方方面面，现代的大型网站几乎都是基于",["$","code","code-1",{"children":"Oauth2.0"}],"协议开发认证鉴权功能。"]}],"\n",["$","p","p-1",{"children":[["$","code","code-0",{"children":"OAuth2.0"}],"被写入",["$","code","code-1",{"children":"RFC6749"}],"，RFC中的流程图看了还是不明白的话，可以看看下面这张图，展示了",["$","code","code-2",{"children":"OAuth2.0"}],"四种模式的完整流程。"]}]]}],["$","$L2",null,{"href":"/blog/oauth","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+9:["$","article","ant-design-pro",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L2",null,{"href":"/blog/ant-design-pro","children":"学习和拆解Ant-Design-Pro"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2019-06-09"]}],["$","$L2",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L2","TypeScript",{"href":"/blog/tag/typescript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"TypeScript"}],["$","$L2","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}],["$","$L2","NodeJS",{"href":"/blog/tag/nodejs","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"NodeJS"}],["$","$L2","React",{"href":"/blog/tag/react","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"React"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg","alt":"ant-design","node":{"type":"element","tagName":"img","properties":{"src":"https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg","alt":"ant-design"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":83,"offset":83}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"ant-design"}]]}],"\n",["$","p","p-0",{"children":[["$","strong","strong-0",{"children":"Ant-Design"}],"由阿里巴巴旗下蚂蚁金服团队设计开发，服务于企业级产品的设计体系，基于确定和自然的设计价值观上的模块化解决方案。除了交互设计，还提供了开箱即用的高质量","$L16","和 ","$L17","组件实现，用于开发和服务于企业级中后台产品。"]}],"\n","$L18","\n","$L19","\n","$L1a"]}],"$L1b"]]}]}]
+a:["$","div",null,{"className":"flex justify-center items-center space-x-2 mt-4","children":[["$","$L2",null,{"href":"/blog/page/5","className":"btn btn-sm btn-circle","aria-label":"上一页","title":"上一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M15.75 19.5 8.25 12l7.5-7.5"}]]}]}],["$","div",null,{"className":"join","children":[["$","$L2","1",{"href":"/","className":"join-item btn btn-sm ","children":1}],["$","span","ellipsis-1",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L2","5",{"href":"/blog/page/5","className":"join-item btn btn-sm ","children":5}],["$","$L2","6",{"href":"/blog/page/6","className":"join-item btn btn-sm btn-active","children":6}],["$","$L2","7",{"href":"/blog/page/7","className":"join-item btn btn-sm ","children":7}],["$","span","ellipsis-5",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L2","16",{"href":"/blog/page/16","className":"join-item btn btn-sm ","children":16}]]}],["$","$L2",null,{"href":"/blog/page/7","className":"btn btn-sm btn-circle","aria-label":"下一页","title":"下一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m8.25 4.5 7.5 7.5-7.5 7.5"}]]}]}]]}]
+1d:T86b,
+![flutter](https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg)
+
+在Google IO 2019开发者大会上，Flutter和Dart发表了超越移动端，为iOS，Android，ChromeOS和Web构建应用的主题演讲。
+
+时至今日，想必Flutter已经可以开发Web应用了。
+
+我们知道Flutter是使用叫`Skia`的C++库来渲染UI，但是Web上是使用`Dom`，`Canvas`，以及`WebGL`，那么Flutter到底会采用哪种方式呢？
+
+这篇文章带你对Flutter for web做一个了解和实践：
+<!--more-->
+
+## 架构设计
+
+![Architecture](https://flutter.dev/images/Dart-framework-v-browser-framework.png)
+
+## 原理
+
+目前联合了`DOM`, `Canvas`, `CSS`来进行渲染，将`Dart`代码编译为`JavaScript`来执行，这跟`Typescript`，`Kotlin`都是一样的。
+
+## 目前进度
+
+截至今天（2019年7月25日）Flutter for Web还处于技术预览的阶段，还很不稳定。
+
+开发团队创建了一个[Frok](https://github.com/flutter/flutter_web)，但最终这些代码将会被merge到<https://github.com/flutter/flutter>中。
+
+## 环境安装
+
+1. ~~安装`Dart`~~
+2. 安装`Flutter`，Flutter 1.5 以上就可以支持以web作为target平台，我这里安装的是`1.7.8`。
+3. 安装`webdev`，通过`flutter pub global active webdev`全局安装`webdev`工具包。
+4. 为了能够全局执行`webdev`命令，建议将`flutter/.pub-cache/bin`目录添加到`path`环境变量中。
+
+## Hello World
+
+克隆<https://github.com/flutter/flutter_web>
+
+```bash
+$cd examples/hello_world/
+$flutter pub upgrade
+$webdev serve
+```
+
+打开<http://localhost:8080>，你就能看到红色的HelloWorld
+
+经过测试，在Edge浏览器会报错，目前只在Chrome中支持比较好。
+
+## 新建一个项目
+
+虽然未来的目标是用同一套代码来生成移动端和Web端，但目前的开发使用了不同的命名空间，所以还无法同时进行移动端和web端开发。
+
+新建的Flutter工程最简单的方式是使用IDE
+
+- VScode： 使用View->Command Paltte->`Flutter: New Web Project`。
+- IntelliJ：新建Dart项目，选择`Flutter for web`模板。1e:T7ae,
+![swagger](https://swagger.io/swagger/media/assets/images/swagger_logo.svg)
+
+当API添加了鉴权后，`swagger`如何进行调试呢，比如需要在请求头`header`中添加类似`token`或者`Authorization`之类的。
+
+在`Spring`中进行如下简单的配置就可以了。
+
+<!--more-->
+
+```kotlin
+@Configuration
+@EnableSwagger2
+class SwaggerConfig {
+
+    @Bean
+    fun generateDocket(): Docket {
+        return Docket(DocumentationType.SWAGGER_2)
+                .select()
+                .apis(RequestHandlerSelectors.withClassAnnotation(Api::class.java))
+                .build()
+                .securityContexts(listOf(securityContext())) // #1
+                .securitySchemes(listOf(apiKey())) // #2
+                .apiInfo(apiInfo())
+    }
+
+    private fun securityContext(): SecurityContext {
+        return SecurityContext.builder()
+                .securityReferences(defaultAuth())
+                .forPaths(PathSelectors.regex("/api/public/admin/.*"))
+                .build()
+    }
+
+    fun defaultAuth(): List<SecurityReference> {
+        val authorizationScope = AuthorizationScope("global", "accessEverything")
+        val authorizationScopes = arrayOf(authorizationScope)
+        return listOf(SecurityReference("token", authorizationScopes))
+    }
+
+
+    fun apiKey(): ApiKey {
+        return ApiKey("token", "X-Auth-Token", "header")
+    }
+
+
+    private fun apiInfo(): ApiInfo {
+        return ApiInfo("王郁的API文档",
+                "用于App测试及独立APP研发",
+                "2.0",
+                "http://wycode.cn",
+                Contact("王郁", "wycode.cn", "wangyu@wycode.cn"),
+                "wycode.cn All Right Reserved",
+                "https://wycode.cn",
+                emptyList())
+    }
+}
+
+```
+关键配置就是上面包含#1和#2注释的两行配置
+
+1. 配置安全上下文，我这里配置了`/api/public/admin/.*`下的接口需要添加。
+2. 配置鉴权类型，我这里使用`ApiKey`。1f:T868,
+![springboot](/images/20180623_springboot.jpg)
+
+通常我们为了统一，和前端方便处理，写的API返回JSON会有固定的结构，比如下面这种：
+```json
+{
+    "code":200,
+    "message":"hello world!",
+    "data":{
+        "user":{}
+    }
+}
+```
+但是当返回码为非200时，比如接口不存在`404`，服务器错误`500`，Spring默认会返回一个类似这样的结构：
+
+```json
+{
+  "timestamp": "2019-07-19 10:23:47",
+  "status": 403,
+  "error": "Forbidden",
+  "message": "没有权限",
+  "path": "/web/api/public/admin/dota/version"
+}
+```
+
+下面进行简单配置即可实现这个JSON结构的自定义：
+<!--more-->
+
+```kotlin
+import cn.wycode.web.DEV
+import org.springframework.boot.web.servlet.error.DefaultErrorAttributes
+import org.springframework.stereotype.Component
+import org.springframework.web.context.request.WebRequest
+
+@Component
+class WyErrorAttributes : DefaultErrorAttributes(DEV) { // #1
+    override fun getErrorAttributes(webRequest: WebRequest?, includeStackTrace: Boolean): MutableMap<String, Any> {
+        val errorAttributes = super.getErrorAttributes(webRequest, includeStackTrace) // #2
+        errorAttributes["success"] = false // #3
+        errorAttributes["error"] = errorAttributes["message"] // #4
+        errorAttributes["data"] = errorAttributes["exception"]  // #5
+        return errorAttributes
+    }
+}
+```
+
+1. Spring默认的`DefaultErrorAttributes`就写的挺好，我们继承并扩展一下就可以了，当然你也可以删除或者完全替换里面的结构。
+2. 先使用默认的方法构建一个`errorAttributes`。
+3. 添加一个`success`属性，既然是`ErrorAttributes`当然是`false`了。
+4. 覆盖`error`属性，改为`message`。
+5. 添加`data`属性，在DEV环境时会添加错误的类信息。
+
+做了这个配置之后，错误信息的JSON会变成下面这样：
+
+```json
+{
+  "timestamp": "2019-07-19 16:56:41",
+  "status": 500,
+  "error": "/ by zero",
+  "exception": "java.lang.ArithmeticException",
+  "message": "/ by zero",
+  "path": "/web/api/public/admin/dota/version",
+  "success": false,
+  "data": "java.lang.ArithmeticException"
+}
+```20:T13dc,
+![ant-design](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
+
+**Ant-Design**由阿里巴巴旗下蚂蚁金服团队设计开发，服务于企业级产品的设计体系，基于确定和自然的设计价值观上的模块化解决方案。除了交互设计，还提供了开箱即用的高质量`React`和 `Angular`组件实现，用于开发和服务于企业级中后台产品。
+
+**Ant-Design-Pro**是基于`Ant-Design`的功能完备的企业级中后台前端项目，里面可以学习和借鉴的内容很多。其核心基于以下几个技术集成。
+
+- `React`：现代化的JavaScript界面库
+- `dva`：类似`Redux`的数据流、状态管理框架
+- `UmiJS`：类似`nextJS`的react应用框架
+
+本文从基础使用开始，逐步解析里面用到的技术细节。
+
+<!--more-->
+
+安装及启动在官网有说明，生成的基础工程目录结结构如下：
+
+```
+├── config                   # umi 配置，包含路由，构建等配置
+├── mock                     # 本地模拟数据
+├── public                   # 公共资源目录
+│   └── favicon.png          # Favicon
+├── src                      # 代码目录
+│   ├── assets               # 本地静态资源
+│   ├── components           # 业务通用组件
+│   ├── e2e                  # 集成测试用例
+│   ├── layouts              # 通用布局
+│   ├── models               # 全局 dva model
+│   ├── pages                # 业务页面入口和常用模板
+│   ├── services             # 后台接口服务
+│   ├── utils                # 工具库
+│   ├── locales              # 国际化资源
+│   ├── global.less          # 全局样式
+│   └── global.js            # 全局 JS
+├── tests                    # 测试工具
+├── README.md                # readme
+└── package.json             # npm管理的清单
+```
+
+## 关于哈希路由
+
+现代的前端框架都是单页面的(single-page application)，即用户访问的永远是根目录的index.html，这时网页地址如何展现就是一个问题。解决方案有2个：
+
+- 前端解决：使用哈希路由，即用户看到的地址栏URL是`#`分割的，如`https://wycode.cn/admin/#/users/123`，实际访问仍然是`index.html`。`UmiJS`配置如下
+
+```js
+export default {
+    ···
+    history: 'hash'
+    ···
+} as IConfig;  
+```
+
+- 后端解决：使用重定向，即访问index以外的其它地址，都重定向到`index.html`。`nginx`配置如下:
+
+```nginx
+location / {
+    try_files $uri $uri/ /index.html;
+}
+```
+## UmiJS非根目录部署
+
+如果工程不是部署在根目录，UmiJS的config做如下配置即可：
+
+```js
+export default {
+    ···
+    base: 'admin'
+    ···
+} as IConfig;  
+```
+
+> **但是：**当配置为hash路由时且非根目录部署时，有可能你希望的首页是`https://wycode.cn/admin/#/`，`/users`页是`https://wycode.cn/admin/#/users`则需要进行如下配置：
+
+```js
+export default {
+    ···
+    history: 'hash',
+    publicPath: '/admin/'
+    ···
+} as IConfig;
+```
+
+## 关于HTML模版
+
+umi默认使用`src/pages/document.ejs`这个模版，采用`EJS`渲染，`Favicon`的路径改为`<%= context.publicPath %>favicon.png`可以修复Favicon路径不对的问题。
+
+
+## 关于区块`block`
+
+区块可以理解为页面模板，这个模板是在`ant-design-pro`的预览网站中，如果你看中了某个功能，（默认创建的工程是空白的，只有一个Welcome页面）点击右下角的下载按钮，会弹出一个命令，执行这个命令就能将这个页面加入到你自己的工程中，非常方便。其实质是执行了`git clone`克隆预览工程的部分文件。
+
+比如：添加一个类似预览工程的404页面
+
+```bash
+npx umi block add Exception404  --path=/exception/404
+```
+
+经过尝试，我发现目前区块引入时，并不是合并文件，而是创建一个目录，里面包括了这个页面用到的所有组件，甚至是国际化文本都是单独的一套。不管你工程内有没有这些组件，它都会重新创建一套。
+
+比如刚加入了404页面又想加入403页面，本已经存在的Exception组件，会在403文件夹再创建一份一模一样的副本，这点，我觉得是不可接受的。
+
+这样的话我更倾向与参考block的实现手动加入需要的文件，而不是使用`umi block add`功能，官方的block在这里：https://github.com/ant-design/pro-blocks
+
+## 菜单处理
+
+菜单是由路由自动生成，刚刚引入的404页面出现在了菜单栏，它是一个异常页，并不需要在菜单展示，我们只需在路由配置中加入`hideInMenu: true`，即可隐藏。
+
+## 404页面
+
+输入一个不存在的地址，并不能跳转到刚刚加入的404页面。
+我们需要将在路由配置中将404的其它配置项删除，仅保留`component: './exception/404'`，并将其挪到数组的最后，这样当路由无法匹配时，就会加载404这个组件了。
+
+b:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L1c",null,{"recentArticles":[{"id":"flutter-web","file":"flutter-web.md","content":"$1d","data":{"title":"使用Flutter开发Web应用","date":"2019-07-25","tags":["Flutter","Dart"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![flutter](https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg)\n\n在Google IO 2019开发者大会上，Flutter和Dart发表了超越移动端，为iOS，Android，ChromeOS和Web构建应用的主题演讲。\n\n时至今日，想必Flutter已经可以开发Web应用了。\n\n我们知道Flutter是使用叫`Skia`的C++库来渲染UI，但是Web上是使用`Dom`，`Canvas`，以及`WebGL`，那么Flutter到底会采用哪种方式呢？\n\n这篇文章带你对Flutter for web做一个了解和实践：\n"},{"id":"swagger-auth","file":"swagger-auth.md","content":"$1e","data":{"title":"SpringBoot工程为SwaggerUI添加认证","date":"2019-07-19","tags":["OAuth","Java","Kotlin","Spring","Swagger"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![swagger](https://swagger.io/swagger/media/assets/images/swagger_logo.svg)\n\n当API添加了鉴权后，`swagger`如何进行调试呢，比如需要在请求头`header`中添加类似`token`或者`Authorization`之类的。\n\n在`Spring`中进行如下简单的配置就可以了。\n\n"},{"id":"spring-error","file":"spring-error.md","content":"$1f","data":{"title":"SpringBoot工程自定义错误JSON字段","date":"2019-07-15","tags":["Java","Kotlin","Spring"],"category":"Backend"},"isEmpty":false,"excerpt":"\n![springboot](/images/20180623_springboot.jpg)\n\n通常我们为了统一，和前端方便处理，写的API返回JSON会有固定的结构，比如下面这种：\n```json\n{\n    \"code\":200,\n    \"message\":\"hello world!\",\n    \"data\":{\n        \"user\":{}\n    }\n}\n```\n但是当返回码为非200时，比如接口不存在`404`，服务器错误`500`，Spring默认会返回一个类似这样的结构：\n\n```json\n{\n  \"timestamp\": \"2019-07-19 10:23:47\",\n  \"status\": 403,\n  \"error\": \"Forbidden\",\n  \"message\": \"没有权限\",\n  \"path\": \"/web/api/public/admin/dota/version\"\n}\n```\n\n下面进行简单配置即可实现这个JSON结构的自定义：\n"},{"id":"oauth","file":"oauth.md","content":"\n关于认证和授权，最权威的流程就是`OAuth2.0`了，涵盖了用户认证授权的方方面面，现代的大型网站几乎都是基于`Oauth2.0`协议开发认证鉴权功能。\n\n`OAuth2.0`被写入`RFC6749`，RFC中的流程图看了还是不明白的话，可以看看下面这张图，展示了`OAuth2.0`四种模式的完整流程。\n\n<!--more-->\n\n![OAuth](/images/20190614_oauth.png)\n\n","data":{"title":"OAuth2.0四种模式完整时序图","date":"2019-06-14","tags":["OAuth"],"category":"Backend"},"isEmpty":false,"excerpt":"\n关于认证和授权，最权威的流程就是`OAuth2.0`了，涵盖了用户认证授权的方方面面，现代的大型网站几乎都是基于`Oauth2.0`协议开发认证鉴权功能。\n\n`OAuth2.0`被写入`RFC6749`，RFC中的流程图看了还是不明白的话，可以看看下面这张图，展示了`OAuth2.0`四种模式的完整流程。\n\n"},{"id":"ant-design-pro","file":"ant-design-pro.md","content":"$20","data":{"title":"学习和拆解Ant-Design-Pro","date":"2019-06-09","tags":["TypeScript","JavaScript","NodeJS","React"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![ant-design](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)\n\n**Ant-Design**由阿里巴巴旗下蚂蚁金服团队设计开发，服务于企业级产品的设计体系，基于确定和自然的设计价值观上的模块化解决方案。除了交互设计，还提供了开箱即用的高质量`React`和 `Angular`组件实现，用于开发和服务于企业级中后台产品。\n\n**Ant-Design-Pro**是基于`Ant-Design`的功能完备的企业级中后台前端项目，里面可以学习和借鉴的内容很多。其核心基于以下几个技术集成。\n\n- `React`：现代化的JavaScript界面库\n- `dva`：类似`Redux`的数据流、状态管理框架\n- `UmiJS`：类似`nextJS`的react应用框架\n\n本文从基础使用开始，逐步解析里面用到的技术细节。\n\n"}],"idTitleMap":{"ai-generated-dashboard":"AI 驱动的数据库可视化面板","openclaw-docker":"如何使用 Docker 安全地部署 OpenClaw (龙虾)","rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L21","$L22","$L23","$L24","$L25"]}]
+c:["$","script","script-0",{"src":"/_next/static/chunks/0001m61~weslk.js","async":true}]
+d:["$","$L26",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+e:["$","p","p-0",{"children":["当API添加了鉴权后，",["$","code","code-0",{"children":"swagger"}],"如何进行调试呢，比如需要在请求头",["$","code","code-1",{"children":"header"}],"中添加类似",["$","code","code-2",{"children":"token"}],"或者",["$","code","code-3",{"children":"Authorization"}],"之类的。"]}]
+f:["$","p","p-1",{"children":["在",["$","code","code-0",{"children":"Spring"}],"中进行如下简单的配置就可以了。"]}]
+10:["$","$L2",null,{"href":"/blog/swagger-auth","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+12:["$","p","p-1",{"children":["但是当返回码为非200时，比如接口不存在",["$","code","code-0",{"children":"404"}],"，服务器错误",["$","code","code-1",{"children":"500"}],"，Spring默认会返回一个类似这样的结构："]}]
+29:T1228,<pre class="shiki shiki-themes vitesse-light vitesse-dark" style="background-color:light-dark(#ffffff, #121212);--shiki-light-bg:#ffffff;--shiki-dark-bg:#121212;color:light-dark(#393a34, #dbd7caee);--shiki-light:#393a34;--shiki-dark:#dbd7caee" tabindex="0"><code><span class="line"><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">{</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">  "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">timestamp</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77"> "</span><span style="color:light-dark(#B56959, #C98A7D);--shiki-light:#B56959;--shiki-dark:#C98A7D">2019-07-19 10:23:47</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">,</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">  "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">status</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#2F798A, #4C9A91);--shiki-light:#2F798A;--shiki-dark:#4C9A91"> 403</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">,</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">  "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">error</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77"> "</span><span style="color:light-dark(#B56959, #C98A7D);--shiki-light:#B56959;--shiki-dark:#C98A7D">Forbidden</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">,</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">  "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">message</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77"> "</span><span style="color:light-dark(#B56959, #C98A7D);--shiki-light:#B56959;--shiki-dark:#C98A7D">没有权限</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">,</span></span>
+<span class="line"><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">  "</span><span style="color:light-dark(#998418, #B8A965);--shiki-light:#998418;--shiki-dark:#B8A965">path</span><span style="color:light-dark(#99841877, #B8A96577);--shiki-light:#99841877;--shiki-dark:#B8A96577">"</span><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">:</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77"> "</span><span style="color:light-dark(#B56959, #C98A7D);--shiki-light:#B56959;--shiki-dark:#C98A7D">/web/api/public/admin/dota/version</span><span style="color:light-dark(#B5695977, #C98A7D77);--shiki-light:#B5695977;--shiki-dark:#C98A7D77">"</span></span>
+<span class="line"><span style="color:light-dark(#999999, #666666);--shiki-light:#999999;--shiki-dark:#666666">}</span></span>
+<span class="line"></span></code></pre>13:["$","div","pre-1",{"dangerouslySetInnerHTML":{"__html":"$29"}}]
+14:["$","p","p-2",{"children":"下面进行简单配置即可实现这个JSON结构的自定义："}]
+15:["$","$L2",null,{"href":"/blog/spring-error","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+16:["$","code","code-0",{"children":"React"}]
+17:["$","code","code-1",{"children":"Angular"}]
+18:["$","p","p-1",{"children":[["$","strong","strong-0",{"children":"Ant-Design-Pro"}],"是基于",["$","code","code-0",{"children":"Ant-Design"}],"的功能完备的企业级中后台前端项目，里面可以学习和借鉴的内容很多。其核心基于以下几个技术集成。"]}]
+19:["$","ul","ul-0",{"children":["\n",["$","li","li-0",{"children":[["$","code","code-0",{"children":"React"}],"：现代化的JavaScript界面库"]}],"\n",["$","li","li-1",{"children":[["$","code","code-0",{"children":"dva"}],"：类似",["$","code","code-1",{"children":"Redux"}],"的数据流、状态管理框架"]}],"\n",["$","li","li-2",{"children":[["$","code","code-0",{"children":"UmiJS"}],"：类似",["$","code","code-1",{"children":"nextJS"}],"的react应用框架"]}],"\n"]}]
+1a:["$","p","p-2",{"children":"本文从基础使用开始，逐步解析里面用到的技术细节。"}]
+1b:["$","$L2",null,{"href":"/blog/ant-design-pro","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]
+21:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",23,")"]}]]}],["$","$L2","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L2","mobile",{"href":"/blog/category/mobile","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Mobile",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}],["$","$L2","devops",{"href":"/blog/category/devops","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["DevOps",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",12,")"]}]]}],["$","$L2","life",{"href":"/blog/category/life","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Life",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}],["$","$L2","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]]}]]}]}]
+22:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L2","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L2","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L2","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L2","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L2","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59"]}]]}]}]
+5a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z23:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$5a"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]}],"$L5b"]}],"$L5c","$L5d"]}]]}]]}]}]
+24:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+25:["$","$L5e",null,{}]
+28:null
+2a:["$","$L2","design",{"href":"/blog/tag/design","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2b:["$","$L2","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+2c:["$","$L2","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2d:["$","$L2","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+2e:["$","$L2","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+2f:["$","$L2","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+30:["$","$L2","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+31:["$","$L2","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+32:["$","$L2","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+33:["$","$L2","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+34:["$","$L2","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+35:["$","$L2","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+36:["$","$L2","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+37:["$","$L2","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+38:["$","$L2","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+39:["$","$L2","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3a:["$","$L2","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+3b:["$","$L2","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+3c:["$","$L2","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3d:["$","$L2","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3e:["$","$L2","next.js",{"href":"/blog/tag/next.js","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Next.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3f:["$","$L2","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+40:["$","$L2","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+41:["$","$L2","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+42:["$","$L2","openclaw",{"href":"/blog/tag/openclaw","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OpenClaw",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+43:["$","$L2","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+44:["$","$L2","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+45:["$","$L2","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+46:["$","$L2","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+47:["$","$L2","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+48:["$","$L2","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+49:["$","$L2","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4a:["$","$L2","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4b:["$","$L2","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L2","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",16,")"]}]]}]
+4d:["$","$L2","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4e:["$","$L2","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4f:["$","$L2","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+50:["$","$L2","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+51:["$","$L2","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L2","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L2","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+54:["$","$L2","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+55:["$","$L2","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+56:["$","$L2","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+57:["$","$L2","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+58:["$","$L2","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+59:["$","$L2","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+5b:["$","p",null,{"children":"或添加微信："}]
+5c:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+5d:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]

@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0m1805~_qhlls.css","style"]
+:HL["https://flutter.dev/assets/flutter-lockup-4cb0ee072ab312e59784d9fbf4fb7ad42688a7fdaea1270ccf6bbf4f34b7e03f.svg","image"]
+:HL["https://flutter.dev/images/Dart-framework-v-browser-framework.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"pid","param":{"type":"d","key":"flutter-web","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}

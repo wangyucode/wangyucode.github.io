@@ -1,0 +1,1016 @@
+1:"$Sreact.fragment"
+2:I[47395,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+3:I[6785,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],""]
+4:I[39470,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"Image"]
+5:I[98951,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+6:I[20588,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+7:I[35910,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+8:I[78142,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+9:I[76257,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+a:I[14560,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+13:I[32301,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default",1]
+:HL["/_next/static/chunks/0m1805~_qhlls.css","style"]
+b:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"c":["","blog","page","10"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["page",{"children":[["page","10","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0m1805~_qhlls.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0-ighyhiq84.z.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0i64ida~_jm3p.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0fyonms_2dkn9.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"transition-colors duration-1000 font","children":["$","body",null,{"className":"flex flex-col items-center min-h-dvh","children":[["$","$L2",null,{"className":"fixed top-0 left-0 right-0 bottom-0 -z-10"}],["$","header",null,{"className":"navbar shadow-sm bg-base-200/60 backdrop-blur fixed z-10","children":[["$","div",null,{"className":"navbar-start","children":["$","$L3",null,{"href":"/","className":"text-xl font-bold hover:text-sky-600 flex gap-1 items-center px-2","children":[["$","$L4",null,{"src":{"src":"/_next/static/media/icon.07rrr1kurqkee.svg","width":192,"height":192,"blurWidth":0,"blurHeight":0},"alt":"王郁的小站","width":32,"height":32}],["$","span",null,{"className":"bg-gradient-to-br dark:bg-gradient-to-tr from-sky-600 to-pink-600 dark:from-pink-400 dark:to-sky-400 bg-clip-text text-transparent","children":"王郁的小站"}]]}]}],["$","nav",null,{"className":"navbar-center hidden lg:flex","children":["$","$L5",null,{}]}],["$","div",null,{"className":"navbar-end gap-2","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]]}],["$","main",null,{"className":"flex-1 pt-16 flex flex-col lg:flex-row gap-4 w-full overflow-auto","children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full h-10 shadow-sm bg-base-200/60 backdrop-blur bottom-0 right-0 left-0 flex flex-col md:flex-row justify-center items-center py-2 border-t border-slate-400/30 text-xs md:text-sm","children":[["$","a",null,{"href":"https://beian.miit.gov.cn","target":"_blank","className":"md:mr-2 md:pr-2 md:border-r border-base-content hover:text-info transition-colors","children":"陕ICP备15011477号"}],["$","div",null,{"className":"flex items-center","children":[["$","p",null,{"children":"2015-2026 ©wycode.cn All Right Reserved"}],["$","a",null,{"href":"https://github.com/wangyucode/wycode-next","target":"_blank","className":"ml-2 pl-2 border-l border-base-content hover:text-info transition-colors flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"mr-1 h-4 w-4 inline","children":["$","path",null,{"d":"$b"}]}],"v","3.5.0"]}]]}]]}],"$Lc"]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{"children":["$L10",{},null,false,null]},null,false,"$@11"]},null,false,"$@11"]},null,false,"$@11"]},null,false,null],"$L12",false]],"m":"$undefined","G":["$13",["$L14"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"wycode_has_super_power"}
+15:I[97287,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"default"]
+17:I[93289,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[93289,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"ViewportBoundary"]
+1d:I[93289,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"MetadataBoundary"]
+c:["$","$L15",null,{}]
+d:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/_next/static/chunks/0001m61~weslk.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+11:"$W1a"
+12:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],null]}]
+14:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0m1805~_qhlls.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+:HL["https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg","image"]
+16:["$","div",null,{"className":"container mx-auto p-4","children":["$","div",null,{"className":"grid grid-cols-1 lg:grid-cols-3 gap-4","children":[["$","div",null,{"className":"lg:col-span-2","children":[["$","section",null,{"className":"flex flex-col gap-4 lg:flex-2","children":[["$","article","data-structures01",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/data-structures01","children":"数据结构与算法学习笔记01"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-03-14"]}],["$","$L3",null,{"href":"/blog/category/life","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Life"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","C",{"href":"/blog/tag/c","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"C"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg","alt":"浙江大学","node":{"type":"element","tagName":"img","properties":{"src":"https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg","alt":"浙江大学"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":89,"offset":89}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"浙江大学"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"程序=数据结构+算法。"}],"\n"]}],"\n",["$","p","p-0",{"children":"浙江大学数据结构是国家精品课程，于2018年3月开学，2018年6月学期结束。"}]]}],["$","$L3",null,{"href":"/blog/data-structures01","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,"$L1f"]}],"查看全文..."]}]]]}]}],"$L20","$L21","$L22","$L23"]}],"$L24"]}],"$L25"]}]}]
+28:I[69063,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],"default"]
+:HL["/images/20180308_OpenCV.png","image"]
+:HL["/images/20180213_react.png","image"]
+:HL["/images/20180213_clipboard.jpg","image"]
+:HL["/images/20180129_homo_deus.jpg","image"]
+1f:["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]
+20:["$","article","opencv",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/opencv","children":"OpenCV入门"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-03-08"]}],["$","$L3",null,{"href":"/blog/category/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"AI"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","OpenCV",{"href":"/blog/tag/opencv","className":"px-2 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-sm rounded-full","children":"OpenCV"}],["$","$L3","Java",{"href":"/blog/tag/java","className":"px-2 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":"Java"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180308_OpenCV.png","alt":"OpenCV","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180308_OpenCV.png","alt":"OpenCV"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":39,"offset":39}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"OpenCV"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"OpenCV是一个开源的计算机视觉库，广泛应用于各种图像处理，人脸识别，图像分析，自动驾驶等领域。目前最新版是3.4.1，本文基于最新版编写。"}],"\n"]}],"\n",["$","p","p-0",{"children":"OpenCV使用C++编写，采用了模块化的结构，本文将逐个介绍每个模块的主要功能，并将介绍如何使用Java调用OpenCV库。"}]]}],["$","$L3",null,{"href":"/blog/opencv","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+21:["$","article","clipboard-react",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/clipboard-react","children":"用React做一个跨平台剪切板"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-02-13"]}],["$","$L3",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","React",{"href":"/blog/tag/react","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"React"}],["$","$L3","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180213_react.png","alt":"React","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180213_react.png","alt":"React"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":37,"offset":37}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"React"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"这篇文章我们将用React实现一个跨平台剪切板。"}],"\n"]}],"\n",["$","p","p-0",{"children":"通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。"}]]}],["$","$L3",null,{"href":"/blog/clipboard-react","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,"$L26"]}],"查看全文..."]}]]]}]}]
+22:["$","article","clipboard-wechatapp",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/clipboard-wechatapp","children":"微信小程序入门"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-02-13"]}],["$","$L3",null,{"href":"/blog/category/frontend","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Frontend"]}]]}],["$","div",null,{"className":"flex items-center gap-2 mt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],["$","div",null,{"className":"flex flex-wrap gap-1","children":[["$","$L3","Wechat",{"href":"/blog/tag/wechat","className":"px-2 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-sm rounded-full","children":"Wechat"}],["$","$L3","JavaScript",{"href":"/blog/tag/javascript","className":"px-2 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":"JavaScript"}]]}]]}],[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180213_clipboard.jpg","alt":"React","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180213_clipboard.jpg","alt":"React"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":41,"offset":41}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"React"}]]}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"这篇文章我们将开发一个微信小程序版的跨平台剪切板。"}],"\n"]}],"\n",["$","p","p-0",{"children":["书接上文，我们已经用",["$","code","code-0",{"children":"React"}],"开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。"]}],"\n",["$","p","p-1",{"children":"如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。"}]]}],["$","$L3",null,{"href":"/blog/clipboard-wechatapp","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,"$L27"]}],"查看全文..."]}]]]}]}]
+23:["$","article","home-deus",{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h2",null,{"className":"card-title dark:text-neutral-content hover:text-info cursor-pointer","children":["$","$L3",null,{"href":"/blog/home-deus","children":"《未来简史》读书笔记"}]}],["$","div",null,{"className":"flex justify-between flex-wrap gap-2","children":[["$","span",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"}]]}],"2018-01-29"]}],["$","$L3",null,{"href":"/blog/category/life","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline mr-1 h-4 mb-0.5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"Life"]}]]}],false,[["$","div",null,{"className":"prose max-w-full","children":[["$","figure","img-0",{"className":"flex flex-col items-center","children":[["$","img",null,{"src":"/images/20180129_homo_deus.jpg","alt":"未来简史","node":{"type":"element","tagName":"img","properties":{"src":"/images/20180129_homo_deus.jpg","alt":"未来简史"},"children":[],"position":{"start":{"line":2,"column":1,"offset":1},"end":{"line":2,"column":40,"offset":40}}},"className":"mx-auto max-h-64 max-w-72"}],["$","figcaption",null,{"className":"text-sm text-gray-500 dark:text-gray-400 mt-1","children":"未来简史"}]]}],"\n",["$","h2","h2-0",{"children":"1%的精英和99%的无用的人"}],"\n",["$","blockquote","blockquote-0",{"children":["\n",["$","p","p-0",{"children":"人类将失去在经济和军事上的用途，因此经济和政治制度可能将不再继续认同人类有太多价值。"}],"\n"]}],"\n",["$","blockquote","blockquote-1",{"children":["\n",["$","p","p-0",{"children":"21世纪经济学最重要的问题，可能就是多余的人能有什么用？一旦拥有高度智能的算法接手几乎一切工作，而且能比人类做的更好时，人类还能做什么？"}],"\n"]}],"\n",["$","p","p-0",{"children":"前段时间看到一个TED演讲，未来世界各地可能像某些北欧国家一样，发基础工资，所有人都有基本工资来消费，而经济的马车由机器拉动。我们看到现在国家在搞扶贫，其实就是发社会基本工资。只不过还够不上发达国家而已。"}],"\n",["$","p","p-1",{"children":"社会的贫富差距会加大。绝大多数人将会沦为无用的人。我们看到整个社会逐渐淘汰了一些简单的工作。例如扫马路、看守停车场。不幸的是，从事这些岗位的恰恰是低收入者。这些事情都在身边真实发生。"}],"\n",["$","p","p-2",{"children":["除了计算机互联网的发展、另外一个进步巨大，却又常常被忽视的领域是生物科技，被称为上帝剪刀的基因编辑可能因为法律和伦理问题还需时日。但基于基因组测序和大数据做癌症筛查是现在的精英阶层已经流行的。由此超人类可能和传统的人产生历史上从未发生的",["$","strong","strong-0",{"children":"生理差距"}],"。"]}]]}],["$","$L3",null,{"href":"/blog/home-deus","className":"btn btn-ghost hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"inline h-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]]}],"查看全文..."]}]]]}]}]
+24:["$","div",null,{"className":"flex justify-center items-center space-x-2 mt-4","children":[["$","$L3",null,{"href":"/blog/page/9","className":"btn btn-sm btn-circle","aria-label":"上一页","title":"上一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M15.75 19.5 8.25 12l7.5-7.5"}]]}]}],["$","div",null,{"className":"join","children":[["$","$L3","1",{"href":"/","className":"join-item btn btn-sm ","children":1}],["$","span","ellipsis-1",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L3","9",{"href":"/blog/page/9","className":"join-item btn btn-sm ","children":9}],["$","$L3","10",{"href":"/blog/page/10","className":"join-item btn btn-sm btn-active","children":10}],["$","$L3","11",{"href":"/blog/page/11","className":"join-item btn btn-sm ","children":11}],["$","span","ellipsis-5",{"className":"join-item btn btn-sm btn-disabled","children":"..."}],["$","$L3","16",{"href":"/blog/page/16","className":"join-item btn btn-sm ","children":16}]]}],["$","$L3",null,{"href":"/blog/page/11","className":"btn btn-sm btn-circle","aria-label":"下一页","title":"下一页","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"w-4 h-4","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m8.25 4.5 7.5 7.5-7.5 7.5"}]]}]}]]}]
+29:T284a,
+![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)
+
+> 程序=数据结构+算法。
+
+浙江大学数据结构是国家精品课程，于2018年3月开学，2018年6月学期结束。
+
+<!--more-->
+
+## 实验1：给出数字N，要求程序输出1~N的整数
+
+使用Java测试：输出10000次，for循环耗时114ms，递归耗时61ms！100000次递归栈溢出崩溃，for循环耗时900ms。
+
+```java
+
+public class Main {
+
+    public static void main(String[] args) {
+   		// write your code here
+        Main m = new Main();
+        long time = System.currentTimeMillis();
+        m.printN(10000);
+        System.out.println("time="+(System.currentTimeMillis()-time));
+        time = System.currentTimeMillis();
+        m.printNR(10000);
+        System.out.println("time="+(System.currentTimeMillis()-time));
+    }
+
+    private void printNR(int n) {
+        if(n>0) {
+            printNR(n - 1);
+            System.out.println(n);
+        }
+    }
+
+    private void printN(int n){
+        for(int i= 1;i<=n;i++){
+            System.out.println(i);
+        }
+    }
+}
+```
+
+用C测试：输出100000次，for循环耗时149ms，递归耗时148ms，100000次递归耗时150ms，100万次
+
+```C
+#include <stdio.h>
+#include <time.h>
+
+
+void printN(int n);
+void printNC(int n);
+
+int main(){
+    clock_t startTime = clock();
+    printN(100000);
+    //double diff = ;
+    printf("%f seconds\n",difftime(clock(),startTime)/CLOCKS_PER_SEC);
+    
+    
+}
+
+void printN(int n){
+    for(int i=1;i<=n;i++){
+        printf("%d\n",i);
+    }
+}
+
+
+void printNC(int n){
+    if(n){
+        printNC(n-1);
+        printf("%d\n",n);
+    }
+
+}
+
+```
+
+- 总结:
+
+1. ~~C语言程序运行效率至少在Java的10倍以上~~（C程序计时不准，需要重新测试）
+2. 递归的空间效率很差，容易堆栈溢出崩溃。
+3. Java环境递归耗时是for循环的1/2。
+4. C语言环境递归耗时和for循环差不多。
+
+## 实验2：计算多项式的值
+
+![多项式](/images/20180313_data_structure.png)
+
+```java
+public class Test02 {
+
+    public static void main(String[] args) {
+        // write your code here
+        Test02 t = new Test02();
+        long time = System.currentTimeMillis();
+        for(int i=0;i<100000;i++) {
+            t.f1(1.1);
+        }
+        System.out.println("time=" + (System.currentTimeMillis() - time));
+        time = System.currentTimeMillis();
+        for(int i=0;i<100000;i++) {
+            t.f2(1.1);
+        }
+        System.out.println("time=" + (System.currentTimeMillis() - time));
+    }
+
+    private double f1(double x) {
+        double v = 1f;
+        for (int i = 1; i <= 100; i++) {
+            v += Math.pow(x,i) / i;
+        }
+        return v;
+    }
+
+    //f(x) = 1+x(1/1+x(1/2+x(1/3+....x(1/100))))
+
+    private double f2(double x) {
+        double v = x/100;
+        int i = 100;
+        while (i>1) {
+            v = x*(1f/(i-1)+v);
+            i--;
+        }
+        return v+1;
+    }
+}
+
+```
+
+- 总结：
+1. 循环10万次测试，方法1，耗时1016ms，方法2耗时16ms。约100倍的效率差距
+2. 计算时一定要注意，整形和浮点型`v = x*(1f/(i-1)+v);`
+3. 方法1，慢就慢在`pow`函数上
+4. 替换pow函数为计数循环`x *=x`耗时500ms，差距缩小至约20倍。
+
+## 作业1
+
+01-复杂度1 最大子列和问题（20 分）
+给定K个整数组成的序列{ N​1, N2, ..., NK}，“连续子列”被定义为{ N​i, Ni+1, ..., N​j}，其中 1≤i≤j≤K。
+“最大子列和”则被定义为所有连续子列元素的和中最大者。
+例如给定序列{ -2, 11, -4, 13, -5, -2 }，其连续子列{ 11, -4, 13 }有最大的和20。
+现要求你编写程序，计算给定整数序列的最大子列和。
+
+本题旨在测试各种不同的算法在各种数据情况下的表现。
+
+各组测试数据特点如下：
+
+ 数据1：与样例等价，测试基本正确性；
+ 数据2：102个随机整数；
+ 数据3：103个随机整数；
+ 数据4：104个随机整数；
+ 数据5：105个随机整数；
+输入格式:
+
+ 输入第1行给出正整数K (≤100000)；第2行给出K个整数，其间以空格分隔。
+
+输出格式:
+
+ 在一行中输出最大子列和。如果序列中所有整数皆为负数，则输出0。
+
+输入样例:
+```
+ 6
+ -2 11 -4 13 -5 -2
+```
+输出样例:
+```
+ 20
+```
+
+实现：
+
+```java
+import java.util.Scanner;
+
+
+public class Main{
+
+    public static void main(String args[]) {
+        Scanner scanner = new Scanner(System.in);
+        int k = scanner.nextInt();
+        int[] n = new int[k];
+        for (int i = 0; i < k; i++) {
+            if (scanner.hasNext()) {
+                n[i] = scanner.nextInt();
+            }
+        }
+        System.out.println(maximumSubsequenceSum(n));
+    }
+
+    /**
+     * 在线处理算法，任意时刻给出的都是当前最大子数列和
+     * @param n
+     * @return
+     */
+    private static int maximumSubsequenceSum(int[] n) {
+        int thisMax = 0;
+        int maxSum = 0;
+        for (int i = 0; i < n.length; i++) {
+            thisMax += n[i];
+
+            if (thisMax < 0) {
+                thisMax = 0;
+            } else if (thisMax > maxSum) {
+                maxSum = thisMax;
+            }
+        }
+        return maxSum;
+    }
+}
+```
+
+## 作业2
+
+01-复杂度2 Maximum Subsequence Sum（25 分）
+Given a sequence of K integers { N1, N2, ..., NK}. A continuous subsequence is defined to be { Ni, Ni+1, ..., Nj } where 1≤i≤j≤K. The Maximum Subsequence is the continuous subsequence which has the largest sum of its elements. For example, given sequence { -2, 11, -4, 13, -5, -2 }, its maximum subsequence is { 11, -4, 13 } with the largest sum being 20.
+
+Now you are supposed to find the largest sum, together with the first and the last numbers of the maximum subsequence.
+
+Input Specification:
+
+Each input file contains one test case. Each case occupies two lines. The first line contains a positive integer K (≤10000). The second line contains K numbers, separated by a space.
+
+Output Specification:
+
+For each test case, output in one line the largest sum, together with the first and the last numbers of the maximum subsequence. The numbers must be separated by one space, but there must be no extra space at the end of a line. In case that the maximum subsequence is not unique, output the one with the smallest indices i and j (as shown by the sample case). If all the K numbers are negative, then its maximum sum is defined to be 0, and you are supposed to output the first and the last numbers of the whole sequence.
+
+Sample Input:
+```
+10
+-10 1 2 3 4 -5 -23 3 7 -21
+```
+Sample Output:
+```
+10 1 4
+```
+
+- 实现：
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String countString = null;
+        String numbersString =null;
+        try {
+            countString = reader.readLine();
+            numbersString = reader.readLine();
+        }catch (Exception ignored){
+
+        }
+        int[] n = new int[Integer.parseInt(countString)];
+        String[] numbersStringArray = numbersString.split(" ");
+
+        for (int i = 0; i < n.length; i++) {
+            n[i] = Integer.parseInt(numbersStringArray[i]);
+        }
+
+
+//        Scanner scanner = new Scanner(System.in);
+//        int k = scanner.nextInt();
+//        int[] n = new int[k];
+//
+//        for (int i = 0; i < k; i++) {
+//            n[i] = scanner.nextInt();
+//        }
+
+        maximumSubsequenceSum(n);
+
+    }
+
+    /**
+     * 在线处理算法，任意时刻给出的都是当前最大子数列和
+     *
+     * @param n
+     * @return
+     */
+    private static void maximumSubsequenceSum(int[] n) {
+        int thisMax = 0;
+        int maxSum = 0;
+
+        int startI = 0;
+        int endI = n.length - 1;
+        int temp = 0;
+        boolean isMaxStart = true;
+        for (int i = 0; i < n.length; i++) {
+            thisMax += n[i];
+
+            if (thisMax < 0) {
+                thisMax = 0;
+                temp = 0;
+                isMaxStart = true;
+            } else {
+
+                if(isMaxStart){
+                    temp = i;
+                    isMaxStart = false;
+                }
+
+                if (thisMax > maxSum) {
+
+                    maxSum = thisMax;
+                    endI = i;
+                    startI = temp;
+                }
+
+                if(maxSum==0){
+                    startI =temp;
+                    endI = i;
+                }
+            }
+        }
+
+
+        System.out.println(maxSum + " " + n[startI] + " " + n[endI]);
+    }
+}
+
+```
+
+- 总结
+
+1. 这题所有case要求在200ms内执行完毕，其中一个case比较大的N导致执行超时,调查发现Scanner这个东西贼慢...换成BufferReader就好了。
+
+## 作业3
+
+
+01-复杂度3 二分查找（20 分）
+本题要求实现二分查找算法。
+
+函数接口定义：
+
+`Position BinarySearch( List L, ElementType X );`
+其中List结构定义如下：
+```c
+typedef int Position;
+typedef struct LNode *List;
+struct LNode {
+    ElementType Data[MAXSIZE];
+    Position Last; /* 保存线性表中最后一个元素的位置 */
+};
+```
+L是用户传入的一个线性表，其中ElementType元素可以通过>、==、<进行比较，并且题目保证传入的数据是递增有序的。函数BinarySearch要查找X在Data中的位置，即数组下标（注意：元素从下标1开始存储）。找到则返回下标，否则返回一个特殊的失败标记NotFound。
+
+裁判测试程序样例：
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAXSIZE 10
+#define NotFound 0
+typedef int ElementType;
+
+typedef int Position;
+typedef struct LNode *List;
+struct LNode {
+    ElementType Data[MAXSIZE];
+    Position Last; /* 保存线性表中最后一个元素的位置 */
+};
+
+List ReadInput(); /* 裁判实现，细节不表。元素从下标1开始存储 */
+Position BinarySearch( List L, ElementType X );
+
+int main()
+{
+    List L;
+    ElementType X;
+    Position P;
+
+    L = ReadInput();
+    scanf("%d", &X);
+    P = BinarySearch( L, X );
+    printf("%d\n", P);
+
+    return 0;
+}
+
+/* 你的代码将被嵌在这里 */
+```
+输入样例1：
+```
+5
+12 31 55 89 101
+31
+```
+输出样例1：
+```
+2
+```
+输入样例2：
+```
+3
+26 78 233
+31
+```
+输出样例2：
+```
+0
+```
+
+
+- 实现：
+
+
+
+2a:Ta2c,
+![OpenCV](/images/20180308_OpenCV.png)
+
+> OpenCV是一个开源的计算机视觉库，广泛应用于各种图像处理，人脸识别，图像分析，自动驾驶等领域。目前最新版是3.4.1，本文基于最新版编写。
+
+
+OpenCV使用C++编写，采用了模块化的结构，本文将逐个介绍每个模块的主要功能，并将介绍如何使用Java调用OpenCV库。
+
+<!--more-->
+
+## 1.模块
+
+
+- **Core functionality**：**核心功能**,定义了一些其它模块需要使用的基本功能，以及包括多维数组`Mat`在内的众多数据结构。OpenCV的图像处理主要就是针对`Mat`对象。
+- **Image processing**：**图像处理**,包括线性和非线性图像滤波，几何图像转换（调整大小，仿射和透视变形，通用基于表格的重新映射），色彩空间转换，直方图等。
+- **imgcodecs**：**图片读写**。
+- **calib3d**：**3D处理**,基本多视图几何算法，单个和立体相机校准，对象姿态估计，立体对应算法以及三维重建元素。
+- **features2d**：**特征点处理**,显着特征检测器，描述符和描述符匹配器。
+- **objdetect**：**物体检测**,物体检测和预定义的类别（例如，脸部，眼睛，杯子，人物，汽车等）。
+- **highgui**：**UI**,一个简单易用的UI接口。
+- **Video I/O**：**视频IO**,一个简单易用的视频捕捉和视频编解码器接口。
+- **gpu**：**GPU加速**,不同OpenCV模块的GPU加速算法。
+- **dnn**：**深度神经网络**。
+- **ml**：**机器学习**。
+- **flann**：**多维聚类和搜索**。包含大数据集中的快速最近邻搜索和高维特征而优化的算法集合。
+- **photo**：**照片处理**，降噪，HDR，无缝克隆，细节增强等。
+- **stitching**：**图像拼接**，降噪，HDR，无缝克隆，细节增强等。
+- **shape**：**形状**，形状距离和匹配。
+- **superres**：**超分辨率**。
+- **videostab**：**视频防抖**。
+- **viz**：**3D虚拟化**。
+
+还有一些其它扩展模块。
+
+## 2.配置Java开发环境
+
+1. 下载Windows版OpenCV
+2. 解压后在`build`文件夹中找到`java`文件夹，复制到Java工程的libs文件夹里
+3. 对`opencv-341.jar`添加依赖
+4. VM option 添加本地库配置：`-Djava.library.path=./libs/x64`
+
+
+## 3.Hello OpenCV
+
+```java
+
+Mat mat = Imgcodecs.imread(file.getAbsolutePath());
+Imgproc.cvtColor(mat, mat, Imgproc.COLOR_BGR2GRAY);
+Imgproc.Canny(mat, mat, 5, 20);
+Image img = Utils.mat2Image(mat);
+controller.setImage(img);
+```
+
+运行结果如图：
+
+
+![OpenCV](/images/20180309_opencv_test.png)2b:T15e7,
+![React](/images/20180213_react.png)
+
+> 这篇文章我们将用React实现一个跨平台剪切板。
+
+
+通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。
+
+<!--more-->
+
+## 1.使用`create-react-app`创建工程
+
+```bash
+npm install -g create-react-app
+create-react-app my-app
+
+cd my-app
+npm start
+```
+
+## 2.编写模版
+
+```html
+render() {
+        return (
+            <div>
+                <Header/>
+                <div className="Clipboard container">
+                    <input placeholder="查询码"
+                           type="number"
+                           className="input-query-number form-control form-group"
+                           value={this.state.queryNumber > 0 ? this.state.queryNumber : ''}
+                           disabled={this.state.isShowResult}
+                           onChange={this.handleNumberChange}/>
+                    {this.state.isShowResult ? null : <button onClick={this.handleQuery}
+                                                              className="btn-query btn btn-primary form-control form-group">查询</button>}
+
+                    {this.state.isShowResult ? null :
+                        <button onClick={this.handleNew}
+                                className="btn-new btn btn-primary form-control form-group">新建</button>}
+
+                    {this.state.isShowResult ? <textarea onChange={this.handleTextChange} value={this.state.text}
+                                                         className="textarea-text form-control form-group"/> : null}
+
+                    {this.state.isShowResult ? <button onClick={this.handleSave}
+                                                       className="btn-save btn btn-success form-control  form-group">保存</button> : null}
+                </div>
+            </div>
+        );
+    }
+
+```
+
+- `render()`返回的`JSX`只能有一个组件，当需要多个组件时，需要用一个`div`包起来；
+- 这里通过state的自定义属性`isShowResult`实现对控件的隐藏和显示；
+- 界面使用Bootstrap框架做移动端适配
+- 通过`onClick={this.handleSave}`,`onChange={this.handleTextChange}`等属性绑定函数，构造函数里还要写`this.handleBack = this.handleBack.bind(this);`
+
+## 3.构造方法
+
+```JavaScript
+constructor(props) {
+        super(props);
+        this.state = {
+            queryNumber: -1,
+            isShowResult: false,
+            text: ''
+        };
+
+        this.handleNumberChange = this.handleNumberChange.bind(this);
+        this.handleTextChange = this.handleTextChange.bind(this);
+        this.handleQuery = this.handleQuery.bind(this);
+        this.handleNew = this.handleNew.bind(this);
+        this.handleSave = this.handleSave.bind(this);
+        this.handleBack = this.handleBack.bind(this);
+    }
+```
+
+- `state`中维护了页面状态，这里只需要3个参数：查询码，是否显示查询结果，剪切板文字
+
+## 4.逻辑
+
+```JavaScript
+ handleNumberChange(event) {
+        this.setState({queryNumber: event.target.value});
+    }
+
+    handleTextChange(event) {
+        this.setState({text: event.target.value});
+    }
+
+    handleBack(event){
+        this.setState({isShowResult: false});
+    }
+
+    handleQuery(event) {
+        if(this.state.queryNumber<=0){
+            alert('查询码不正确！');
+            return
+        }
+        let data = {
+            params: {
+                id: this.state.queryNumber
+            }
+        };
+        axios.get('https://wycode.cn/web/api/public/clipboard/query',data)
+            .then((response) =>{
+                if(response.status!==200||response.data.data==null){
+                    throw '查询码不正确！'
+                }
+                this.setState({
+                    isShowResult: true,
+                    queryNumber: response.data.data.id,
+                    text: response.data.data.content
+                })
+            })
+            .catch((error) => alert(error));
+    }
+
+    handleNew(event) {
+        axios.post('https://wycode.cn/web/api/public/clipboard/create')
+            .then((response) => this.setState({
+                isShowResult: true,
+                queryNumber: response.data.data.id,
+                text: response.data.data.content
+            }))
+            .catch((error) => alert(error));
+    }
+
+    handleSave(event) {
+        let data = new FormData();
+        data.append('id',this.state.queryNumber);
+        data.append('content',this.state.text);
+        axios.post('https://wycode.cn/web/api/public/clipboard/save',data)
+            .then((response) => this.setState({
+                isShowResult: false,
+                queryNumber: response.data.data.id,
+                text: response.data.data.content
+            }))
+            .catch((error) => alert(error));
+    }
+
+```
+
+- 使用`this.setState({});`更改页面状态
+- 这里使用`Axios`做网络请求。`Axios`是一个js网络请求库。
+- 在网络请求返回函数里 `this`做作用域是当前对象，会发生错误，使用箭头符=>，即lambda表达式就没有问题。或者在外部创建一个`this`的引用`let that = this;`
+
+
+至此大功告成！访问 https://wycode.cn/clipboard/ 查看示例
+访问 https://github.com/wangyucode/React-Learning 查看完整源码2c:T162e,
+![React](/images/20180213_clipboard.jpg)
+
+> 这篇文章我们将开发一个微信小程序版的跨平台剪切板。
+
+
+书接上文，我们已经用`React`开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。
+
+如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。
+
+<!--more-->
+
+## 1.app.json
+
+```json
+
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#379392",
+    "navigationBarTitleText": "跨平台剪切板",
+    "navigationBarTextStyle": "white"
+  },
+  "debug": true
+}
+```
+
+- `app.json`中描述了小程序相关的全局配置信息，所有的页面需要配置在`page`属性中。
+- 这里还能配置`tabbar`，为了跨平台剪切板的简洁，我去掉了tab，把它做成了一个单页面的极简APP
+
+## 2.模板
+
+```html
+
+<!--index.wxml-->
+<view class="container">
+  <input type='number' placeholder="查询码" value='{{queryNumber>0?queryNumber:""}}' bindinput='bindInput' disabled='{{isShowResult}}'></input>
+  <button type='primary' wx:if="{{!isShowResult}}" bindtap='query'>查询</button>
+  <button wx:if="{{!isShowResult}}" bindtap='create'>新建</button>
+  <textarea wx:if='{{isShowResult}}' value='{{text}}' bindinput='bindInputText'></textarea>
+  <button type= 'primary' wx:if = "{{isShowResult}}" bindtap='save'>保存</button>
+  <button wx:if = "{{isShowResult}}" bindtap='back'>返回</button>
+</view>
+```
+
+- `.wxml`后缀的是小程序的布局（模板）文件。
+- 属性没什么好解释的，看一下就懂了。参考React版的教程就知道每个属性的详细用途。
+
+## 3.样式表
+
+```css
+/**index.wxss**/
+
+input {
+  border: 1px solid;
+  border-radius: 10rpx;
+  border-color: #ddd;
+  padding: 10rpx;
+  width: 96%;
+}
+
+button {
+  margin-top: 24rpx;
+  width: 100%;
+}
+
+textarea{
+  border: 1px solid;
+  border-radius: 10rpx;
+  border-color: #ddd;
+  padding: 10rpx;
+  width: 96%;
+  margin-top: 24rpx;
+}
+```
+
+- 就是传统的CSS层叠样式表
+- 这里rpx是dpi无关的单位，保证不同分辨率的相同观感
+
+
+## 4.逻辑
+
+```javascript
+//index.js
+//获取应用实例
+const app = getApp()
+
+Page({
+  data: {
+    queryNumber: -1,
+    isShowResult: false,
+    text: ''
+  },
+
+  onLoad: function () {
+
+  },
+
+  bindInput: function (e) {
+    this.setData({
+      queryNumber: e.detail.value
+    })
+  },
+
+  bindInputText: function (e) {
+    this.setData({
+      text: e.detail.value
+    })
+  },
+
+  query: function () {
+    if (this.data.queryNumber <= 0) {
+      wx.showToast({
+        title: '查询码不正确！',
+        icon: 'none'
+      });
+      return
+    }
+
+    var that = this;
+    wx.showLoading({
+      title: '请稍后...',
+    })
+    wx.request({
+      url: 'https://wycode.cn/web/api/public/clipboard/query',
+      data: { 'id': this.data.queryNumber },
+      success: function (res) {
+        if (!res.data.success || res.data.data == null) {
+          wx.showToast({
+            title: '查询码不正确！',
+            icon: 'none'
+          });
+        } else {
+          that.setData({
+            isShowResult: true,
+            queryNumber: res.data.data.id,
+            text: res.data.data.content
+          });
+        }
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res,
+          icon: 'none'
+        });
+      },
+      complete:function(){
+        wx.hideLoading();
+      }
+    });
+
+  },
+
+  create: function () {
+    var that = this;
+    wx.showLoading({
+      title: '请稍后...',
+    })
+    wx.request({
+      url: 'https://wycode.cn/web/api/public/clipboard/create',
+      method: 'POST',
+      success: function (res) {
+
+        that.setData({
+          isShowResult: true,
+          queryNumber: res.data.data.id,
+          text: res.data.data.content
+        });
+
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res.errMsg,
+          icon: 'none'
+        });
+      },
+      complete:function(){
+        wx.hideLoading();
+      }
+    });
+  },
+
+  save: function () {
+    var that = this;
+    wx.showLoading({
+      title: '请稍后...',
+    })
+    wx.request({
+      url: 'https://wycode.cn/web/api/public/clipboard/save',
+      method: 'POST',
+      data:{
+        id: that.data.queryNumber,
+        content: that.data.text
+      },
+      header: {
+        'content-type': 'application/x-www-form-urlencoded'
+      },
+      success: function (res) {
+
+        that.setData({
+          isShowResult: false,
+          queryNumber: res.data.data.id,
+          text: res.data.data.content
+        });
+        wx.showToast({
+          title: '保存成功！',
+          icon: 'success'
+        });
+
+      },
+      fail: function (res) {
+        wx.showToast({
+          title: res.errMsg,
+          icon: 'none'
+        });
+      },
+      complete: function () {
+        wx.hideLoading();
+      }
+    });
+  },
+
+  back: function () {
+    this.setData({
+      isShowResult: false
+    })
+  }
+
+})
+
+```
+
+- 小程序的`data`，就是React的`state`
+- 小程序通过`this.setData()`刷新页面状态，如同React的`this.setState()`
+- 使用`wx.request()`做http请求
+- 使用`wx.showToast()`显示一个提示
+- 使用`wx.showLoading()`显示Loading
+- 这里发现一个小程序的bug，在`wx.hideLoading()`会将Toast也消失掉。
+
+
+至此大功告成！打开微信扫一扫文章开头的小程序码即可使用。
+访问 https://github.com/wangyucode/Clipboard 查看完整源码2d:Tc3d,
+![未来简史](/images/20180129_homo_deus.jpg)
+
+## 1%的精英和99%的无用的人
+
+> 人类将失去在经济和军事上的用途，因此经济和政治制度可能将不再继续认同人类有太多价值。
+
+> 21世纪经济学最重要的问题，可能就是多余的人能有什么用？一旦拥有高度智能的算法接手几乎一切工作，而且能比人类做的更好时，人类还能做什么？
+
+
+前段时间看到一个TED演讲，未来世界各地可能像某些北欧国家一样，发基础工资，所有人都有基本工资来消费，而经济的马车由机器拉动。我们看到现在国家在搞扶贫，其实就是发社会基本工资。只不过还够不上发达国家而已。
+
+社会的贫富差距会加大。绝大多数人将会沦为无用的人。我们看到整个社会逐渐淘汰了一些简单的工作。例如扫马路、看守停车场。不幸的是，从事这些岗位的恰恰是低收入者。这些事情都在身边真实发生。
+
+除了计算机互联网的发展、另外一个进步巨大，却又常常被忽视的领域是生物科技，被称为上帝剪刀的基因编辑可能因为法律和伦理问题还需时日。但基于基因组测序和大数据做癌症筛查是现在的精英阶层已经流行的。由此超人类可能和传统的人产生历史上从未发生的**生理差距**。
+
+<!--more-->
+
+## 饥荒、瘟疫和战争
+
+就在几十年前，饥荒、瘟疫和战争是人类的头号敌人。但是，到了今天：
+
+> 2010年，饥饿和营养不良合计夺走了约100万人的生命，但肥胖却让300万人丧命。
+
+> 虽然我们不敢保证绝不会爆发新一波埃博拉或未知流感病毒疫情，横扫全球造成数百万人死亡，但至少我们不会认为这是不可避免的自然灾害。相反，我们会认为这是一个不可原谅的认为疏忽，要有人为此负起责任。
+
+> 2012年，全球约有5600万人死亡，其中62万人死于暴力（战争致死12万，犯罪致死50万），相较之下，自杀的有80万，死于糖尿病的更是有150万。现在，糖比火药更致命。
+
+
+## 生命就是算法
+
+> 人类历史就是数据处理过程。
+
+人不仅在处理数据，还在产生数据。你每天都在看新闻，刷微博，同时也在发微博，发朋友圈，记录、上传和分享。
+
+如今，各种微博，朋友圈，公众号，头条，推送。
+
+以前，价值来源于获取信息的能力。现在，价值来源于过滤信息的能力。
+
+
+
+## 意识与智能分离
+
+> 任何一匹马，不论是嗅觉、爱的能力、认人的能力、跳过栅栏的能力或是其他上千件事情上，绝对都远高于历史上首款平民汽车福特T型车，或是价值千万的兰博基尼。然而马还是被汽车取代，原因在于汽车在社会系统真正需要的少数几个领域胜出。
+
+事实证明高度的智能并不需要意识的参与。
+
+## 大数据和人工智能将比我们更加了解自己
+
+当机器的选择比我们更好时，我们还有自己的独立人格吗，亦或是裹挟在数据浪潮中的一小片涟漪。
+
+
+
+25:["$","aside",null,{"className":"flex flex-col gap-4 lg:flex-1","children":[["$","$L28",null,{"recentArticles":[{"id":"data-structures01","file":"data-structures01.md","content":"$29","data":{"title":"数据结构与算法学习笔记01","date":"2018-03-14","tags":["C"],"category":"Life"},"isEmpty":false,"excerpt":"\n![浙江大学](https://www.smpg888.com/resource/images/19b3b5c5671f44a4b9f4320dd8fcc734_34.jpg)\n\n> 程序=数据结构+算法。\n\n浙江大学数据结构是国家精品课程，于2018年3月开学，2018年6月学期结束。\n\n"},{"id":"opencv","file":"opencv.md","content":"$2a","data":{"title":"OpenCV入门","date":"2018-03-08","tags":["OpenCV","Java"],"category":"AI"},"isEmpty":false,"excerpt":"\n![OpenCV](/images/20180308_OpenCV.png)\n\n> OpenCV是一个开源的计算机视觉库，广泛应用于各种图像处理，人脸识别，图像分析，自动驾驶等领域。目前最新版是3.4.1，本文基于最新版编写。\n\n\nOpenCV使用C++编写，采用了模块化的结构，本文将逐个介绍每个模块的主要功能，并将介绍如何使用Java调用OpenCV库。\n\n"},{"id":"clipboard-react","file":"clipboard-react.md","content":"$2b","data":{"title":"用React做一个跨平台剪切板","date":"2018-02-13","tags":["React","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![React](/images/20180213_react.png)\n\n> 这篇文章我们将用React实现一个跨平台剪切板。\n\n\n通常我们会遇到将手机上的文字发送到电脑上，或者反过来，或者是记录一些网址，你懂得。这时我们会用到一些云笔记之类的产品，或者干脆使用微信或QQ，它们都太重了，用起来没那么方便，还要登录注册啥的。我们使用React来开发一款手机和电脑上都能访问，并且无需注册登录的云便签应用。\n\n"},{"id":"clipboard-wechatapp","file":"clipboard-wechatapp.md","content":"$2c","data":{"title":"微信小程序入门","date":"2018-02-13","tags":["Wechat","JavaScript"],"category":"Frontend"},"isEmpty":false,"excerpt":"\n![React](/images/20180213_clipboard.jpg)\n\n> 这篇文章我们将开发一个微信小程序版的跨平台剪切板。\n\n\n书接上文，我们已经用`React`开发了一个跨平台剪切板。开发微信小程序的时候，我发现微信小程序正是借鉴了React框架的核心。很多React中的代码，稍微修改就可以用在微信小程序中。\n\n如何申请账号，创建项目在官方文档中已经有详细说明，我们这里重点解释一下代码。找到微信小程序背后的核心技术。\n\n"},{"id":"home-deus","file":"home-deus.md","content":"$2d","data":{"title":"《未来简史》读书笔记","date":"2018-01-29","tags":null,"category":"Life"},"isEmpty":false,"excerpt":"\n![未来简史](/images/20180129_homo_deus.jpg)\n\n## 1%的精英和99%的无用的人\n\n> 人类将失去在经济和军事上的用途，因此经济和政治制度可能将不再继续认同人类有太多价值。\n\n> 21世纪经济学最重要的问题，可能就是多余的人能有什么用？一旦拥有高度智能的算法接手几乎一切工作，而且能比人类做的更好时，人类还能做什么？\n\n\n前段时间看到一个TED演讲，未来世界各地可能像某些北欧国家一样，发基础工资，所有人都有基本工资来消费，而经济的马车由机器拉动。我们看到现在国家在搞扶贫，其实就是发社会基本工资。只不过还够不上发达国家而已。\n\n社会的贫富差距会加大。绝大多数人将会沦为无用的人。我们看到整个社会逐渐淘汰了一些简单的工作。例如扫马路、看守停车场。不幸的是，从事这些岗位的恰恰是低收入者。这些事情都在身边真实发生。\n\n除了计算机互联网的发展、另外一个进步巨大，却又常常被忽视的领域是生物科技，被称为上帝剪刀的基因编辑可能因为法律和伦理问题还需时日。但基于基因组测序和大数据做癌症筛查是现在的精英阶层已经流行的。由此超人类可能和传统的人产生历史上从未发生的**生理差距**。\n\n"}],"idTitleMap":{"ai-generated-dashboard":"AI 驱动的数据库可视化面板","openclaw-docker":"如何使用 Docker 安全地部署 OpenClaw (龙虾)","rust-sqlite-webui":"Rust SQLite WebUI - 极致轻量级的SQLite管理工具","start-from-limitation":"《始于极限》标注","ai":"这一波AI浪潮是否是泡沫？","caddy":"Caddy的安装和使用","vite":"使用Vite构建React项目","ssh-key":"解决 invalid format git@github.com: Permission denied (publickey).","chat-gpt":"ChatGPT是如何被训练出来的","http3":"升级到HTTP3","esm-node-ts":"esModule + NodeJS + TypeScript 的工程配置","the-crowd":"《乌合之众：大众心理研究》热门标注","auto-deploy":"基于Docker的自动化部署","rust-ownership":"理解Rust语言的所有权以及借用、引用、切片。","docker-mongodb":"备份和还原Docker容器中的MongoDB数据","github-action":"使用Github Action进行持续集成","chicken-dinner-tesla":"用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？","websocket":"使用WebSocket和STOMP协议开发一个匿名聊天室","docker-spring":"使用Docker容器部署SpringBoot项目","virtualbox-network":"VirtualBox的虚拟机网络配置","ngrok":"实现内网穿透的最新姿势","h2-password":"H2数据库修改密码","raspberrypi-fish":"用树莓派4B做一个鱼缸水位报警","raspberrypi":"树莓派4B系统安装及配置","rich-dad":"《富爸爸，穷爸爸》热门标注","flutter-web":"使用Flutter开发Web应用","swagger-auth":"SpringBoot工程为SwaggerUI添加认证","spring-error":"SpringBoot工程自定义错误JSON字段","oauth":"OAuth2.0四种模式完整时序图","ant-design-pro":"学习和拆解Ant-Design-Pro","email":"使用SpringBoot发送SSL邮件","comments-sql":"从0开始开发一个评论系统","travis-ci":"使用TravisCI进行持续集成","nginx-redirect":"NGINX配置重定向","flutter":"使用Flutter开发跨平台应用","netty-function":"使用Netty和阿里云函数写一个低成本的“梯子”","netty":"使用Netty开发高性能的网络服务应用","web-flux":"理解Spring WebFlux框架中的响应式类型","nginx":"Ubuntu16.04安装配置NGINX服务","springboot-static-content":"SpringBoot配置Jar外部静态资源","many-to-many":"Spring JPA框架中的@ManyToMany多对多关系的理解和使用","tomcat":"SwaggerUI GET请求中文乱码问题解决","data-structures03":"数据结构与算法学习笔记03","react-native":"React Native源码解析（Android篇）","data-structures02":"数据结构与算法学习笔记02","data-structures01":"数据结构与算法学习笔记01","opencv":"OpenCV入门","clipboard-react":"用React做一个跨平台剪切板","clipboard-wechatapp":"微信小程序入门","home-deus":"《未来简史》读书笔记","rxjava":"RxJava入门","react":"React框架原理的思考","angular":"Angular框架原理的思考","jwt":"使用JWT和Spring Security结合开发一套认证鉴权系统","vue":"使用Vue搭建一个后台管理系统","nodejs":"安装Node.js和npm的最佳实践","web-framework":"Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统","swagger":"使用swagger为Spring REST API生成在线文档","android-dp":"Android度量设计规范","gradle-build":"Gradle构建变种版本（多渠道打包）","kotlin-learn":"Kotlin入门","spring-cors":"Spring中启用CORS","unity2android":"在Unity中使用Android原生代码","wave-progress":"自定义形状波浪进度","blender-learn":"Blender建模入门","unity-json":"Unity中的JSON解析","unity-web-request":"Unity中的网络请求","spring-jpa":"使用SpringJPA框架","spring-properties":"Spring中的application.properties","unity-lifecycle":"Unity脚本生命周期","unity-platform":"Unity平台判断","linux-vi":"可能是史上最简单的vi/vim教程","SEO":"SEO：优化网站排名","Share":"Android原生分享及第三方分享","gitignore":"Android Studio工程应该忽略的文件及如何使用gitignore","search":"为Hexo博客添加全文搜索","theme":"自定义Hexo主题","highlight":"为HTML中的代码添加语法高亮","comments":"给自己的网站添加评论功能","why-blog":"我为什么开始写博客了？"}}],"$L2e","$L2f","$L30","$L31","$L32"]}]
+38:I[83606,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js","/_next/static/chunks/0001m61~weslk.js"],"AdSenseCard"]
+26:["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]
+27:["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15"}]
+33:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z30:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 1 1-6.75 0 3.375 3.375 0 0 1 6.75 0ZM3 19.235v-.11a6.375 6.375 0 0 1 12.75 0v.109A12.318 12.318 0 0 1 9.374 21c-2.331 0-4.512-.645-6.374-1.766Z"}]]}]," 联系我"]}],["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"}]]}],["$","p",null,{"children":["合作邮件：",["$","a",null,{"href":"mailto:wangyu@wycode.cn","title":"wangyu@wycode.cn","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"wangyu@wycode.cn"}]]}]]}],["$","div",null,{"className":"flex items-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","stroke":"currentColor","fill":"currentColor","viewBox":"0 0 496 512","className":"h-5 mr-3 mt-0.5 flex-shrink-0","children":["$","path",null,{"d":"$33"}]}],["$","p",null,{"children":["GitHub：",["$","a",null,{"href":"https://github.com/wangyucode","title":"github","className":"ml-1 font-semibold text-sky-500 hover:text-sky-400 dark:hover:text-sky-300 transition-colors","children":"https://github.com/wangyucode"}]]}]]}],["$","div",null,{"className":"flex flex-col gap-2","children":[["$","div",null,{"className":"flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 576 512","stroke":"currentColor","fill":"currentColor","className":"w-5 h-5 mr-3 text-green-500","children":"$L34"}],"$L35"]}],"$L36","$L37"]}]]}]]}]}]
+31:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M10.34 15.84c-.688-.06-1.386-.09-2.09-.09H7.5a4.5 4.5 0 1 1 0-9h.75c.704 0 1.402-.03 2.09-.09m0 9.18c.253.962.584 1.892.985 2.783.247.55.06 1.21-.463 1.511l-.657.38c-.551.318-1.26.117-1.527-.461a20.845 20.845 0 0 1-1.44-4.282m3.102.069a18.03 18.03 0 0 1-.59-4.59c0-1.586.205-3.124.59-4.59m0 9.18a23.848 23.848 0 0 1 8.835 2.535M10.34 6.66a23.847 23.847 0 0 0 8.835-2.535m0 0A23.74 23.74 0 0 0 18.795 3m.38 1.125a23.91 23.91 0 0 1 1.014 5.395m-1.014 8.855c-.118.38-.245.754-.38 1.125m.38-1.125a23.91 23.91 0 0 0 1.014-5.395m0-3.46c.495.413.811 1.035.811 1.73 0 .695-.316 1.317-.811 1.73m0-3.46a24.347 24.347 0 0 1 0 3.46"}]]}]," 广告位招租"]}]}]}]
+32:["$","$L38",null,{}]
+:HL["/about/wechat.jpg","image"]
+34:["$","path",null,{"d":"M385.2 167.6c6.4 0 12.6.3 18.8 1.1C387.4 90.3 303.3 32 207.7 32 100.5 32 13 104.8 13 197.4c0 53.4 29.3 97.5 77.9 131.6l-19.3 58.6 68-34.1c24.4 4.8 43.8 9.7 68.2 9.7 6.2 0 12.1-.3 18.3-.8-4-12.9-6.2-26.6-6.2-40.8-.1-84.9 72.9-154 165.3-154zm-104.5-52.9c14.5 0 24.2 9.7 24.2 24.4 0 14.5-9.7 24.2-24.2 24.2-14.8 0-29.3-9.7-29.3-24.2.1-14.7 14.6-24.4 29.3-24.4zm-136.4 48.6c-14.5 0-29.3-9.7-29.3-24.2 0-14.8 14.8-24.4 29.3-24.4 14.8 0 24.4 9.7 24.4 24.4 0 14.6-9.6 24.2-24.4 24.2zM563 319.4c0-77.9-77.9-141.3-165.4-141.3-92.7 0-165.4 63.4-165.4 141.3S305 460.7 397.6 460.7c19.3 0 38.9-5.1 58.6-9.9l53.4 29.3-14.8-48.6C534 402.1 563 363.2 563 319.4zm-219.1-24.5c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.8 0 24.4 9.7 24.4 19.3 0 10-9.7 19.6-24.4 19.6zm107.1 0c-9.7 0-19.3-9.7-19.3-19.6 0-9.7 9.7-19.3 19.3-19.3 14.5 0 24.4 9.7 24.4 19.3.1 10-9.9 19.6-24.4 19.6z"}]
+35:["$","p",null,{"children":"或添加微信："}]
+36:["$","img",null,{"src":"/about/wechat.jpg","alt":"微信二维码","className":"w-full max-w-48 mx-auto p-2 border rounded border-slate-300 dark:border-slate-700"}]
+37:["$","a",null,{"href":"/about","className":"btn btn-sm btn-ghost text-sm hover:text-info justify-start","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M3.75 9.776c.112-.017.227-.026.344-.026h15.812c.117 0 .232.009.344.026m-16.5 0a2.25 2.25 0 0 0-1.883 2.542l.857 6a2.25 2.25 0 0 0 2.227 1.932H19.05a2.25 2.25 0 0 0 2.227-1.932l.857-6a2.25 2.25 0 0 0-1.883-2.542m-16.5 0V6A2.25 2.25 0 0 1 6 3.75h3.879a1.5 1.5 0 0 1 1.06.44l2.122 2.12a1.5 1.5 0 0 0 1.06.44H18A2.25 2.25 0 0 1 20.25 9v.776"}]]}],"查看更多"]}]
+2e:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"m20.25 7.5-.625 10.632a2.25 2.25 0 0 1-2.247 2.118H6.622a2.25 2.25 0 0 1-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125Z"}]]}],"文章分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","backend",{"href":"/blog/category/backend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Backend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",23,")"]}]]}],["$","$L3","frontend",{"href":"/blog/category/frontend","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Frontend",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",17,")"]}]]}],["$","$L3","mobile",{"href":"/blog/category/mobile","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Mobile",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}],["$","$L3","devops",{"href":"/blog/category/devops","className":"px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-sm rounded-full","children":["DevOps",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",12,")"]}]]}],["$","$L3","life",{"href":"/blog/category/life","className":"px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Life",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}],["$","$L3","ai",{"href":"/blog/category/ai","className":"px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-sm rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]]}]]}]}]
+2f:["$","div",null,{"className":"card bg-base-100 shadow-sm","children":["$","div",null,{"className":"card-body","children":[["$","h3",null,{"className":"card-title flex items-center","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","strokeWidth":1.5,"stroke":"currentColor","aria-hidden":"true","data-slot":"icon","ref":"$undefined","aria-labelledby":"$undefined","className":"mr-2 h-5 w-5","children":[null,["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M9.568 3H5.25A2.25 2.25 0 0 0 3 5.25v4.318c0 .597.237 1.17.659 1.591l9.581 9.581c.699.699 1.78.872 2.607.33a18.095 18.095 0 0 0 5.223-5.223c.542-.827.369-1.908-.33-2.607L11.16 3.66A2.25 2.25 0 0 0 9.568 3Z"}],["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","d":"M6 6h.008v.008H6V6Z"}]]}],"标签分类"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L3","ai",{"href":"/blog/tag/ai","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["AI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","android",{"href":"/blog/tag/android","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Android",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",8,")"]}]]}],["$","$L3","angular",{"href":"/blog/tag/angular","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Angular",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","blender",{"href":"/blog/tag/blender","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Blender",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","bootstrap",{"href":"/blog/tag/bootstrap","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Bootstrap",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","c",{"href":"/blog/tag/c","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["C",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","chatgpt",{"href":"/blog/tag/chatgpt","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["ChatGPT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","cors",{"href":"/blog/tag/cors","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["CORS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}],["$","$L3","csharp",{"href":"/blog/tag/csharp","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSharp",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}],["$","$L3","css",{"href":"/blog/tag/css","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["CSS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],["$","$L3","dart",{"href":"/blog/tag/dart","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Dart",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}],"$L39","$L3a","$L3b","$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57","$L58","$L59","$L5a","$L5b","$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67","$L68"]}]]}]}]
+39:["$","$L3","design",{"href":"/blog/tag/design","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Design",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3a:["$","$L3","docker",{"href":"/blog/tag/docker","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Docker",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+3b:["$","$L3","flutter",{"href":"/blog/tag/flutter","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Flutter",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3c:["$","$L3","git",{"href":"/blog/tag/git","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Git",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+3d:["$","$L3","github",{"href":"/blog/tag/github","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["Github",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3e:["$","$L3","gradle",{"href":"/blog/tag/gradle","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Gradle",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+3f:["$","$L3","hexo",{"href":"/blog/tag/hexo","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Hexo",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+40:["$","$L3","html",{"href":"/blog/tag/html","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["HTML",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+41:["$","$L3","http",{"href":"/blog/tag/http","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["HTTP",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",4,")"]}]]}]
+42:["$","$L3","ios",{"href":"/blog/tag/ios","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["iOS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+43:["$","$L3","java",{"href":"/blog/tag/java","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-base rounded-full","children":["Java",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",13,")"]}]]}]
+44:["$","$L3","javascript",{"href":"/blog/tag/javascript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-sm rounded-full","children":["JavaScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",10,")"]}]]}]
+45:["$","$L3","jpa",{"href":"/blog/tag/jpa","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["JPA",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+46:["$","$L3","jquery",{"href":"/blog/tag/jquery","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["jQuery",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+47:["$","$L3","json",{"href":"/blog/tag/json","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["JSON",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+48:["$","$L3","jwt",{"href":"/blog/tag/jwt","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["JWT",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+49:["$","$L3","kotlin",{"href":"/blog/tag/kotlin","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Kotlin",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",7,")"]}]]}]
+4a:["$","$L3","linux",{"href":"/blog/tag/linux","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-sm rounded-full","children":["Linux",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",11,")"]}]]}]
+4b:["$","$L3","mongodb",{"href":"/blog/tag/mongodb","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["MongoDB",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4c:["$","$L3","netty",{"href":"/blog/tag/netty","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Netty",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+4d:["$","$L3","next.js",{"href":"/blog/tag/next.js","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Next.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+4e:["$","$L3","nginx",{"href":"/blog/tag/nginx","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["NGINX",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+4f:["$","$L3","nodejs",{"href":"/blog/tag/nodejs","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["NodeJS",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",6,")"]}]]}]
+50:["$","$L3","oauth",{"href":"/blog/tag/oauth","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OAuth",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+51:["$","$L3","openclaw",{"href":"/blog/tag/openclaw","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["OpenClaw",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+52:["$","$L3","opencv",{"href":"/blog/tag/opencv","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["OpenCV",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+53:["$","$L3","python",{"href":"/blog/tag/python","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["Python",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+54:["$","$L3","raspberrypi",{"href":"/blog/tag/raspberrypi","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["RaspberryPi",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+55:["$","$L3","react",{"href":"/blog/tag/react","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["React",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+56:["$","$L3","react-native",{"href":"/blog/tag/react-native","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-xs rounded-full","children":["React Native",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+57:["$","$L3","rust",{"href":"/blog/tag/rust","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Rust",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+58:["$","$L3","rxjava",{"href":"/blog/tag/rxjava","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["RxJava",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+59:["$","$L3","seo",{"href":"/blog/tag/seo","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["SEO",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5a:["$","$L3","solid.js",{"href":"/blog/tag/solid.js","className":"flex items-center px-3 py-1 bg-cyan-50 hover:bg-cyan-100 dark:bg-cyan-900/30 dark:hover:bg-cyan-900/50 text-xs rounded-full","children":["Solid.js",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+5b:["$","$L3","spring",{"href":"/blog/tag/spring","className":"flex items-center px-3 py-1 bg-pink-50 hover:bg-pink-100 dark:bg-pink-900/30 dark:hover:bg-pink-900/50 text-base rounded-full","children":["Spring",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",16,")"]}]]}]
+5c:["$","$L3","sql",{"href":"/blog/tag/sql","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["SQL",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+5d:["$","$L3","sqlite",{"href":"/blog/tag/sqlite","className":"flex items-center px-3 py-1 bg-purple-50 hover:bg-purple-100 dark:bg-purple-900/30 dark:hover:bg-purple-900/50 text-xs rounded-full","children":["SQLite",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+5e:["$","$L3","swagger",{"href":"/blog/tag/swagger","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Swagger",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+5f:["$","$L3","thymeleaf",{"href":"/blog/tag/thymeleaf","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["Thymeleaf",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+60:["$","$L3","tomcat",{"href":"/blog/tag/tomcat","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Tomcat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+61:["$","$L3","travisci",{"href":"/blog/tag/travisci","className":"flex items-center px-3 py-1 bg-red-50 hover:bg-red-100 dark:bg-red-900/30 dark:hover:bg-red-900/50 text-xs rounded-full","children":["TravisCI",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+62:["$","$L3","typescript",{"href":"/blog/tag/typescript","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["TypeScript",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",3,")"]}]]}]
+63:["$","$L3","unity",{"href":"/blog/tag/unity","className":"flex items-center px-3 py-1 bg-green-50 hover:bg-green-100 dark:bg-green-900/30 dark:hover:bg-green-900/50 text-xs rounded-full","children":["Unity",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",5,")"]}]]}]
+64:["$","$L3","virtualbox",{"href":"/blog/tag/virtualbox","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["VirtualBox",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+65:["$","$L3","vue",{"href":"/blog/tag/vue","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Vue",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+66:["$","$L3","watchtower",{"href":"/blog/tag/watchtower","className":"flex items-center px-3 py-1 bg-blue-50 hover:bg-blue-100 dark:bg-blue-900/30 dark:hover:bg-blue-900/50 text-xs rounded-full","children":["Watchtower",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+67:["$","$L3","websocket",{"href":"/blog/tag/websocket","className":"flex items-center px-3 py-1 bg-indigo-50 hover:bg-indigo-100 dark:bg-indigo-900/30 dark:hover:bg-indigo-900/50 text-xs rounded-full","children":["WebSocket",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",1,")"]}]]}]
+68:["$","$L3","wechat",{"href":"/blog/tag/wechat","className":"flex items-center px-3 py-1 bg-yellow-50 hover:bg-yellow-100 dark:bg-yellow-900/30 dark:hover:bg-yellow-900/50 text-xs rounded-full","children":["Wechat",["$","span",null,{"className":"ml-1 text-xs opacity-75","children":["(",2,")"]}]]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+69:I[37664,["/_next/static/chunks/0-ighyhiq84.z.js","/_next/static/chunks/0i64ida~_jm3p.js","/_next/static/chunks/0fyonms_2dkn9.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"博客 - 第10页 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"王郁的小站博客 - 第10页"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"王郁,缺氧,AI,JS,Java"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"prev","href":"/blog/9"}],["$","link","6",{"rel":"next","href":"/blog/11"}],["$","link","7",{"rel":"icon","href":"/favicon.ico?favicon.0l8q791y-opsq.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","8",{"rel":"icon","href":"/icon.svg?icon.07rrr1kurqkee.svg","sizes":"any","type":"image/svg+xml"}],["$","$L69","9",{}]]

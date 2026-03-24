@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0m1805~_qhlls.css","style"]
+:HL["https://tse1-mm.cn.bing.net/th/id/OIP-C.S7PWetAEkXIKI3Fgncz96wHaFF?pid=ImgDet&rs=1","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"pid","param":{"type":"d","key":"linux-vi","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}

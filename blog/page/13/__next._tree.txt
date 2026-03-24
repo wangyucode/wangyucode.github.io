@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/0m1805~_qhlls.css","style"]
+:HL["/images/20170815_kotlin.png","image"]
+:HL["https://tse3-mm.cn.bing.net/th/id/OIP-C.X0Up2Pdq1ZDskAe51Uac4gHaE8?pid=ImgDet&rs=1","image"]
+:HL["https://tse1-mm.cn.bing.net/th/id/OIP-C.TPnSpv0PowWa1j_0SdXeWQHaEM?pid=ImgDet&rs=1","image"]
+:HL["/images/20170724_wave_progress.gif","image"]
+:HL["/images/20170717_blender_logo.png","image"]
+:HL["/about/wechat.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"page","param":null,"prefetchHints":0,"slots":{"children":{"name":"page","param":{"type":"d","key":"13","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}
