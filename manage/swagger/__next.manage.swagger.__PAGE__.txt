@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[80429,["/_next/static/chunks/2mb8tnv322_xp.js","/_next/static/chunks/3ae3vh9k3qqv_.js","/_next/static/chunks/43arxiugsrpni.js","/_next/static/chunks/2m_6epda92yru.js","/_next/static/chunks/286mxdt-rf8oc.js"],"default"]
+3:I[15425,["/_next/static/chunks/2mb8tnv322_xp.js","/_next/static/chunks/3ae3vh9k3qqv_.js","/_next/static/chunks/43arxiugsrpni.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/1d_5ovjvld9ix.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex-1 card container shadow mx-auto md:my-4 bg-base-100","children":["$","$L2",null,{"url":"https://wycode.cn/api/v1/openapi.yml"}]}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1d_5ovjvld9ix.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2m_6epda92yru.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/286mxdt-rf8oc.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wycode_has_super_power"}
+5:null

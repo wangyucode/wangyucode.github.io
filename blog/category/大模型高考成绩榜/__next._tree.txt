@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/2t1ycjclt4jy_.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"category","param":null,"prefetchHints":0,"slots":{"children":{"name":"cid","param":{"type":"d","key":"%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E6%A6%9C","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}

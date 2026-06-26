@@ -1,0 +1,5 @@
+:HL["/_next/static/chunks/2t1ycjclt4jy_.css","style"]
+:HL["/apps/oni-icon.png","image"]
+:HL["/apps/oni.jpg","image"]
+:HL["/about/support.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"oni","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}

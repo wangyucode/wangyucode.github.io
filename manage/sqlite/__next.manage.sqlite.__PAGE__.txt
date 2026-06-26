@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[16898,["/_next/static/chunks/2mb8tnv322_xp.js","/_next/static/chunks/3ae3vh9k3qqv_.js","/_next/static/chunks/43arxiugsrpni.js","/_next/static/chunks/3txg415w8nr91.js"],"default"]
+3:I[15425,["/_next/static/chunks/2mb8tnv322_xp.js","/_next/static/chunks/3ae3vh9k3qqv_.js","/_next/static/chunks/43arxiugsrpni.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex-1 flex flex-col container mx-auto md:my-4","children":["$","$L2",null,{"src":"https://wycode.cn/sqlite/"}]}],[["$","script","script-0",{"src":"/_next/static/chunks/3txg415w8nr91.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wycode_has_super_power"}
+5:null

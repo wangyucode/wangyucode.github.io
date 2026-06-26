@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[15425,["/_next/static/chunks/2mb8tnv322_xp.js","/_next/static/chunks/3ae3vh9k3qqv_.js","/_next/static/chunks/43arxiugsrpni.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto px-4 py-10 text-center","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 mb-4","children":"分类不存在"}],["$","p",null,{"className":"text-slate-600 dark:text-slate-400","children":"未找到该分类下的文章"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1288gebh5ex82.js","async":true}]],["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"wycode_has_super_power"}
+4:null
