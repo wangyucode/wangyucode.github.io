@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[97015,[],"ClientPageRoot"]
+3:I[45185,["763","static/chunks/763-c16718d19b7afbd2.js","865","static/chunks/865-1555a6744e0c2ec8.js","111","static/chunks/app/clipboard/page-99796062ed1cc6d1.js"],"default"]
+6:I[43487,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[43487,[],"ViewportBoundary"]
+c:I[43487,[],"MetadataBoundary"]
+d:I[43198,[],"IconMark"]
+f:I[44950,[],""]
+10:I[6812,[],""]
+a:X
+12:X
+12:C
+0:{"buildId":"wycode_has_super_power","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"王郁的小站"}],["$","meta","1",{"name":"description","content":"欢迎光临王郁的小站"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"王郁,缺氧,AI,JS,Java"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?8067313eaef90f4f","type":"image/x-icon","sizes":"16x16"}],["$","link","6",{"rel":"icon","href":"/icon.svg?2568ff3375b1055c","type":"image/svg+xml","sizes":"any"}],["$","$Ld","7",{}]]}]}]}],null]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+14:true
+a:300
+a:C
+13:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"

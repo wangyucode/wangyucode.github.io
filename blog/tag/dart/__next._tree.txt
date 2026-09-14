@@ -1,0 +1,3 @@
+:HL["/_next/static/css/527186ef9e801018.css","style"]
+:HL["/about/wechat.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4160,"slots":{"children":{"name":"tag","param":null,"prefetchHints":4192,"slots":{"children":{"name":"cid","param":{"type":"d","key":"dart","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"wycode_has_super_power"}
