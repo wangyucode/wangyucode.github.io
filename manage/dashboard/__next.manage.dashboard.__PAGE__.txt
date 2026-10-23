@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:I[53444,[],""]
+4:I[97986,[],""]
+b:"static/chunks/app/manage/dashboard/page-10cb61887123c1bb.js"
+c:I[2807,["19","$b"],"default"]
+d:I[24385,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[24385,[],"$11"]
+13:"MetadataBoundary"
+14:I[24385,[],"$13"]
+15:I[6820,[],"IconMark"]
+6:X
+6:C
+7:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"flex-1 flex flex-col container mx-auto md:my-4","children":["$","$Lc",null,{"src":"https://wycode.cn/dashboard/"}]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$7"}}]]
+8:[["children",{"s":"dashboard","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@9","v":"$6","s":"$7"},"c":"$Qa"}]]
+1:[["children",{"s":"manage","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"王郁的小站"}],["$","meta","1",{"name":"description","content":"欢迎光临王郁的小站"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"王郁,缺氧,AI,JS,Java"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?8067313eaef90f4f","type":"image/x-icon","sizes":"16x16"}],["$","link","6",{"rel":"icon","href":"/icon.svg?2568ff3375b1055c","type":"image/svg+xml","sizes":"any"}],["$","$L15","7",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$7"}},"a":"$@17","u":"$@18","b":"wycode_has_super_power"}
+f:null
+18:true
+7:300
+7:C
+17:0
+9:"$undefined"
+5:"$undefined"
+16:"$undefined"
+10:"$undefined"

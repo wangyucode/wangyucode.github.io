@@ -1,0 +1,28 @@
+2:"$Sreact.fragment"
+3:I[53444,[],""]
+4:I[97986,[],""]
+d:I[24385,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[24385,[],"$11"]
+13:"MetadataBoundary"
+14:I[24385,[],"$13"]
+15:I[6820,[],"IconMark"]
+6:X
+6:C
+7:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"container mx-auto px-4 py-10 text-center","children":[["$","h1",null,{"className":"text-2xl font-bold text-slate-800 dark:text-slate-200 mb-4","children":"标签不存在"}],["$","p",null,{"className":"text-slate-600 dark:text-slate-400","children":"未找到该标签下的文章"}]]}],null,["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$7"}}]]
+a:[["children",{"s":{"n":"cid","t":"d","k":"%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$6","s":"$7"},"c":"$Qc"}]]
+8:[["children",{"s":"tag","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@9","v":"$6","s":"$7"},"c":"$Qa"}]]
+1:[["children",{"s":"blog","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"软件工程 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"查看所有关于 软件工程 的文章，共 1 篇"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"软件工程,王郁的小站,博客"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?8067313eaef90f4f","type":"image/x-icon","sizes":"16x16"}],["$","link","6",{"rel":"icon","href":"/icon.svg?2568ff3375b1055c","type":"image/svg+xml","sizes":"any"}],["$","$L15","7",{}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$7"}},"a":"$@17","u":"$@18","b":"wycode_has_super_power"}
+f:null
+18:true
+7:300
+7:C
+17:0
+b:"$undefined"
+9:"$undefined"
+5:"$undefined"
+16:"$undefined"
+10:"$undefined"

@@ -1,0 +1,6 @@
+:HL["/_next/static/css/9bb6631526d368ec.css","style"]
+:HL["/about/photo.png","image"]
+:HL["/about/wechat.jpg","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"about","h":64,"c":"$Q2"}]]
+0:{"b":"wycode_has_super_power","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

@@ -1,0 +1,6 @@
+:HL["/_next/static/css/9bb6631526d368ec.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"cid","t":"d","k":"%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"tag","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"blog","h":64,"c":"$Q2"}]]
+0:{"b":"wycode_has_super_power","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
