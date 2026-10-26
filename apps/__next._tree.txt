@@ -1,4 +1,4 @@
-:HL["/_next/static/css/9bb6631526d368ec.css","style"]
+:HL["/_next/static/css/c73c2f8f017a1d31.css","style"]
 :HL["/apps/qingjin.png","image"]
 :HL["/apps/oni.jpg","image"]
 :HL["/apps/roll.jpg","image"]

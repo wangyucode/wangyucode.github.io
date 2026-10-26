@@ -1,7 +1,7 @@
 2:"$Sreact.fragment"
 3:I[53444,[],""]
 4:I[97986,[],""]
-b:"static/chunks/app/manage/dashboard/page-10cb61887123c1bb.js"
+b:"static/chunks/app/manage/dashboard/page-6ea35a28e48e95a5.js"
 c:I[2807,["19","$b"],"default"]
 d:I[24385,[],"OutletBoundary"]
 e:"$Sreact.suspense"

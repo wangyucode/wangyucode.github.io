@@ -3,7 +3,7 @@
 4:I[97986,[],""]
 9:"static/chunks/387-70974b5a2d2a497b.js"
 a:"static/chunks/575-c8406c8bafb00ad0.js"
-b:"static/chunks/app/about/page-3e3337db1aab1fcd.js"
+b:"static/chunks/app/about/page-fd5d4f4f0e0c4715.js"
 c:I[89869,["387","$9","575","$a","220","$b"],"default"]
 d:I[67090,["387","$9","575","$a","220","$b"],"default"]
 16:"ViewportBoundary"

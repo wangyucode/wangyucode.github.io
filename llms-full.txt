@@ -9,35 +9,35 @@
 - [AI 驱动的数据库可视化面板](#ai-generated-dashboard): 2026-03-21
 - [如何使用 Docker 安全地部署 OpenClaw (龙虾)](#openclaw-docker): 2026-03-16
 - [Rust SQLite WebUI - 极致轻量级的SQLite管理工具](#rust-sqlite-webui): 2026-01-01
-- [《始于极限》标注](#start-from-limitation): 2025-08-20
-- [这一波AI浪潮是否是泡沫？](#ai): 2024-10-30
+- [《始于极限》标注](#start-from-limitation): 2025-08-21
+- [这一波AI浪潮是否是泡沫？](#ai): 2024-10-31
 - [Caddy的安装和使用](#caddy): 2024-09-24
-- [使用Vite构建React项目](#vite): 2023-11-11
-- [解决 invalid format git@github.com: Permission denied (publickey).](#ssh-key): 2023-09-11
+- [使用Vite构建React项目](#vite): 2023-11-12
+- [解决 invalid format git@github.com: Permission denied (publickey).](#ssh-key): 2023-09-12
 - [ChatGPT是如何被训练出来的](#chat-gpt): 2022-12-01
 - [升级到HTTP3](#http3): 2022-09-29
 - [esModule + NodeJS + TypeScript 的工程配置](#esm-node-ts): 2022-09-22
-- [《乌合之众：大众心理研究》热门标注](#the-crowd): 2021-07-22
+- [《乌合之众：大众心理研究》热门标注](#the-crowd): 2021-07-23
 - [基于Docker的自动化部署](#auto-deploy): 2021-05-09
 - [理解Rust语言的所有权以及借用、引用、切片。](#rust-ownership): 2021-01-23
 - [备份和还原Docker容器中的MongoDB数据](#docker-mongodb): 2020-12-05
-- [使用Github Action进行持续集成](#github-action): 2020-10-28
-- [用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？](#chicken-dinner-tesla): 2020-07-24
-- [使用WebSocket和STOMP协议开发一个匿名聊天室](#websocket): 2020-03-09
+- [使用Github Action进行持续集成](#github-action): 2020-10-29
+- [用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？](#chicken-dinner-tesla): 2020-07-25
+- [使用WebSocket和STOMP协议开发一个匿名聊天室](#websocket): 2020-03-10
 - [使用Docker容器部署SpringBoot项目](#docker-spring): 2019-11-20
 - [VirtualBox的虚拟机网络配置](#virtualbox-network): 2019-09-20
 - [实现内网穿透的最新姿势](#ngrok): 2019-09-02
 - [H2数据库修改密码](#h2-password): 2019-08-14
-- [用树莓派4B做一个鱼缸水位报警](#raspberrypi-fish): 2019-08-07
+- [用树莓派4B做一个鱼缸水位报警](#raspberrypi-fish): 2019-08-08
 - [树莓派4B系统安装及配置](#raspberrypi): 2019-08-07
+- [使用Flutter开发Web应用](#flutter-web): 2019-07-26
 - [《富爸爸，穷爸爸》热门标注](#rich-dad): 2019-07-26
-- [使用Flutter开发Web应用](#flutter-web): 2019-07-25
 - [SpringBoot工程为SwaggerUI添加认证](#swagger-auth): 2019-07-19
 - [SpringBoot工程自定义错误JSON字段](#spring-error): 2019-07-15
 - [OAuth2.0四种模式完整时序图](#oauth): 2019-06-14
-- [学习和拆解Ant-Design-Pro](#ant-design-pro): 2019-06-09
-- [使用SpringBoot发送SSL邮件](#email): 2019-06-07
-- [从0开始开发一个评论系统](#comments-sql): 2019-05-21
+- [学习和拆解Ant-Design-Pro](#ant-design-pro): 2019-06-10
+- [使用SpringBoot发送SSL邮件](#email): 2019-06-08
+- [从0开始开发一个评论系统](#comments-sql): 2019-05-22
 - [使用TravisCI进行持续集成](#travis-ci): 2019-05-20
 - [NGINX配置重定向](#nginx-redirect): 2019-05-17
 - [使用Flutter开发跨平台应用](#flutter): 2019-03-28
@@ -49,10 +49,10 @@
 - [Spring JPA框架中的@ManyToMany多对多关系的理解和使用](#many-to-many): 2018-04-19
 - [SwaggerUI GET请求中文乱码问题解决](#tomcat): 2018-04-11
 - [数据结构与算法学习笔记03](#data-structures03): 2018-03-26
-- [React Native源码解析（Android篇）](#react-native): 2018-03-19
-- [数据结构与算法学习笔记02](#data-structures02): 2018-03-16
-- [数据结构与算法学习笔记01](#data-structures01): 2018-03-14
-- [OpenCV入门](#opencv): 2018-03-08
+- [React Native源码解析（Android篇）](#react-native): 2018-03-20
+- [数据结构与算法学习笔记02](#data-structures02): 2018-03-17
+- [数据结构与算法学习笔记01](#data-structures01): 2018-03-15
+- [OpenCV入门](#opencv): 2018-03-09
 - [用React做一个跨平台剪切板](#clipboard-react): 2018-02-13
 - [微信小程序入门](#clipboard-wechatapp): 2018-02-13
 - [《未来简史》读书笔记](#home-deus): 2018-01-29
@@ -60,31 +60,31 @@
 - [React框架原理的思考](#react): 2018-01-06
 - [Angular框架原理的思考](#angular): 2017-12-28
 - [使用JWT和Spring Security结合开发一套认证鉴权系统](#jwt): 2017-11-17
-- [使用Vue搭建一个后台管理系统](#vue): 2017-11-16
+- [使用Vue搭建一个后台管理系统](#vue): 2017-11-17
 - [安装Node.js和npm的最佳实践](#nodejs): 2017-11-14
 - [Spring Boot + Spring Security + H2 + Thymeleaf做一个后台管理系统](#web-framework): 2017-10-26
 - [使用swagger为Spring REST API生成在线文档](#swagger): 2017-10-23
-- [Android度量设计规范](#android-dp): 2017-09-04
+- [Android度量设计规范](#android-dp): 2017-09-05
 - [Gradle构建变种版本（多渠道打包）](#gradle-build): 2017-09-04
 - [Kotlin入门](#kotlin-learn): 2017-07-27
 - [Spring中启用CORS](#spring-cors): 2017-07-27
 - [在Unity中使用Android原生代码](#unity2android): 2017-07-26
 - [自定义形状波浪进度](#wave-progress): 2017-07-24
-- [Blender建模入门](#blender-learn): 2017-07-18
+- [Blender建模入门](#blender-learn): 2017-07-19
 - [Unity中的JSON解析](#unity-json): 2017-07-12
 - [Unity中的网络请求](#unity-web-request): 2017-07-12
 - [使用SpringJPA框架](#spring-jpa): 2017-07-11
 - [Spring中的application.properties](#spring-properties): 2017-07-11
-- [Unity脚本生命周期](#unity-lifecycle): 2017-07-07
+- [Unity脚本生命周期](#unity-lifecycle): 2017-07-08
 - [Unity平台判断](#unity-platform): 2017-06-27
-- [可能是史上最简单的vi/vim教程](#linux-vi): 2017-06-21
-- [SEO：优化网站排名](#SEO): 2017-06-19
+- [可能是史上最简单的vi/vim教程](#linux-vi): 2017-06-22
+- [SEO：优化网站排名](#SEO): 2017-06-20
 - [Android原生分享及第三方分享](#Share): 2017-06-16
 - [Android Studio工程应该忽略的文件及如何使用gitignore](#gitignore): 2017-06-16
 - [为Hexo博客添加全文搜索](#search): 2017-06-15
 - [自定义Hexo主题](#theme): 2017-06-15
 - [为HTML中的代码添加语法高亮](#highlight): 2017-06-14
-- [给自己的网站添加评论功能](#comments): 2017-06-09
+- [给自己的网站添加评论功能](#comments): 2017-06-10
 - [我为什么开始写博客了？](#why-blog): 2017-06-08
 
 ---
@@ -637,7 +637,7 @@ services:
 
 ## 《始于极限》标注
 
-> 原文: https://wycode.cn/blog/start-from-limitation | Agent 文档: https://wycode.cn/blog/start-from-limitation.md | 日期: 2025-08-20 | 分类: Life
+> 原文: https://wycode.cn/blog/start-from-limitation | Agent 文档: https://wycode.cn/blog/start-from-limitation.md | 日期: 2025-08-21 | 分类: Life
 
 <a id="start-from-limitation"></a>
 
@@ -699,7 +699,7 @@ services:
 
 ## 这一波AI浪潮是否是泡沫？
 
-> 原文: https://wycode.cn/blog/ai | Agent 文档: https://wycode.cn/blog/ai.md | 日期: 2024-10-30 | 分类: Life
+> 原文: https://wycode.cn/blog/ai | Agent 文档: https://wycode.cn/blog/ai.md | 日期: 2024-10-31 | 分类: Life
 
 <a id="ai"></a>
 
@@ -848,7 +848,7 @@ wycode.cn {
 
 ## 使用Vite构建React项目
 
-> 原文: https://wycode.cn/blog/vite | Agent 文档: https://wycode.cn/blog/vite.md | 日期: 2023-11-11 | 分类: Frontend
+> 原文: https://wycode.cn/blog/vite | Agent 文档: https://wycode.cn/blog/vite.md | 日期: 2023-11-12 | 分类: Frontend
 
 <a id="vite"></a>
 
@@ -930,7 +930,7 @@ export default defineConfig({
 
 ## 解决 invalid format git@github.com: Permission denied (publickey).
 
-> 原文: https://wycode.cn/blog/ssh-key | Agent 文档: https://wycode.cn/blog/ssh-key.md | 日期: 2023-09-11 | 分类: DevOps
+> 原文: https://wycode.cn/blog/ssh-key | Agent 文档: https://wycode.cn/blog/ssh-key.md | 日期: 2023-09-12 | 分类: DevOps
 
 <a id="ssh-key"></a>
 
@@ -1202,7 +1202,7 @@ npx ts-node common-js.ts
 
 ## 《乌合之众：大众心理研究》热门标注
 
-> 原文: https://wycode.cn/blog/the-crowd | Agent 文档: https://wycode.cn/blog/the-crowd.md | 日期: 2021-07-22 | 分类: Life
+> 原文: https://wycode.cn/blog/the-crowd | Agent 文档: https://wycode.cn/blog/the-crowd.md | 日期: 2021-07-23 | 分类: Life
 
 <a id="the-crowd"></a>
 
@@ -1488,7 +1488,7 @@ docker exec -i <CONTAINER_NAME> mongorestore --archive < ./mongo/collections.arc
 
 ## 使用Github Action进行持续集成
 
-> 原文: https://wycode.cn/blog/github-action | Agent 文档: https://wycode.cn/blog/github-action.md | 日期: 2020-10-28 | 分类: DevOps
+> 原文: https://wycode.cn/blog/github-action | Agent 文档: https://wycode.cn/blog/github-action.md | 日期: 2020-10-29 | 分类: DevOps
 
 <a id="github-action"></a>
 
@@ -1614,7 +1614,7 @@ runs:
 
 ## 用数学期望计算《和平精英》特斯拉（玛莎拉蒂）到底要多少钱？
 
-> 原文: https://wycode.cn/blog/chicken-dinner-tesla | Agent 文档: https://wycode.cn/blog/chicken-dinner-tesla.md | 日期: 2020-07-24 | 分类: Life
+> 原文: https://wycode.cn/blog/chicken-dinner-tesla | Agent 文档: https://wycode.cn/blog/chicken-dinner-tesla.md | 日期: 2020-07-25 | 分类: Life
 
 <a id="chicken-dinner-tesla"></a>
 
@@ -1719,7 +1719,7 @@ runs:
 
 ## 使用WebSocket和STOMP协议开发一个匿名聊天室
 
-> 原文: https://wycode.cn/blog/websocket | Agent 文档: https://wycode.cn/blog/websocket.md | 日期: 2020-03-09 | 分类: Backend
+> 原文: https://wycode.cn/blog/websocket | Agent 文档: https://wycode.cn/blog/websocket.md | 日期: 2020-03-10 | 分类: Backend
 
 <a id="websocket"></a>
 
@@ -2165,7 +2165,7 @@ alter user wayne set password '*****password*****'
 
 ## 用树莓派4B做一个鱼缸水位报警
 
-> 原文: https://wycode.cn/blog/raspberrypi-fish | Agent 文档: https://wycode.cn/blog/raspberrypi-fish.md | 日期: 2019-08-07 | 分类: DevOps
+> 原文: https://wycode.cn/blog/raspberrypi-fish | Agent 文档: https://wycode.cn/blog/raspberrypi-fish.md | 日期: 2019-08-08 | 分类: DevOps
 
 <a id="raspberrypi-fish"></a>
 
@@ -2386,38 +2386,9 @@ hdmi_mode=1
 
 ---
 
-## 《富爸爸，穷爸爸》热门标注
-
-> 原文: https://wycode.cn/blog/rich-dad | Agent 文档: https://wycode.cn/blog/rich-dad.md | 日期: 2019-07-26 | 分类: Life
-
-<a id="rich-dad"></a>
-
-![rich-dad](https://images-cn.ssl-images-amazon.com/images/I/51mZHfA%2B-6L._SX351_BO1,204,203,200_.jpg)
-
-> 人穷穷观念，人富钱生钱。
-
-《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。
-
-本文摘抄了《富爸爸，穷爸爸》在Kindle电子书中的热门标注：
-
-
-
-
-## 热门标注
-
-> 贫穷和破产的区别是，破产是暂时的，而贫穷是永久的。
-
-> 不如意的时候，如果你认为是别人的问题，你就会试图改变他人；如果你认为问题在自己，你就会改变自己，学习一些东西让自己变得更聪明。大多数人认为世界上除了自己之外，其他人都应该改变。其实，改变自己比改变他人更容易。
-
-> 拥有公司的富人：赚钱->消费->纳税；在公司上班的穷人：赚钱->纳税->消费
-
-以上，转载请注明出处!
-
----
-
 ## 使用Flutter开发Web应用
 
-> 原文: https://wycode.cn/blog/flutter-web | Agent 文档: https://wycode.cn/blog/flutter-web.md | 日期: 2019-07-25 | 分类: Frontend
+> 原文: https://wycode.cn/blog/flutter-web | Agent 文档: https://wycode.cn/blog/flutter-web.md | 日期: 2019-07-26 | 分类: Frontend
 
 <a id="flutter-web"></a>
 
@@ -2475,6 +2446,35 @@ $webdev serve
 
 - VScode： 使用View->Command Paltte->`Flutter: New Web Project`。
 - IntelliJ：新建Dart项目，选择`Flutter for web`模板。
+
+---
+
+## 《富爸爸，穷爸爸》热门标注
+
+> 原文: https://wycode.cn/blog/rich-dad | Agent 文档: https://wycode.cn/blog/rich-dad.md | 日期: 2019-07-26 | 分类: Life
+
+<a id="rich-dad"></a>
+
+![rich-dad](https://images-cn.ssl-images-amazon.com/images/I/51mZHfA%2B-6L._SX351_BO1,204,203,200_.jpg)
+
+> 人穷穷观念，人富钱生钱。
+
+《富爸爸，穷爸爸》是一个真实的故事，作者罗伯特・清崎的亲生父亲和朋友的父亲对金钱的看法截然不同，这使他对认识金钱产生了兴趣，最终他接受了朋友的父亲的建议，也就是书中所说的。“富爸爸”的观念，即不要做金钱的奴隶，要让金钱为我们工作，并由此成为一名极富传奇色彩的成功的投资家。
+
+本文摘抄了《富爸爸，穷爸爸》在Kindle电子书中的热门标注：
+
+
+
+
+## 热门标注
+
+> 贫穷和破产的区别是，破产是暂时的，而贫穷是永久的。
+
+> 不如意的时候，如果你认为是别人的问题，你就会试图改变他人；如果你认为问题在自己，你就会改变自己，学习一些东西让自己变得更聪明。大多数人认为世界上除了自己之外，其他人都应该改变。其实，改变自己比改变他人更容易。
+
+> 拥有公司的富人：赚钱->消费->纳税；在公司上班的穷人：赚钱->纳税->消费
+
+以上，转载请注明出处!
 
 ---
 
@@ -2639,7 +2639,7 @@ class WyErrorAttributes : DefaultErrorAttributes(DEV) { // #1
 
 ## 学习和拆解Ant-Design-Pro
 
-> 原文: https://wycode.cn/blog/ant-design-pro | Agent 文档: https://wycode.cn/blog/ant-design-pro.md | 日期: 2019-06-09 | 分类: Frontend
+> 原文: https://wycode.cn/blog/ant-design-pro | Agent 文档: https://wycode.cn/blog/ant-design-pro.md | 日期: 2019-06-10 | 分类: Frontend
 
 <a id="ant-design-pro"></a>
 
@@ -2759,7 +2759,7 @@ npx umi block add Exception404  --path=/exception/404
 
 ## 使用SpringBoot发送SSL邮件
 
-> 原文: https://wycode.cn/blog/email | Agent 文档: https://wycode.cn/blog/email.md | 日期: 2019-06-07 | 分类: Backend
+> 原文: https://wycode.cn/blog/email | Agent 文档: https://wycode.cn/blog/email.md | 日期: 2019-06-08 | 分类: Backend
 
 <a id="email"></a>
 
@@ -2850,7 +2850,7 @@ spring.mail.properties.mail.smtp.ssl.enable=true
 
 ## 从0开始开发一个评论系统
 
-> 原文: https://wycode.cn/blog/comments-sql | Agent 文档: https://wycode.cn/blog/comments-sql.md | 日期: 2019-05-21 | 分类: Backend
+> 原文: https://wycode.cn/blog/comments-sql | Agent 文档: https://wycode.cn/blog/comments-sql.md | 日期: 2019-05-22 | 分类: Backend
 
 <a id="comments-sql"></a>
 
@@ -4790,7 +4790,7 @@ public class Main {
 
 ## React Native源码解析（Android篇）
 
-> 原文: https://wycode.cn/blog/react-native | Agent 文档: https://wycode.cn/blog/react-native.md | 日期: 2018-03-19 | 分类: Frontend
+> 原文: https://wycode.cn/blog/react-native | Agent 文档: https://wycode.cn/blog/react-native.md | 日期: 2018-03-20 | 分类: Frontend
 
 <a id="react-native"></a>
 
@@ -5211,7 +5211,7 @@ React Navtive 通过C++层去解释执行JS，从而达到一个比较好的性�
 
 ## 数据结构与算法学习笔记02
 
-> 原文: https://wycode.cn/blog/data-structures02 | Agent 文档: https://wycode.cn/blog/data-structures02.md | 日期: 2018-03-16 | 分类: Life
+> 原文: https://wycode.cn/blog/data-structures02 | Agent 文档: https://wycode.cn/blog/data-structures02.md | 日期: 2018-03-17 | 分类: Life
 
 <a id="data-structures02"></a>
 
@@ -5726,7 +5726,7 @@ NO
 
 ## 数据结构与算法学习笔记01
 
-> 原文: https://wycode.cn/blog/data-structures01 | Agent 文档: https://wycode.cn/blog/data-structures01.md | 日期: 2018-03-14 | 分类: Life
+> 原文: https://wycode.cn/blog/data-structures01 | Agent 文档: https://wycode.cn/blog/data-structures01.md | 日期: 2018-03-15 | 分类: Life
 
 <a id="data-structures01"></a>
 
@@ -6138,7 +6138,7 @@ int main()
 
 ## OpenCV入门
 
-> 原文: https://wycode.cn/blog/opencv | Agent 文档: https://wycode.cn/blog/opencv.md | 日期: 2018-03-08 | 分类: AI
+> 原文: https://wycode.cn/blog/opencv | Agent 文档: https://wycode.cn/blog/opencv.md | 日期: 2018-03-09 | 分类: AI
 
 <a id="opencv"></a>
 
@@ -6969,7 +6969,7 @@ public class JwtAuthenticationTokenFilter extends OncePerRequestFilter {
 
 ## 使用Vue搭建一个后台管理系统
 
-> 原文: https://wycode.cn/blog/vue | Agent 文档: https://wycode.cn/blog/vue.md | 日期: 2017-11-16 | 分类: Frontend
+> 原文: https://wycode.cn/blog/vue | Agent 文档: https://wycode.cn/blog/vue.md | 日期: 2017-11-17 | 分类: Frontend
 
 <a id="vue"></a>
 
@@ -7206,7 +7206,7 @@ public class HelloController {
 
 ## Android度量设计规范
 
-> 原文: https://wycode.cn/blog/android-dp | Agent 文档: https://wycode.cn/blog/android-dp.md | 日期: 2017-09-04 | 分类: Mobile
+> 原文: https://wycode.cn/blog/android-dp | Agent 文档: https://wycode.cn/blog/android-dp.md | 日期: 2017-09-05 | 分类: Mobile
 
 <a id="android-dp"></a>
 
@@ -7571,7 +7571,7 @@ mHolder.setFormat(TRANSLUCENT);
 
 ## Blender建模入门
 
-> 原文: https://wycode.cn/blog/blender-learn | Agent 文档: https://wycode.cn/blog/blender-learn.md | 日期: 2017-07-18 | 分类: Life
+> 原文: https://wycode.cn/blog/blender-learn | Agent 文档: https://wycode.cn/blog/blender-learn.md | 日期: 2017-07-19 | 分类: Life
 
 <a id="blender-learn"></a>
 
@@ -7837,7 +7837,7 @@ public class Foo｛
 
 ## Unity脚本生命周期
 
-> 原文: https://wycode.cn/blog/unity-lifecycle | Agent 文档: https://wycode.cn/blog/unity-lifecycle.md | 日期: 2017-07-07 | 分类: Mobile
+> 原文: https://wycode.cn/blog/unity-lifecycle | Agent 文档: https://wycode.cn/blog/unity-lifecycle.md | 日期: 2017-07-08 | 分类: Mobile
 
 <a id="unity-lifecycle"></a>
 
@@ -7954,7 +7954,7 @@ if(Application.platform == RuntimePlatform.WindowsWebPlayer)
 
 ## 可能是史上最简单的vi/vim教程
 
-> 原文: https://wycode.cn/blog/linux-vi | Agent 文档: https://wycode.cn/blog/linux-vi.md | 日期: 2017-06-21 | 分类: DevOps
+> 原文: https://wycode.cn/blog/linux-vi | Agent 文档: https://wycode.cn/blog/linux-vi.md | 日期: 2017-06-22 | 分类: DevOps
 
 <a id="linux-vi"></a>
 
@@ -7992,7 +7992,7 @@ if(Application.platform == RuntimePlatform.WindowsWebPlayer)
 
 ## SEO：优化网站排名
 
-> 原文: https://wycode.cn/blog/SEO | Agent 文档: https://wycode.cn/blog/SEO.md | 日期: 2017-06-19 | 分类: Frontend
+> 原文: https://wycode.cn/blog/SEO | Agent 文档: https://wycode.cn/blog/SEO.md | 日期: 2017-06-20 | 分类: Frontend
 
 <a id="SEO"></a>
 
@@ -8593,7 +8593,7 @@ public class HelloWorld {
 
 ## 给自己的网站添加评论功能
 
-> 原文: https://wycode.cn/blog/comments | Agent 文档: https://wycode.cn/blog/comments.md | 日期: 2017-06-09 | 分类: Frontend
+> 原文: https://wycode.cn/blog/comments | Agent 文档: https://wycode.cn/blog/comments.md | 日期: 2017-06-10 | 分类: Frontend
 
 <a id="comments"></a>
 

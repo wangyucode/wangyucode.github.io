@@ -1,7 +1,7 @@
 2:"$Sreact.fragment"
 3:I[53444,[],""]
 4:I[97986,[],""]
-9:"static/chunks/app/gaokao/page-10cb61887123c1bb.js"
+9:"static/chunks/app/gaokao/page-6ea35a28e48e95a5.js"
 a:I[2807,["269","$9"],"default"]
 b:I[24385,[],"OutletBoundary"]
 c:"$Sreact.suspense"

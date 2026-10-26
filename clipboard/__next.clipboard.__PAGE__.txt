@@ -4,7 +4,7 @@
 9:I[69745,[],"ClientPageRoot"]
 a:"static/chunks/387-70974b5a2d2a497b.js"
 b:"static/chunks/645-7de942bdbba828f2.js"
-c:"static/chunks/app/clipboard/page-b695c78bef9823c1.js"
+c:"static/chunks/app/clipboard/page-9169e5d743d47b8c.js"
 d:I[91316,["387","$a","645","$b","111","$c"],"default"]
 10:I[24385,[],"OutletBoundary"]
 11:"$Sreact.suspense"

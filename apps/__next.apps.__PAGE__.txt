@@ -15,7 +15,7 @@
 1:[["children",{"s":"apps","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
 0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"个人项目 | 王郁的小站"}],["$","meta","1",{"name":"description","content":"我的一些个人实验项目，涵盖不同技术栈和应用场景"}],["$","meta","2",{"name":"generator","content":"Next.js"}],["$","meta","3",{"name":"keywords","content":"王郁,缺氧,AI,JS,Java"}],["$","meta","4",{"name":"creator","content":"王郁"}],["$","link","5",{"rel":"icon","href":"/favicon.ico?8067313eaef90f4f","type":"image/x-icon","sizes":"16x16"}],["$","link","6",{"rel":"icon","href":"/icon.svg?2568ff3375b1055c","type":"image/svg+xml","sizes":"any"}],["$","$L22","7",{}]]}]}],null]}],null]}],"p":"$@23","v":null,"s":"$7"}},"a":"$@24","u":"$@25","b":"wycode_has_super_power"}
 32:"static/chunks/387-70974b5a2d2a497b.js"
-33:"static/chunks/app/apps/page-4da3dd82829c72b9.js"
+33:"static/chunks/app/apps/page-49ea487c6dcc9daf.js"
 34:I[67090,["387","$32","315","$33"],"default"]
 35:I[24385,[],"OutletBoundary"]
 :HL["/apps/oni.jpg","image"]
